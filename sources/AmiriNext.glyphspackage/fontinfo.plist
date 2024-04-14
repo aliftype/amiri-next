@@ -56,10 +56,6 @@ name = "Don't use Production Names";
 value = 1;
 },
 {
-name = "Propagate Anchors";
-value = 0;
-},
-{
 name = "Enforce Compatibility Check";
 value = 0;
 },
