@@ -39,30 +39,9 @@ name = underlinePosition;
 value = -512;
 },
 {
-name = panose;
-value = (
-0,
-0,
-5,
-0,
-0,
-0,
-0,
-0,
-0,
-0
-);
-},
-{
 name = fsType;
 value = (
 );
-},
-{
-name = "GASP Table";
-value = {
-"65535" = 15;
-};
 },
 {
 name = "Use Typo Metrics";
