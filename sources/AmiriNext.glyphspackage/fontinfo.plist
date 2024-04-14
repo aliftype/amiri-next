@@ -2442,7 +2442,7 @@ name = stylisticsets;
 },
 {
 code = "@Dal_1 = [@aDal.fina @aDal.fina.BaaDal @aDal.fina.KafDal @aDal.fina.LamDal @aDal.isol];
-@1st_4 = [@aHeh.isol @aHeh.fina @aHeh.fina.KafHeh @aHeh.fina.LamHeh];
+@side1_4 = [@aHeh.isol @aHeh.fina @aHeh.fina.KafHeh @aHeh.fina.LamHeh];
 # final alef with no hamza above
 @Alf_1 = [alef-ar.fina.LamAlfFina alefHamzabelow-ar.fina.LamAlfFina];
 @Alf_2 = [@aAlf.fina @aAlf.fina.KafAlf @aAlf.fina.KafMemAlf @aAlf.fina.LamAlfFina @aAlf.fina.LamAlfIsol @aAlf.fina.MemAlfFina];
@@ -2453,8 +2453,8 @@ code = "@Dal_1 = [@aDal.fina @aDal.fina.BaaDal @aDal.fina.KafDal @aDal.fina.LamD
 @Kaf_5 = [@aKaf.init.KafMemInit @aKaf.init.KafRaaIsol];
 @Raa_1 = [@RaaWaw @aDal.fina @aDal.isol @aDal.fina.BaaDal @aDal.fina.KafDal @aDal.fina.LamDal];
 @Raa_2 = [@aRaa.fina.MemRaaIsol];
-@2nd_3 = [@aSen.init.SenHaaInit @aSad.init.SadHaaInit @aLam.init.LamHaaHaaInit];
-@2nd_4 = [@aSad.init.AboveHaa @aSen.init.AboveHaa @aHeh.init.AboveHaa @aHaa.init.AboveHaa @aMem.init.AboveHaa @aKaf.init.AboveHaa @aAyn.init.AboveHaa];
+@side2_3 = [@aSen.init.SenHaaInit @aSad.init.SadHaaInit @aLam.init.LamHaaHaaInit];
+@side2_4 = [@aSad.init.AboveHaa @aSen.init.AboveHaa @aHeh.init.AboveHaa @aHaa.init.AboveHaa @aMem.init.AboveHaa @aKaf.init.AboveHaa @aAyn.init.AboveHaa];
 @Teh_m = [tehMarbuta-ar.fina.LamHeh tehMarbuta-ar.fina.KafHeh tehMarbutagoal-ar.fina.LamHeh tehMarbutagoal-ar.fina.KafHeh];
 # teh marbuta
 feature kern {
@@ -2469,7 +2469,7 @@ feature kern {
     lookupflag IgnoreMarks;
     pos @RaaWaw @Kaf_5 <-293 0 -293 0>;
     pos @RaaWaw [@Kaf_2 @Kaf_3] <-146 0 -146 0>;
-    pos @RaaWaw @2nd_3 <-49 0 -49 0>;
+    pos @RaaWaw @side2_3 <-49 0 -49 0>;
     pos @RaaWaw @aYaa.init <39 0 39 0>;
     pos @RaaWaw semicolon-ar <59 0 59 0>;
     # Arabic semicolon
@@ -2477,8 +2477,8 @@ feature kern {
     pos @Dal_1 [@Kaf_2 @Kaf_3] <-195 0 -195 0>;
     pos @Raa_2 [@Kaf_2 @Kaf_3 @Kaf_4] <-195 0 -195 0>;
     pos @Raa_2 [@Kaf_1 @Kaf_5] <-391 0 -391 0>;
-    pos @Raa_2 @2nd_3 <-98 0 -98 0>;
-    pos @Raa_2 @2nd_4 <-195 0 -195 0>;
+    pos @Raa_2 @side2_3 <-98 0 -98 0>;
+    pos @Raa_2 @side2_4 <-195 0 -195 0>;
     pos @Raa_2 @aBaaDotBelow <88 0 88 0>;
     # the dots of teh marbuta are very close to exclamation mark
     pos @Teh_m exclam <73 0 73 0>;
@@ -2502,38 +2502,50 @@ feature kern {
     # increase advance width for first glyph in 3-letter Baree Yaa ligatures
     pos [@aAyn.init @aFaa.init @aHeh.init @aLam.init @aMem.init @aSen.init @aTaa.init hehDoachashmee-ar.init]' lookup YaaBari3Kern @aBaa.medi.YaaBari;
 } kern;
-
+";
+name = kerning;
+}
+);
+features = (
+{
+code = "
 # we don't want to ignore marks here
-feature kern {
+lookup kern_1 {
+	lookupflag 0;
     pos @Alf_1 [@Kaf_1 @Kaf_5] <-244 0 -244 0>;
     pos @Alf_1 @Kaf_2 <-98 0 -98 0>;
     pos @Alf_1 @Kaf_3 <-122 0 -122 0>;
     pos @Alf_1 @Kaf_4 <-146 0 -146 0>;
+} kern_1;
+
+lookup kern_2 {
+	lookupflag 0;
     # raa/waw/dal followed by isolated dagger alef followed by madda needs some
     # space to avoid fatha/madda clash
     pos @Raa_1' <98 0 98 0> fatha-ar alefabove-ar.isol [madda-ar maddalong-ar];
     pos [hamza-ar]' <98 0 98 0> fatha-ar alefabove-ar.isol;
-} kern;
+} kern_2;
 
-feature kern {
+lookup kern_3 {
     lookupflag IgnoreMarks;
     # kern heh isol/final followed by kaf, does not happen in Arabic but can be
     # seen in Kurdish or Persian using ZWNJ between them.
-    pos @1st_4 zerowidthnonjoiner [@Kaf_1 @Kaf_2 @Kaf_3 @Kaf_4 @Kaf_5]' -244;
+    pos @side1_4 zerowidthnonjoiner [@Kaf_1 @Kaf_2 @Kaf_3 @Kaf_4 @Kaf_5]' -244;
     # Uniscribe replace ZWNJ with space
-    pos @1st_4 space [@Kaf_1 @Kaf_2 @Kaf_3 @Kaf_4 @Kaf_5]' -244;
+    pos @side1_4 space [@Kaf_1 @Kaf_2 @Kaf_3 @Kaf_4 @Kaf_5]' -244;
     # some applications might just remove it
-    pos @1st_4 [@Kaf_1 @Kaf_2 @Kaf_3 @Kaf_4 @Kaf_5]' -244;
-} kern;
+    pos @side1_4 [@Kaf_1 @Kaf_2 @Kaf_3 @Kaf_4 @Kaf_5]' -244;
+} kern_3;
 
-feature kern {
+lookup kern_4 {
     lookupflag IgnoreMarks;
     #pos period [quotedblleft quoteleft] <-146 0 -146 0>;
     #pos period.latn [quotedblright quoteright] -73;
-} kern;
+} kern_4;
 
 # proportional digits
-feature kern {
+lookup kern_5 {
+	lookupflag 0;
     pos one-ar.prop two-ar.prop -49;
     pos one-ar.prop three-ar.prop -49;
     pos one-ar.prop six-ar.prop -98;
@@ -2555,35 +2567,34 @@ feature kern {
     pos nine-ar.prop zero-ar.prop 24;
     pos zero-ar.prop seven-ar.prop 24;
     pos zero-ar.prop eight-ar.prop 24;
-} kern;
-
-# generated features for anchor points will be inserted here by build script
-
-feature curs {
-# Automatic Code
-} curs;
-
-feature kern {
-# Automatic Code
-} kern;
-
-feature mark {
-# Automatic Code
-} mark;
-
-feature mkmk {
-# Automatic Code
-} mkmk;
-
-
-# With ss05 on, kasra is below shadda, so move the shadda up a bit to
-# compensate for the kasra.
-feature ss05 {
-    pos shadda-ar [kasra-ar.small] <0 103 0 0>;
-    pos shadda-ar [kasratan-ar.small] <0 171 0 0>;
-} ss05;
+} kern_5;";
+name = kern;
+},
+{
+code = "# Automatic Code
 ";
-name = kerning;
+name = curs;
+},
+{
+code = "# Automatic Code";
+name = kern;
+},
+{
+code = "# Automatic Code";
+name = mark;
+},
+{
+code = "# Automatic Code";
+name = mkmk;
+},
+{
+code = "# With ss05 on, kasra is below shadda, so move the shadda up a bit to
+# compensate for the kasra.
+pos shadda-ar [kasra-ar.small] <0 103 0 0>;
+pos shadda-ar [kasratan-ar.small] <0 171 0 0>;
+";
+name = ss05;
+notes = "Name: ";
 }
 );
 fontMaster = (
