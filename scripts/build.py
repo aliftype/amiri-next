@@ -18,22 +18,12 @@
 # limitations under the License.
 
 
-def generateFeatures(font, args):
-    """Generates feature text by merging feature file with mark positioning
-    lookups (already in the font) and making sure they come after kerning
-    lookups (from the feature file), which is required by Uniscribe to get
-    correct mark positioning for kerned glyphs."""
-
-    # open feature file and insert the generated GPOS features in place of the
-    # placeholder text
-    with open(args.features) as f:
-        font.features.text = f.read() + font.features.text
-
-
-def generateFont(options, font):
+def generateFont(font, options):
     from ufo2ft import compileOTF, compileTTF
 
-    generateFeatures(font, options)
+    with open(args.features) as f:
+        font.features.text = f.read()
+    makeOverLine(font)
 
     info = font.info
     major, minor = options.version.split(".")
@@ -77,10 +67,11 @@ def drawOverline(font, name, pos, thickness, width):
     return glyph
 
 
-def makeOverLine(font, posGlyph="qafLamAlefMaksuraabove-ar"):
+def makeOverLine(font):
     from fontTools.feaLib import ast
 
-    pos = font[posGlyph].getBounds(font).yMax
+    base = "overlinecomb"
+    pos = font[base].getBounds(font).yMax
     thickness = font.info.postscriptUnderlineThickness
     min_width = 100
 
@@ -98,7 +89,6 @@ def makeOverLine(font, posGlyph="qafLamAlefMaksuraabove-ar"):
                 widths[width] = []
             widths[width].append(glyph.name)
 
-    base = "overlinecomb"
     drawOverline(font, base, pos, thickness, 500)
 
     mark = ast.FeatureBlock("mark")
@@ -125,12 +115,6 @@ def makeOverLine(font, posGlyph="qafLamAlefMaksuraabove-ar"):
     font.features.text += str(mark)
 
 
-def makeDesktop(font, options):
-
-    makeOverLine(font, posGlyph="overlinecomb")
-    return generateFont(options, font)
-
-
 if __name__ == "__main__":
     import argparse
     from ufoLib2 import Font
@@ -150,5 +134,5 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     font = Font.open(args.input)
-    otf = makeDesktop(font, args)
+    otf = generateFont(font, args)
     otf.save(args.output)
