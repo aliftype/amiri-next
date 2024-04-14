@@ -11,16 +11,10 @@ feature rlig {
     sub @ShaddaTashkil' lookup SamallTashkil @ShaddaTashkil' lookup SamallTashkil;
 } rlig;
 
-#ifdef QURAN
-feature rlig {
-    sub [dotvowelbelow-ar] [kasra-ar]' by [kasra-ar.small2];
-} rlig;
-
-#endif
 # replace tashkil following hamza by smaller alternates
 feature rlig {
     sub [@AlefHamzaAbove hamzaabove-ar] [fatha-ar fatha-ar.small damma-ar sukun-ar]' by [fatha-ar.small2 fatha-ar.small2 damma-ar.small sukun-ar.small2];
-    sub [@AlefHamzaBelow hamzabelow-ar] [kasra-ar]' by [kasra-ar.small2];
+    sub [@AlefHamzaBelow hamzabelow-ar dotvowelbelow-ar] [kasra-ar]' by [kasra-ar.small2];
 } rlig;
 
 # replace hamza mark when following a heh by a glyph that has only a
