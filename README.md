@@ -21,7 +21,7 @@ typesetting, and adapting it to the era of digital typesetting, in a publicly
 available form.
 
 Amiri is a free and open source project that everyone is encouraged to use and
-modify. Amiri is available under the terms of [Open Font License][2], see the
+modify. Amiri is available under the terms of [GNU Affero General Public License][2], see the
 included license file for more details.
 
 Latest version of the Amiri font can be obtained from its web site:
@@ -41,4 +41,4 @@ future under a different name with less backward-compatibility constraints, but
 nothing concrete is currently planed.
 
 [1]: http://www.bibalex.org/bulaqpress/en/bulaq.htm "The Bulaq Press"
-[2]: http://scripts.sil.org/OFL "The Open Font License"
+[2]: https://www.gnu.org/licenses/agpl-3.0.en.html "GNU Affero General Public License"

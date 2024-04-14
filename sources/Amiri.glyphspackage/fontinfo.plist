@@ -1,5 +1,6 @@
 {
 .appVersion = "3300";
+copyright = "Copyright 2010-2024 The Amiri Project Authors (https://github.com/aliftype/amiri-next).";
 customParameters = (
 {
 name = hheaAscender;
@@ -6807,6 +6808,14 @@ value = 0;
 {
 name = description;
 value = "Amiri is a classical Arabic typeface in Naskh style for typesetting books and other running text. Its design is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named.";
+},
+{
+name = license;
+value = "This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\012\012This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more details.\012\012You should have received a copy of the GNU Affero General Public License along with this program.  If not, see <https://www.gnu.org/licenses/>";
+},
+{
+name = licenseURL;
+value = "https://www.gnu.org/licenses/agpl-3.0.html";
 },
 {
 name = sampleText;

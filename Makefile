@@ -12,7 +12,7 @@ FONTSDIR=fonts
 DOC=documentation
 FONTS=$(NAME)-Regular $(NAME)-Bold $(NAME)-Italic $(NAME)-BoldItalic $(NAME)Quran $(NAME)QuranColored
 DIST=$(NAME)-$(VERSION)
-LICENSE=OFL.txt
+LICENSE=LICENSE
 
 BUILD=${SCRIPTSDIR}/build.py
 MAKEQURAN=${SCRIPTSDIR}/mkquran.py
