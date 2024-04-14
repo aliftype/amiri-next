@@ -48,5 +48,5 @@ layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 width = 217;
 }
 );
-unicode = "0625,FE87";
+unicode = 0625;
 }

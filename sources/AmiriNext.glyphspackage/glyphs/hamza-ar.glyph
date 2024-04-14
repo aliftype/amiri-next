@@ -139,5 +139,5 @@ nodes = (
 width = 381;
 }
 );
-unicode = "0621,FE80";
+unicode = 0621;
 }
