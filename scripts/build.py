@@ -21,8 +21,6 @@
 def generateFont(font, options):
     from ufo2ft import compileOTF, compileTTF
 
-    with open(args.features) as f:
-        font.features.text = f.read()
     makeOverLine(font)
 
     info = font.info
@@ -125,9 +123,6 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "--output", metavar="FILE", required=True, help="output font to write"
-    )
-    parser.add_argument(
-        "--features", metavar="FILE", required=True, help="feature file to include"
     )
     parser.add_argument("--version", type=str, required=True, help="font version")
 

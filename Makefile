@@ -17,7 +17,6 @@ PY ?= python
 
 TTF=$(FONTS:%=${FONTSDIR}/%.ttf)
 HTML=$(DOC)/Documentation-Arabic.html
-FEA=$(wildcard $(SRC)/*.fea)
 
 export SOURCE_DATE_EPOCH ?= 0
 
@@ -29,18 +28,17 @@ doc: $(HTML)
 $(BUILDDIR)/$(NAME).designspace: $(SRC)/$(NAME).glyphspackage
 	@echo "   UFO	$@"
 	@glyphs2ufo --minimal --generate-GDEF --output-dir=$(BUILDDIR) $<
-	@cp $(FEA) $(BUILDDIR)
 
 $(BUILDDIR)/%.ufo: $(BUILDDIR)/$(NAME).designspace
 	@echo "   UFO	$@"
 
-${FONTSDIR}/$(NAME)-Regular.ttf: $(BUILDDIR)/$(NAME)-Regular.ufo $(SRC)/$(NAME).fea $(FEA) $(BUILD)
+${FONTSDIR}/$(NAME)-Regular.ttf: $(BUILDDIR)/$(NAME)-Regular.ufo $(BUILD)
 	@echo "   GEN	$@"
-	@$(PY) $(BUILD) --input $< --output $@ --features=$(SRC)/$(NAME).fea --version $(VERSION)
+	@$(PY) $(BUILD) --input $< --output $@ --version $(VERSION)
 
-${FONTSDIR}/$(NAME)-Bold.ttf: $(BUILDDIR)/$(NAME)-Bold.ufo $(SRC)/$(NAME).fea $(FEA) $(BUILD)
+${FONTSDIR}/$(NAME)-Bold.ttf: $(BUILDDIR)/$(NAME)-Bold.ufo $(BUILD)
 	@echo "   GEN	$@"
-	@$(PY) $(BUILD) --input $< --output $@ --features=$(SRC)/$(NAME).fea --version $(VERSION)
+	@$(PY) $(BUILD) --input $< --output $@ --version $(VERSION)
 
 $(DOC)/Documentation-Arabic.html: $(DOC)/Documentation-Arabic.md
 	@echo "   GEN	$@"
