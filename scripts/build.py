@@ -98,7 +98,7 @@ def makeOverLine(font, posGlyph="qafLamAlefMaksuraabove-ar"):
 
     pos = font[posGlyph].getBounds(font).yMax
     thickness = font.info.postscriptUnderlineThickness
-    minwidth = 100
+    min_width = 100
 
     # collect glyphs grouped by their widths rounded by 100 units, we will use
     # them to decide the widths of over/underline glyphs we will draw
@@ -108,8 +108,8 @@ def makeOverLine(font, posGlyph="qafLamAlefMaksuraabove-ar"):
         if (
             (u is None) or (0x0600 <= u <= 0x06FF) or u == ord(" ")
         ) and glyph.width > 0:
-            width = round(glyph.width / minwidth) * minwidth
-            width = width > minwidth and width or minwidth
+            width = round(glyph.width / min_width) * min_width
+            width = width > min_width and width or min_width
             if not width in widths:
                 widths[width] = []
             widths[width].append(glyph.name)
@@ -119,8 +119,8 @@ def makeOverLine(font, posGlyph="qafLamAlefMaksuraabove-ar"):
 
     mark = ast.FeatureBlock("mark")
     overset = ast.GlyphClassDefinition("OverSet", ast.GlyphClass([base]))
-    lookupflag = ast.LookupFlagStatement(markFilteringSet=ast.GlyphClassName(overset))
-    mark.statements.extend([overset, lookupflag])
+    lookup_flags = ast.LookupFlagStatement(markFilteringSet=ast.GlyphClassName(overset))
+    mark.statements.extend([overset, lookup_flags])
 
     for width in sorted(widths.keys()):
         # for each width group we create an over/underline glyph with the same
@@ -428,7 +428,7 @@ if __name__ == "__main__":
         "--input", metavar="FILE", required=True, help="input font to process"
     )
     parser.add_argument(
-        "--output", metavar="FILE", required=True, help="ouput font to write"
+        "--output", metavar="FILE", required=True, help="output font to write"
     )
     parser.add_argument(
         "--features", metavar="FILE", required=True, help="feature file to include"
