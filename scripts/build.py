@@ -454,7 +454,7 @@ def makeQuran(options):
         name_languages="*",
         notdef_outline=True,
         glyph_names=True,
-        layout_scripts=["DFLT", "arab"],
+        layout_scripts=["DFLT", "arab.dflt", "arab.ARA ", "arab.URD "],
         recalc_average_width=True,
         recalc_max_context=True,
     )
