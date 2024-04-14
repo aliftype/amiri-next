@@ -5,48 +5,48 @@ layers = (
 anchors = (
 {
 name = TashkilAbove;
-position = "{317, 801}";
+pos = (317,801);
 },
 {
 name = TashkilBelow;
-position = "{293, -327}";
-}
-);
-components = (
-{
-name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 325, -86}";
-},
-{
-name = aSen.init;
-transform = "{1, 0, 0, 1, 0, 202}";
+pos = (293,-327);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
+{
+pos = (325,-86);
+ref = "threedotsdownbelow-ar";
+},
+{
+pos = (0,202);
+ref = aSen.init;
+}
+);
 width = 568;
 },
 {
 anchors = (
 {
 name = TashkilAbove;
-position = "{317, 801}";
+pos = (317,801);
 },
 {
 name = TashkilBelow;
-position = "{293, -327}";
-}
-);
-components = (
-{
-name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 325, -86}";
-},
-{
-name = aSen.init;
-transform = "{1, 0, 0, 1, 0, 202}";
+pos = (293,-327);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
+{
+pos = (325,-86);
+ref = "threedotsdownbelow-ar";
+},
+{
+pos = (0,202);
+ref = aSen.init;
+}
+);
 width = 568;
 }
 );

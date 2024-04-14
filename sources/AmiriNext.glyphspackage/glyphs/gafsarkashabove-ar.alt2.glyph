@@ -5,38 +5,38 @@ layers = (
 anchors = (
 {
 name = _Dash;
-position = "{-47, 35}";
+pos = (-47,35);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"-233 -64 OFFCURVE",
-"-235 -61 OFFCURVE",
-"-229 -48 CURVE SMOOTH",
-"-223 -35 OFFCURVE",
-"-215 -24 OFFCURVE",
-"-207 -14 CURVE SMOOTH",
-"-199 -4 OFFCURVE",
-"-192 3 OFFCURVE",
-"-186 6 CURVE SMOOTH",
-"-81 71 OFFCURVE",
-"61 140 OFFCURVE",
-"238 213 CURVE SMOOTH",
-"242 215 OFFCURVE",
-"244 214 OFFCURVE",
-"244 210 CURVE SMOOTH",
-"244 206 OFFCURVE",
-"238 196 OFFCURVE",
-"226 178 CURVE SMOOTH",
-"214 160 OFFCURVE",
-"202 149 OFFCURVE",
-"192 145 CURVE SMOOTH",
-"76 100 OFFCURVE",
-"-62 32 OFFCURVE",
-"-224 -59 CURVE SMOOTH"
+(-233,-64,o),
+(-235,-61,o),
+(-229,-48,cs),
+(-223,-35,o),
+(-215,-24,o),
+(-207,-14,cs),
+(-199,-4,o),
+(-192,3,o),
+(-186,6,cs),
+(-81,71,o),
+(61,140,o),
+(238,213,cs),
+(242,215,o),
+(244,214,o),
+(244,210,cs),
+(244,206,o),
+(238,196,o),
+(226,178,cs),
+(214,160,o),
+(202,149,o),
+(192,145,cs),
+(76,100,o),
+(-62,32,o),
+(-224,-59,cs)
 );
 }
 );
@@ -46,41 +46,41 @@ width = 0;
 anchors = (
 {
 name = _Dash;
-position = "{-47, 35}";
+pos = (-47,35);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"-224 -75 OFFCURVE",
-"-231 -76 OFFCURVE",
-"-237 -74 CURVE SMOOTH",
-"-250 -69 OFFCURVE",
-"-252 -58 OFFCURVE",
-"-244 -43 CURVE SMOOTH",
-"-228 -13 OFFCURVE",
-"-210 7 OFFCURVE",
-"-193 18 CURVE SMOOTH",
-"-87 84 OFFCURVE",
-"55 153 OFFCURVE",
-"232 226 CURVE SMOOTH",
-"239 229 OFFCURVE",
-"246 228 OFFCURVE",
-"254 221 CURVE SMOOTH",
-"262 214 OFFCURVE",
-"259 200 OFFCURVE",
-"245 180 CURVE SMOOTH",
-"242 175 OFFCURVE",
-"239 172 OFFCURVE",
-"238 170 CURVE SMOOTH",
-"224 150 OFFCURVE",
-"210 136 OFFCURVE",
-"197 131 CURVE",
-"82 86 OFFCURVE",
-"-56 20 OFFCURVE",
-"-217 -71 CURVE SMOOTH"
+(-224,-75,o),
+(-231,-76,o),
+(-237,-74,cs),
+(-250,-69,o),
+(-252,-58,o),
+(-244,-43,cs),
+(-228,-13,o),
+(-210,7,o),
+(-193,18,cs),
+(-87,84,o),
+(55,153,o),
+(232,226,cs),
+(239,229,o),
+(246,228,o),
+(254,221,cs),
+(262,214,o),
+(259,200,o),
+(245,180,cs),
+(242,175,o),
+(239,172,o),
+(238,170,cs),
+(224,150,o),
+(210,136,o),
+(197,131,c),
+(82,86,o),
+(-56,20,o),
+(-217,-71,cs)
 );
 }
 );

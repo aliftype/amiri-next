@@ -2,25 +2,25 @@
 glyphname = "threedotsdownaboveSymbol-ar";
 layers = (
 {
-components = (
+layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
 {
-name = "threedotsdownabove-ar";
-transform = "{1, 0, 0, 1, 137, 732}";
+pos = (137,732);
+ref = "threedotsdownabove-ar";
 }
 );
-layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 width = 274;
 },
 {
-components = (
+layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
 {
-name = "threedotsdownabove-ar";
-transform = "{1, 0, 0, 1, 137, 732}";
+pos = (137,732);
+ref = "threedotsdownabove-ar";
 }
 );
-layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 width = 274;
 }
 );
-unicode = FBB8;
+unicode = 64440;
 }

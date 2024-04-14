@@ -5,50 +5,50 @@ layers = (
 anchors = (
 {
 name = _MarkAbove;
-position = "{156, 801}";
+pos = (156,801);
 },
 {
 name = _TashkilAbove;
-position = "{156, 801}";
+pos = (156,801);
 },
 {
 name = _TashkilAboveDot;
-position = "{156, 801}";
-}
-);
-components = (
-{
-name = "wawSmall-ar";
-transform = "{1, 0, 0, 1, -61, 902}";
+pos = (156,801);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
+{
+pos = (-61,902);
+ref = "wawSmall-ar";
+}
+);
 width = 0;
 },
 {
 anchors = (
 {
 name = _MarkAbove;
-position = "{156, 801}";
+pos = (156,801);
 },
 {
 name = _TashkilAbove;
-position = "{156, 801}";
+pos = (156,801);
 },
 {
 name = _TashkilAboveDot;
-position = "{156, 801}";
-}
-);
-components = (
-{
-name = "wawSmall-ar";
-transform = "{1, 0, 0, 1, -61, 902}";
+pos = (156,801);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
+{
+pos = (-61,902);
+ref = "wawSmall-ar";
+}
+);
 width = 0;
 }
 );
-unicode = 08F3;
+unicode = 2291;
 }

@@ -3,37 +3,37 @@ glyphname = fraction;
 layers = (
 {
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"-54 2 LINE",
-"-57 -2 OFFCURVE",
-"-60 -5 OFFCURVE",
-"-66 -9 CURVE SMOOTH",
-"-72 -13 OFFCURVE",
-"-78 -14 OFFCURVE",
-"-85 -12 CURVE SMOOTH",
-"-88 -11 OFFCURVE",
-"-91 -10 OFFCURVE",
-"-93 -9 CURVE SMOOTH",
-"-95 -8 OFFCURVE",
-"-96 -7 OFFCURVE",
-"-96 -6 CURVE SMOOTH",
-"-97 -4 LINE",
-"245 622 LINE SMOOTH",
-"245 623 OFFCURVE",
-"247 624 OFFCURVE",
-"250 625 CURVE SMOOTH",
-"253 626 OFFCURVE",
-"256 628 OFFCURVE",
-"260 629 CURVE SMOOTH",
-"264 630 OFFCURVE",
-"269 630 OFFCURVE",
-"275 629 CURVE SMOOTH",
-"280 628 OFFCURVE",
-"283 625 OFFCURVE",
-"283 619 CURVE"
+(-54,2,l),
+(-57,-2,o),
+(-60,-5,o),
+(-66,-9,cs),
+(-72,-13,o),
+(-78,-14,o),
+(-85,-12,cs),
+(-88,-11,o),
+(-91,-10,o),
+(-93,-9,cs),
+(-95,-8,o),
+(-96,-7,o),
+(-96,-6,cs),
+(-97,-4,l),
+(245,622,ls),
+(245,623,o),
+(247,624,o),
+(250,625,cs),
+(253,626,o),
+(256,628,o),
+(260,629,cs),
+(264,630,o),
+(269,630,o),
+(275,629,cs),
+(280,628,o),
+(283,625,o),
+(283,619,c)
 );
 }
 );
@@ -41,39 +41,39 @@ width = 123;
 },
 {
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"-43 -11 LINE SMOOTH",
-"-45 -15 OFFCURVE",
-"-49 -18 OFFCURVE",
-"-56 -23 CURVE SMOOTH",
-"-63 -28 OFFCURVE",
-"-71 -31 OFFCURVE",
-"-79 -33 CURVE SMOOTH",
-"-83 -34 OFFCURVE",
-"-87 -33 OFFCURVE",
-"-90 -32 CURVE SMOOTH",
-"-93 -31 OFFCURVE",
-"-94 -29 OFFCURVE",
-"-95 -27 CURVE SMOOTH",
-"-96 -24 LINE",
-"241 647 LINE",
-"248 657 OFFCURVE",
-"259 664 OFFCURVE",
-"276 668 CURVE SMOOTH",
-"280 669 OFFCURVE",
-"285 668 OFFCURVE",
-"288 667 CURVE SMOOTH",
-"291 666 OFFCURVE",
-"293 664 OFFCURVE",
-"294 661 CURVE"
+(-43,-11,ls),
+(-45,-15,o),
+(-49,-18,o),
+(-56,-23,cs),
+(-63,-28,o),
+(-71,-31,o),
+(-79,-33,cs),
+(-83,-34,o),
+(-87,-33,o),
+(-90,-32,cs),
+(-93,-31,o),
+(-94,-29,o),
+(-95,-27,cs),
+(-96,-24,l),
+(241,647,l),
+(248,657,o),
+(259,664,o),
+(276,668,cs),
+(280,669,o),
+(285,668,o),
+(288,667,cs),
+(291,666,o),
+(293,664,o),
+(294,661,c)
 );
 }
 );
 width = 134;
 }
 );
-unicode = "2044,2215";
+unicode = (8260,8725);
 }

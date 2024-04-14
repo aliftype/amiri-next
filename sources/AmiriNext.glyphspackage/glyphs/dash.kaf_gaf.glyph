@@ -1,53 +1,53 @@
 {
+category = Mark;
 glyphname = dash.kaf_gaf;
 layers = (
 {
 anchors = (
 {
 name = RingDash;
-position = "{-154, 122}";
+pos = (-154,122);
 },
 {
 name = _Dash;
-position = "{-426, -21}";
-}
-);
-components = (
-{
-name = dash.kaf;
-},
-{
-name = "gafsarkashabove-ar";
-transform = "{1, 0, 0, 1, -91, 157}";
+pos = (-426,-21);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
+{
+ref = dash.kaf;
+},
+{
+pos = (-91,157);
+ref = "gafsarkashabove-ar";
+}
+);
 width = 0;
 },
 {
 anchors = (
 {
 name = RingDash;
-position = "{-154, 122}";
+pos = (-154,122);
 },
 {
 name = _Dash;
-position = "{-426, -21}";
-}
-);
-components = (
-{
-name = dash.kaf;
-},
-{
-name = "gafsarkashabove-ar";
-transform = "{1, 0, 0, 1, -91, 157}";
+pos = (-426,-21);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
+{
+ref = dash.kaf;
+},
+{
+pos = (-91,157);
+ref = "gafsarkashabove-ar";
+}
+);
 width = 0;
 }
 );
-category = Mark;
 subCategory = Nonspacing;
 }

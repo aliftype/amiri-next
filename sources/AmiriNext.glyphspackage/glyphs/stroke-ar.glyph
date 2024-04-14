@@ -5,30 +5,30 @@ layers = (
 anchors = (
 {
 name = _Stroke;
-position = "{0, 12}";
+pos = (0,12);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"-111 0 LINE SMOOTH",
-"-118 0 OFFCURVE",
-"-120 3 OFFCURVE",
-"-116 10 CURVE SMOOTH",
-"-103 32 LINE SMOOTH",
-"-99 38 OFFCURVE",
-"-93 42 OFFCURVE",
-"-83 42 CURVE SMOOTH",
-"111 42 LINE SMOOTH",
-"118 42 OFFCURVE",
-"120 39 OFFCURVE",
-"116 32 CURVE SMOOTH",
-"103 9 LINE SMOOTH",
-"99 3 OFFCURVE",
-"93 0 OFFCURVE",
-"83 0 CURVE SMOOTH"
+(-111,0,ls),
+(-118,0,o),
+(-120,3,o),
+(-116,10,cs),
+(-103,32,ls),
+(-99,38,o),
+(-93,42,o),
+(-83,42,cs),
+(111,42,ls),
+(118,42,o),
+(120,39,o),
+(116,32,cs),
+(103,9,ls),
+(99,3,o),
+(93,0,o),
+(83,0,cs)
 );
 }
 );
@@ -38,18 +38,18 @@ width = 0;
 anchors = (
 {
 name = _Stroke;
-position = "{0, 21}";
+pos = (0,21);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"144 76 LINE",
-"107 -15 LINE",
-"-144 -15 LINE",
-"-107 76 LINE"
+(144,76,l),
+(107,-15,l),
+(-144,-15,l),
+(-107,76,l)
 );
 }
 );

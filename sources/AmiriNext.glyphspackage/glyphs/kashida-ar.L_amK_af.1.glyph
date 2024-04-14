@@ -3,28 +3,28 @@ glyphname = "kashida-ar.LamKaf.1";
 layers = (
 {
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"148 94 OFFCURVE",
-"157 87 OFFCURVE",
-"155 69 CURVE SMOOTH",
-"149 26 OFFCURVE",
-"140 4 OFFCURVE",
-"127 0 CURVE",
-"85 -6 OFFCURVE",
-"43 -6 OFFCURVE",
-"0 0 CURVE SMOOTH",
-"-14 2 OFFCURVE",
-"-23 24 OFFCURVE",
-"-29 67 CURVE",
-"-32 85 OFFCURVE",
-"-22 92 OFFCURVE",
-"0 90 CURVE SMOOTH",
-"50 85 OFFCURVE",
-"93 85 OFFCURVE",
-"127 90 CURVE SMOOTH"
+(148,94,o),
+(157,87,o),
+(155,69,cs),
+(149,26,o),
+(140,4,o),
+(127,0,c),
+(85,-6,o),
+(43,-6,o),
+(0,0,cs),
+(-14,2,o),
+(-23,24,o),
+(-29,67,c),
+(-32,85,o),
+(-22,92,o),
+(0,90,cs),
+(50,85,o),
+(93,85,o),
+(127,90,cs)
 );
 }
 );
@@ -32,40 +32,40 @@ width = 126;
 },
 {
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"50 100 OFFCURVE",
-"85 99 OFFCURVE",
-"105 102 CURVE SMOOTH",
-"125 105 OFFCURVE",
-"138 106 OFFCURVE",
-"145 105 CURVE SMOOTH",
-"152 104 OFFCURVE",
-"157 101 OFFCURVE",
-"163 95 CURVE SMOOTH",
-"169 89 OFFCURVE",
-"170 79 OFFCURVE",
-"169 67 CURVE SMOOTH",
-"164 29 OFFCURVE",
-"157 7 OFFCURVE",
-"149 -1 CURVE SMOOTH",
-"141 -9 OFFCURVE",
-"135 -14 OFFCURVE",
-"129 -15 CURVE SMOOTH",
-"86 -21 OFFCURVE",
-"42 -21 OFFCURVE",
-"-2 -15 CURVE SMOOTH",
-"-20 -12 OFFCURVE",
-"-32 5 OFFCURVE",
-"-38 35 CURVE SMOOTH",
-"-44 65 OFFCURVE",
-"-44 85 OFFCURVE",
-"-36 94 CURVE SMOOTH",
-"-28 103 OFFCURVE",
-"-17 107 OFFCURVE",
-"1 105 CURVE SMOOTH"
+(50,100,o),
+(85,99,o),
+(105,102,cs),
+(125,105,o),
+(138,106,o),
+(145,105,cs),
+(152,104,o),
+(157,101,o),
+(163,95,cs),
+(169,89,o),
+(170,79,o),
+(169,67,cs),
+(164,29,o),
+(157,7,o),
+(149,-1,cs),
+(141,-9,o),
+(135,-14,o),
+(129,-15,cs),
+(86,-21,o),
+(42,-21,o),
+(-2,-15,cs),
+(-20,-12,o),
+(-32,5,o),
+(-38,35,cs),
+(-44,65,o),
+(-44,85,o),
+(-36,94,cs),
+(-28,103,o),
+(-17,107,o),
+(1,105,cs)
 );
 }
 );

@@ -5,83 +5,83 @@ layers = (
 anchors = (
 {
 name = DotAbove;
-position = "{180, 532}";
+pos = (180,532);
 },
 {
 name = HamzaAbove;
-position = "{180, 532}";
+pos = (180,532);
 },
 {
 name = TashkilAbove;
-position = "{180, 801}";
+pos = (180,801);
 },
 {
 name = TashkilBelow;
-position = "{200, -327}";
+pos = (200,-327);
 },
 {
 name = TwoDotsAbove;
-position = "{125, 532}";
+pos = (125,532);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"169 334 OFFCURVE",
-"183 332 OFFCURVE",
-"199 323 CURVE SMOOTH",
-"242 298 OFFCURVE",
-"272 266 OFFCURVE",
-"290 227 CURVE SMOOTH",
-"308 188 OFFCURVE",
-"312 147 OFFCURVE",
-"303 106 CURVE SMOOTH",
-"294 65 OFFCURVE",
-"277 34 OFFCURVE",
-"252 11 CURVE SMOOTH",
-"227 -12 OFFCURVE",
-"199 -24 OFFCURVE",
-"165 -24 CURVE SMOOTH",
-"120 -25 OFFCURVE",
-"89 -8 OFFCURVE",
-"75 24 CURVE SMOOTH",
-"61 56 OFFCURVE",
-"60 99 OFFCURVE",
-"74 153 CURVE SMOOTH",
-"88 207 OFFCURVE",
-"114 256 OFFCURVE",
-"151 299 CURVE SMOOTH",
-"152 300 OFFCURVE",
-"153 305 OFFCURVE",
-"153 312 CURVE SMOOTH",
-"153 319 OFFCURVE",
-"154 324 OFFCURVE",
-"158 326 CURVE SMOOTH"
+(169,334,o),
+(183,332,o),
+(199,323,cs),
+(242,298,o),
+(272,266,o),
+(290,227,cs),
+(308,188,o),
+(312,147,o),
+(303,106,cs),
+(294,65,o),
+(277,34,o),
+(252,11,cs),
+(227,-12,o),
+(199,-24,o),
+(165,-24,cs),
+(120,-25,o),
+(89,-8,o),
+(75,24,cs),
+(61,56,o),
+(60,99,o),
+(74,153,cs),
+(88,207,o),
+(114,256,o),
+(151,299,cs),
+(152,300,o),
+(153,305,o),
+(153,312,cs),
+(153,319,o),
+(154,324,o),
+(158,326,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"261 117 OFFCURVE",
-"259 127 OFFCURVE",
-"248 141 CURVE SMOOTH",
-"217 179 OFFCURVE",
-"187 198 OFFCURVE",
-"159 197 CURVE SMOOTH",
-"145 197 OFFCURVE",
-"133 187 OFFCURVE",
-"123 168 CURVE SMOOTH",
-"113 149 OFFCURVE",
-"109 135 OFFCURVE",
-"112 123 CURVE SMOOTH",
-"118 99 OFFCURVE",
-"137 86 OFFCURVE",
-"170 86 CURVE SMOOTH",
-"203 86 OFFCURVE",
-"231 94 OFFCURVE",
-"253 111 CURVE SMOOTH"
+(261,117,o),
+(259,127,o),
+(248,141,cs),
+(217,179,o),
+(187,198,o),
+(159,197,cs),
+(145,197,o),
+(133,187,o),
+(123,168,cs),
+(113,149,o),
+(109,135,o),
+(112,123,cs),
+(118,99,o),
+(137,86,o),
+(170,86,cs),
+(203,86,o),
+(231,94,o),
+(253,111,cs)
 );
 }
 );
@@ -91,71 +91,71 @@ width = 369;
 anchors = (
 {
 name = DotAbove;
-position = "{180, 532}";
+pos = (180,532);
 },
 {
 name = HamzaAbove;
-position = "{180, 532}";
+pos = (180,532);
 },
 {
 name = TashkilAbove;
-position = "{180, 801}";
+pos = (180,801);
 },
 {
 name = TashkilBelow;
-position = "{200, -327}";
+pos = (200,-327);
 },
 {
 name = TwoDotsAbove;
-position = "{125, 532}";
+pos = (125,532);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"166 348 OFFCURVE",
-"185 348 OFFCURVE",
-"206 336 CURVE SMOOTH",
-"252 309 OFFCURVE",
-"283 274 OFFCURVE",
-"299 232 CURVE SMOOTH",
-"315 190 OFFCURVE",
-"318 146 OFFCURVE",
-"307 100 CURVE SMOOTH",
-"286 9 OFFCURVE",
-"238 -38 OFFCURVE",
-"165 -39 CURVE SMOOTH",
-"113 -39 OFFCURVE",
-"80 -20 OFFCURVE",
-"67 17 CURVE SMOOTH",
-"54 54 OFFCURVE",
-"55 102 OFFCURVE",
-"71 160 CURVE SMOOTH",
-"87 218 OFFCURVE",
-"109 267 OFFCURVE",
-"138 306 CURVE",
-"139 323 OFFCURVE",
-"142 333 OFFCURVE",
-"149 337 CURVE SMOOTH"
+(166,348,o),
+(185,348,o),
+(206,336,cs),
+(252,309,o),
+(283,274,o),
+(299,232,cs),
+(315,190,o),
+(318,146,o),
+(307,100,cs),
+(286,9,o),
+(238,-38,o),
+(165,-39,cs),
+(113,-39,o),
+(80,-20,o),
+(67,17,cs),
+(54,54,o),
+(55,102,o),
+(71,160,cs),
+(87,218,o),
+(109,267,o),
+(138,306,c),
+(139,323,o),
+(142,333,o),
+(149,337,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"233 161 OFFCURVE",
-"200 181 OFFCURVE",
-"160 182 CURVE SMOOTH",
-"142 183 OFFCURVE",
-"129 176 OFFCURVE",
-"121 161 CURVE SMOOTH",
-"99 121 OFFCURVE",
-"116 101 OFFCURVE",
-"173 101 CURVE SMOOTH",
-"210 101 OFFCURVE",
-"238 108 OFFCURVE",
-"258 122 CURVE"
+(233,161,o),
+(200,181,o),
+(160,182,cs),
+(142,183,o),
+(129,176,o),
+(121,161,cs),
+(99,121,o),
+(116,101,o),
+(173,101,cs),
+(210,101,o),
+(238,108,o),
+(258,122,c)
 );
 }
 );

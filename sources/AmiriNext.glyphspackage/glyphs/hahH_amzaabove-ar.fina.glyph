@@ -5,46 +5,46 @@ layers = (
 anchors = (
 {
 name = TashkilAbove;
-position = "{342, 801}";
+pos = (342,801);
 },
 {
 name = TashkilBelow;
-position = "{391, -24}";
-}
-);
-components = (
-{
-name = aHaa.fina;
-},
-{
-name = hamza.above;
-transform = "{1, 0, 0, 1, 342, -24}";
+pos = (391,-24);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
+{
+ref = aHaa.fina;
+},
+{
+pos = (342,-24);
+ref = hamza.above;
+}
+);
 width = 639;
 },
 {
 anchors = (
 {
 name = TashkilAbove;
-position = "{342, 801}";
+pos = (342,801);
 },
 {
 name = TashkilBelow;
-position = "{391, -24}";
-}
-);
-components = (
-{
-name = aHaa.fina;
-},
-{
-name = hamza.above;
-transform = "{1, 0, 0, 1, 342, -24}";
+pos = (391,-24);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
+{
+ref = aHaa.fina;
+},
+{
+pos = (342,-24);
+ref = hamza.above;
+}
+);
 width = 639;
 }
 );

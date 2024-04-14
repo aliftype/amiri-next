@@ -5,40 +5,40 @@ layers = (
 anchors = (
 {
 name = TashkilAbove;
-position = "{439, 801}";
+pos = (439,801);
 },
 {
 name = TashkilBelow;
-position = "{342, -327}";
-}
-);
-components = (
-{
-name = aQaf.isol;
+pos = (342,-327);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
+{
+ref = aQaf.isol;
+}
+);
 width = 687;
 },
 {
 anchors = (
 {
 name = TashkilAbove;
-position = "{439, 801}";
+pos = (439,801);
 },
 {
 name = TashkilBelow;
-position = "{342, -327}";
-}
-);
-components = (
-{
-name = aQaf.isol;
+pos = (342,-327);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
+{
+ref = aQaf.isol;
+}
+);
 width = 687;
 }
 );
-unicode = 066F;
+unicode = 1647;
 }

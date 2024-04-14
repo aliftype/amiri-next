@@ -2,25 +2,25 @@
 glyphname = "tahbelowSymbol-ar";
 layers = (
 {
-components = (
+layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
 {
-name = smalltaa.above;
-transform = "{1, 0, 0, 1, 161, -449}";
+pos = (161,-449);
+ref = smalltaa.above;
 }
 );
-layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 width = 321;
 },
 {
-components = (
+layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
 {
-name = smalltaa.above;
-transform = "{1, 0, 0, 1, 161, -449}";
+pos = (161,-449);
+ref = smalltaa.above;
 }
 );
-layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 width = 321;
 }
 );
-unicode = FBC1;
+unicode = 64449;
 }

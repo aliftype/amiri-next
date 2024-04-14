@@ -5,110 +5,110 @@ layers = (
 anchors = (
 {
 name = DigitBelow;
-position = "{263, 0}";
+pos = (263,0);
 },
 {
 name = DotAbove;
-position = "{15, 632}";
+pos = (15,632);
 },
 {
 name = DotBelow;
-position = "{263, 0}";
+pos = (263,0);
 },
 {
 name = HamzaAbove;
-position = "{15, 632}";
+pos = (15,632);
 },
 {
 name = HamzaBelow;
-position = "{263, 0}";
+pos = (263,0);
 },
 {
 name = TaaAbove;
-position = "{15, 632}";
+pos = (15,632);
 },
 {
 name = TaaBelow;
-position = "{263, 196}";
+pos = (263,196);
 },
 {
 name = TashkilAbove;
-position = "{122, 801}";
+pos = (122,801);
 },
 {
 name = TashkilBelow;
-position = "{155, -327}";
+pos = (155,-327);
 },
 {
 name = TwoDotsAbove;
-position = "{-34, 632}";
+pos = (-34,632);
 },
 {
 name = TwoDotsBelow;
-position = "{208, 0}";
-}
-);
-components = (
-{
-name = aHaa.medi.BaaHaaMemInit;
+pos = (208,0);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
+{
+ref = aHaa.medi.BaaHaaMemInit;
+}
+);
 width = 195;
 },
 {
 anchors = (
 {
 name = DigitBelow;
-position = "{263, 0}";
+pos = (263,0);
 },
 {
 name = DotAbove;
-position = "{15, 632}";
+pos = (15,632);
 },
 {
 name = DotBelow;
-position = "{263, 0}";
+pos = (263,0);
 },
 {
 name = HamzaAbove;
-position = "{15, 632}";
+pos = (15,632);
 },
 {
 name = HamzaBelow;
-position = "{263, 0}";
+pos = (263,0);
 },
 {
 name = TaaAbove;
-position = "{15, 632}";
+pos = (15,632);
 },
 {
 name = TaaBelow;
-position = "{263, 196}";
+pos = (263,196);
 },
 {
 name = TashkilAbove;
-position = "{122, 801}";
+pos = (122,801);
 },
 {
 name = TashkilBelow;
-position = "{155, -327}";
+pos = (155,-327);
 },
 {
 name = TwoDotsAbove;
-position = "{-34, 632}";
+pos = (-34,632);
 },
 {
 name = TwoDotsBelow;
-position = "{208, 0}";
-}
-);
-components = (
-{
-name = aHaa.medi.BaaHaaMemInit;
+pos = (208,0);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
+{
+ref = aHaa.medi.BaaHaaMemInit;
+}
+);
 width = 195;
 }
 );

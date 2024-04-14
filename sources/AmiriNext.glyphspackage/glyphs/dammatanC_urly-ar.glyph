@@ -5,64 +5,66 @@ layers = (
 anchors = (
 {
 name = TashkilTashkilAbove;
-position = "{119, 1159}";
+pos = (119,1159);
 },
 {
 name = _MarkAbove;
-position = "{278, 844}";
+pos = (278,844);
 },
 {
 name = _TashkilAbove;
-position = "{278, 844}";
+pos = (278,844);
 },
 {
 name = _TashkilAboveDot;
-position = "{278, 844}";
+pos = (278,844);
 },
 {
 name = _TashkilTashkilAbove;
-position = "{278, 844}";
-}
-);
-components = (
-{
-name = "dammaCurly-ar";
-},
-{
-name = "dammaCurly-ar";
-transform = "{-1, 0, 0, -1, 438, 2049}";
+pos = (278,844);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
+{
+ref = "dammaCurly-ar";
+},
+{
+angle = 180;
+pos = (438,2049);
+ref = "dammaCurly-ar";
+}
+);
 width = 0;
 },
 {
 anchors = (
 {
 name = _MarkAbove;
-position = "{278, 801}";
+pos = (278,801);
 },
 {
 name = _TashkilAbove;
-position = "{278, 801}";
+pos = (278,801);
 },
 {
 name = _TashkilAboveDot;
-position = "{278, 801}";
-}
-);
-components = (
-{
-name = "dammaCurly-ar";
-transform = "{-1, 0, 0, -1, 438, 2189}";
-},
-{
-name = "dammaCurly-ar";
+pos = (278,801);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
+{
+angle = 180;
+pos = (438,2189);
+ref = "dammaCurly-ar";
+},
+{
+ref = "dammaCurly-ar";
+}
+);
 width = 0;
 }
 );
-unicode = 08E8;
+unicode = 2280;
 }

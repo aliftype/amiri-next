@@ -5,67 +5,67 @@ layers = (
 anchors = (
 {
 name = TashkilAbove;
-position = "{146, 342}";
+pos = (146,342);
 },
 {
 name = TashkilBelow;
-position = "{210, 29}";
+pos = (210,29);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"305 116 OFFCURVE",
-"301 109 OFFCURVE",
-"295 105 CURVE",
-"245 87 OFFCURVE",
-"183 54 OFFCURVE",
-"109 4 CURVE SMOOTH",
-"102 0 OFFCURVE",
-"97 0 OFFCURVE",
-"93 4 CURVE SMOOTH",
-"82 15 OFFCURVE",
-"97 38 OFFCURVE",
-"138 73 CURVE",
-"84 93 OFFCURVE",
-"58 119 OFFCURVE",
-"63 152 CURVE",
-"66 179 OFFCURVE",
-"87 215 OFFCURVE",
-"125 259 CURVE SMOOTH",
-"148 285 OFFCURVE",
-"168 298 OFFCURVE",
-"184 298 CURVE SMOOTH",
-"218 298 OFFCURVE",
-"233 279 OFFCURVE",
-"230 242 CURVE SMOOTH",
-"229 229 OFFCURVE",
-"224 216 OFFCURVE",
-"217 204 CURVE SMOOTH",
-"210 192 OFFCURVE",
-"201 190 OFFCURVE",
-"192 199 CURVE SMOOTH",
-"162 228 OFFCURVE",
-"140 232 OFFCURVE",
-"127 214 CURVE SMOOTH",
-"113 193 OFFCURVE",
-"125 174 OFFCURVE",
-"163 156 CURVE SMOOTH",
-"186 145 OFFCURVE",
-"212 142 OFFCURVE",
-"243 148 CURVE SMOOTH",
-"252 150 OFFCURVE",
-"262 154 OFFCURVE",
-"274 161 CURVE SMOOTH",
-"286 168 OFFCURVE",
-"297 172 OFFCURVE",
-"305 174 CURVE",
-"318 176 OFFCURVE",
-"321 168 OFFCURVE",
-"316 151 CURVE SMOOTH",
-"308 125 LINE SMOOTH"
+(305,116,o),
+(301,109,o),
+(295,105,c),
+(245,87,o),
+(183,54,o),
+(109,4,cs),
+(102,0,o),
+(97,0,o),
+(93,4,cs),
+(82,15,o),
+(97,38,o),
+(138,73,c),
+(84,93,o),
+(58,119,o),
+(63,152,c),
+(66,179,o),
+(87,215,o),
+(125,259,cs),
+(148,285,o),
+(168,298,o),
+(184,298,cs),
+(218,298,o),
+(233,279,o),
+(230,242,cs),
+(229,229,o),
+(224,216,o),
+(217,204,cs),
+(210,192,o),
+(201,190,o),
+(192,199,cs),
+(162,228,o),
+(140,232,o),
+(127,214,cs),
+(113,193,o),
+(125,174,o),
+(163,156,cs),
+(186,145,o),
+(212,142,o),
+(243,148,cs),
+(252,150,o),
+(262,154,o),
+(274,161,cs),
+(286,168,o),
+(297,172,o),
+(305,174,c),
+(318,176,o),
+(321,168,o),
+(316,151,cs),
+(308,125,ls)
 );
 }
 );
@@ -75,69 +75,69 @@ width = 381;
 anchors = (
 {
 name = TashkilAbove;
-position = "{146, 342}";
+pos = (146,342);
 },
 {
 name = TashkilBelow;
-position = "{210, 29}";
+pos = (210,29);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"223 305 OFFCURVE",
-"241 284 OFFCURVE",
-"237 242 CURVE",
-"235 222 OFFCURVE",
-"229 206 OFFCURVE",
-"219 195 CURVE SMOOTH",
-"209 184 OFFCURVE",
-"199 183 OFFCURVE",
-"187 193 CURVE",
-"159 219 OFFCURVE",
-"140 224 OFFCURVE",
-"131 206 CURVE",
-"124 192 OFFCURVE",
-"134 179 OFFCURVE",
-"160 166 CURVE SMOOTH",
-"200 147 OFFCURVE",
-"237 147 OFFCURVE",
-"271 167 CURVE SMOOTH",
-"291 178 OFFCURVE",
-"305 183 OFFCURVE",
-"315 180 CURVE SMOOTH",
-"325 177 OFFCURVE",
-"328 167 OFFCURVE",
-"323 149 CURVE SMOOTH",
-"315 123 LINE",
-"311 110 OFFCURVE",
-"305 101 OFFCURVE",
-"298 98 CURVE",
-"248 80 OFFCURVE",
-"186 47 OFFCURVE",
-"113 -2 CURVE",
-"103 -8 OFFCURVE",
-"95 -8 OFFCURVE",
-"88 -1 CURVE",
-"74 13 OFFCURVE",
-"86 36 OFFCURVE",
-"124 70 CURVE",
-"75 91 OFFCURVE",
-"52 117 OFFCURVE",
-"56 149 CURVE SMOOTH",
-"60 181 OFFCURVE",
-"82 219 OFFCURVE",
-"120 264 CURVE SMOOTH",
-"144 292 OFFCURVE",
-"166 306 OFFCURVE",
-"184 306 CURVE SMOOTH"
+(223,305,o),
+(241,284,o),
+(237,242,c),
+(235,222,o),
+(229,206,o),
+(219,195,cs),
+(209,184,o),
+(199,183,o),
+(187,193,c),
+(159,219,o),
+(140,224,o),
+(131,206,c),
+(124,192,o),
+(134,179,o),
+(160,166,cs),
+(200,147,o),
+(237,147,o),
+(271,167,cs),
+(291,178,o),
+(305,183,o),
+(315,180,cs),
+(325,177,o),
+(328,167,o),
+(323,149,cs),
+(315,123,l),
+(311,110,o),
+(305,101,o),
+(298,98,c),
+(248,80,o),
+(186,47,o),
+(113,-2,c),
+(103,-8,o),
+(95,-8,o),
+(88,-1,c),
+(74,13,o),
+(86,36,o),
+(124,70,c),
+(75,91,o),
+(52,117,o),
+(56,149,cs),
+(60,181,o),
+(82,219,o),
+(120,264,cs),
+(144,292,o),
+(166,306,o),
+(184,306,cs)
 );
 }
 );
 width = 381;
 }
 );
-unicode = 0621;
+unicode = 1569;
 }

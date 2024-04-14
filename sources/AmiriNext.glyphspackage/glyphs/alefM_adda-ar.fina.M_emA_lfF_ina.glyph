@@ -5,40 +5,40 @@ layers = (
 anchors = (
 {
 name = entry;
-position = "{292, -102}";
-}
-);
-components = (
-{
-name = aAlf.fina.MemAlfFina;
-transform = "{1, 0, 0, 1, 98, 0}";
-},
-{
-name = "madda-ar";
-transform = "{1, 0, 0, 1, 146, -5}";
+pos = (292,-102);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
+{
+pos = (98,0);
+ref = aAlf.fina.MemAlfFina;
+},
+{
+pos = (146,-5);
+ref = "madda-ar";
+}
+);
 width = 291;
 },
 {
 anchors = (
 {
 name = entry;
-position = "{292, -102}";
-}
-);
-components = (
-{
-name = aAlf.fina.MemAlfFina;
-transform = "{1, 0, 0, 1, 98, 0}";
-},
-{
-name = "madda-ar";
-transform = "{1, 0, 0, 1, 146, -5}";
+pos = (292,-102);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
+{
+pos = (98,0);
+ref = aAlf.fina.MemAlfFina;
+},
+{
+pos = (146,-5);
+ref = "madda-ar";
+}
+);
 width = 291;
 }
 );

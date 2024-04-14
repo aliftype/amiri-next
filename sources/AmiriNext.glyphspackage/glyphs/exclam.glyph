@@ -2,93 +2,89 @@
 glyphname = exclam;
 layers = (
 {
-components = (
-{
-name = dot.2;
-transform = "{1, 0, 0, 1, -39, 0}";
-}
-);
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"136 666 OFFCURVE",
-"147 660 OFFCURVE",
-"154 648 CURVE SMOOTH",
-"161 636 OFFCURVE",
-"165 623 OFFCURVE",
-"165 609 CURVE SMOOTH",
-"165 539 OFFCURVE",
-"154 393 OFFCURVE",
-"131 168 CURVE",
-"127 160 OFFCURVE",
-"122 156 OFFCURVE",
-"115 155 CURVE",
-"109 158 OFFCURVE",
-"105 161 OFFCURVE",
-"103 166 CURVE",
-"83 391 OFFCURVE",
-"73 538 OFFCURVE",
-"73 609 CURVE SMOOTH",
-"73 623 OFFCURVE",
-"78 636 OFFCURVE",
-"87 648 CURVE SMOOTH",
-"96 660 OFFCURVE",
-"108 666 OFFCURVE",
-"122 666 CURVE SMOOTH"
+(136,666,o),
+(147,660,o),
+(154,648,cs),
+(161,636,o),
+(165,623,o),
+(165,609,cs),
+(165,539,o),
+(154,393,o),
+(131,168,c),
+(127,160,o),
+(122,156,o),
+(115,155,c),
+(109,158,o),
+(105,161,o),
+(103,166,c),
+(83,391,o),
+(73,538,o),
+(73,609,cs),
+(73,623,o),
+(78,636,o),
+(87,648,cs),
+(96,660,o),
+(108,666,o),
+(122,666,cs)
 );
+},
+{
+pos = (-39,0);
+ref = dot.2;
 }
 );
 width = 235;
 },
 {
-components = (
-{
-name = dot.2;
-transform = "{1, 0, 0, 1, -27, 0}";
-}
-);
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"151 671 OFFCURVE",
-"165 665 OFFCURVE",
-"177 653 CURVE SMOOTH",
-"189 641 OFFCURVE",
-"195 624 OFFCURVE",
-"195 604 CURVE SMOOTH",
-"195 591 OFFCURVE",
-"190 535 OFFCURVE",
-"180 435 CURVE SMOOTH",
-"171 358 OFFCURVE",
-"162 285 OFFCURVE",
-"154 216 CURVE SMOOTH",
-"152 199 OFFCURVE",
-"146 191 OFFCURVE",
-"134 191 CURVE SMOOTH",
-"121 191 OFFCURVE",
-"113 200 OFFCURVE",
-"111 217 CURVE SMOOTH",
-"101 291 OFFCURVE",
-"93 360 OFFCURVE",
-"86 424 CURVE SMOOTH",
-"76 522 OFFCURVE",
-"70 582 OFFCURVE",
-"70 605 CURVE SMOOTH",
-"70 625 OFFCURVE",
-"77 641 OFFCURVE",
-"89 653 CURVE SMOOTH",
-"101 665 OFFCURVE",
-"117 671 OFFCURVE",
-"135 671 CURVE SMOOTH"
+(151,671,o),
+(165,665,o),
+(177,653,cs),
+(189,641,o),
+(195,624,o),
+(195,604,cs),
+(195,591,o),
+(190,535,o),
+(180,435,cs),
+(171,358,o),
+(162,285,o),
+(154,216,cs),
+(152,199,o),
+(146,191,o),
+(134,191,cs),
+(121,191,o),
+(113,200,o),
+(111,217,cs),
+(101,291,o),
+(93,360,o),
+(86,424,cs),
+(76,522,o),
+(70,582,o),
+(70,605,cs),
+(70,625,o),
+(77,641,o),
+(89,653,cs),
+(101,665,o),
+(117,671,o),
+(135,671,cs)
 );
+},
+{
+pos = (-27,0);
+ref = dot.2;
 }
 );
 width = 263;
 }
 );
-unicode = 0021;
+unicode = 33;
 }

@@ -5,39 +5,39 @@ layers = (
 anchors = (
 {
 name = TashkilTashkilAbove;
-position = "{156, 1060}";
+pos = (156,1060);
 },
 {
 name = _MarkAbove;
-position = "{156, 845}";
+pos = (156,845);
 },
 {
 name = _TashkilAbove;
-position = "{156, 845}";
+pos = (156,845);
 },
 {
 name = _TashkilAboveDot;
-position = "{156, 845}";
+pos = (156,845);
 },
 {
 name = _TashkilTashkilAbove;
-position = "{156, 845}";
+pos = (156,845);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"95 1048 LINE",
-"244 977 LINE",
-"252 964 LINE",
-"106 878 LINE",
-"55 849 LINE",
-"48 862 LINE",
-"185 942 LINE",
-"52 1006 LINE",
-"45 1019 LINE"
+(95,1048,l),
+(244,977,l),
+(252,964,l),
+(106,878,l),
+(55,849,l),
+(48,862,l),
+(185,942,l),
+(52,1006,l),
+(45,1019,l)
 );
 }
 );
@@ -47,40 +47,40 @@ width = 0;
 anchors = (
 {
 name = _MarkAbove;
-position = "{156, 801}";
+pos = (156,801);
 },
 {
 name = _TashkilAbove;
-position = "{156, 801}";
+pos = (156,801);
 },
 {
 name = _TashkilAboveDot;
-position = "{156, 801}";
+pos = (156,801);
 },
 {
 name = _TashkilTashkilAbove;
-position = "{156, 801}";
+pos = (156,801);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"95 1056 LINE",
-"250 982 LINE",
-"262 961 LINE",
-"110 872 LINE",
-"53 839 LINE",
-"38 864 LINE",
-"169 942 LINE",
-"47 1000 LINE",
-"35 1021 LINE"
+(95,1056,l),
+(250,982,l),
+(262,961,l),
+(110,872,l),
+(53,839,l),
+(38,864,l),
+(169,942,l),
+(47,1000,l),
+(35,1021,l)
 );
 }
 );
 width = 0;
 }
 );
-unicode = 08F8;
+unicode = 2296;
 }

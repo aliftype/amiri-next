@@ -5,38 +5,38 @@ layers = (
 anchors = (
 {
 name = _MarkAbove;
-position = "{268, 801}";
+pos = (268,801);
 },
 {
 name = _TashkilAbove;
-position = "{271, 801}";
+pos = (271,801);
 },
 {
 name = _TashkilAboveDot;
-position = "{271, 801}";
+pos = (271,801);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"112 845 OFFCURVE",
-"108 851 OFFCURVE",
-"121 863 CURVE SMOOTH",
-"146 886 LINE SMOOTH",
-"153 892 OFFCURVE",
-"163 896 OFFCURVE",
-"177 896 CURVE SMOOTH",
-"411 896 LINE SMOOTH",
-"431 896 OFFCURVE",
-"435 889 OFFCURVE",
-"422 877 CURVE SMOOTH",
-"396 854 LINE SMOOTH",
-"389 848 OFFCURVE",
-"380 845 OFFCURVE",
-"366 845 CURVE SMOOTH",
-"132 845 LINE SMOOTH"
+(112,845,o),
+(108,851,o),
+(121,863,cs),
+(146,886,ls),
+(153,892,o),
+(163,896,o),
+(177,896,cs),
+(411,896,ls),
+(431,896,o),
+(435,889,o),
+(422,877,cs),
+(396,854,ls),
+(389,848,o),
+(380,845,o),
+(366,845,cs),
+(132,845,ls)
 );
 }
 );
@@ -46,49 +46,49 @@ width = 0;
 anchors = (
 {
 name = _MarkAbove;
-position = "{268, 801}";
+pos = (268,801);
 },
 {
 name = _TashkilAbove;
-position = "{271, 801}";
+pos = (271,801);
 },
 {
 name = _TashkilAboveDot;
-position = "{271, 801}";
+pos = (271,801);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"121 837 OFFCURVE",
-"113 840 OFFCURVE",
-"108 845 CURVE SMOOTH",
-"103 850 OFFCURVE",
-"106 858 OFFCURVE",
-"116 868 CURVE SMOOTH",
-"142 892 LINE",
-"150 899 OFFCURVE",
-"162 903 OFFCURVE",
-"177 903 CURVE",
-"411 903 LINE SMOOTH",
-"422 903 OFFCURVE",
-"430 900 OFFCURVE",
-"435 895 CURVE SMOOTH",
-"440 890 OFFCURVE",
-"437 882 OFFCURVE",
-"427 872 CURVE SMOOTH",
-"401 849 LINE",
-"393 842 OFFCURVE",
-"381 837 OFFCURVE",
-"366 837 CURVE",
-"132 837 LINE SMOOTH"
+(121,837,o),
+(113,840,o),
+(108,845,cs),
+(103,850,o),
+(106,858,o),
+(116,868,cs),
+(142,892,l),
+(150,899,o),
+(162,903,o),
+(177,903,c),
+(411,903,ls),
+(422,903,o),
+(430,900,o),
+(435,895,cs),
+(440,890,o),
+(437,882,o),
+(427,872,cs),
+(401,849,l),
+(393,842,o),
+(381,837,o),
+(366,837,c),
+(132,837,ls)
 );
 }
 );
 width = 0;
 }
 );
-unicode = 0659;
+unicode = 1625;
 }

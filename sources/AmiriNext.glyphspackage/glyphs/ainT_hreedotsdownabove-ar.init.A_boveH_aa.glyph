@@ -5,54 +5,54 @@ layers = (
 anchors = (
 {
 name = TashkilAbove;
-position = "{185, 925}";
+pos = (185,925);
 },
 {
 name = TashkilBelow;
-position = "{461, -127}";
+pos = (461,-127);
 },
 {
 name = exit;
-position = "{-32, 205}";
-}
-);
-components = (
-{
-name = aAyn.init.AboveHaa;
-},
-{
-name = "threedotsdownabove-ar";
-transform = "{1, 0, 0, 1, 209, 657}";
+pos = (-32,205);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
+{
+ref = aAyn.init.AboveHaa;
+},
+{
+pos = (209,657);
+ref = "threedotsdownabove-ar";
+}
+);
 width = 545;
 },
 {
 anchors = (
 {
 name = TashkilAbove;
-position = "{185, 925}";
+pos = (185,925);
 },
 {
 name = TashkilBelow;
-position = "{461, -127}";
+pos = (461,-127);
 },
 {
 name = exit;
-position = "{-32, 205}";
-}
-);
-components = (
-{
-name = aAyn.init.AboveHaa;
-},
-{
-name = "threedotsdownabove-ar";
-transform = "{1, 0, 0, 1, 209, 657}";
+pos = (-32,205);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
+{
+ref = aAyn.init.AboveHaa;
+},
+{
+pos = (209,657);
+ref = "threedotsdownabove-ar";
+}
+);
 width = 545;
 }
 );

@@ -2,23 +2,23 @@
 glyphname = "sevenFarsi-ar.urd.prop";
 layers = (
 {
-components = (
+layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
 {
-name = "sevenFarsi-ar.urd";
-transform = "{1, 0, 0, 1, -52, 0}";
+pos = (-52,0);
+ref = "sevenFarsi-ar.urd";
 }
 );
-layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 width = 480;
 },
 {
-components = (
+layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
 {
-name = "sevenFarsi-ar.urd";
-transform = "{1, 0, 0, 1, -44, 0}";
+pos = (-44,0);
+ref = "sevenFarsi-ar.urd";
 }
 );
-layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 width = 510;
 }
 );

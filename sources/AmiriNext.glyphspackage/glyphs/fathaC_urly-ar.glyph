@@ -5,72 +5,72 @@ layers = (
 anchors = (
 {
 name = TashkilTashkilAbove;
-position = "{145, 955}";
+pos = (145,955);
 },
 {
 name = _MarkAbove;
-position = "{270, 800}";
+pos = (270,800);
 },
 {
 name = _TashkilAbove;
-position = "{270, 800}";
+pos = (270,800);
 },
 {
 name = _TashkilAboveDot;
-position = "{270, 800}";
+pos = (270,800);
 },
 {
 name = _TashkilTashkilAbove;
-position = "{270, 800}";
+pos = (270,800);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"352 1016 OFFCURVE",
-"363 992 OFFCURVE",
-"357 969 CURVE SMOOTH",
-"354 955 OFFCURVE",
-"345 944 OFFCURVE",
-"331 935 CURVE SMOOTH",
-"317 926 OFFCURVE",
-"293 920 OFFCURVE",
-"260 914 CURVE SMOOTH",
-"227 908 OFFCURVE",
-"206 899 OFFCURVE",
-"196 887 CURVE",
-"182 867 OFFCURVE",
-"184 846 OFFCURVE",
-"201 822 CURVE SMOOTH",
-"206 815 OFFCURVE",
-"208 812 OFFCURVE",
-"206 812 CURVE SMOOTH",
-"198 812 OFFCURVE",
-"187 821 OFFCURVE",
-"175 838 CURVE SMOOTH",
-"150 873 OFFCURVE",
-"147 899 OFFCURVE",
-"165 918 CURVE",
-"175 930 OFFCURVE",
-"197 939 OFFCURVE",
-"230 945 CURVE SMOOTH",
-"263 951 OFFCURVE",
-"286 958 OFFCURVE",
-"300 966 CURVE SMOOTH",
-"322 980 OFFCURVE",
-"331 999 OFFCURVE",
-"325 1021 CURVE SMOOTH",
-"323 1028 OFFCURVE",
-"319 1034 OFFCURVE",
-"312 1041 CURVE SMOOTH",
-"305 1048 OFFCURVE",
-"302 1052 OFFCURVE",
-"303 1056 CURVE SMOOTH",
-"304 1060 OFFCURVE",
-"312 1054 OFFCURVE",
-"326 1041 CURVE SMOOTH"
+(352,1016,o),
+(363,992,o),
+(357,969,cs),
+(354,955,o),
+(345,944,o),
+(331,935,cs),
+(317,926,o),
+(293,920,o),
+(260,914,cs),
+(227,908,o),
+(206,899,o),
+(196,887,c),
+(182,867,o),
+(184,846,o),
+(201,822,cs),
+(206,815,o),
+(208,812,o),
+(206,812,cs),
+(198,812,o),
+(187,821,o),
+(175,838,cs),
+(150,873,o),
+(147,899,o),
+(165,918,c),
+(175,930,o),
+(197,939,o),
+(230,945,cs),
+(263,951,o),
+(286,958,o),
+(300,966,cs),
+(322,980,o),
+(331,999,o),
+(325,1021,cs),
+(323,1028,o),
+(319,1034,o),
+(312,1041,cs),
+(305,1048,o),
+(302,1052,o),
+(303,1056,cs),
+(304,1060,o),
+(312,1054,o),
+(326,1041,cs)
 );
 }
 );
@@ -80,73 +80,73 @@ width = 0;
 anchors = (
 {
 name = TashkilTashkilAbove;
-position = "{145, 955}";
+pos = (145,955);
 },
 {
 name = _MarkAbove;
-position = "{268, 801}";
+pos = (268,801);
 },
 {
 name = _TashkilAbove;
-position = "{271, 801}";
+pos = (271,801);
 },
 {
 name = _TashkilAboveDot;
-position = "{271, 801}";
+pos = (271,801);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"358 1020 OFFCURVE",
-"370 992 OFFCURVE",
-"364 967 CURVE",
-"358 937 OFFCURVE",
-"325 917 OFFCURVE",
-"266 907 CURVE SMOOTH",
-"232 901 OFFCURVE",
-"211 894 OFFCURVE",
-"202 883 CURVE",
-"190 865 OFFCURVE",
-"192 846 OFFCURVE",
-"209 824 CURVE SMOOTH",
-"214 817 OFFCURVE",
-"216 812 OFFCURVE",
-"213 809 CURVE SMOOTH",
-"210 806 OFFCURVE",
-"205 805 OFFCURVE",
-"199 805 CURVE SMOOTH",
-"193 805 OFFCURVE",
-"182 815 OFFCURVE",
-"169 834 CURVE SMOOTH",
-"142 872 OFFCURVE",
-"140 901 OFFCURVE",
-"160 923 CURVE",
-"171 937 OFFCURVE",
-"194 946 OFFCURVE",
-"227 952 CURVE SMOOTH",
-"260 958 OFFCURVE",
-"283 965 OFFCURVE",
-"296 973 CURVE SMOOTH",
-"315 985 OFFCURVE",
-"323 1000 OFFCURVE",
-"318 1019 CURVE SMOOTH",
-"316 1025 OFFCURVE",
-"311 1030 OFFCURVE",
-"304 1037 CURVE SMOOTH",
-"297 1044 OFFCURVE",
-"294 1052 OFFCURVE",
-"296 1058 CURVE SMOOTH",
-"300 1069 OFFCURVE",
-"311 1066 OFFCURVE",
-"329 1048 CURVE SMOOTH"
+(358,1020,o),
+(370,992,o),
+(364,967,c),
+(358,937,o),
+(325,917,o),
+(266,907,cs),
+(232,901,o),
+(211,894,o),
+(202,883,c),
+(190,865,o),
+(192,846,o),
+(209,824,cs),
+(214,817,o),
+(216,812,o),
+(213,809,cs),
+(210,806,o),
+(205,805,o),
+(199,805,cs),
+(193,805,o),
+(182,815,o),
+(169,834,cs),
+(142,872,o),
+(140,901,o),
+(160,923,c),
+(171,937,o),
+(194,946,o),
+(227,952,cs),
+(260,958,o),
+(283,965,o),
+(296,973,cs),
+(315,985,o),
+(323,1000,o),
+(318,1019,cs),
+(316,1025,o),
+(311,1030,o),
+(304,1037,cs),
+(297,1044,o),
+(294,1052,o),
+(296,1058,cs),
+(300,1069,o),
+(311,1066,o),
+(329,1048,cs)
 );
 }
 );
 width = 0;
 }
 );
-unicode = 08E4;
+unicode = 2276;
 }

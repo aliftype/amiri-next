@@ -5,142 +5,142 @@ layers = (
 anchors = (
 {
 name = AlefAbove;
-position = "{293, 0}";
+pos = (293,0);
 },
 {
 name = DigitAbove;
-position = "{271, 269}";
+pos = (271,269);
 },
 {
 name = DigitBelow;
-position = "{368, -484}";
+pos = (368,-484);
 },
 {
 name = DotAbove;
-position = "{271, 269}";
+pos = (271,269);
 },
 {
 name = DotBelow;
-position = "{368, -484}";
+pos = (368,-484);
 },
 {
 name = HamzaAbove;
-position = "{173, 269}";
+pos = (173,269);
 },
 {
 name = HamzaBelow;
-position = "{368, -484}";
+pos = (368,-484);
 },
 {
 name = RingBelow;
-position = "{346, -288}";
+pos = (346,-288);
 },
 {
 name = Tail;
-position = "{155, 101}";
+pos = (155,101);
 },
 {
 name = TashkilAbove;
-position = "{242, 801}";
+pos = (242,801);
 },
 {
 name = TashkilBelow;
-position = "{368, -361}";
+pos = (368,-361);
 },
 {
 name = TwoDotsAbove;
-position = "{217, 269}";
+pos = (217,269);
 },
 {
 name = TwoDotsBelow;
-position = "{313, -484}";
+pos = (313,-484);
 },
 {
 name = VAbove;
-position = "{222, 269}";
-}
-);
-components = (
-{
-name = aBaa.medi.BaaYaaFina;
-transform = "{1, 0, 0, 1, 423, 0}";
-},
-{
-name = aYaa.fina.BaaYaaFina;
+pos = (222,269);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
+{
+pos = (423,0);
+ref = aBaa.medi.BaaYaaFina;
+},
+{
+ref = aYaa.fina.BaaYaaFina;
+}
+);
 width = 730;
 },
 {
 anchors = (
 {
 name = AlefAbove;
-position = "{293, 0}";
+pos = (293,0);
 },
 {
 name = DigitAbove;
-position = "{271, 269}";
+pos = (271,269);
 },
 {
 name = DigitBelow;
-position = "{368, -484}";
+pos = (368,-484);
 },
 {
 name = DotAbove;
-position = "{271, 269}";
+pos = (271,269);
 },
 {
 name = DotBelow;
-position = "{368, -484}";
+pos = (368,-484);
 },
 {
 name = HamzaAbove;
-position = "{173, 269}";
+pos = (173,269);
 },
 {
 name = HamzaBelow;
-position = "{368, -484}";
+pos = (368,-484);
 },
 {
 name = RingBelow;
-position = "{346, -288}";
+pos = (346,-288);
 },
 {
 name = Tail;
-position = "{155, 101}";
+pos = (155,101);
 },
 {
 name = TashkilAbove;
-position = "{242, 801}";
+pos = (242,801);
 },
 {
 name = TashkilBelow;
-position = "{368, -361}";
+pos = (368,-361);
 },
 {
 name = TwoDotsAbove;
-position = "{217, 269}";
+pos = (217,269);
 },
 {
 name = TwoDotsBelow;
-position = "{313, -484}";
+pos = (313,-484);
 },
 {
 name = VAbove;
-position = "{222, 269}";
-}
-);
-components = (
-{
-name = aBaa.medi.BaaYaaFina;
-transform = "{1, 0, 0, 1, 423, 0}";
-},
-{
-name = aYaa.fina.BaaYaaFina;
+pos = (222,269);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
+{
+pos = (423,0);
+ref = aBaa.medi.BaaYaaFina;
+},
+{
+ref = aYaa.fina.BaaYaaFina;
+}
+);
 width = 730;
 }
 );

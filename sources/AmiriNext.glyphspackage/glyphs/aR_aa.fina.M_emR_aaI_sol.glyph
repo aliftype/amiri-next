@@ -5,110 +5,110 @@ layers = (
 anchors = (
 {
 name = DotAbove;
-position = "{355, 416}";
+pos = (355,416);
 },
 {
 name = DotAlt;
-position = "{212, -75}";
+pos = (212,-75);
 },
 {
 name = DotBelow;
-position = "{181, -475}";
+pos = (181,-475);
 },
 {
 name = HamzaAbove;
-position = "{356, 355}";
+pos = (356,355);
 },
 {
 name = RingBelow;
-position = "{180, -263}";
+pos = (180,-263);
 },
 {
 name = Stroke;
-position = "{361, -102}";
+pos = (361,-102);
 },
 {
 name = TaaAbove;
-position = "{355, 355}";
+pos = (355,355);
 },
 {
 name = TashkilAbove;
-position = "{248, 410}";
+pos = (248,410);
 },
 {
 name = TashkilBelow;
-position = "{259, -327}";
+pos = (259,-327);
 },
 {
 name = TwoDotsAbove;
-position = "{355, 416}";
+pos = (355,416);
 },
 {
 name = VAbove;
-position = "{355, 355}";
-}
-);
-components = (
-{
-name = aRaa.fina.alt2;
+pos = (355,355);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
+{
+ref = aRaa.fina.alt2;
+}
+);
 width = 522;
 },
 {
 anchors = (
 {
 name = DotAbove;
-position = "{355, 416}";
+pos = (355,416);
 },
 {
 name = DotAlt;
-position = "{212, -75}";
+pos = (212,-75);
 },
 {
 name = DotBelow;
-position = "{181, -475}";
+pos = (181,-475);
 },
 {
 name = HamzaAbove;
-position = "{356, 355}";
+pos = (356,355);
 },
 {
 name = RingBelow;
-position = "{180, -263}";
+pos = (180,-263);
 },
 {
 name = Stroke;
-position = "{361, -102}";
+pos = (361,-102);
 },
 {
 name = TaaAbove;
-position = "{355, 355}";
+pos = (355,355);
 },
 {
 name = TashkilAbove;
-position = "{248, 801}";
+pos = (248,801);
 },
 {
 name = TashkilBelow;
-position = "{259, -327}";
+pos = (259,-327);
 },
 {
 name = TwoDotsAbove;
-position = "{355, 416}";
+pos = (355,416);
 },
 {
 name = VAbove;
-position = "{355, 355}";
-}
-);
-components = (
-{
-name = aRaa.fina.alt2;
+pos = (355,355);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
+{
+ref = aRaa.fina.alt2;
+}
+);
 width = 522;
 }
 );

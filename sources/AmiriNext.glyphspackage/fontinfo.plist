@@ -1,6 +1,12 @@
 {
 .appVersion = "3300";
-copyright = "Copyright 2010-2024 The Amiri Project Authors (https://github.com/aliftype/amiri-next).";
+.formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
 customParameters = (
 {
 name = hheaAscender;
@@ -48,8 +54,8 @@ name = "Use Typo Metrics";
 value = 1;
 },
 {
-name = "Disable Last Change";
-value = 1;
+name = "Write lastChange";
+value = 0;
 },
 {
 name = "Don't use Production Names";
@@ -66,41 +72,9 @@ value = 0;
 {
 name = "Use Line Breaks";
 value = 1;
-},
-{
-name = description;
-value = "Amiri is a classical Arabic typeface in Naskh style for typesetting books and other running text. Its design is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named.";
-},
-{
-name = license;
-value = "This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\012\012This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more details.\012\012You should have received a copy of the GNU Affero General Public License along with this program.  If not, see <https://www.gnu.org/licenses/>";
-},
-{
-name = licenseURL;
-value = "https://www.gnu.org/licenses/agpl-3.0.html";
-},
-{
-name = sampleText;
-value = "صِفْ خَلْقَ خَوْدٍ كَمِثْلِ ٱلشَّمْسِ إِذْ بَزَغَتْ يَحْظَىٰ ٱلضَّجِيعُ بِهَا نَجْلَاءَ مِعْطَارِ.";
-},
-{
-name = vendorID;
-value = ALIF;
-},
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
 }
 );
 date = "2010-05-07 21:08:01 +0000";
-designer = "Khaled Hosny";
-designerURL = "http://www.amirifont.org";
-disablesAutomaticAlignment = 1;
 familyName = "Amiri Next";
 featurePrefixes = (
 {
@@ -2569,24 +2543,24 @@ lookup kern_9 {
     pos zero-ar.prop eight-ar.prop 24;
 } kern_9;
 ";
-name = kern;
+tag = kern;
 },
 {
 code = "# Automatic Code
 ";
-name = curs;
+tag = curs;
 },
 {
 code = "# Automatic Code";
-name = kern;
+tag = kern;
 },
 {
 code = "# Automatic Code";
-name = mark;
+tag = mark;
 },
 {
 code = "# Automatic Code";
-name = mkmk;
+tag = mkmk;
 },
 {
 code = "# With ss05 on, kasra is below shadda, so move the shadda up a bit to
@@ -2594,14 +2568,20 @@ code = "# With ss05 on, kasra is below shadda, so move the shadda up a bit to
 pos shadda-ar [kasra-ar.small] <0 103 0 0>;
 pos shadda-ar [kasratan-ar.small] <0 171 0 0>;
 ";
-name = ss05;
-notes = "Name: ";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss05;
 }
 );
 fontMaster = (
 {
-ascender = 1124;
-capHeight = 646;
+axesValues = (
+400
+);
 customParameters = (
 {
 name = postscriptFullName;
@@ -2616,15 +2596,32 @@ name = postscriptWeightName;
 value = Regular;
 }
 );
-descender = -634;
 id = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
-visible = 1;
-weightValue = 400;
-xHeight = 433;
+metricValues = (
+{
+pos = 1124;
 },
 {
-ascender = 1124;
-capHeight = 646;
+pos = 646;
+},
+{
+pos = 433;
+},
+{
+},
+{
+pos = -634;
+},
+{
+}
+);
+name = Regular;
+visible = 1;
+},
+{
+axesValues = (
+700
+);
 customParameters = (
 {
 name = postscriptFullName;
@@ -2643,23 +2640,43 @@ name = weightClass;
 value = 700;
 }
 );
-descender = -634;
 iconName = SemiBold;
 id = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
-weight = Bold;
-weightValue = 700;
-xHeight = 433;
+metricValues = (
+{
+pos = 1124;
+},
+{
+pos = 646;
+},
+{
+pos = 433;
+},
+{
+},
+{
+pos = -634;
+},
+{
+}
+);
+name = Bold;
 }
 );
 instances = (
 {
-interpolationWeight = 400;
+axesValues = (
+400
+);
 instanceInterpolations = {
 "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2" = 1;
 };
 name = Regular;
 },
 {
+axesValues = (
+700
+);
 customParameters = (
 {
 name = "Remove Glyphs";
@@ -2668,17 +2685,105 @@ value = (
 );
 }
 );
-interpolationWeight = 700;
 instanceInterpolations = {
 "037FF2D3-C03F-44B0-90AB-89AFD43EFA27" = 1;
 };
 isBold = 1;
 linkStyle = Regular;
 name = Bold;
-weightClass = Bold;
+weightClass = 700;
 }
 );
-manufacturerURL = "http://www.amirifont.org";
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2010-2024 The Amiri Project Authors (https://github.com/aliftype/amiri-next).";
+}
+);
+},
+{
+key = descriptions;
+values = (
+{
+language = dflt;
+value = "Amiri is a classical Arabic typeface in Naskh style for typesetting books and other running text. Its design is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named.";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Khaled Hosny";
+}
+);
+},
+{
+key = designerURL;
+value = "http://www.amirifont.org";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License along with this program.  If not, see <https://www.gnu.org/licenses/>";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://www.gnu.org/licenses/agpl-3.0.html";
+},
+{
+key = manufacturerURL;
+value = "http://www.amirifont.org";
+},
+{
+key = sampleTexts;
+values = (
+{
+language = dflt;
+value = "صِفْ خَلْقَ خَوْدٍ كَمِثْلِ ٱلشَّمْسِ إِذْ بَزَغَتْ يَحْظَىٰ ٱلضَّجِيعُ بِهَا نَجْلَاءَ مِعْطَارِ.";
+}
+);
+},
+{
+key = vendorID;
+value = ALIF;
+}
+);
+settings = {
+disablesAutomaticAlignment = 1;
+};
 unitsPerEm = 1000;
 versionMajor = 0;
 versionMinor = 0;

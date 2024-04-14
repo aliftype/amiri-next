@@ -3,14 +3,14 @@ glyphname = overlinecomb;
 layers = (
 {
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"0 1513 LINE",
-"588 1513 LINE",
-"588 1452 LINE",
-"0 1452 LINE"
+(0,1513,l),
+(588,1513,l),
+(588,1452,l),
+(0,1452,l)
 );
 }
 );
@@ -18,21 +18,21 @@ width = 588;
 },
 {
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"0 1522 LINE",
-"588 1522 LINE",
-"588 1452 LINE",
-"0 1452 LINE"
+(0,1522,l),
+(588,1522,l),
+(588,1452,l),
+(0,1452,l)
 );
 }
 );
 width = 588;
 }
 );
-leftMetricsKey = "=0";
-rightMetricsKey = "=0";
-unicode = 0305;
+metricLeft = "=0";
+metricRight = "=0";
+unicode = 773;
 }

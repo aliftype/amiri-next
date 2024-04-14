@@ -5,38 +5,38 @@ layers = (
 anchors = (
 {
 name = TashkilBelowDot;
-position = "{20, -161}";
+pos = (20,-161);
 },
 {
 name = _DotBelowAlt;
-position = "{0, 68}";
-}
-);
-components = (
-{
-name = "twodotsverticalbelow-ar";
+pos = (0,68);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
+{
+ref = "twodotsverticalbelow-ar";
+}
+);
 width = 0;
 },
 {
 anchors = (
 {
 name = TashkilBelowDot;
-position = "{20, -161}";
+pos = (20,-161);
 },
 {
 name = _DotBelowAlt;
-position = "{0, 68}";
-}
-);
-components = (
-{
-name = "twodotsverticalbelow-ar";
+pos = (0,68);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
+{
+ref = "twodotsverticalbelow-ar";
+}
+);
 width = 0;
 }
 );

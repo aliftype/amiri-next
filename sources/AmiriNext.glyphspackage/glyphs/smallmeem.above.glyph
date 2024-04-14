@@ -1,39 +1,39 @@
 {
+category = Mark;
 glyphname = smallmeem.above;
 layers = (
 {
 anchors = (
 {
 name = _TaaAbove;
-position = "{0, 130}";
-}
-);
-components = (
-{
-name = "meemStopabove-ar";
-transform = "{1, 0, 0, 1, -119.5, -710}";
+pos = (0,130);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
+{
+pos = (-119.5,-710);
+ref = "meemStopabove-ar";
+}
+);
 width = 0;
 },
 {
 anchors = (
 {
 name = _TaaAbove;
-position = "{0, 130}";
-}
-);
-components = (
-{
-name = "meemStopabove-ar";
-transform = "{1, 0, 0, 1, -119.5, -710}";
+pos = (0,130);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
+{
+pos = (-119.5,-710);
+ref = "meemStopabove-ar";
+}
+);
 width = 0;
 }
 );
-category = Mark;
 subCategory = Nonspacing;
 }

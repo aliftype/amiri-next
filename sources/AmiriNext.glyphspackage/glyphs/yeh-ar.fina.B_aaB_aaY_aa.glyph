@@ -5,62 +5,62 @@ layers = (
 anchors = (
 {
 name = AlefAbove;
-position = "{293, 98}";
+pos = (293,98);
 },
 {
 name = DigitAbove;
-position = "{279, 388}";
+pos = (279,388);
 },
 {
 name = TashkilAbove;
-position = "{225, 801}";
+pos = (225,801);
 },
 {
 name = TashkilBelow;
-position = "{380, -547}";
-}
-);
-components = (
-{
-name = aYaa.fina.BaaBaaYaa;
-},
-{
-name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 371, -503}";
+pos = (380,-547);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
+{
+ref = aYaa.fina.BaaBaaYaa;
+},
+{
+pos = (371,-503);
+ref = "twodotshorizontalbelow-ar";
+}
+);
 width = 457;
 },
 {
 anchors = (
 {
 name = AlefAbove;
-position = "{293, 98}";
+pos = (293,98);
 },
 {
 name = DigitAbove;
-position = "{279, 388}";
+pos = (279,388);
 },
 {
 name = TashkilAbove;
-position = "{225, 801}";
+pos = (225,801);
 },
 {
 name = TashkilBelow;
-position = "{380, -547}";
-}
-);
-components = (
-{
-name = aYaa.fina.BaaBaaYaa;
-},
-{
-name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 371, -503}";
+pos = (380,-547);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
+{
+ref = aYaa.fina.BaaBaaYaa;
+},
+{
+pos = (371,-503);
+ref = "twodotshorizontalbelow-ar";
+}
+);
 width = 457;
 }
 );

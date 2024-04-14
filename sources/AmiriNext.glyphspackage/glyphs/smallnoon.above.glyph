@@ -1,47 +1,49 @@
 {
+category = Mark;
 glyphname = smallnoon.above;
 layers = (
 {
 anchors = (
 {
 name = _DigitAbove;
-position = "{0, 211}";
+pos = (0,211);
 },
 {
 name = _TaaAbove;
-position = "{0, 120}";
-}
-);
-components = (
-{
-name = "noon-ar";
-transform = "{0.4, 0, 0, 0.4, -114.608, 164.053}";
+pos = (0,120);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
+{
+pos = (-114.608,164.053);
+ref = "noon-ar";
+scale = (0.4,0.4);
+}
+);
 width = 0;
 },
 {
 anchors = (
 {
 name = _DigitAbove;
-position = "{0, 211}";
+pos = (0,211);
 },
 {
 name = _TaaAbove;
-position = "{0, 120}";
-}
-);
-components = (
-{
-name = "noon-ar";
-transform = "{0.4, 0, 0, 0.4, -114.608, 164.053}";
+pos = (0,120);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
+{
+pos = (-114.608,164.053);
+ref = "noon-ar";
+scale = (0.4,0.4);
+}
+);
 width = 0;
 }
 );
-category = Mark;
 subCategory = Nonspacing;
 }

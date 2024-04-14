@@ -5,50 +5,50 @@ layers = (
 anchors = (
 {
 name = AlefAbove;
-position = "{93, 244}";
+pos = (93,244);
 },
 {
 name = HamzaAbove;
-position = "{93, 244}";
+pos = (93,244);
 },
 {
 name = HamzaBelow;
-position = "{93, -92.773}";
+pos = (93,-92.773);
 },
 {
 name = MarkAbove;
-position = "{93, 801}";
+pos = (93,801);
 },
 {
 name = MarkBelow;
-position = "{93, -327}";
+pos = (93,-327);
 },
 {
 name = NoonAbove;
-position = "{93, 244}";
+pos = (93,244);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"-6 0 OFFCURVE",
-"-10 5 OFFCURVE",
-"-13 15 CURVE SMOOTH",
-"-25 59 LINE SMOOTH",
-"-31 81 OFFCURVE",
-"-22 91 OFFCURVE",
-"0 90 CURVE SMOOTH",
-"186 90 LINE SMOOTH",
-"208 91 OFFCURVE",
-"217 81 OFFCURVE",
-"211 59 CURVE SMOOTH",
-"198 15 LINE SMOOTH",
-"195 5 OFFCURVE",
-"192 0 OFFCURVE",
-"186 0 CURVE SMOOTH",
-"0 0 LINE SMOOTH"
+(-6,0,o),
+(-10,5,o),
+(-13,15,cs),
+(-25,59,ls),
+(-31,81,o),
+(-22,91,o),
+(0,90,cs),
+(186,90,ls),
+(208,91,o),
+(217,81,o),
+(211,59,cs),
+(198,15,ls),
+(195,5,o),
+(192,0,o),
+(186,0,cs),
+(0,0,ls)
 );
 }
 );
@@ -58,58 +58,58 @@ width = 185;
 anchors = (
 {
 name = AlefAbove;
-position = "{93, 244}";
+pos = (93,244);
 },
 {
 name = HamzaAbove;
-position = "{93, 244}";
+pos = (93,244);
 },
 {
 name = HamzaBelow;
-position = "{93, -92.773}";
+pos = (93,-92.773);
 },
 {
 name = MarkAbove;
-position = "{93, 801}";
+pos = (93,801);
 },
 {
 name = MarkBelow;
-position = "{93, -327}";
+pos = (93,-327);
 },
 {
 name = NoonAbove;
-position = "{93, 244}";
+pos = (93,244);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"-13 -15 OFFCURVE",
-"-22 -6 OFFCURVE",
-"-27 11 CURVE SMOOTH",
-"-40 55 LINE",
-"-46 87 OFFCURVE",
-"-32 104 OFFCURVE",
-"0 104 CURVE SMOOTH",
-"186 104 LINE SMOOTH",
-"214 104 OFFCURVE",
-"227 92 OFFCURVE",
-"227 69 CURVE SMOOTH",
-"227 63 OFFCURVE",
-"226 59 OFFCURVE",
-"225 55 CURVE SMOOTH",
-"212 11 LINE SMOOTH",
-"207 -6 OFFCURVE",
-"198 -15 OFFCURVE",
-"186 -15 CURVE SMOOTH",
-"0 -15 LINE SMOOTH"
+(-13,-15,o),
+(-22,-6,o),
+(-27,11,cs),
+(-40,55,l),
+(-46,87,o),
+(-32,104,o),
+(0,104,cs),
+(186,104,ls),
+(214,104,o),
+(227,92,o),
+(227,69,cs),
+(227,63,o),
+(226,59,o),
+(225,55,cs),
+(212,11,ls),
+(207,-6,o),
+(198,-15,o),
+(186,-15,cs),
+(0,-15,ls)
 );
 }
 );
 width = 185;
 }
 );
-unicode = 0640;
+unicode = 1600;
 }

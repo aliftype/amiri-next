@@ -5,76 +5,76 @@ layers = (
 anchors = (
 {
 name = _MarkAbove;
-position = "{244, 801}";
+pos = (244,801);
 },
 {
 name = _TashkilAbove;
-position = "{244, 801}";
+pos = (244,801);
 },
 {
 name = _TashkilAboveDot;
-position = "{244, 801}";
+pos = (244,801);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"277 1056 OFFCURVE",
-"285 1054 OFFCURVE",
-"290 1047 CURVE SMOOTH",
-"295 1040 OFFCURVE",
-"296 1031 OFFCURVE",
-"297 1019 CURVE SMOOTH",
-"298 1007 OFFCURVE",
-"293 987 OFFCURVE",
-"282 962 CURVE",
-"291 956 OFFCURVE",
-"298 952 OFFCURVE",
-"302 950 CURVE SMOOTH",
-"306 948 OFFCURVE",
-"307 944 OFFCURVE",
-"304 937 CURVE SMOOTH",
-"294 917 LINE SMOOTH",
-"291 911 OFFCURVE",
-"281 914 OFFCURVE",
-"262 925 CURVE",
-"232 886 OFFCURVE",
-"204 860 OFFCURVE",
-"180 847 CURVE SMOOTH",
-"169 841 OFFCURVE",
-"162 840 OFFCURVE",
-"159 845 CURVE SMOOTH",
-"156 850 OFFCURVE",
-"160 857 OFFCURVE",
-"174 867 CURVE SMOOTH",
-"200 886 OFFCURVE",
-"224 908 OFFCURVE",
-"245 936 CURVE",
-"212 952 OFFCURVE",
-"201 973 OFFCURVE",
-"213 998 CURVE SMOOTH",
-"228 1029 OFFCURVE",
-"247 1048 OFFCURVE",
-"269 1054 CURVE SMOOTH"
+(277,1056,o),
+(285,1054,o),
+(290,1047,cs),
+(295,1040,o),
+(296,1031,o),
+(297,1019,cs),
+(298,1007,o),
+(293,987,o),
+(282,962,c),
+(291,956,o),
+(298,952,o),
+(302,950,cs),
+(306,948,o),
+(307,944,o),
+(304,937,cs),
+(294,917,ls),
+(291,911,o),
+(281,914,o),
+(262,925,c),
+(232,886,o),
+(204,860,o),
+(180,847,cs),
+(169,841,o),
+(162,840,o),
+(159,845,cs),
+(156,850,o),
+(160,857,o),
+(174,867,cs),
+(200,886,o),
+(224,908,o),
+(245,936,c),
+(212,952,o),
+(201,973,o),
+(213,998,cs),
+(228,1029,o),
+(247,1048,o),
+(269,1054,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"260 1007 OFFCURVE",
-"253 1009 OFFCURVE",
-"243 1005 CURVE SMOOTH",
-"233 1001 OFFCURVE",
-"229 997 OFFCURVE",
-"232 994 CURVE SMOOTH",
-"237 988 OFFCURVE",
-"248 980 OFFCURVE",
-"264 972 CURVE",
-"268 984 OFFCURVE",
-"268 993 OFFCURVE",
-"264 1000 CURVE SMOOTH"
+(260,1007,o),
+(253,1009,o),
+(243,1005,cs),
+(233,1001,o),
+(229,997,o),
+(232,994,cs),
+(237,988,o),
+(248,980,o),
+(264,972,c),
+(268,984,o),
+(268,993,o),
+(264,1000,cs)
 );
 }
 );
@@ -84,75 +84,75 @@ width = 0;
 anchors = (
 {
 name = _MarkAbove;
-position = "{244, 801}";
+pos = (244,801);
 },
 {
 name = _TashkilAbove;
-position = "{244, 801}";
+pos = (244,801);
 },
 {
 name = _TashkilAboveDot;
-position = "{244, 801}";
+pos = (244,801);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"279 1062 OFFCURVE",
-"286 1058 OFFCURVE",
-"292 1050 CURVE SMOOTH",
-"305 1031 OFFCURVE",
-"304 1002 OFFCURVE",
-"288 964 CURVE",
-"295 959 OFFCURVE",
-"302 956 OFFCURVE",
-"307 953 CURVE SMOOTH",
-"312 950 OFFCURVE",
-"312 944 OFFCURVE",
-"308 935 CURVE SMOOTH",
-"298 916 LINE SMOOTH",
-"294 908 OFFCURVE",
-"282 908 OFFCURVE",
-"263 919 CURVE",
-"233 882 OFFCURVE",
-"207 856 OFFCURVE",
-"183 843 CURVE",
-"169 836 OFFCURVE",
-"160 835 OFFCURVE",
-"155 842 CURVE",
-"150 849 OFFCURVE",
-"158 861 OFFCURVE",
-"178 875 CURVE SMOOTH",
-"198 889 OFFCURVE",
-"217 910 OFFCURVE",
-"237 935 CURVE",
-"206 952 OFFCURVE",
-"197 974 OFFCURVE",
-"209 1000 CURVE SMOOTH",
-"224 1033 OFFCURVE",
-"244 1052 OFFCURVE",
-"268 1059 CURVE"
+(279,1062,o),
+(286,1058,o),
+(292,1050,cs),
+(305,1031,o),
+(304,1002,o),
+(288,964,c),
+(295,959,o),
+(302,956,o),
+(307,953,cs),
+(312,950,o),
+(312,944,o),
+(308,935,cs),
+(298,916,ls),
+(294,908,o),
+(282,908,o),
+(263,919,c),
+(233,882,o),
+(207,856,o),
+(183,843,c),
+(169,836,o),
+(160,835,o),
+(155,842,c),
+(150,849,o),
+(158,861,o),
+(178,875,cs),
+(198,889,o),
+(217,910,o),
+(237,935,c),
+(206,952,o),
+(197,974,o),
+(209,1000,cs),
+(224,1033,o),
+(244,1052,o),
+(268,1059,c)
 );
 },
 {
 closed = 1;
 nodes = (
-"254 1004 OFFCURVE",
-"247 1004 OFFCURVE",
-"237 996 CURVE",
-"242 991 OFFCURVE",
-"250 985 OFFCURVE",
-"261 979 CURVE",
-"262 987 OFFCURVE",
-"261 993 OFFCURVE",
-"259 998 CURVE"
+(254,1004,o),
+(247,1004,o),
+(237,996,c),
+(242,991,o),
+(250,985,o),
+(261,979,c),
+(262,987,o),
+(261,993,o),
+(259,998,c)
 );
 }
 );
 width = 0;
 }
 );
-unicode = 0619;
+unicode = 1561;
 }

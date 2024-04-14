@@ -2,21 +2,21 @@
 glyphname = "threeFarsi-ar.prop";
 layers = (
 {
-components = (
+layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
 {
-name = "three-ar.prop";
+ref = "three-ar.prop";
 }
 );
-layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 width = 548;
 },
 {
-components = (
+layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
 {
-name = "three-ar.prop";
+ref = "three-ar.prop";
 }
 );
-layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 width = 572;
 }
 );

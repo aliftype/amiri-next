@@ -5,85 +5,83 @@ layers = (
 anchors = (
 {
 name = _MarkAbove;
-position = "{268, 801}";
+pos = (268,801);
 },
 {
 name = _TashkilAbove;
-position = "{271, 801}";
+pos = (271,801);
 },
 {
 name = _TashkilAboveDot;
-position = "{271, 801}";
-}
-);
-components = (
-{
-name = "fatha-ar";
+pos = (271,801);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"153 1018 OFFCURVE",
-"154 1018 OFFCURVE",
-"155 1018 CURVE SMOOTH",
-"164 1018 OFFCURVE",
-"176 1011 OFFCURVE",
-"192 997 CURVE SMOOTH",
-"193 996 OFFCURVE",
-"194 994 OFFCURVE",
-"193 992 CURVE SMOOTH",
-"169 955 LINE SMOOTH",
-"168 953 OFFCURVE",
-"167 953 OFFCURVE",
-"165 955 CURVE SMOOTH",
-"163 957 OFFCURVE",
-"156 961 OFFCURVE",
-"145 968 CURVE SMOOTH",
-"134 975 OFFCURVE",
-"128 978 OFFCURVE",
-"128 979 CURVE SMOOTH",
-"128 980 OFFCURVE",
-"128 980 OFFCURVE",
-"128 980 CURVE SMOOTH",
-"153 1017 LINE SMOOTH"
+(153,1018,o),
+(154,1018,o),
+(155,1018,cs),
+(164,1018,o),
+(176,1011,o),
+(192,997,cs),
+(193,996,o),
+(194,994,o),
+(193,992,cs),
+(169,955,ls),
+(168,953,o),
+(167,953,o),
+(165,955,cs),
+(163,957,o),
+(156,961,o),
+(145,968,cs),
+(134,975,o),
+(128,978,o),
+(128,979,cs),
+(128,980,o),
+(128,980,o),
+(128,980,cs),
+(153,1017,ls)
 );
 },
 {
 closed = 1;
 nodes = (
-"332 913 OFFCURVE",
-"332 913 OFFCURVE",
-"333 913 CURVE SMOOTH",
-"334 913 OFFCURVE",
-"338 912 OFFCURVE",
-"346 909 CURVE SMOOTH",
-"354 906 OFFCURVE",
-"359 902 OFFCURVE",
-"364 897 CURVE SMOOTH",
-"369 891 OFFCURVE",
-"372 888 OFFCURVE",
-"371 887 CURVE SMOOTH",
-"347 850 LINE SMOOTH",
-"347 849 OFFCURVE",
-"347 849 OFFCURVE",
-"346 849 CURVE SMOOTH",
-"345 849 OFFCURVE",
-"342 851 OFFCURVE",
-"335 856 CURVE SMOOTH",
-"328 861 OFFCURVE",
-"322 865 OFFCURVE",
-"315 868 CURVE SMOOTH",
-"308 871 OFFCURVE",
-"306 873 OFFCURVE",
-"306 874 CURVE SMOOTH",
-"306 875 OFFCURVE",
-"306 875 OFFCURVE",
-"306 875 CURVE SMOOTH",
-"331 912 LINE SMOOTH"
+(332,913,o),
+(332,913,o),
+(333,913,cs),
+(334,913,o),
+(338,912,o),
+(346,909,cs),
+(354,906,o),
+(359,902,o),
+(364,897,cs),
+(369,891,o),
+(372,888,o),
+(371,887,cs),
+(347,850,ls),
+(347,849,o),
+(347,849,o),
+(346,849,cs),
+(345,849,o),
+(342,851,o),
+(335,856,cs),
+(328,861,o),
+(322,865,o),
+(315,868,cs),
+(308,871,o),
+(306,873,o),
+(306,874,cs),
+(306,875,o),
+(306,875,o),
+(306,875,cs),
+(331,912,ls)
 );
+},
+{
+ref = "fatha-ar";
 }
 );
 width = 0;
@@ -92,85 +90,83 @@ width = 0;
 anchors = (
 {
 name = _MarkAbove;
-position = "{268, 801}";
+pos = (268,801);
 },
 {
 name = _TashkilAbove;
-position = "{271, 801}";
+pos = (271,801);
 },
 {
 name = _TashkilAboveDot;
-position = "{271, 801}";
-}
-);
-components = (
-{
-name = "fatha-ar";
+pos = (271,801);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"148 1023 OFFCURVE",
-"154 1025 OFFCURVE",
-"161 1025 CURVE SMOOTH",
-"168 1025 OFFCURVE",
-"180 1017 OFFCURVE",
-"197 1002 CURVE",
-"201 997 OFFCURVE",
-"202 993 OFFCURVE",
-"200 988 CURVE",
-"176 951 LINE",
-"172 946 OFFCURVE",
-"168 945 OFFCURVE",
-"163 948 CURVE SMOOTH",
-"152 955 OFFCURVE",
-"143 961 OFFCURVE",
-"134 965 CURVE",
-"126 970 OFFCURVE",
-"122 975 OFFCURVE",
-"121 979 CURVE",
-"122 983 LINE",
-"146 1020 LINE SMOOTH"
+(148,1023,o),
+(154,1025,o),
+(161,1025,cs),
+(168,1025,o),
+(180,1017,o),
+(197,1002,c),
+(201,997,o),
+(202,993,o),
+(200,988,c),
+(176,951,l),
+(172,946,o),
+(168,945,o),
+(163,948,cs),
+(152,955,o),
+(143,961,o),
+(134,965,c),
+(126,970,o),
+(122,975,o),
+(121,979,c),
+(122,983,l),
+(146,1020,ls)
 );
 },
 {
 closed = 1;
 nodes = (
-"327 919 OFFCURVE",
-"329 920 OFFCURVE",
-"332 920 CURVE SMOOTH",
-"335 920 OFFCURVE",
-"340 919 OFFCURVE",
-"349 916 CURVE SMOOTH",
-"357 913 OFFCURVE",
-"363 910 OFFCURVE",
-"366 907 CURVE SMOOTH",
-"369 904 OFFCURVE",
-"372 900 OFFCURVE",
-"376 896 CURVE SMOOTH",
-"380 892 OFFCURVE",
-"380 888 OFFCURVE",
-"377 883 CURVE SMOOTH",
-"354 846 LINE",
-"349 840 OFFCURVE",
-"341 840 OFFCURVE",
-"333 848 CURVE SMOOTH",
-"325 855 OFFCURVE",
-"317 861 OFFCURVE",
-"310 863 CURVE SMOOTH",
-"303 865 OFFCURVE",
-"298 869 OFFCURVE",
-"298 874 CURVE",
-"299 878 LINE",
-"325 916 LINE"
+(327,919,o),
+(329,920,o),
+(332,920,cs),
+(335,920,o),
+(340,919,o),
+(349,916,cs),
+(357,913,o),
+(363,910,o),
+(366,907,cs),
+(369,904,o),
+(372,900,o),
+(376,896,cs),
+(380,892,o),
+(380,888,o),
+(377,883,cs),
+(354,846,l),
+(349,840,o),
+(341,840,o),
+(333,848,cs),
+(325,855,o),
+(317,861,o),
+(310,863,cs),
+(303,865,o),
+(298,869,o),
+(298,874,c),
+(299,878,l),
+(325,916,l)
 );
+},
+{
+ref = "fatha-ar";
 }
 );
 width = 0;
 }
 );
-unicode = 065E;
+unicode = 1630;
 }

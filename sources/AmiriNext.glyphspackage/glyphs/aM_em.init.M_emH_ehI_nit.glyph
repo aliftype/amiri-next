@@ -5,52 +5,52 @@ layers = (
 anchors = (
 {
 name = TashkilAbove;
-position = "{186, 801}";
+pos = (186,801);
 },
 {
 name = TashkilBelow;
-position = "{190, -327}";
+pos = (190,-327);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"45 98 OFFCURVE",
-"108 144 OFFCURVE",
-"190 160 CURVE",
-"171 188 LINE SMOOTH",
-"165 197 OFFCURVE",
-"164 206 OFFCURVE",
-"168 215 CURVE SMOOTH",
-"188 255 OFFCURVE",
-"203 281 OFFCURVE",
-"215 294 CURVE SMOOTH",
-"223 303 OFFCURVE",
-"232 306 OFFCURVE",
-"240 301 CURVE SMOOTH",
-"290 274 OFFCURVE",
-"326 250 OFFCURVE",
-"347 229 CURVE SMOOTH",
-"354 222 OFFCURVE",
-"355 213 OFFCURVE",
-"351 200 CURVE SMOOTH",
-"345 182 OFFCURVE",
-"328 155 OFFCURVE",
-"300 120 CURVE SMOOTH",
-"293 111 OFFCURVE",
-"281 106 OFFCURVE",
-"261 105 CURVE SMOOTH",
-"155 102 OFFCURVE",
-"72 69 OFFCURVE",
-"12 7 CURVE SMOOTH",
-"7 3 OFFCURVE",
-"3 4 OFFCURVE",
-"-1 8 CURVE SMOOTH",
-"-5 12 OFFCURVE",
-"-5 16 OFFCURVE",
-"0 23 CURVE SMOOTH"
+(45,98,o),
+(108,144,o),
+(190,160,c),
+(171,188,ls),
+(165,197,o),
+(164,206,o),
+(168,215,cs),
+(188,255,o),
+(203,281,o),
+(215,294,cs),
+(223,303,o),
+(232,306,o),
+(240,301,cs),
+(290,274,o),
+(326,250,o),
+(347,229,cs),
+(354,222,o),
+(355,213,o),
+(351,200,cs),
+(345,182,o),
+(328,155,o),
+(300,120,cs),
+(293,111,o),
+(281,106,o),
+(261,105,cs),
+(155,102,o),
+(72,69,o),
+(12,7,cs),
+(7,3,o),
+(3,4,o),
+(-1,8,cs),
+(-5,12,o),
+(-5,16,o),
+(0,23,cs)
 );
 }
 );
@@ -60,52 +60,52 @@ width = 380;
 anchors = (
 {
 name = TashkilAbove;
-position = "{186, 801}";
+pos = (186,801);
 },
 {
 name = TashkilBelow;
-position = "{190, -327}";
+pos = (190,-327);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"31 103 OFFCURVE",
-"90 149 OFFCURVE",
-"166 169 CURVE",
-"159 179 LINE",
-"150 193 OFFCURVE",
-"149 207 OFFCURVE",
-"155 221 CURVE",
-"175 262 OFFCURVE",
-"192 290 OFFCURVE",
-"205 304 CURVE SMOOTH",
-"218 318 OFFCURVE",
-"232 322 OFFCURVE",
-"247 314 CURVE SMOOTH",
-"298 287 OFFCURVE",
-"335 261 OFFCURVE",
-"357 239 CURVE SMOOTH",
-"368 228 OFFCURVE",
-"370 213 OFFCURVE",
-"364 194 CURVE SMOOTH",
-"358 175 OFFCURVE",
-"340 147 OFFCURVE",
-"312 111 CURVE SMOOTH",
-"302 98 OFFCURVE",
-"285 92 OFFCURVE",
-"261 91 CURVE SMOOTH",
-"159 88 OFFCURVE",
-"79 56 OFFCURVE",
-"22 -4 CURVE",
-"10 -13 OFFCURVE",
-"-1 -12 OFFCURVE",
-"-11 -3 CURVE",
-"-20 6 OFFCURVE",
-"-21 18 OFFCURVE",
-"-13 31 CURVE SMOOTH"
+(31,103,o),
+(90,149,o),
+(166,169,c),
+(159,179,l),
+(150,193,o),
+(149,207,o),
+(155,221,c),
+(175,262,o),
+(192,290,o),
+(205,304,cs),
+(218,318,o),
+(232,322,o),
+(247,314,cs),
+(298,287,o),
+(335,261,o),
+(357,239,cs),
+(368,228,o),
+(370,213,o),
+(364,194,cs),
+(358,175,o),
+(340,147,o),
+(312,111,cs),
+(302,98,o),
+(285,92,o),
+(261,91,cs),
+(159,88,o),
+(79,56,o),
+(22,-4,c),
+(10,-13,o),
+(-1,-12,o),
+(-11,-3,c),
+(-20,6,o),
+(-21,18,o),
+(-13,31,cs)
 );
 }
 );
