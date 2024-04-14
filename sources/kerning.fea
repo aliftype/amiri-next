@@ -83,13 +83,11 @@ feature kern {
     pos @1st_4 [@Kaf_1 @Kaf_2 @Kaf_3 @Kaf_4 @Kaf_5]' -244;
 } kern;
 
-#ifndef QURAN
 feature kern {
     lookupflag IgnoreMarks;
     pos period [quotedblleft quoteleft] <-146 0 -146 0>;
     pos period.latn [quotedblright quoteright] -73;
 } kern;
-#endif
 
 # proportional digits
 feature kern {
