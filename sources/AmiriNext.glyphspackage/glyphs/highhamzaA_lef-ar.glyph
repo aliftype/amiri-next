@@ -1,4 +1,5 @@
 {
+color = 0;
 glyphname = "highhamzaAlef-ar";
 layers = (
 {
@@ -18,7 +19,7 @@ name = "alef-ar";
 },
 {
 name = "highhamza-ar";
-transform = "{1, 0, 0, 1, 217, 130}";
+transform = "{1, 0, 0, 1, 217, 0}";
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
