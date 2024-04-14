@@ -10,7 +10,7 @@ BUILDDIR=build
 SCRIPTSDIR=scripts
 FONTSDIR=fonts
 DOC=documentation
-FONTS=$(NAME)-Regular $(NAME)-Bold $(NAME)Quran $(NAME)QuranColored
+FONTS=$(NAME)-Regular $(NAME)-Bold $(NAME)Quran
 DIST=$(NAME)-$(VERSION)
 LICENSE=LICENSE
 
@@ -36,13 +36,9 @@ $(BUILDDIR)/$(NAME).designspace: $(SRC)/$(NAME).glyphspackage
 $(BUILDDIR)/%.ufo: $(BUILDDIR)/$(NAME).designspace
 	@echo "   UFO	$@"
 
-${FONTSDIR}/$(NAME)QuranColored.ttf: $(BUILDDIR)/$(NAME)-Regular.ufo $(SRC)/$(LATIN)-Regular.ufo $(SRC)/$(NAME).fea $(FEA) $(LICENSE) $(BUILD)
+${FONTSDIR}/$(NAME)Quran.ttf: $(BUILDDIR)/$(NAME)-Regular.ufo $(SRC)/$(LATIN)-Regular.ufo $(SRC)/$(NAME).fea $(FEA) $(LICENSE) $(BUILD)
 	@echo "   GEN	$@"
 	@$(PY) $(BUILD) --input $< --output $@ --features=$(SRC)/$(NAME).fea --version $(VERSION) --license $(LICENSE) --quran
-
-${FONTSDIR}/$(NAME)Quran.ttf: ${FONTSDIR}/$(NAME)QuranColored.ttf $(MAKEQURAN)
-	@echo "   GEN	$@"
-	@$(PY) $(MAKEQURAN) $< $@
 
 ${FONTSDIR}/$(NAME)-Regular.ttf: $(BUILDDIR)/$(NAME)-Regular.ufo $(SRC)/$(LATIN)-Regular.ufo $(SRC)/$(NAME).fea $(FEA) $(LICENSE) $(BUILD)
 	@echo "   GEN	$@"
