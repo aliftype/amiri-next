@@ -4,7 +4,8 @@ import re
 from fontTools.ttLib import TTFont
 from fontTools import subset
 
-LAYER = re.compile(r'.*\.l\d+$')
+LAYER = re.compile(r".*\.l\d+$")
+
 
 def rename(font):
     names = set()
@@ -16,8 +17,13 @@ def rename(font):
 
     glyphs = set(font.glyphOrder) - names
     options = subset.Options()
-    options.set(layout_features='*', name_IDs='*', name_languages='*',
-        notdef_outline=True, glyph_names=True)
+    options.set(
+        layout_features="*",
+        name_IDs="*",
+        name_languages="*",
+        notdef_outline=True,
+        glyph_names=True,
+    )
     subsetter = subset.Subsetter(options=options)
     subsetter.populate(glyphs=glyphs)
     subsetter.subset(font)
@@ -34,9 +40,15 @@ def rename(font):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Create a version of Amiri with colored marks using COLR/CPAL tables.")
-    parser.add_argument("infile", metavar="INFILE", type=str, help="input font to process")
-    parser.add_argument("outfile", metavar="OUTFILE", type=str, help="output font to write")
+    parser = argparse.ArgumentParser(
+        description="Create a version of Amiri with colored marks using COLR/CPAL tables."
+    )
+    parser.add_argument(
+        "infile", metavar="INFILE", type=str, help="input font to process"
+    )
+    parser.add_argument(
+        "outfile", metavar="OUTFILE", type=str, help="output font to write"
+    )
 
     args = parser.parse_args()
 
@@ -45,6 +57,7 @@ def main():
     rename(font)
 
     font.save(args.outfile)
+
 
 if __name__ == "__main__":
     main()
