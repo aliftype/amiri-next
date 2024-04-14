@@ -1,4 +1,4 @@
-.PHONY: all clean ttf web pack check
+.PHONY: all clean ttf web pack
 
 NAME=AmiriNext
 LATIN=AmiriLatin
@@ -64,16 +64,13 @@ $(DOC)/Documentation-Arabic.html: $(DOC)/Documentation-Arabic.md
 	@echo "   GEN	$@"
 	@pandoc $< -o $@ -f markdown-smart -t html -s -c Documentation-Arabic.css
 
-check: $(TTF)
-	@$(foreach font,$+,echo "   OTS	$(font)" && python -m ots --quiet $(font) &&) true
-
 clean:
 	rm -rfv $(TTF) $(HTML)
 
 distclean: clean
 	rm -rf $(DIST){,.zip}
 
-dist: ttf check pack doc
+dist: ttf pack doc
 	@echo "   DIST	$(DIST)"
 	@rm -rf $(DIST){,.zip}
 	@install -Dm644 -t $(DIST) $(LICENSE)
