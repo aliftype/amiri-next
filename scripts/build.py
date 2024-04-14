@@ -134,36 +134,6 @@ def makeOverLine(font, posGlyph="qafLamAlefMaksuraabove-ar"):
     font.features.text += str(mark)
 
 
-def scaleGlyph(font, glyph, scale):
-    """Scales the glyph, but keeps it centered around its original bounding
-    box."""
-    from fontTools.pens.recordingPen import RecordingPointPen
-    from fontTools.pens.transformPen import TransformPointPen
-    from fontTools.misc.transform import Identity
-
-    width = glyph.width
-    bbox = glyph.getBounds(font)
-    x = (bbox.xMin + bbox.xMax) / 2
-    y = (bbox.yMin + bbox.yMax) / 2
-    matrix = Identity
-    matrix = matrix.translate(-x * scale + x, -y * scale + y)
-    matrix = matrix.scale(scale)
-
-    rec = RecordingPointPen()
-    glyph.drawPoints(rec)
-    glyph.clearContours()
-    glyph.clearComponents()
-
-    pen = TransformPointPen(glyph.getPointPen(), matrix)
-    rec.replay(pen)
-
-    for a in glyph.anchors:
-        a.x, a.y = matrix.transformPoint((a.x, a.y))
-
-    if width == 0:
-        glyph.width = width
-
-
 def makeQuran(font, options):
     from fontTools import subset
 
@@ -176,25 +146,6 @@ def makeQuran(font, options):
     info.postscriptFullName += " Quran Colored"
     info.openTypeNameSampleText = "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ ۝١ ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَـٰلَمِینَ ۝٢"
     info.openTypeOS2TypoAscender = info.openTypeHheaAscender = 1815
-
-    # scale some vowel marks and dots down a bit
-    marks = [
-        "fathatan-ar",
-        "dammatan-ar",
-        "fatha-ar",
-        "damma-ar",
-        "hahabove-ar",
-        "openfathatan-ar",
-        "opendammatan-ar",
-        "openkasratan-ar",
-        "twodotshorizontalabove-ar",
-        "threedotsupabove-ar",
-        "twodotsverticalabove-ar",
-    ]
-    shadda = ["shadda-ar"]
-    for scale, names in ((0.9, marks), (0.8, shadda)):
-        for name in names:
-            scaleGlyph(font, font[name], scale)
 
     # create overline glyph to be used for sajda line, it is positioned
     # vertically at the level of the base of waqf marks
