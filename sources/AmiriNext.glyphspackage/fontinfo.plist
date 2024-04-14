@@ -6839,7 +6839,7 @@ date = "2010-05-07 21:08:01 +0000";
 designer = "Khaled Hosny";
 designerURL = "http://www.amirifont.org";
 disablesAutomaticAlignment = 1;
-familyName = Amiri;
+familyName = "Amiri Next";
 fontMaster = (
 {
 ascender = 1124;
@@ -6927,6 +6927,6 @@ weightClass = Bold;
 );
 manufacturerURL = "http://www.amirifont.org";
 unitsPerEm = 1000;
-versionMajor = 1;
+versionMajor = 0;
 versionMinor = 0;
 }

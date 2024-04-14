@@ -1,6 +1,6 @@
 .PHONY: all clean ttf web pack check
 
-NAME=Amiri
+NAME=AmiriNext
 LATIN=AmiriLatin
 TAG=$(shell git describe --tags --abbrev=0)
 VERSION=$(TAG:v%=%)
