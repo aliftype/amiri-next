@@ -85,8 +85,8 @@ feature kern {
 
 feature kern {
     lookupflag IgnoreMarks;
-    pos period [quotedblleft quoteleft] <-146 0 -146 0>;
-    pos period.latn [quotedblright quoteright] -73;
+    #pos period [quotedblleft quoteleft] <-146 0 -146 0>;
+    #pos period.latn [quotedblright quoteright] -73;
 } kern;
 
 # proportional digits

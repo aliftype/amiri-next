@@ -6,4 +6,3 @@
 # Name or Organization <email address>
 
 Khaled Hosny <khaled@aliftype.com>
-Sebastian Kosch <sebastian@aldusleaf.org>

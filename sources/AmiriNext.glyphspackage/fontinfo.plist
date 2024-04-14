@@ -122,6 +122,7 @@ value = Regular;
 );
 descender = -634;
 id = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+visible = 1;
 weightValue = 400;
 xHeight = 433;
 },

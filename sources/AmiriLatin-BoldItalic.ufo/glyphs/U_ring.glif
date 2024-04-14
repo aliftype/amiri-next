@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Uring" format="2">
-  <advance width="675"/>
-  <unicode hex="016E"/>
-  <outline>
-    <component base="ringcomb.cap" xOffset="185" yOffset="66"/>
-    <component base="U"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Dcaron" format="2">
-  <advance width="743"/>
-  <unicode hex="010E"/>
-  <outline>
-    <component base="caroncomb.cap" xOffset="139" yOffset="25"/>
-    <component base="D"/>
-  </outline>
-</glyph>

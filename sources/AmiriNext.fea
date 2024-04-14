@@ -24,5 +24,3 @@ languagesystem latn TRK;
 #ifdef QURAN
 #include "post_mark.fea"
 #endif
-
-#include "latin.fea"

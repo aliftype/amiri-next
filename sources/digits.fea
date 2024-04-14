@@ -1,14 +1,4 @@
 feature pnum {
-    sub zero by zero.prop;
-    sub one by one.prop;
-    sub two by two.prop;
-    sub three by three.prop;
-    sub four by four.prop;
-    sub five by five.prop;
-    sub six by six.prop;
-    sub seven by seven.prop;
-    sub eight by eight.prop;
-    sub nine by nine.prop;
     sub zero-ar by zero-ar.prop;
     sub one-ar by one-ar.prop;
     sub two-ar by two-ar.prop;
@@ -35,16 +25,6 @@ feature pnum {
 } pnum;
 
 feature numr {
-    sub zero by zero.numr;
-    sub one by one.numr;
-    sub two by two.numr;
-    sub three by three.numr;
-    sub four by four.numr;
-    sub five by five.numr;
-    sub six by six.numr;
-    sub seven by seven.numr;
-    sub eight by eight.numr;
-    sub nine by nine.numr;
     sub zero-ar by zero-ar.numr;
     sub one-ar by one-ar.numr;
     sub two-ar by two-ar.numr;
@@ -71,16 +51,6 @@ feature numr {
 } numr;
 
 feature dnom {
-    sub zero by zero.small;
-    sub one by one.small;
-    sub two by two.small;
-    sub three by three.small;
-    sub four by four.small;
-    sub five by five.small;
-    sub six by six.small;
-    sub seven by seven.small;
-    sub eight by eight.small;
-    sub nine by nine.small;
     sub zero-ar by zero-ar.small;
     sub one-ar by one-ar.small;
     sub two-ar by two-ar.small;

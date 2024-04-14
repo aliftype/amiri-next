@@ -185,21 +185,6 @@ def makeOverLine(font, posGlyph="qafLamAlefMaksuraabove-ar"):
     font.features.text += str(mark)
 
 
-def mergeLatin(font):
-    fontname = font.info.postscriptFontName.replace("Amiri", "AmiriLatin")
-    latin = openFont("sources/%s.ufo" % fontname)
-    for glyph in latin:
-        try:
-            font.addGlyph(glyph)
-        except KeyError:
-            pass
-
-    font.glyphOrder += latin.glyphOrder
-    font.lib["public.openTypeCategories"].update(latin.lib["public.openTypeCategories"])
-    font.groups.update(latin.groups)
-    font.kerning.update(latin.kerning)
-
-
 def scaleGlyph(font, glyph, scale):
     """Scales the glyph, but keeps it centered around its original bounding
     box."""
@@ -234,7 +219,6 @@ def makeQuran(options):
     from fontTools import subset
 
     font = makeDesktop(options, False)
-    mergeLatin(font)
 
     # fix metadata
     info = font.info
@@ -527,7 +511,6 @@ def makeDesktop(options, generate=True):
     cleanAnchors(font)
 
     if generate:
-        mergeLatin(font)
         makeOverLine(font, posGlyph="overlinecomb")
         otf = generateFont(options, font)
         otf.save(options.output)
