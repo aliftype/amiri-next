@@ -35,7 +35,4 @@ languagesystem latn TRK;
 
 #ifndef QURAN
 #include "latin.fea"
-#ifdef ITALIC
-#include "italic_kerning.fea"
-#endif
 #endif

@@ -21,7 +21,6 @@ from io import StringIO
 from pcpp.preprocessor import Preprocessor
 
 from ufo2ft import compileOTF, compileTTF
-from ufo2ft.filters.transformations import TransformationsFilter
 from ufoLib2 import Font
 
 
@@ -72,8 +71,6 @@ def generateFeatures(font, args):
     preprocessor = Preprocessor()
     if args.quran:
         preprocessor.define("QURAN")
-    elif args.slant:
-        preprocessor.define("ITALIC")
     with open(args.features) as f:
         preprocessor.parse(f)
     o = StringIO()
@@ -201,66 +198,6 @@ def mergeLatin(font):
     font.lib["public.openTypeCategories"].update(latin.lib["public.openTypeCategories"])
     font.groups.update(latin.groups)
     font.kerning.update(latin.kerning)
-
-
-def makeItalic(options):
-    font = makeDesktop(options, False)
-
-    exclude = [f"u{i:X}" for i in range(0x1EE00, 0x1EEFF + 1)]
-    exclude += [
-        "exclam",
-        "period",
-        "guillemetleft",
-        "guillemetright",
-        "braceleft",
-        "bar",
-        "braceright",
-        "bracketleft",
-        "bracketright",
-        "parenleft",
-        "parenright",
-        "slash",
-        "backslash",
-        "brokenbar",
-        "question-ar",
-        "dot.1",
-        "dot.2",
-        "zerowidthnonjoiner",
-        "zerowidthjoiner",
-        "lefttorightmark",
-        "righttoleftmark",
-        "lefttorightembedding",
-        "righttoleftembedding",
-        "popdirectionalformatting",
-        "lefttorightoverride",
-        "righttoleftoverride",
-        "_arrowhead",
-        "_arrowhead2",
-        "_x",
-    ]
-
-    skew = TransformationsFilter(Slant=-options.slant, exclude=exclude)
-    skew(font)
-
-    # fix metadata
-    info = font.info
-    info.italicAngle = options.slant
-    info.postscriptFullName += " Italic"
-    if info.postscriptWeightName == "Bold":
-        info.postscriptFontName = info.postscriptFontName.replace("Bold", "BoldItalic")
-        info.styleName = "Bold Italic"
-        info.styleMapFamilyName = info.familyName
-        info.styleMapStyleName = "bold italic"
-    else:
-        info.postscriptFontName = info.postscriptFontName.replace("Regular", "Italic")
-        info.styleName = "Italic"
-        info.styleMapFamilyName = info.familyName
-        info.styleMapStyleName = "italic"
-
-    mergeLatin(font)
-    makeOverLine(font, posGlyph="overlinecomb")
-    otf = generateFont(options, font)
-    otf.save(options.output)
 
 
 def scaleGlyph(font, glyph, scale):
@@ -764,16 +701,13 @@ if __name__ == "__main__":
     )
     parser.add_argument("--version", type=str, required=True, help="font version")
     parser.add_argument("--license", type=str, required=True, help="license file")
-    parser.add_argument("--slant", type=float, required=False, help="font slant")
     parser.add_argument(
         "--quran", action="store_true", required=False, help="build Quran variant"
     )
 
     args = parser.parse_args()
 
-    if args.slant:
-        makeItalic(args)
-    elif args.quran:
+    if args.quran:
         makeQuran(args)
     else:
         makeDesktop(args)

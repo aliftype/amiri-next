@@ -89,19 +89,8 @@ feature kern {
     pos period [quotedblleft quoteleft] <-146 0 -146 0>;
     pos period.latn [quotedblright quoteright] -73;
 } kern;
-
 #endif
-#ifdef ITALIC
-feature kern {
-    lookupflag IgnoreMarks;
-    pos @Alf_2 [parenleft bracketleft braceleft] <146 0 146 0>;
-    pos [parenright bracketright braceright] [@Kaf_1 @Kaf_2 @Kaf_4 @Kaf_5] <-49 0 -49 0>;
-    pos [parenright bracketright braceright] [@Kaf_3] <-98 0 -98 0>;
-    pos [braceright] [@Kaf_1 @Kaf_2 @Kaf_4 @Kaf_5] <-98 0 -98 0>;
-    pos [braceright] [@Kaf_3] <-146 0 -146 0>;
-} kern;
 
-#endif
 # proportional digits
 feature kern {
     pos one-ar.prop two-ar.prop -49;
