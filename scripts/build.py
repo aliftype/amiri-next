@@ -67,7 +67,7 @@ def generateFont(options, font):
     return otf
 
 
-def drawOverline(font, name, uni, pos, thickness, width):
+def drawOverline(font, name, pos, thickness, width):
     try:
         glyph = font[name]
     except KeyError:
@@ -108,7 +108,7 @@ def makeOverLine(font, posGlyph="qafLamAlefMaksuraabove-ar"):
             widths[width].append(glyph.name)
 
     base = "overlinecomb"
-    drawOverline(font, base, 0x0305, pos, thickness, 500)
+    drawOverline(font, base, pos, thickness, 500)
 
     mark = ast.FeatureBlock("mark")
     overset = ast.GlyphClassDefinition("OverSet", ast.GlyphClass([base]))
@@ -120,7 +120,7 @@ def makeOverLine(font, posGlyph="qafLamAlefMaksuraabove-ar"):
         # width, and add a contextual substitution lookup to use it when an
         # over/underline follows any glyph in this group
         replace = f"overlinecomb.{width}"
-        drawOverline(font, replace, None, pos, thickness, width)
+        drawOverline(font, replace, pos, thickness, width)
         sub = ast.SingleSubstStatement(
             [ast.GlyphName(base)],
             [ast.GlyphName(replace)],
