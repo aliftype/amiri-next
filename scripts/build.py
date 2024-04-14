@@ -55,7 +55,6 @@ def generateFont(options, font):
             removeOverlaps=True,
             overlapsBackend="pathops",
         )
-
     else:
         otf = compileOTF(
             font,
@@ -64,12 +63,6 @@ def generateFont(options, font):
             removeOverlaps=True,
             overlapsBackend="pathops",
         )
-
-    if info.styleMapStyleName and "italic" in info.styleMapStyleName:
-        otf["name"].names = [n for n in otf["name"].names if n.nameID != 17]
-        for name in otf["name"].names:
-            if name.nameID == 2:
-                name.string = info.styleName
 
     return otf
 
