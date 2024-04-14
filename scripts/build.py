@@ -17,12 +17,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-from io import StringIO
-from pcpp.preprocessor import Preprocessor
-
-from ufo2ft import compileOTF, compileTTF
-from ufoLib2 import Font
-
 
 def cleanAnchors(font):
     """Removes anchor classes (and associated lookups) that are used only
@@ -58,6 +52,9 @@ def cleanAnchors(font):
 
 
 def generateFeatures(font, args):
+    from io import StringIO
+    from pcpp.preprocessor import Preprocessor
+
     """Generates feature text by merging feature file with mark positioning
     lookups (already in the font) and making sure they come after kerning
     lookups (from the feature file), which is required by Uniscribe to get
@@ -76,9 +73,9 @@ def generateFeatures(font, args):
 
 
 def generateFont(options, font):
-    generateFeatures(font, options)
+    from ufo2ft import compileOTF, compileTTF
 
-    from datetime import datetime
+    generateFeatures(font, options)
 
     info = font.info
     major, minor = options.version.split(".")
@@ -452,6 +449,8 @@ def makeQuran(options):
 
 
 def makeDesktop(options, generate=True):
+    from ufoLib2 import Font
+
     font = Font.open(options.input)
 
     # remove anchors that are not needed in the production font
