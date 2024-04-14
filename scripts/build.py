@@ -24,9 +24,6 @@ from ufo2ft import compileOTF, compileTTF
 from ufoLib2 import Font
 
 
-REMOVE_GLYPHS = "com.schriftgestaltung.customParameter.GSFontMaster.Remove Glyphs"
-
-
 def cleanAnchors(font):
     """Removes anchor classes (and associated lookups) that are used only
     internally for building composite glyph."""
@@ -459,22 +456,8 @@ def makeQuran(options):
     otf.save(options.output)
 
 
-def openFont(path):
-    font = Font.open(path)
-
-    if REMOVE_GLYPHS in font.lib:
-        import re
-
-        pat = re.compile("(" + "|".join(font.lib[REMOVE_GLYPHS]) + ")")
-        for name in list(font.keys()):
-            if pat.match(name):
-                del font[name]
-
-    return font
-
-
 def makeDesktop(options, generate=True):
-    font = openFont(options.input)
+    font = Font.open(options.input)
 
     # remove anchors that are not needed in the production font
     cleanAnchors(font)

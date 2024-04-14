@@ -145,12 +145,6 @@ value = Bold;
 {
 name = weightClass;
 value = 700;
-},
-{
-name = "Remove Glyphs";
-value = (
-"u1EE*"
-);
 }
 );
 descender = -634;
