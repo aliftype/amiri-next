@@ -21,7 +21,6 @@ from io import StringIO
 from pcpp.preprocessor import Preprocessor
 
 from ufo2ft import compileOTF, compileTTF
-from ufo2ft.filters import FlattenComponentsFilter
 from ufo2ft.filters.transformations import TransformationsFilter
 from ufoLib2 import Font
 
@@ -88,14 +87,11 @@ def generateFont(options, font):
     major, minor = options.version.split(".")
     info.versionMajor, info.versionMinor = int(major), int(minor)
 
-    filters = [..., FlattenComponentsFilter()]
-
     if options.output.endswith(".ttf"):
         from fontTools.ttLib import newTable
         from fontTools.ttLib.tables import ttProgram
         otf = compileTTF(font, inplace=True, removeOverlaps=True,
-            overlapsBackend="pathops",
-            filters=filters)
+            overlapsBackend="pathops")
 
         otf["prep"] = prep = newTable("prep")
         prep.program = ttProgram.Program()
@@ -104,8 +100,7 @@ def generateFont(options, font):
     else:
         otf = compileOTF(font, inplace=True,
             optimizeCFF=1,
-            removeOverlaps=True, overlapsBackend="pathops",
-            filters=filters)
+            removeOverlaps=True, overlapsBackend="pathops")
 
     if info.styleMapStyleName and "italic" in info.styleMapStyleName:
         otf['name'].names = [n for n in otf['name'].names if n.nameID != 17]
