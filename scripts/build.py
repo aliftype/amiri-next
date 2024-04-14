@@ -459,37 +459,6 @@ def makeQuran(options):
     otf.save(options.output)
 
 
-def _build_production_name(glyph, font):
-    """Build a production name for a single glyph."""
-
-    # use name derived from unicode value
-    unicode_val = glyph.unicode
-    if glyph.unicode is not None:
-        return "{}{:04X}".format("u" if unicode_val > 0xFFFF else "uni", unicode_val)
-
-    # use production name + last (non-script) suffix if possible
-    parts = glyph.name.rsplit(".", 1)
-    if len(parts) == 2 and parts[0] in font:
-        return "{}.{}".format(
-            _build_production_name(font[parts[0]], font),
-            parts[1],
-        )
-
-    # use ligature name, making sure to look up components with suffixes
-    parts = glyph.name.split(".", 1)
-    if len(parts) == 2:
-        liga_parts = ["{}.{}".format(n, parts[1]) for n in parts[0].split("_")]
-    else:
-        liga_parts = glyph.name.split("_")
-    if len(liga_parts) > 1 and all(n in font for n in liga_parts):
-        unicode_vals = [font[n].unicode for n in liga_parts]
-        if all(v and v <= 0xFFFF for v in unicode_vals):
-            return "uni" + "".join("%04X" % v for v in unicode_vals)
-        return "_".join(_build_production_name(font[n], font) for n in liga_parts)
-
-    return glyph.name
-
-
 def openFont(path):
     font = Font.open(path)
 
