@@ -171,10 +171,8 @@ def scaleGlyph(font, glyph, scale):
         glyph.width = width
 
 
-def makeQuran(options):
+def makeQuran(font, options):
     from fontTools import subset
-
-    font = makeDesktop(options, False)
 
     # fix metadata
     info = font.info
@@ -412,24 +410,18 @@ def makeQuran(options):
     os_2.usWinAscent = max(head.yMax, os_2.usWinAscent)
     os_2.usWinDescent = max(abs(head.yMin), os_2.usWinDescent)
 
-    otf.save(options.output)
+    return otf
 
 
-def makeDesktop(options, generate=True):
-    from ufoLib2 import Font
+def makeDesktop(font, options):
 
-    font = Font.open(options.input)
-
-    if generate:
-        makeOverLine(font, posGlyph="overlinecomb")
-        otf = generateFont(options, font)
-        otf.save(options.output)
-    else:
-        return font
+    makeOverLine(font, posGlyph="overlinecomb")
+    return generateFont(options, font)
 
 
 if __name__ == "__main__":
     import argparse
+    from ufoLib2 import Font
 
     parser = argparse.ArgumentParser(description="Build Amiri fonts.")
     parser.add_argument(
@@ -448,7 +440,9 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
+    font = Font.open(args.input)
     if args.quran:
-        makeQuran(args)
+        otf = makeQuran(font, args)
     else:
-        makeDesktop(args)
+        otf = makeDesktop(font, args)
+    otf.save(args.output)
