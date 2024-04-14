@@ -18,39 +18,6 @@
 # limitations under the License.
 
 
-def cleanAnchors(font):
-    """Removes anchor classes (and associated lookups) that are used only
-    internally for building composite glyph."""
-
-    anchors = {
-        "Dash",
-        # "DigitAbove",
-        "DigitBelow",
-        "DotAbove",
-        "DotAlt",
-        "DotBelow",
-        "DotBelowAlt",
-        "DotHmaza",
-        "MarkDotAbove",
-        "MarkDotBelow",
-        "RingBelow",
-        "RingDash",
-        "Stroke",
-        # "TaaAbove",
-        "TaaBelow",
-        "Tail",
-        "TashkilAboveDot",
-        "TashkilBelowDot",
-        "TwoDotsAbove",
-        "TwoDotsBelow",
-        "TwoDotsBelowAlt",
-        "VAbove",
-    }
-
-    for glyph in font:
-        glyph.anchors = [a for a in glyph.anchors if a.name not in anchors]
-
-
 def generateFeatures(font, args):
     from io import StringIO
     from pcpp.preprocessor import Preprocessor
@@ -452,9 +419,6 @@ def makeDesktop(options, generate=True):
     from ufoLib2 import Font
 
     font = Font.open(options.input)
-
-    # remove anchors that are not needed in the production font
-    cleanAnchors(font)
 
     if generate:
         makeOverLine(font, posGlyph="overlinecomb")
