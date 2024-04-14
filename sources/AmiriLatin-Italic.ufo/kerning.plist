@@ -76,16 +76,6 @@
     </dict>
     <key>public.kern1.kc1_0</key>
     <dict>
-      <key>public.kern2.kc1_1</key>
-      <integer>-43</integer>
-      <key>public.kern2.kc1_10</key>
-      <integer>-34</integer>
-      <key>public.kern2.kc1_11</key>
-      <integer>-59</integer>
-      <key>public.kern2.kc1_12</key>
-      <integer>-50</integer>
-      <key>public.kern2.kc1_13</key>
-      <integer>-58</integer>
       <key>public.kern2.kc1_14</key>
       <integer>-46</integer>
       <key>public.kern2.kc1_15</key>
@@ -94,8 +84,6 @@
       <integer>-11</integer>
       <key>public.kern2.kc1_17</key>
       <integer>-6</integer>
-      <key>public.kern2.kc1_18</key>
-      <integer>-16</integer>
       <key>public.kern2.kc1_19</key>
       <integer>-10</integer>
       <key>public.kern2.kc1_2</key>
@@ -108,8 +96,6 @@
       <integer>-8</integer>
       <key>public.kern2.kc1_23</key>
       <integer>-22</integer>
-      <key>public.kern2.kc1_24</key>
-      <integer>-27</integer>
       <key>public.kern2.kc1_25</key>
       <integer>-31</integer>
       <key>public.kern2.kc1_26</key>
@@ -130,27 +116,15 @@
       <integer>-23</integer>
       <key>public.kern2.kc1_8</key>
       <integer>-20</integer>
-      <key>public.kern2.kc1_9</key>
-      <integer>-54</integer>
     </dict>
     <key>public.kern1.kc1_1</key>
     <dict>
-      <key>public.kern2.kc1_10</key>
-      <integer>-6</integer>
-      <key>public.kern2.kc1_11</key>
-      <integer>-19</integer>
-      <key>public.kern2.kc1_12</key>
-      <integer>-16</integer>
-      <key>public.kern2.kc1_13</key>
-      <integer>-24</integer>
       <key>public.kern2.kc1_14</key>
       <integer>-18</integer>
       <key>public.kern2.kc1_15</key>
       <integer>-19</integer>
       <key>public.kern2.kc1_16</key>
       <integer>-5</integer>
-      <key>public.kern2.kc1_18</key>
-      <integer>-12</integer>
       <key>public.kern2.kc1_2</key>
       <integer>-21</integer>
       <key>public.kern2.kc1_20</key>
@@ -159,18 +133,8 @@
       <integer>-7</integer>
       <key>public.kern2.kc1_23</key>
       <integer>-6</integer>
-      <key>public.kern2.kc1_24</key>
-      <integer>-5</integer>
-      <key>public.kern2.kc1_29</key>
-      <integer>-13</integer>
       <key>public.kern2.kc1_30</key>
       <integer>-5</integer>
-      <key>public.kern2.kc1_31</key>
-      <integer>-5</integer>
-      <key>public.kern2.kc1_32</key>
-      <integer>-6</integer>
-      <key>public.kern2.kc1_33</key>
-      <integer>-26</integer>
       <key>public.kern2.kc1_34</key>
       <integer>-5</integer>
       <key>public.kern2.kc1_35</key>
@@ -181,35 +145,19 @@
       <integer>-9</integer>
       <key>public.kern2.kc1_6</key>
       <integer>-6</integer>
-      <key>public.kern2.kc1_9</key>
-      <integer>-8</integer>
     </dict>
     <key>public.kern1.kc1_10</key>
     <dict>
-      <key>public.kern2.kc1_1</key>
-      <integer>-62</integer>
-      <key>public.kern2.kc1_10</key>
-      <integer>-10</integer>
-      <key>public.kern2.kc1_11</key>
-      <integer>-64</integer>
-      <key>public.kern2.kc1_12</key>
-      <integer>-59</integer>
-      <key>public.kern2.kc1_13</key>
-      <integer>-64</integer>
       <key>public.kern2.kc1_14</key>
       <integer>-40</integer>
       <key>public.kern2.kc1_15</key>
       <integer>-12</integer>
-      <key>public.kern2.kc1_18</key>
-      <integer>-8</integer>
       <key>public.kern2.kc1_2</key>
       <integer>-17</integer>
       <key>public.kern2.kc1_20</key>
       <integer>-7</integer>
       <key>public.kern2.kc1_23</key>
       <integer>-21</integer>
-      <key>public.kern2.kc1_24</key>
-      <integer>-42</integer>
       <key>public.kern2.kc1_25</key>
       <integer>-28</integer>
       <key>public.kern2.kc1_26</key>
@@ -222,15 +170,11 @@
       <integer>-6</integer>
       <key>public.kern2.kc1_7</key>
       <integer>-6</integer>
-      <key>public.kern2.kc1_9</key>
-      <integer>-62</integer>
     </dict>
     <key>public.kern1.kc1_11</key>
     <dict>
       <key>public.kern2.kc1_17</key>
       <integer>-14</integer>
-      <key>public.kern2.kc1_18</key>
-      <integer>-13</integer>
       <key>public.kern2.kc1_19</key>
       <integer>-17</integer>
       <key>public.kern2.kc1_20</key>
@@ -252,8 +196,6 @@
       <key>public.kern2.kc1_4</key>
       <integer>-9</integer>
       <key>public.kern2.kc1_42</key>
-      <integer>-12</integer>
-      <key>public.kern2.kc1_43</key>
       <integer>-12</integer>
       <key>public.kern2.kc1_44</key>
       <integer>-12</integer>
@@ -268,8 +210,6 @@
     <dict>
       <key>public.kern2.kc1_17</key>
       <integer>-20</integer>
-      <key>public.kern2.kc1_18</key>
-      <integer>-16</integer>
       <key>public.kern2.kc1_19</key>
       <integer>-22</integer>
       <key>public.kern2.kc1_20</key>
@@ -282,8 +222,6 @@
       <integer>-11</integer>
       <key>public.kern2.kc1_28</key>
       <integer>-12</integer>
-      <key>public.kern2.kc1_29</key>
-      <integer>-7</integer>
       <key>public.kern2.kc1_34</key>
       <integer>-18</integer>
       <key>public.kern2.kc1_35</key>
@@ -298,8 +236,6 @@
       <integer>-8</integer>
       <key>public.kern2.kc1_42</key>
       <integer>-21</integer>
-      <key>public.kern2.kc1_43</key>
-      <integer>-21</integer>
       <key>public.kern2.kc1_44</key>
       <integer>-21</integer>
       <key>public.kern2.kc1_45</key>
@@ -313,30 +249,14 @@
     </dict>
     <key>public.kern1.kc1_13</key>
     <dict>
-      <key>public.kern2.kc1_10</key>
-      <integer>-7</integer>
-      <key>public.kern2.kc1_11</key>
-      <integer>-27</integer>
-      <key>public.kern2.kc1_12</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc1_13</key>
-      <integer>-39</integer>
       <key>public.kern2.kc1_14</key>
       <integer>-21</integer>
       <key>public.kern2.kc1_15</key>
       <integer>-19</integer>
       <key>public.kern2.kc1_2</key>
       <integer>-24</integer>
-      <key>public.kern2.kc1_29</key>
-      <integer>-14</integer>
       <key>public.kern2.kc1_30</key>
       <integer>-6</integer>
-      <key>public.kern2.kc1_31</key>
-      <integer>-7</integer>
-      <key>public.kern2.kc1_32</key>
-      <integer>-7</integer>
-      <key>public.kern2.kc1_33</key>
-      <integer>-33</integer>
       <key>public.kern2.kc1_35</key>
       <integer>-13</integer>
       <key>public.kern2.kc1_37</key>
@@ -345,13 +265,9 @@
       <integer>-6</integer>
       <key>public.kern2.kc1_6</key>
       <integer>-8</integer>
-      <key>public.kern2.kc1_9</key>
-      <integer>-9</integer>
     </dict>
     <key>public.kern1.kc1_14</key>
     <dict>
-      <key>public.kern2.kc1_13</key>
-      <integer>-6</integer>
       <key>public.kern2.kc1_15</key>
       <integer>-15</integer>
       <key>public.kern2.kc1_17</key>
@@ -364,18 +280,10 @@
       <integer>-23</integer>
       <key>public.kern2.kc1_28</key>
       <integer>-17</integer>
-      <key>public.kern2.kc1_29</key>
-      <integer>-44</integer>
       <key>public.kern2.kc1_3</key>
       <integer>10</integer>
       <key>public.kern2.kc1_30</key>
       <integer>-5</integer>
-      <key>public.kern2.kc1_31</key>
-      <integer>-7</integer>
-      <key>public.kern2.kc1_32</key>
-      <integer>-5</integer>
-      <key>public.kern2.kc1_33</key>
-      <integer>-22</integer>
       <key>public.kern2.kc1_34</key>
       <integer>-7</integer>
       <key>public.kern2.kc1_35</key>
@@ -394,8 +302,6 @@
       <integer>-64</integer>
       <key>public.kern2.kc1_42</key>
       <integer>-39</integer>
-      <key>public.kern2.kc1_43</key>
-      <integer>-40</integer>
       <key>public.kern2.kc1_44</key>
       <integer>-40</integer>
       <key>public.kern2.kc1_5</key>
@@ -403,55 +309,25 @@
     </dict>
     <key>public.kern1.kc1_15</key>
     <dict>
-      <key>public.kern2.kc1_10</key>
-      <integer>-6</integer>
-      <key>public.kern2.kc1_11</key>
-      <integer>-22</integer>
-      <key>public.kern2.kc1_12</key>
-      <integer>-17</integer>
-      <key>public.kern2.kc1_13</key>
-      <integer>-31</integer>
       <key>public.kern2.kc1_19</key>
       <integer>11</integer>
-      <key>public.kern2.kc1_29</key>
-      <integer>-18</integer>
       <key>public.kern2.kc1_30</key>
       <integer>-7</integer>
-      <key>public.kern2.kc1_31</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc1_32</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc1_33</key>
-      <integer>-31</integer>
       <key>public.kern2.kc1_38</key>
       <integer>-5</integer>
       <key>public.kern2.kc1_41</key>
       <integer>-11</integer>
       <key>public.kern2.kc1_6</key>
       <integer>-8</integer>
-      <key>public.kern2.kc1_9</key>
-      <integer>-5</integer>
     </dict>
     <key>public.kern1.kc1_16</key>
     <dict>
-      <key>public.kern2.kc1_1</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc1_10</key>
-      <integer>-18</integer>
-      <key>public.kern2.kc1_11</key>
-      <integer>-34</integer>
-      <key>public.kern2.kc1_12</key>
-      <integer>-26</integer>
-      <key>public.kern2.kc1_13</key>
-      <integer>-32</integer>
       <key>public.kern2.kc1_14</key>
       <integer>-27</integer>
       <key>public.kern2.kc1_16</key>
       <integer>-7</integer>
       <key>public.kern2.kc1_17</key>
       <integer>-6</integer>
-      <key>public.kern2.kc1_18</key>
-      <integer>-11</integer>
       <key>public.kern2.kc1_19</key>
       <integer>-9</integer>
       <key>public.kern2.kc1_20</key>
@@ -462,8 +338,6 @@
       <integer>-6</integer>
       <key>public.kern2.kc1_23</key>
       <integer>-18</integer>
-      <key>public.kern2.kc1_24</key>
-      <integer>-25</integer>
       <key>public.kern2.kc1_25</key>
       <integer>-19</integer>
       <key>public.kern2.kc1_28</key>
@@ -473,8 +347,6 @@
       <key>public.kern2.kc1_39</key>
       <integer>-5</integer>
       <key>public.kern2.kc1_42</key>
-      <integer>-5</integer>
-      <key>public.kern2.kc1_43</key>
       <integer>-5</integer>
       <key>public.kern2.kc1_44</key>
       <integer>-5</integer>
@@ -488,20 +360,10 @@
       <integer>-13</integer>
       <key>public.kern2.kc1_8</key>
       <integer>-13</integer>
-      <key>public.kern2.kc1_9</key>
-      <integer>-19</integer>
     </dict>
     <key>public.kern1.kc1_17</key>
     <dict>
-      <key>public.kern2.kc1_11</key>
-      <integer>-6</integer>
-      <key>public.kern2.kc1_12</key>
-      <integer>-7</integer>
-      <key>public.kern2.kc1_13</key>
-      <integer>-8</integer>
       <key>public.kern2.kc1_15</key>
-      <integer>-12</integer>
-      <key>public.kern2.kc1_18</key>
       <integer>-12</integer>
       <key>public.kern2.kc1_2</key>
       <integer>-13</integer>
@@ -511,10 +373,6 @@
       <integer>-7</integer>
       <key>public.kern2.kc1_23</key>
       <integer>-11</integer>
-      <key>public.kern2.kc1_24</key>
-      <integer>-10</integer>
-      <key>public.kern2.kc1_29</key>
-      <integer>-5</integer>
       <key>public.kern2.kc1_36</key>
       <integer>-6</integer>
     </dict>
@@ -522,8 +380,6 @@
     <dict>
       <key>public.kern2.kc1_17</key>
       <integer>-81</integer>
-      <key>public.kern2.kc1_18</key>
-      <integer>-20</integer>
       <key>public.kern2.kc1_19</key>
       <integer>-76</integer>
       <key>public.kern2.kc1_20</key>
@@ -534,12 +390,8 @@
       <integer>-21</integer>
       <key>public.kern2.kc1_23</key>
       <integer>-68</integer>
-      <key>public.kern2.kc1_24</key>
-      <integer>-63</integer>
       <key>public.kern2.kc1_28</key>
       <integer>-55</integer>
-      <key>public.kern2.kc1_29</key>
-      <integer>-48</integer>
       <key>public.kern2.kc1_34</key>
       <integer>-80</integer>
       <key>public.kern2.kc1_35</key>
@@ -558,8 +410,6 @@
       <integer>-40</integer>
       <key>public.kern2.kc1_42</key>
       <integer>-81</integer>
-      <key>public.kern2.kc1_43</key>
-      <integer>-76</integer>
       <key>public.kern2.kc1_44</key>
       <integer>-81</integer>
       <key>public.kern2.kc1_45</key>
@@ -579,8 +429,6 @@
       <integer>8</integer>
       <key>public.kern2.kc1_17</key>
       <integer>-21</integer>
-      <key>public.kern2.kc1_18</key>
-      <integer>-11</integer>
       <key>public.kern2.kc1_19</key>
       <integer>-20</integer>
       <key>public.kern2.kc1_21</key>
@@ -589,8 +437,6 @@
       <integer>-13</integer>
       <key>public.kern2.kc1_23</key>
       <integer>-5</integer>
-      <key>public.kern2.kc1_29</key>
-      <integer>-25</integer>
       <key>public.kern2.kc1_34</key>
       <integer>-21</integer>
       <key>public.kern2.kc1_35</key>
@@ -605,29 +451,21 @@
       <integer>-18</integer>
       <key>public.kern2.kc1_42</key>
       <integer>-22</integer>
-      <key>public.kern2.kc1_43</key>
-      <integer>-22</integer>
       <key>public.kern2.kc1_44</key>
       <integer>-22</integer>
       <key>public.kern2.kc1_45</key>
       <integer>-5</integer>
       <key>public.kern2.kc1_5</key>
       <integer>-16</integer>
-      <key>public.kern2.kc1_53</key>
-      <integer>7</integer>
     </dict>
     <key>public.kern1.kc1_2</key>
     <dict>
-      <key>public.kern2.kc1_18</key>
-      <integer>-5</integer>
       <key>public.kern2.kc1_19</key>
       <integer>-6</integer>
       <key>public.kern2.kc1_20</key>
       <integer>-5</integer>
       <key>public.kern2.kc1_23</key>
       <integer>-18</integer>
-      <key>public.kern2.kc1_24</key>
-      <integer>-29</integer>
       <key>public.kern2.kc1_35</key>
       <integer>-18</integer>
       <key>public.kern2.kc1_7</key>
@@ -635,16 +473,12 @@
     </dict>
     <key>public.kern1.kc1_20</key>
     <dict>
-      <key>public.kern2.kc1_1</key>
-      <integer>5</integer>
       <key>public.kern2.kc1_15</key>
       <integer>-11</integer>
       <key>public.kern2.kc1_16</key>
       <integer>33</integer>
       <key>public.kern2.kc1_17</key>
       <integer>-65</integer>
-      <key>public.kern2.kc1_18</key>
-      <integer>-21</integer>
       <key>public.kern2.kc1_19</key>
       <integer>-68</integer>
       <key>public.kern2.kc1_20</key>
@@ -655,14 +489,10 @@
       <integer>-41</integer>
       <key>public.kern2.kc1_23</key>
       <integer>-43</integer>
-      <key>public.kern2.kc1_24</key>
-      <integer>-35</integer>
       <key>public.kern2.kc1_25</key>
       <integer>-12</integer>
       <key>public.kern2.kc1_28</key>
       <integer>-43</integer>
-      <key>public.kern2.kc1_29</key>
-      <integer>-59</integer>
       <key>public.kern2.kc1_34</key>
       <integer>-70</integer>
       <key>public.kern2.kc1_35</key>
@@ -681,8 +511,6 @@
       <integer>-64</integer>
       <key>public.kern2.kc1_42</key>
       <integer>-67</integer>
-      <key>public.kern2.kc1_43</key>
-      <integer>-67</integer>
       <key>public.kern2.kc1_44</key>
       <integer>-67</integer>
       <key>public.kern2.kc1_45</key>
@@ -697,8 +525,6 @@
       <integer>-30</integer>
       <key>public.kern2.kc1_52</key>
       <integer>-31</integer>
-      <key>public.kern2.kc1_53</key>
-      <integer>32</integer>
       <key>public.kern2.kc1_54</key>
       <integer>-8</integer>
       <key>public.kern2.kc1_7</key>
@@ -714,8 +540,6 @@
       <integer>28</integer>
       <key>public.kern2.kc1_17</key>
       <integer>-51</integer>
-      <key>public.kern2.kc1_18</key>
-      <integer>-20</integer>
       <key>public.kern2.kc1_19</key>
       <integer>-53</integer>
       <key>public.kern2.kc1_20</key>
@@ -726,14 +550,10 @@
       <integer>-33</integer>
       <key>public.kern2.kc1_23</key>
       <integer>-32</integer>
-      <key>public.kern2.kc1_24</key>
-      <integer>-22</integer>
       <key>public.kern2.kc1_25</key>
       <integer>-12</integer>
       <key>public.kern2.kc1_28</key>
       <integer>-35</integer>
-      <key>public.kern2.kc1_29</key>
-      <integer>-50</integer>
       <key>public.kern2.kc1_34</key>
       <integer>-52</integer>
       <key>public.kern2.kc1_35</key>
@@ -752,8 +572,6 @@
       <integer>-49</integer>
       <key>public.kern2.kc1_42</key>
       <integer>-53</integer>
-      <key>public.kern2.kc1_43</key>
-      <integer>-53</integer>
       <key>public.kern2.kc1_44</key>
       <integer>-53</integer>
       <key>public.kern2.kc1_45</key>
@@ -768,8 +586,6 @@
       <integer>-25</integer>
       <key>public.kern2.kc1_52</key>
       <integer>-26</integer>
-      <key>public.kern2.kc1_53</key>
-      <integer>26</integer>
       <key>public.kern2.kc1_54</key>
       <integer>-8</integer>
       <key>public.kern2.kc1_7</key>
@@ -783,8 +599,6 @@
       <integer>11</integer>
       <key>public.kern2.kc1_17</key>
       <integer>-11</integer>
-      <key>public.kern2.kc1_18</key>
-      <integer>-16</integer>
       <key>public.kern2.kc1_19</key>
       <integer>-22</integer>
       <key>public.kern2.kc1_21</key>
@@ -793,8 +607,6 @@
       <integer>-6</integer>
       <key>public.kern2.kc1_23</key>
       <integer>-40</integer>
-      <key>public.kern2.kc1_24</key>
-      <integer>-35</integer>
       <key>public.kern2.kc1_28</key>
       <integer>-24</integer>
       <key>public.kern2.kc1_4</key>
@@ -803,8 +615,6 @@
       <integer>-21</integer>
       <key>public.kern2.kc1_50</key>
       <integer>5</integer>
-      <key>public.kern2.kc1_53</key>
-      <integer>8</integer>
       <key>public.kern2.kc1_7</key>
       <integer>-27</integer>
       <key>public.kern2.kc1_8</key>
@@ -818,8 +628,6 @@
       <integer>28</integer>
       <key>public.kern2.kc1_17</key>
       <integer>-74</integer>
-      <key>public.kern2.kc1_18</key>
-      <integer>-33</integer>
       <key>public.kern2.kc1_19</key>
       <integer>-71</integer>
       <key>public.kern2.kc1_20</key>
@@ -830,14 +638,10 @@
       <integer>-55</integer>
       <key>public.kern2.kc1_23</key>
       <integer>-62</integer>
-      <key>public.kern2.kc1_24</key>
-      <integer>-58</integer>
       <key>public.kern2.kc1_25</key>
       <integer>-11</integer>
       <key>public.kern2.kc1_28</key>
       <integer>-53</integer>
-      <key>public.kern2.kc1_29</key>
-      <integer>-51</integer>
       <key>public.kern2.kc1_34</key>
       <integer>-74</integer>
       <key>public.kern2.kc1_35</key>
@@ -856,8 +660,6 @@
       <integer>-35</integer>
       <key>public.kern2.kc1_42</key>
       <integer>-73</integer>
-      <key>public.kern2.kc1_43</key>
-      <integer>-70</integer>
       <key>public.kern2.kc1_44</key>
       <integer>-74</integer>
       <key>public.kern2.kc1_45</key>
@@ -872,8 +674,6 @@
       <integer>-29</integer>
       <key>public.kern2.kc1_52</key>
       <integer>-35</integer>
-      <key>public.kern2.kc1_53</key>
-      <integer>26</integer>
       <key>public.kern2.kc1_54</key>
       <integer>-6</integer>
       <key>public.kern2.kc1_7</key>
@@ -883,8 +683,6 @@
     </dict>
     <key>public.kern1.kc1_24</key>
     <dict>
-      <key>public.kern2.kc1_18</key>
-      <integer>-19</integer>
       <key>public.kern2.kc1_19</key>
       <integer>-11</integer>
       <key>public.kern2.kc1_20</key>
@@ -893,8 +691,6 @@
       <integer>-11</integer>
       <key>public.kern2.kc1_23</key>
       <integer>-35</integer>
-      <key>public.kern2.kc1_24</key>
-      <integer>-42</integer>
       <key>public.kern2.kc1_25</key>
       <integer>-12</integer>
       <key>public.kern2.kc1_3</key>
@@ -912,65 +708,29 @@
     </dict>
     <key>public.kern1.kc1_25</key>
     <dict>
-      <key>public.kern2.kc1_1</key>
-      <integer>-9</integer>
-      <key>public.kern2.kc1_10</key>
-      <integer>-5</integer>
-      <key>public.kern2.kc1_11</key>
-      <integer>-29</integer>
-      <key>public.kern2.kc1_12</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc1_13</key>
-      <integer>-50</integer>
       <key>public.kern2.kc1_26</key>
       <integer>-17</integer>
       <key>public.kern2.kc1_27</key>
       <integer>-9</integer>
-      <key>public.kern2.kc1_29</key>
-      <integer>-17</integer>
       <key>public.kern2.kc1_30</key>
       <integer>-7</integer>
-      <key>public.kern2.kc1_31</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc1_32</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc1_33</key>
-      <integer>-62</integer>
       <key>public.kern2.kc1_38</key>
       <integer>-9</integer>
       <key>public.kern2.kc1_41</key>
       <integer>-37</integer>
       <key>public.kern2.kc1_6</key>
       <integer>-8</integer>
-      <key>public.kern2.kc1_9</key>
-      <integer>-15</integer>
     </dict>
     <key>public.kern1.kc1_3</key>
     <dict>
-      <key>public.kern2.kc1_10</key>
-      <integer>-7</integer>
-      <key>public.kern2.kc1_11</key>
-      <integer>-23</integer>
-      <key>public.kern2.kc1_12</key>
-      <integer>-18</integer>
-      <key>public.kern2.kc1_13</key>
-      <integer>-35</integer>
       <key>public.kern2.kc1_14</key>
       <integer>-19</integer>
       <key>public.kern2.kc1_15</key>
       <integer>-20</integer>
       <key>public.kern2.kc1_2</key>
       <integer>-24</integer>
-      <key>public.kern2.kc1_29</key>
-      <integer>-18</integer>
       <key>public.kern2.kc1_30</key>
       <integer>-7</integer>
-      <key>public.kern2.kc1_31</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc1_32</key>
-      <integer>-9</integer>
-      <key>public.kern2.kc1_33</key>
-      <integer>-31</integer>
       <key>public.kern2.kc1_35</key>
       <integer>-14</integer>
       <key>public.kern2.kc1_37</key>
@@ -979,13 +739,9 @@
       <integer>-5</integer>
       <key>public.kern2.kc1_6</key>
       <integer>-8</integer>
-      <key>public.kern2.kc1_9</key>
-      <integer>-6</integer>
     </dict>
     <key>public.kern1.kc1_4</key>
     <dict>
-      <key>public.kern2.kc1_18</key>
-      <integer>-10</integer>
       <key>public.kern2.kc1_19</key>
       <integer>-8</integer>
       <key>public.kern2.kc1_20</key>
@@ -993,8 +749,6 @@
       <key>public.kern2.kc1_22</key>
       <integer>-6</integer>
       <key>public.kern2.kc1_23</key>
-      <integer>-12</integer>
-      <key>public.kern2.kc1_24</key>
       <integer>-12</integer>
       <key>public.kern2.kc1_36</key>
       <integer>-5</integer>
@@ -1005,16 +759,12 @@
     <dict>
       <key>public.kern2.kc1_17</key>
       <integer>-21</integer>
-      <key>public.kern2.kc1_18</key>
-      <integer>-6</integer>
       <key>public.kern2.kc1_19</key>
       <integer>-16</integer>
       <key>public.kern2.kc1_21</key>
       <integer>-20</integer>
       <key>public.kern2.kc1_22</key>
       <integer>-6</integer>
-      <key>public.kern2.kc1_29</key>
-      <integer>-33</integer>
       <key>public.kern2.kc1_34</key>
       <integer>-20</integer>
       <key>public.kern2.kc1_35</key>
@@ -1031,8 +781,6 @@
       <integer>-39</integer>
       <key>public.kern2.kc1_42</key>
       <integer>-24</integer>
-      <key>public.kern2.kc1_43</key>
-      <integer>-24</integer>
       <key>public.kern2.kc1_44</key>
       <integer>-24</integer>
       <key>public.kern2.kc1_5</key>
@@ -1040,31 +788,17 @@
     </dict>
     <key>public.kern1.kc1_6</key>
     <dict>
-      <key>public.kern2.kc1_11</key>
-      <integer>-19</integer>
-      <key>public.kern2.kc1_12</key>
-      <integer>-15</integer>
-      <key>public.kern2.kc1_13</key>
-      <integer>-25</integer>
       <key>public.kern2.kc1_14</key>
       <integer>-17</integer>
       <key>public.kern2.kc1_15</key>
       <integer>-15</integer>
-      <key>public.kern2.kc1_18</key>
-      <integer>-8</integer>
       <key>public.kern2.kc1_2</key>
       <integer>-18</integer>
-      <key>public.kern2.kc1_29</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc1_9</key>
-      <integer>-15</integer>
     </dict>
     <key>public.kern1.kc1_7</key>
     <dict>
       <key>public.kern2.kc1_17</key>
       <integer>-16</integer>
-      <key>public.kern2.kc1_18</key>
-      <integer>-13</integer>
       <key>public.kern2.kc1_19</key>
       <integer>-19</integer>
       <key>public.kern2.kc1_20</key>
@@ -1088,8 +822,6 @@
       <key>public.kern2.kc1_4</key>
       <integer>-9</integer>
       <key>public.kern2.kc1_42</key>
-      <integer>-14</integer>
-      <key>public.kern2.kc1_43</key>
       <integer>-14</integer>
       <key>public.kern2.kc1_44</key>
       <integer>-14</integer>
@@ -1112,8 +844,6 @@
     <dict>
       <key>public.kern2.kc1_17</key>
       <integer>-19</integer>
-      <key>public.kern2.kc1_18</key>
-      <integer>-13</integer>
       <key>public.kern2.kc1_19</key>
       <integer>-20</integer>
       <key>public.kern2.kc1_20</key>
@@ -1124,8 +854,6 @@
       <integer>-14</integer>
       <key>public.kern2.kc1_23</key>
       <integer>-7</integer>
-      <key>public.kern2.kc1_29</key>
-      <integer>-6</integer>
       <key>public.kern2.kc1_34</key>
       <integer>-15</integer>
       <key>public.kern2.kc1_35</key>
@@ -1135,8 +863,6 @@
       <key>public.kern2.kc1_39</key>
       <integer>-19</integer>
       <key>public.kern2.kc1_42</key>
-      <integer>-19</integer>
-      <key>public.kern2.kc1_43</key>
       <integer>-19</integer>
       <key>public.kern2.kc1_44</key>
       <integer>-19</integer>
@@ -1153,16 +879,12 @@
     <dict>
       <key>public.kern2.kc1_17</key>
       <integer>-16</integer>
-      <key>public.kern2.kc1_18</key>
-      <integer>-21</integer>
       <key>public.kern2.kc1_19</key>
       <integer>-26</integer>
       <key>public.kern2.kc1_21</key>
       <integer>-17</integer>
       <key>public.kern2.kc1_23</key>
       <integer>-53</integer>
-      <key>public.kern2.kc1_24</key>
-      <integer>-43</integer>
       <key>public.kern2.kc1_28</key>
       <integer>-34</integer>
       <key>public.kern2.kc1_39</key>
@@ -1171,8 +893,6 @@
       <integer>-33</integer>
       <key>public.kern2.kc1_42</key>
       <integer>-7</integer>
-      <key>public.kern2.kc1_43</key>
-      <integer>-8</integer>
       <key>public.kern2.kc1_44</key>
       <integer>-8</integer>
       <key>public.kern2.kc1_46</key>
@@ -1182,822 +902,15 @@
       <key>public.kern2.kc1_8</key>
       <integer>-46</integer>
     </dict>
-    <key>public.kern1.kc2_0</key>
-    <dict>
-      <key>public.kern2.kc2_1</key>
-      <integer>-16</integer>
-      <key>public.kern2.kc2_2</key>
-      <integer>-6</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-20</integer>
-      <key>public.kern2.kc2_4</key>
-      <integer>-33</integer>
-      <key>public.kern2.kc2_5</key>
-      <integer>-12</integer>
-    </dict>
-    <key>public.kern1.kc2_1</key>
-    <dict>
-      <key>public.kern2.kc2_1</key>
-      <integer>-30</integer>
-      <key>public.kern2.kc2_10</key>
-      <integer>-7</integer>
-      <key>public.kern2.kc2_11</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc2_12</key>
-      <integer>-19</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-19</integer>
-      <key>public.kern2.kc2_4</key>
-      <integer>-33</integer>
-      <key>public.kern2.kc2_5</key>
-      <integer>-22</integer>
-      <key>public.kern2.kc2_6</key>
-      <integer>-13</integer>
-      <key>public.kern2.kc2_7</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc2_8</key>
-      <integer>-14</integer>
-      <key>public.kern2.kc2_9</key>
-      <integer>-16</integer>
-    </dict>
-    <key>public.kern1.kc2_10</key>
-    <dict>
-      <key>public.kern2.kc2_2</key>
-      <integer>-5</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-13</integer>
-    </dict>
-    <key>public.kern1.kc2_11</key>
-    <dict>
-      <key>public.kern2.kc2_1</key>
-      <integer>-16</integer>
-      <key>public.kern2.kc2_2</key>
-      <integer>-7</integer>
-      <key>public.kern2.kc2_26</key>
-      <integer>-9</integer>
-      <key>public.kern2.kc2_27</key>
-      <integer>-57</integer>
-      <key>public.kern2.kc2_28</key>
-      <integer>-52</integer>
-      <key>public.kern2.kc2_29</key>
-      <integer>-42</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-20</integer>
-      <key>public.kern2.kc2_30</key>
-      <integer>-63</integer>
-      <key>public.kern2.kc2_31</key>
-      <integer>-65</integer>
-      <key>public.kern2.kc2_4</key>
-      <integer>-35</integer>
-      <key>public.kern2.kc2_5</key>
-      <integer>-12</integer>
-    </dict>
-    <key>public.kern1.kc2_12</key>
-    <dict>
-      <key>public.kern2.kc2_1</key>
-      <integer>-32</integer>
-      <key>public.kern2.kc2_10</key>
-      <integer>-10</integer>
-      <key>public.kern2.kc2_11</key>
-      <integer>-14</integer>
-      <key>public.kern2.kc2_12</key>
-      <integer>-14</integer>
-      <key>public.kern2.kc2_23</key>
-      <integer>-4</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc2_4</key>
-      <integer>-37</integer>
-      <key>public.kern2.kc2_5</key>
-      <integer>-23</integer>
-      <key>public.kern2.kc2_8</key>
-      <integer>-12</integer>
-      <key>public.kern2.kc2_9</key>
-      <integer>-15</integer>
-    </dict>
-    <key>public.kern1.kc2_13</key>
-    <dict>
-      <key>public.kern2.kc2_1</key>
-      <integer>-32</integer>
-      <key>public.kern2.kc2_10</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc2_11</key>
-      <integer>-11</integer>
-      <key>public.kern2.kc2_12</key>
-      <integer>-10</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-20</integer>
-      <key>public.kern2.kc2_4</key>
-      <integer>-34</integer>
-      <key>public.kern2.kc2_5</key>
-      <integer>-23</integer>
-      <key>public.kern2.kc2_8</key>
-      <integer>-14</integer>
-      <key>public.kern2.kc2_9</key>
-      <integer>-16</integer>
-    </dict>
-    <key>public.kern1.kc2_14</key>
-    <dict>
-      <key>public.kern2.kc2_2</key>
-      <integer>-7</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc2_32</key>
-      <integer>5</integer>
-      <key>public.kern2.kc2_9</key>
-      <integer>-10</integer>
-    </dict>
-    <key>public.kern1.kc2_15</key>
-    <dict>
-      <key>public.kern2.kc2_1</key>
-      <integer>-28</integer>
-      <key>public.kern2.kc2_13</key>
-      <integer>-32</integer>
-      <key>public.kern2.kc2_15</key>
-      <integer>-33</integer>
-      <key>public.kern2.kc2_16</key>
-      <integer>-11</integer>
-      <key>public.kern2.kc2_17</key>
-      <integer>-7</integer>
-      <key>public.kern2.kc2_18</key>
-      <integer>-12</integer>
-      <key>public.kern2.kc2_19</key>
-      <integer>-4</integer>
-      <key>public.kern2.kc2_20</key>
-      <integer>-12</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-12</integer>
-      <key>public.kern2.kc2_33</key>
-      <integer>-16</integer>
-      <key>public.kern2.kc2_34</key>
-      <integer>-20</integer>
-      <key>public.kern2.kc2_4</key>
-      <integer>-20</integer>
-      <key>public.kern2.kc2_5</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc2_8</key>
-      <integer>-36</integer>
-      <key>public.kern2.kc2_9</key>
-      <integer>-16</integer>
-    </dict>
-    <key>public.kern1.kc2_16</key>
-    <dict>
-      <key>public.kern2.kc2_1</key>
-      <integer>-26</integer>
-      <key>public.kern2.kc2_11</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc2_13</key>
-      <integer>-11</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc2_4</key>
-      <integer>-30</integer>
-      <key>public.kern2.kc2_5</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc2_9</key>
-      <integer>-6</integer>
-    </dict>
-    <key>public.kern1.kc2_17</key>
-    <dict>
-      <key>public.kern2.kc2_1</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-13</integer>
-      <key>public.kern2.kc2_4</key>
-      <integer>-22</integer>
-      <key>public.kern2.kc2_5</key>
-      <integer>-19</integer>
-      <key>public.kern2.kc2_8</key>
-      <integer>-9</integer>
-      <key>public.kern2.kc2_9</key>
-      <integer>-5</integer>
-    </dict>
-    <key>public.kern1.kc2_18</key>
-    <dict>
-      <key>public.kern2.kc2_1</key>
-      <integer>-16</integer>
-      <key>public.kern2.kc2_2</key>
-      <integer>-6</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-20</integer>
-      <key>public.kern2.kc2_4</key>
-      <integer>-32</integer>
-      <key>public.kern2.kc2_5</key>
-      <integer>-12</integer>
-    </dict>
-    <key>public.kern1.kc2_19</key>
-    <dict>
-      <key>public.kern2.kc2_1</key>
-      <integer>-33</integer>
-      <key>public.kern2.kc2_15</key>
-      <integer>-14</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-19</integer>
-      <key>public.kern2.kc2_34</key>
-      <integer>-13</integer>
-      <key>public.kern2.kc2_4</key>
-      <integer>-29</integer>
-      <key>public.kern2.kc2_5</key>
-      <integer>-24</integer>
-      <key>public.kern2.kc2_8</key>
-      <integer>-27</integer>
-      <key>public.kern2.kc2_9</key>
-      <integer>-21</integer>
-    </dict>
-    <key>public.kern1.kc2_2</key>
-    <dict>
-      <key>public.kern2.kc2_1</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc2_10</key>
-      <integer>-11</integer>
-      <key>public.kern2.kc2_13</key>
-      <integer>-14</integer>
-      <key>public.kern2.kc2_14</key>
-      <integer>-5</integer>
-      <key>public.kern2.kc2_2</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-13</integer>
-      <key>public.kern2.kc2_4</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc2_5</key>
-      <integer>-16</integer>
-      <key>public.kern2.kc2_9</key>
-      <integer>-16</integer>
-    </dict>
-    <key>public.kern1.kc2_20</key>
-    <dict>
-      <key>public.kern2.kc2_1</key>
-      <integer>-33</integer>
-      <key>public.kern2.kc2_15</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-18</integer>
-      <key>public.kern2.kc2_34</key>
-      <integer>-10</integer>
-      <key>public.kern2.kc2_4</key>
-      <integer>-29</integer>
-      <key>public.kern2.kc2_5</key>
-      <integer>-23</integer>
-      <key>public.kern2.kc2_8</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc2_9</key>
-      <integer>-19</integer>
-    </dict>
-    <key>public.kern1.kc2_21</key>
-    <dict>
-      <key>public.kern2.kc2_1</key>
-      <integer>-17</integer>
-      <key>public.kern2.kc2_10</key>
-      <integer>-18</integer>
-      <key>public.kern2.kc2_13</key>
-      <integer>-12</integer>
-      <key>public.kern2.kc2_16</key>
-      <integer>-9</integer>
-      <key>public.kern2.kc2_17</key>
-      <integer>-11</integer>
-      <key>public.kern2.kc2_18</key>
-      <integer>-9</integer>
-      <key>public.kern2.kc2_19</key>
-      <integer>-10</integer>
-      <key>public.kern2.kc2_2</key>
-      <integer>-20</integer>
-      <key>public.kern2.kc2_20</key>
-      <integer>-9</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-16</integer>
-      <key>public.kern2.kc2_35</key>
-      <integer>-13</integer>
-      <key>public.kern2.kc2_4</key>
-      <integer>-22</integer>
-      <key>public.kern2.kc2_5</key>
-      <integer>-12</integer>
-      <key>public.kern2.kc2_9</key>
-      <integer>-17</integer>
-    </dict>
-    <key>public.kern1.kc2_22</key>
-    <dict>
-      <key>public.kern2.kc2_1</key>
-      <integer>-30</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-23</integer>
-      <key>public.kern2.kc2_4</key>
-      <integer>-32</integer>
-      <key>public.kern2.kc2_5</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc2_8</key>
-      <integer>-15</integer>
-      <key>public.kern2.kc2_9</key>
-      <integer>-18</integer>
-    </dict>
-    <key>public.kern1.kc2_23</key>
-    <dict>
-      <key>public.kern2.kc2_1</key>
-      <integer>-25</integer>
-      <key>public.kern2.kc2_13</key>
-      <integer>-17</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-20</integer>
-      <key>public.kern2.kc2_4</key>
-      <integer>-25</integer>
-      <key>public.kern2.kc2_5</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc2_8</key>
-      <integer>-9</integer>
-      <key>public.kern2.kc2_9</key>
-      <integer>-7</integer>
-    </dict>
-    <key>public.kern1.kc2_24</key>
-    <dict>
-      <key>public.kern2.kc2_23</key>
-      <integer>-10</integer>
-      <key>public.kern2.kc2_36</key>
-      <integer>-21</integer>
-    </dict>
-    <key>public.kern1.kc2_25</key>
-    <dict>
-      <key>public.kern2.kc2_11</key>
-      <integer>-19</integer>
-      <key>public.kern2.kc2_12</key>
-      <integer>-19</integer>
-      <key>public.kern2.kc2_15</key>
-      <integer>-18</integer>
-      <key>public.kern2.kc2_6</key>
-      <integer>-17</integer>
-    </dict>
-    <key>public.kern1.kc2_26</key>
-    <dict>
-      <key>public.kern2.kc2_11</key>
-      <integer>-9</integer>
-      <key>public.kern2.kc2_12</key>
-      <integer>-9</integer>
-    </dict>
-    <key>public.kern1.kc2_3</key>
-    <dict>
-      <key>public.kern2.kc2_2</key>
-      <integer>-5</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-14</integer>
-    </dict>
-    <key>public.kern1.kc2_4</key>
-    <dict>
-      <key>public.kern2.kc2_1</key>
-      <integer>-28</integer>
-      <key>public.kern2.kc2_13</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-20</integer>
-      <key>public.kern2.kc2_4</key>
-      <integer>-29</integer>
-      <key>public.kern2.kc2_5</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc2_8</key>
-      <integer>-10</integer>
-      <key>public.kern2.kc2_9</key>
-      <integer>-9</integer>
-    </dict>
     <key>public.kern1.kc2_5</key>
     <dict>
-      <key>public.kern2.kc2_13</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc2_15</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc2_16</key>
-      <integer>-10</integer>
-      <key>public.kern2.kc2_17</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc2_18</key>
-      <integer>-10</integer>
-      <key>public.kern2.kc2_19</key>
-      <integer>-6</integer>
-      <key>public.kern2.kc2_20</key>
-      <integer>-10</integer>
-      <key>public.kern2.kc2_21</key>
-      <integer>-5</integer>
       <key>public.kern2.kc2_22</key>
       <integer>-4</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>19</integer>
-      <key>public.kern2.kc2_30</key>
-      <integer>78</integer>
-      <key>public.kern2.kc2_6</key>
-      <integer>17</integer>
-      <key>public.kern2.kc2_8</key>
-      <integer>-16</integer>
-      <key>public.kern2.kc2_9</key>
-      <integer>5</integer>
-    </dict>
-    <key>public.kern1.kc2_6</key>
-    <dict>
-      <key>public.kern2.kc2_2</key>
-      <integer>-5</integer>
-      <key>public.kern2.kc2_23</key>
-      <integer>38</integer>
-      <key>public.kern2.kc2_24</key>
-      <integer>27</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-11</integer>
-      <key>public.kern2.kc2_4</key>
-      <integer>-20</integer>
-      <key>public.kern2.kc2_5</key>
-      <integer>18</integer>
-      <key>public.kern2.kc2_8</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc2_9</key>
-      <integer>-9</integer>
-    </dict>
-    <key>public.kern1.kc2_7</key>
-    <dict>
-      <key>public.kern2.kc2_1</key>
-      <integer>-13</integer>
-      <key>public.kern2.kc2_2</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc2_4</key>
-      <integer>-19</integer>
-      <key>public.kern2.kc2_5</key>
-      <integer>-11</integer>
-    </dict>
-    <key>public.kern1.kc2_8</key>
-    <dict>
-      <key>public.kern2.kc2_1</key>
-      <integer>-13</integer>
-      <key>public.kern2.kc2_2</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-20</integer>
-      <key>public.kern2.kc2_4</key>
-      <integer>-14</integer>
-      <key>public.kern2.kc2_9</key>
-      <integer>-9</integer>
-    </dict>
-    <key>public.kern1.kc2_9</key>
-    <dict>
-      <key>public.kern2.kc2_1</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc2_10</key>
-      <integer>-4</integer>
-      <key>public.kern2.kc2_11</key>
-      <integer>-20</integer>
-      <key>public.kern2.kc2_12</key>
-      <integer>-19</integer>
-      <key>public.kern2.kc2_2</key>
-      <integer>-9</integer>
-      <key>public.kern2.kc2_25</key>
-      <integer>-14</integer>
-      <key>public.kern2.kc2_3</key>
-      <integer>-23</integer>
-      <key>public.kern2.kc2_4</key>
-      <integer>-40</integer>
-      <key>public.kern2.kc2_5</key>
-      <integer>-18</integer>
-      <key>public.kern2.kc2_6</key>
-      <integer>-15</integer>
-      <key>public.kern2.kc2_7</key>
-      <integer>-12</integer>
-    </dict>
-    <key>public.kern1.kc3_0</key>
-    <dict>
-      <key>public.kern2.kc3_1</key>
-      <integer>-23</integer>
-      <key>public.kern2.kc3_2</key>
-      <integer>-89</integer>
-      <key>public.kern2.kc3_3</key>
-      <integer>-40</integer>
-      <key>public.kern2.kc3_4</key>
-      <integer>-45</integer>
-      <key>public.kern2.kc3_5</key>
-      <integer>-10</integer>
-      <key>public.kern2.kc3_6</key>
-      <integer>-19</integer>
-      <key>public.kern2.kc3_7</key>
-      <integer>-10</integer>
-      <key>public.kern2.kc3_8</key>
-      <integer>-58</integer>
-      <key>public.kern2.kc3_9</key>
-      <integer>-10</integer>
-    </dict>
-    <key>public.kern1.kc3_1</key>
-    <dict>
-      <key>public.kern2.kc3_4</key>
-      <integer>-39</integer>
-      <key>public.kern2.kc3_5</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc3_6</key>
-      <integer>-12</integer>
-    </dict>
-    <key>public.kern1.kc3_10</key>
-    <dict>
-      <key>public.kern2.kc3_10</key>
-      <integer>-12</integer>
-      <key>public.kern2.kc3_11</key>
-      <integer>-12</integer>
-      <key>public.kern2.kc3_12</key>
-      <integer>-13</integer>
-      <key>public.kern2.kc3_13</key>
-      <integer>-15</integer>
-      <key>public.kern2.kc3_14</key>
-      <integer>-56</integer>
-      <key>public.kern2.kc3_15</key>
-      <integer>-40</integer>
-      <key>public.kern2.kc3_16</key>
-      <integer>-33</integer>
-      <key>public.kern2.kc3_17</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc3_18</key>
-      <integer>-58</integer>
-      <key>public.kern2.kc3_19</key>
-      <integer>-24</integer>
-      <key>public.kern2.kc3_24</key>
-      <integer>-26</integer>
-      <key>public.kern2.kc3_31</key>
-      <integer>-42</integer>
-      <key>public.kern2.kc3_4</key>
-      <integer>-19</integer>
-      <key>public.kern2.kc3_8</key>
-      <integer>-21</integer>
-    </dict>
-    <key>public.kern1.kc3_2</key>
-    <dict>
-      <key>public.kern2.kc3_10</key>
-      <integer>-9</integer>
-      <key>public.kern2.kc3_11</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc3_12</key>
-      <integer>-10</integer>
-      <key>public.kern2.kc3_13</key>
-      <integer>-12</integer>
-      <key>public.kern2.kc3_14</key>
-      <integer>-57</integer>
-      <key>public.kern2.kc3_15</key>
-      <integer>-37</integer>
-      <key>public.kern2.kc3_16</key>
-      <integer>-29</integer>
-      <key>public.kern2.kc3_17</key>
-      <integer>-22</integer>
-      <key>public.kern2.kc3_18</key>
-      <integer>-55</integer>
-      <key>public.kern2.kc3_19</key>
-      <integer>-24</integer>
-      <key>public.kern2.kc3_20</key>
-      <integer>-15</integer>
-      <key>public.kern2.kc3_21</key>
-      <integer>-11</integer>
-      <key>public.kern2.kc3_22</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc3_23</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc3_4</key>
-      <integer>-18</integer>
-      <key>public.kern2.kc3_8</key>
-      <integer>-21</integer>
-    </dict>
-    <key>public.kern1.kc3_3</key>
-    <dict>
-      <key>public.kern2.kc3_14</key>
-      <integer>-36</integer>
-      <key>public.kern2.kc3_15</key>
-      <integer>-58</integer>
-      <key>public.kern2.kc3_16</key>
-      <integer>-48</integer>
-      <key>public.kern2.kc3_18</key>
-      <integer>-35</integer>
-      <key>public.kern2.kc3_24</key>
-      <integer>-89</integer>
-      <key>public.kern2.kc3_25</key>
-      <integer>-22</integer>
-      <key>public.kern2.kc3_26</key>
-      <integer>-18</integer>
-      <key>public.kern2.kc3_27</key>
-      <integer>-23</integer>
-      <key>public.kern2.kc3_28</key>
-      <integer>-15</integer>
-      <key>public.kern2.kc3_29</key>
-      <integer>-23</integer>
-      <key>public.kern2.kc3_30</key>
-      <integer>-90</integer>
-      <key>public.kern2.kc3_31</key>
-      <integer>-95</integer>
-    </dict>
-    <key>public.kern1.kc3_4</key>
-    <dict>
-      <key>public.kern2.kc3_20</key>
-      <integer>-19</integer>
-      <key>public.kern2.kc3_22</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc3_23</key>
-      <integer>-31</integer>
-      <key>public.kern2.kc3_25</key>
-      <integer>-16</integer>
-      <key>public.kern2.kc3_28</key>
-      <integer>-18</integer>
-      <key>public.kern2.kc3_32</key>
-      <integer>-41</integer>
-      <key>public.kern2.kc3_33</key>
-      <integer>-34</integer>
-      <key>public.kern2.kc3_34</key>
-      <integer>-19</integer>
-      <key>public.kern2.kc3_35</key>
-      <integer>-40</integer>
-      <key>public.kern2.kc3_36</key>
-      <integer>-34</integer>
-      <key>public.kern2.kc3_37</key>
-      <integer>-33</integer>
-      <key>public.kern2.kc3_38</key>
-      <integer>-17</integer>
-      <key>public.kern2.kc3_39</key>
-      <integer>-22</integer>
-      <key>public.kern2.kc3_4</key>
-      <integer>-48</integer>
-      <key>public.kern2.kc3_5</key>
-      <integer>-44</integer>
-      <key>public.kern2.kc3_6</key>
-      <integer>-38</integer>
-    </dict>
-    <key>public.kern1.kc3_5</key>
-    <dict>
-      <key>public.kern2.kc3_14</key>
-      <integer>-28</integer>
-      <key>public.kern2.kc3_15</key>
-      <integer>-27</integer>
-      <key>public.kern2.kc3_16</key>
-      <integer>-22</integer>
-      <key>public.kern2.kc3_18</key>
-      <integer>-34</integer>
-      <key>public.kern2.kc3_27</key>
-      <integer>-8</integer>
-    </dict>
-    <key>public.kern1.kc3_6</key>
-    <dict>
-      <key>public.kern2.kc3_14</key>
-      <integer>-24</integer>
-      <key>public.kern2.kc3_15</key>
-      <integer>-36</integer>
-      <key>public.kern2.kc3_16</key>
-      <integer>-32</integer>
-      <key>public.kern2.kc3_17</key>
-      <integer>18</integer>
-      <key>public.kern2.kc3_18</key>
-      <integer>-28</integer>
-      <key>public.kern2.kc3_24</key>
-      <integer>-39</integer>
-      <key>public.kern2.kc3_25</key>
-      <integer>-13</integer>
-      <key>public.kern2.kc3_27</key>
-      <integer>-18</integer>
-      <key>public.kern2.kc3_4</key>
-      <integer>13</integer>
-    </dict>
-    <key>public.kern1.kc3_7</key>
-    <dict>
-      <key>public.kern2.kc3_2</key>
-      <integer>-90</integer>
-      <key>public.kern2.kc3_32</key>
-      <integer>-17</integer>
-      <key>public.kern2.kc3_33</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc3_35</key>
-      <integer>-14</integer>
-      <key>public.kern2.kc3_4</key>
-      <integer>-45</integer>
-      <key>public.kern2.kc3_40</key>
-      <integer>-9</integer>
-      <key>public.kern2.kc3_5</key>
-      <integer>-20</integer>
-      <key>public.kern2.kc3_6</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc3_7</key>
-      <integer>-20</integer>
-      <key>public.kern2.kc3_8</key>
-      <integer>-59</integer>
-    </dict>
-    <key>public.kern1.kc3_8</key>
-    <dict>
-      <key>public.kern2.kc3_15</key>
-      <integer>10</integer>
-      <key>public.kern2.kc3_18</key>
-      <integer>16</integer>
-      <key>public.kern2.kc3_2</key>
-      <integer>-95</integer>
-      <key>public.kern2.kc3_23</key>
-      <integer>-10</integer>
-      <key>public.kern2.kc3_32</key>
-      <integer>-23</integer>
-      <key>public.kern2.kc3_33</key>
-      <integer>-14</integer>
-      <key>public.kern2.kc3_35</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc3_36</key>
-      <integer>-8</integer>
-      <key>public.kern2.kc3_37</key>
-      <integer>-11</integer>
-      <key>public.kern2.kc3_4</key>
-      <integer>-50</integer>
-      <key>public.kern2.kc3_40</key>
-      <integer>-16</integer>
-      <key>public.kern2.kc3_5</key>
-      <integer>-26</integer>
-      <key>public.kern2.kc3_6</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc3_7</key>
-      <integer>-26</integer>
-      <key>public.kern2.kc3_8</key>
-      <integer>-62</integer>
-      <key>public.kern2.kc3_9</key>
-      <integer>-39</integer>
-    </dict>
-    <key>public.kern1.kc3_9</key>
-    <dict>
-      <key>public.kern2.kc3_14</key>
-      <integer>-41</integer>
-      <key>public.kern2.kc3_15</key>
-      <integer>-26</integer>
-      <key>public.kern2.kc3_16</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc3_18</key>
-      <integer>-38</integer>
     </dict>
     <key>public.kern1.kc4_0</key>
     <dict>
-      <key>public.kern2.kc4_1</key>
-      <integer>-24</integer>
       <key>public.kern2.kc4_10</key>
       <integer>-10</integer>
-      <key>public.kern2.kc4_11</key>
-      <integer>-17</integer>
-      <key>public.kern2.kc4_12</key>
-      <integer>-24</integer>
-      <key>public.kern2.kc4_13</key>
-      <integer>-18</integer>
-      <key>public.kern2.kc4_14</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc4_15</key>
-      <integer>-18</integer>
-      <key>public.kern2.kc4_16</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc4_17</key>
-      <integer>-10</integer>
-      <key>public.kern2.kc4_18</key>
-      <integer>-11</integer>
-      <key>public.kern2.kc4_19</key>
-      <integer>-15</integer>
-      <key>public.kern2.kc4_2</key>
-      <integer>-15</integer>
-      <key>public.kern2.kc4_3</key>
-      <integer>-11</integer>
-      <key>public.kern2.kc4_4</key>
-      <integer>-15</integer>
-      <key>public.kern2.kc4_5</key>
-      <integer>-10</integer>
-      <key>public.kern2.kc4_6</key>
-      <integer>-22</integer>
-      <key>public.kern2.kc4_7</key>
-      <integer>-24</integer>
-      <key>public.kern2.kc4_8</key>
-      <integer>-21</integer>
-      <key>public.kern2.kc4_9</key>
-      <integer>15</integer>
-    </dict>
-    <key>public.kern1.kc4_1</key>
-    <dict>
-      <key>public.kern2.kc4_1</key>
-      <integer>-20</integer>
-      <key>public.kern2.kc4_11</key>
-      <integer>-15</integer>
-      <key>public.kern2.kc4_12</key>
-      <integer>-24</integer>
-      <key>public.kern2.kc4_13</key>
-      <integer>-22</integer>
-      <key>public.kern2.kc4_14</key>
-      <integer>-20</integer>
-      <key>public.kern2.kc4_15</key>
-      <integer>-13</integer>
-      <key>public.kern2.kc4_16</key>
-      <integer>-15</integer>
-      <key>public.kern2.kc4_17</key>
-      <integer>-14</integer>
-      <key>public.kern2.kc4_19</key>
-      <integer>-22</integer>
-      <key>public.kern2.kc4_2</key>
-      <integer>-15</integer>
-      <key>public.kern2.kc4_20</key>
-      <integer>-20</integer>
-      <key>public.kern2.kc4_21</key>
-      <integer>47</integer>
-      <key>public.kern2.kc4_4</key>
-      <integer>-14</integer>
-      <key>public.kern2.kc4_6</key>
-      <integer>-25</integer>
-      <key>public.kern2.kc4_7</key>
-      <integer>-25</integer>
-      <key>public.kern2.kc4_8</key>
-      <integer>-22</integer>
-    </dict>
-    <key>public.kern1.kc4_2</key>
-    <dict>
-      <key>public.kern2.kc4_1</key>
-      <integer>-22</integer>
     </dict>
   </dict>
 </plist>
