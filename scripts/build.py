@@ -85,18 +85,13 @@ def generateFont(options, font):
     info.versionMajor, info.versionMinor = int(major), int(minor)
 
     if options.output.endswith(".ttf"):
-        from fontTools.ttLib import newTable
-        from fontTools.ttLib.tables import ttProgram
-
         otf = compileTTF(
-            font, inplace=True, removeOverlaps=True, overlapsBackend="pathops"
+            font,
+            inplace=True,
+            removeOverlaps=True,
+            overlapsBackend="pathops",
         )
 
-        otf["prep"] = prep = newTable("prep")
-        prep.program = ttProgram.Program()
-        prep.program.fromAssembly(
-            ["PUSHW[]", "511", "SCANCTRL[]", "PUSHB[]", "4", "SCANTYPE[]"]
-        )
     else:
         otf = compileOTF(
             font,
