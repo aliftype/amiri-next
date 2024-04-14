@@ -450,15 +450,18 @@ def makeQuran(options):
 
     opts = subset.Options()
     opts.set(
-        layout_features="*",
         name_IDs="*",
         name_languages="*",
         notdef_outline=True,
         glyph_names=True,
-        layout_scripts="*",
+        layout_scripts=["DFLT", "arab"],
         recalc_average_width=True,
         recalc_max_context=True,
     )
+    opts.layout_features.extend(f"ss{n:02}" for n in range(1, 21))
+    for feature in ("pnum", "numr", "dnom"):
+        if feature in opts.layout_features:
+            opts.layout_features.remove(feature)
     subsetter = subset.Subsetter(options=opts)
     subsetter.populate(unicodes=unicodes)
     subsetter.subset(otf)

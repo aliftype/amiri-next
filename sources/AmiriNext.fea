@@ -10,20 +10,12 @@ languagesystem latn TRK;
 
 #include "classes.fea"
 #include "local.fea"
-
-#ifndef QURAN
 #include "digits.fea"
-#endif
-
 #include "basic.fea"
 #include "kashida.fea"
 #include "quran.fea"
 #include "enclosing.fea"
-
-#ifndef QURAN
 #include "rtlm.fea"
-#endif
-
 #include "lellah.fea"
 #include "contextuals.fea"
 #include "stylisticsets.fea"
@@ -33,6 +25,4 @@ languagesystem latn TRK;
 #include "post_mark.fea"
 #endif
 
-#ifndef QURAN
 #include "latin.fea"
-#endif
