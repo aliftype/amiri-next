@@ -9,11 +9,10 @@ BUILDDIR=build
 SCRIPTSDIR=scripts
 FONTSDIR=fonts
 DOC=documentation
-FONTS=$(NAME)-Regular $(NAME)-Bold $(NAME)Quran
+FONTS=$(NAME)-Regular $(NAME)-Bold
 DIST=$(NAME)-$(VERSION)
 
 BUILD=${SCRIPTSDIR}/build.py
-MAKEQURAN=${SCRIPTSDIR}/mkquran.py
 PY ?= python
 
 TTF=$(FONTS:%=${FONTSDIR}/%.ttf)
@@ -30,13 +29,10 @@ doc: $(HTML)
 $(BUILDDIR)/$(NAME).designspace: $(SRC)/$(NAME).glyphspackage
 	@echo "   UFO	$@"
 	@glyphs2ufo --minimal --generate-GDEF --output-dir=$(BUILDDIR) $<
+	@cp $(FEA) $(BUILDDIR)
 
 $(BUILDDIR)/%.ufo: $(BUILDDIR)/$(NAME).designspace
 	@echo "   UFO	$@"
-
-${FONTSDIR}/$(NAME)Quran.ttf: $(BUILDDIR)/$(NAME)-Regular.ufo $(SRC)/$(NAME).fea $(FEA) $(BUILD)
-	@echo "   GEN	$@"
-	@$(PY) $(BUILD) --input $< --output $@ --features=$(SRC)/$(NAME).fea --version $(VERSION) --quran
 
 ${FONTSDIR}/$(NAME)-Regular.ttf: $(BUILDDIR)/$(NAME)-Regular.ufo $(SRC)/$(NAME).fea $(FEA) $(BUILD)
 	@echo "   GEN	$@"

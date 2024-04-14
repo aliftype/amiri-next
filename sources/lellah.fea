@@ -36,19 +36,7 @@ lookup LamMediLellah {
 @Af = [alef-ar.fina alefWasla-ar.fina];
 @Hf = [heh-ar.fina hehgoal-ar.fina];
 @xF = [fatha-ar alefabove-ar];
-#ifdef QURAN
-# This a stripped down version of the above for use in Amiri Quran,
-# because here we can safely assume the [<Faa>]<Lam><Lam><Heh> sequence always
-# mean the name of Allah.
-feature rlig {
-    lookupflag IgnoreMarks;
-    # لله
-    sub lam-ar.init' lookup LamInitLellah lam-ar.medi' lookup LamMediLellah @Hf' lookup HehFinaLellah;
-    # فلله
-    sub [feh-ar.init]' lam-ar.medi' lookup LamMediFaLellah lam-ar.medi' lookup LamMediLellah @Hf' lookup HehFinaLellah;
-} rlig;
 
-#else
 lookup LamLamInitX {
     sub lam-ar.init by lam-ar.init.LamLamInit;
     sub lam-ar.medi by lam-ar.medi.LamLamInit;
@@ -133,5 +121,3 @@ feature ss06 {
 
     sub lam-ar.medi.Lellah2' by lam-ar.medi.Lellah;
 } ss06;
-
-#endif

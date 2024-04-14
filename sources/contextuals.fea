@@ -123,12 +123,7 @@ lookup BaaHeh {
 } BaaHeh;
 
 feature rlig {
-    #ifdef QURAN
-    # https://github.com/aliftype/quran-data/issues/1
-    lookupflag UseMarkFilteringSet [alefabove-ar];
-    #else
     lookupflag IgnoreMarks;
-    #endif
     sub [@aBaa.init @aBaa.medi @aMem.init.dots]' lookup BaaHeh [@aHeh.medi]' lookup BaaHeh;
 } rlig;
 
@@ -301,26 +296,22 @@ lookup LamMemHaaInit {
     sub @aMem.medi by @aMem.medi.LamMemHaaInit;
 } LamMemHaaInit;
 
-#ifndef QURAN
 lookup LamMemInit {
     sub @aLam.init by @aLam.init.LamMemInit;
     sub @aMem.medi by @aMem.medi.LamMemInit;
 } LamMemInit;
-#endif
-#
+
 lookup LamAlfIsol {
     sub @aAlf.fina by @aAlf.fina.LamAlfIsol;
     sub @aLam.init by @aLam.init.LamAlfIsol;
 } LamAlfIsol;
 
-#ifndef QURAN
 lookup LamHaaMemInit {
     sub @aHaa.medi by @aHaa.medi.LamHaaMemInit;
     sub @aLam.init by @aLam.init.LamHaaMemInit;
     sub @aMem.medi by @aMem.medi.LamHaaMemInit;
 } LamHaaMemInit;
-#endif
-#
+
 lookup BaaBaaMemInit {
     sub @aBaa.init by @aBaa.init.BaaBaaMemInit;
     sub @aBaa.medi by @aBaa.medi.BaaBaaMemInit;
@@ -531,8 +522,7 @@ feature rlig {
     sub [@aLam.init @aKaf.init]' lookup KafMemIsol @Tashkil.below' @aMem.fina' lookup MemExtended @Tashkil.below';
 } rlig;
 
-#ditto, but we don't have LamMemInit in Quran font
-#ifndef QURAN
+# ditto
 lookup LamMemInitTatweel {
     sub @aMem.medi by @aMem.medi.LamMemInitTatweel;
 } LamMemInitTatweel;
@@ -547,7 +537,6 @@ feature rlig {
     sub @aLam.init' lookup LamMemInit @Tashkil.below' @aMem.medi' lookup LamMemInitTatweel @Tashkil.below';
 } rlig;
 
-#endif
 # ditto
 lookup KafMemFinaExtended {
     sub @aMem.fina by @aMem.fina.KafMemFinaExtended;
@@ -583,27 +572,19 @@ feature rlig {
     sub [@aLam.medi]' lookup LamWawFina [@aWaw.fina]' lookup LamWawFina;
     sub [@aFaa.medi]' lookup FaaYaaFina [@aYaa.fina]' lookup FaaYaaFina;
     sub [@aLam.init]' lookup LamLamHaaInit [@aLam.medi]' lookup LamLamHaaInit [@aHaa.medi]' lookup LamLamHaaInit;
-    #ifndef QURAN
     sub [@aLam.init]' lookup LamBaaMemInit [@aBaa.medi]' lookup LamBaaMemInit [@aMem.medi]' lookup LamBaaMemInit;
-    #endif
     sub [@aKaf.init @aKaf.medi]' lookup KafLam [@aLam.medi]' lookup KafLamMemMedi [@aMem.medi.dots]' lookup LamMemMedi;
     sub [@aKaf.init @aKaf.medi]' lookup KafLam [@aLam.medi @aLam.medi.LamMemFina]' lookup KafLamMemFina [@aMem.fina @aMem.fina.LamMemFinaExtended]' lookup LamMemFina;
     sub [@aBaa.init]' lookup BaaDalIsol [@aDal.fina]' lookup BaaDalIsol;
     sub [@aBaa.init]' lookup BaaBaaYaa [@aBaa.medi]' lookup BaaBaaYaa [@aYaa.fina]' lookup BaaBaaYaa;
     sub [@aLam.medi]' lookup LamYaaFina [@aYaa.fina]' lookup LamYaaFina;
     sub [@aLam.init]' lookup LamMemHaaInit [@aMem.medi]' lookup LamMemHaaInit [@aHaa.medi]' lookup LamMemHaaInit;
-    #ifndef QURAN
     sub [@aLam.init]' lookup LamMemInit [@aMem.medi]' lookup LamMemInit;
-    #endif
     sub [@aLam.init]' lookup LamAlfIsol [@aAlf.fina]' lookup LamAlfIsol;
     sub [@aLam.init]' lookup LamAlfIsol hamza-ar.float' [@aAlf.fina]' lookup LamAlfIsol;
-    #ifndef QURAN
     sub [@aLam.init]' lookup LamHaaMemInit [@aHaa.medi]' lookup LamHaaMemInit [@aMem.medi]' lookup LamHaaMemInit;
-    #endif
     sub [@aBaa.init]' lookup BaaBaaMemInit [@aBaa.medi]' lookup BaaBaaMemInit [@aMem.medi]' lookup BaaBaaMemInit;
-    #ifndef QURAN
     sub [@aBaa.init]' lookup BaaBaaHaaInit [@aBaa.medi]' lookup BaaBaaHaaInit [@aHaa.medi]' lookup BaaBaaHaaInit;
-    #endif
     sub [@aMem.init]' lookup MemRaaIsol [@aRaa.fina]' lookup MemRaaIsol;
     sub [@aAyn.init]' [@aRaa.fina]' lookup MemRaaIsol;
     sub [@aHaa.init]' lookup HaaHaaInit [@aHaa.medi]' lookup HaaHaaInit;
@@ -800,14 +781,6 @@ feature rlig {
     sub [@LamKafInit @aMem.medi.LamMemInit]' lookup LamKafInit [@aKaf.medi @aKaf.medi.KafHeh @aKaf.medi.KafMemFina @aKaf.medi.KafRaaFina @aKaf.medi.KafYaaFina @aKaf.medi.KafMemAlf @aKaf.medi.PreHeh @aGaf.fina];
 } rlig;
 
-#ifdef QURAN
-# alef lam meem raa (with madda)
-# we don't get plain aLam.init aMem.fina except in Quran font
-feature rlig {
-    sub @aLam.init' lookup LamKafInit [madda-ar maddalong-ar] @aMem.medi [madda-ar maddalong-ar];
-} rlig;
-
-#endif
 lookup HehYaaFina {
     sub @aHeh.medi.BaaHehMedi by @aHeh.medi.HehYaaFina;
     sub @aHeh.medi.PostTooth by @aHeh.medi.PostToothHehYaa;
