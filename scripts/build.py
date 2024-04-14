@@ -532,7 +532,6 @@ if __name__ == "__main__":
         "--features", metavar="FILE", required=True, help="feature file to include"
     )
     parser.add_argument("--version", type=str, required=True, help="font version")
-    parser.add_argument("--license", type=str, required=True, help="license file")
     parser.add_argument(
         "--quran", action="store_true", required=False, help="build Quran variant"
     )
