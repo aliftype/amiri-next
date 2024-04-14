@@ -21,9 +21,6 @@ from io import StringIO
 from pcpp.preprocessor import Preprocessor
 
 from ufo2ft import compileOTF, compileTTF
-from ufo2ft.featureWriters import (
-    KernFeatureWriter, MarkFeatureWriter, CursFeatureWriter, GdefFeatureWriter,
-)
 from ufo2ft.filters import FlattenComponentsFilter
 from ufo2ft.filters.transformations import TransformationsFilter
 from ufoLib2 import Font
@@ -83,16 +80,6 @@ def generateFeatures(font, args):
     preprocessor.write(o)
     font.features.text = o.getvalue() + font.features.text
 
-def _groupMarkClasses(self, markGlyphToMarkClasses):
-    markClasses = set()
-    for x in markGlyphToMarkClasses.values():
-        markClasses.update(x)
-    # Sort them
-    return sorted(markClasses, key=lambda x: -self.anchorSortKey.get(self._removeClassPrefix(x), 0))
-
-# Monkey patch MarkFeatureWriter to not do any funny grouping business.
-MarkFeatureWriter._groupMarkClasses = _groupMarkClasses
-
 def generateFont(options, font):
     generateFeatures(font, options)
 
@@ -101,43 +88,13 @@ def generateFont(options, font):
     major, minor = options.version.split(".")
     info.versionMajor, info.versionMinor = int(major), int(minor)
 
-    markWriter = MarkFeatureWriter()
-
-    # Maintain our desired lookup order.
-    markWriter.anchorSortKey = {
-        "_MarkAbove": -1,
-        "_MarkBelow": -2,
-        "_HamzaAbove": -3,
-        "_TaaAbove": -4,
-        "_TashkilAbove": -5,
-        "_TashkilBelow": -6,
-        "_HamzaBelow": -7,
-        "_AlefAbove": -8,
-        "_DigitAbove": -9,
-
-        "_TashkilTashkilAbove": -10,
-        "_TashkilTashkilAbove2": -11,
-        "_TashkilTashkilBelow": -12,
-        "_TashkilBelowHamza": -13,
-
-        "_SeenAbove": -14,
-        "_SeenBelow": -15,
-        "_NoonAbove": -16,
-    }
-
-    featureWriters = [
-        GdefFeatureWriter(),
-        CursFeatureWriter(),
-        KernFeatureWriter(features=["kern"]),
-        markWriter,
-    ]
     filters = [..., FlattenComponentsFilter()]
 
     if options.output.endswith(".ttf"):
         from fontTools.ttLib import newTable
         from fontTools.ttLib.tables import ttProgram
         otf = compileTTF(font, inplace=True, removeOverlaps=True,
-            overlapsBackend="pathops", featureWriters=featureWriters,
+            overlapsBackend="pathops",
             filters=filters)
 
         otf["prep"] = prep = newTable("prep")
@@ -148,7 +105,7 @@ def generateFont(options, font):
         otf = compileOTF(font, inplace=True,
             optimizeCFF=1,
             removeOverlaps=True, overlapsBackend="pathops",
-            featureWriters=featureWriters, filters=filters)
+            filters=filters)
 
     if info.styleMapStyleName and "italic" in info.styleMapStyleName:
         otf['name'].names = [n for n in otf['name'].names if n.nameID != 17]
