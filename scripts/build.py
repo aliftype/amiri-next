@@ -458,7 +458,6 @@ def makeQuran(options):
         recalc_average_width=True,
         recalc_max_context=True,
     )
-    opts.layout_features.extend(f"ss{n:02}" for n in range(1, 21))
     for feature in ("pnum", "numr", "dnom"):
         if feature in opts.layout_features:
             opts.layout_features.remove(feature)
