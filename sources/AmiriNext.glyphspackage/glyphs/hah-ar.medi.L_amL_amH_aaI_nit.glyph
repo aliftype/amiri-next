@@ -4,18 +4,54 @@ layers = (
 {
 anchors = (
 {
+name = DigitBelow;
+pos = (284,-93);
+},
+{
+name = DotAbove;
+pos = (83,537);
+},
+{
+name = DotBelow;
+pos = (284,-93);
+},
+{
+name = HamzaAbove;
+pos = (49,439);
+},
+{
+name = HamzaBelow;
+pos = (284,-93);
+},
+{
+name = TaaAbove;
+pos = (83,537);
+},
+{
+name = TaaBelow;
+pos = (284,103);
+},
+{
 name = TashkilAbove;
 pos = (83,801);
 },
 {
 name = TashkilBelow;
 pos = (146,-327);
+},
+{
+name = TwoDotsAbove;
+pos = (0,537);
+},
+{
+name = TwoDotsBelow;
+pos = (229,-93);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 shapes = (
 {
-ref = aHaa.medi.LamLamHaaInit;
+ref = "hah-ar.medi.SadHaaInit";
 }
 );
 width = 66;
@@ -23,18 +59,54 @@ width = 66;
 {
 anchors = (
 {
+name = DigitBelow;
+pos = (284,-93);
+},
+{
+name = DotAbove;
+pos = (83,537);
+},
+{
+name = DotBelow;
+pos = (284,-93);
+},
+{
+name = HamzaAbove;
+pos = (49,439);
+},
+{
+name = HamzaBelow;
+pos = (284,-93);
+},
+{
+name = TaaAbove;
+pos = (83,537);
+},
+{
+name = TaaBelow;
+pos = (284,103);
+},
+{
 name = TashkilAbove;
 pos = (83,801);
 },
 {
 name = TashkilBelow;
 pos = (146,-327);
+},
+{
+name = TwoDotsAbove;
+pos = (0,537);
+},
+{
+name = TwoDotsBelow;
+pos = (229,-93);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
-ref = aHaa.medi.LamLamHaaInit;
+ref = "hah-ar.medi.SadHaaInit";
 }
 );
 width = 66;

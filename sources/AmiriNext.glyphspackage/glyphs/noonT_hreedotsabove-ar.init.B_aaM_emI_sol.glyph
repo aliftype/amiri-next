@@ -19,7 +19,7 @@ pos = (296,-311);
 ref = "threedotsdownbelow-ar";
 },
 {
-ref = aBaa.init.BaaMemIsol;
+ref = "behDotless-ar.init.BaaMemIsol";
 }
 );
 width = 391;
@@ -42,7 +42,7 @@ pos = (296,-311);
 ref = "threedotsdownbelow-ar";
 },
 {
-ref = aBaa.init.BaaMemIsol;
+ref = "behDotless-ar.init.BaaMemIsol";
 }
 );
 width = 391;

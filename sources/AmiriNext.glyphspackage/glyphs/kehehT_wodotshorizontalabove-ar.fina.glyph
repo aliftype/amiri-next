@@ -19,7 +19,7 @@ pos = (649,640);
 ref = "twodotshorizontalabove-ar";
 },
 {
-ref = aGaf.fina;
+ref = "keheh-ar.fina";
 }
 );
 width = 1132;
@@ -42,7 +42,7 @@ pos = (649,640);
 ref = "twodotshorizontalabove-ar";
 },
 {
-ref = aGaf.fina;
+ref = "keheh-ar.fina";
 }
 );
 width = 1132;

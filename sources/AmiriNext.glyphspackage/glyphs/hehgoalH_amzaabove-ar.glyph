@@ -38,7 +38,7 @@ pos = (200,-327);
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
-ref = aHeh.isol;
+ref = "heh-ar";
 },
 {
 pos = (180,68);

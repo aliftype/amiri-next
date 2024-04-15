@@ -23,7 +23,7 @@ pos = (79,273);
 ref = "threedotsupabove-ar";
 },
 {
-ref = aBaa.init.BaaBaaHeh;
+ref = "behDotless-ar.init.BaaBaaHeh";
 }
 );
 width = 233;
@@ -42,7 +42,7 @@ pos = (96,-327);
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
-ref = aBaa.init.BaaBaaHeh;
+ref = "behDotless-ar.init.BaaBaaHeh";
 },
 {
 pos = (79,273);

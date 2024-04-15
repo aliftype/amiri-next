@@ -4,6 +4,38 @@ layers = (
 {
 anchors = (
 {
+name = DigitAbove;
+pos = (44,843);
+},
+{
+name = DigitBelow;
+pos = (162,-200);
+},
+{
+name = DotAbove;
+pos = (44,843);
+},
+{
+name = DotBelow;
+pos = (162,-200);
+},
+{
+name = DotBelowAlt;
+pos = (162,-366);
+},
+{
+name = HamzaAbove;
+pos = (44,843);
+},
+{
+name = HamzaBelow;
+pos = (162,-200);
+},
+{
+name = RingBelow;
+pos = (107,586);
+},
+{
 name = TaaAbove;
 pos = (44,745);
 },
@@ -14,12 +46,69 @@ pos = (123,801);
 {
 name = TashkilBelow;
 pos = (195,-327);
+},
+{
+name = TwoDotsAbove;
+pos = (-10,843);
+},
+{
+name = TwoDotsBelow;
+pos = (107,-127);
+},
+{
+name = TwoDotsBelowAlt;
+pos = (107,-366);
+},
+{
+name = VAbove;
+pos = (44,843);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 shapes = (
 {
-ref = aBaa.init.BaaMemHaaInit;
+closed = 1;
+nodes = (
+(108,664,o),
+(138,653,o),
+(164,624,cs),
+(168,619,o),
+(162,592,o),
+(145,544,cs),
+(141,532,o),
+(134,529,o),
+(126,536,cs),
+(99,560,o),
+(74,571,o),
+(50,569,cs),
+(26,567,o),
+(0,554,o),
+(-26,528,cs),
+(-30,524,o),
+(-31,519,o),
+(-29,512,cs),
+(-10,446,o),
+(20,406,o),
+(64,392,cs),
+(75,388,o),
+(75,382,o),
+(62,372,c),
+(40,355,o),
+(17,346,o),
+(-8,346,cs),
+(-33,346,o),
+(-48,356,o),
+(-55,375,cs),
+(-65,403,o),
+(-70,433,o),
+(-70,462,cs),
+(-70,526,o),
+(-45,580,o),
+(5,623,cs),
+(30,644,o),
+(52,656,o),
+(73,659,cs)
+);
 }
 );
 width = 310;
@@ -27,6 +116,38 @@ width = 310;
 {
 anchors = (
 {
+name = DigitAbove;
+pos = (44,843);
+},
+{
+name = DigitBelow;
+pos = (162,-200);
+},
+{
+name = DotAbove;
+pos = (44,843);
+},
+{
+name = DotBelow;
+pos = (162,-200);
+},
+{
+name = DotBelowAlt;
+pos = (162,-366);
+},
+{
+name = HamzaAbove;
+pos = (44,843);
+},
+{
+name = HamzaBelow;
+pos = (162,-200);
+},
+{
+name = RingBelow;
+pos = (107,586);
+},
+{
 name = TaaAbove;
 pos = (44,745);
 },
@@ -37,12 +158,67 @@ pos = (123,801);
 {
 name = TashkilBelow;
 pos = (195,-327);
+},
+{
+name = TwoDotsAbove;
+pos = (-10,843);
+},
+{
+name = TwoDotsBelow;
+pos = (107,-127);
+},
+{
+name = TwoDotsBelowAlt;
+pos = (107,-366);
+},
+{
+name = VAbove;
+pos = (44,843);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
-ref = aBaa.init.BaaMemHaaInit;
+closed = 1;
+nodes = (
+(110,680,o),
+(144,666,o),
+(175,633,cs),
+(182,626,o),
+(183,617,o),
+(178,604,cs),
+(153,529,ls),
+(147,511,o),
+(138,508,o),
+(126,520,cs),
+(77,569,o),
+(27,569,o),
+(-23,520,c),
+(-11,471,o),
+(20,432,o),
+(69,406,cs),
+(77,402,o),
+(82,399,o),
+(83,397,cs),
+(94,383,o),
+(85,368,o),
+(56,350,cs),
+(35,338,o),
+(12,332,o),
+(-16,332,cs),
+(-44,332,o),
+(-62,346,o),
+(-70,373,cs),
+(-78,400,o),
+(-81,430,o),
+(-80,462,cs),
+(-77,531,o),
+(-52,588,o),
+(-4,634,cs),
+(19,656,o),
+(44,670,o),
+(71,674,cs)
+);
 }
 );
 width = 310;

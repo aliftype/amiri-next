@@ -23,7 +23,7 @@ pos = (99,-190);
 ref = "twodotshorizontalbelow-ar";
 },
 {
-ref = aBaa.medi.KafBaaMedi;
+ref = "behDotless-ar.medi.KafBaaMedi";
 }
 );
 width = 179;
@@ -50,7 +50,7 @@ pos = (99,-190);
 ref = "twodotshorizontalbelow-ar";
 },
 {
-ref = aBaa.medi.KafBaaMedi;
+ref = "behDotless-ar.medi.KafBaaMedi";
 }
 );
 width = 179;

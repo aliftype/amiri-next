@@ -15,8 +15,7 @@ pos = (232,-568);
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 shapes = (
 {
-pos = (-146,0);
-ref = aRaa.fina.PostTooth;
+ref = "reh-ar.fina.PostTooth";
 },
 {
 pos = (232,-31);
@@ -39,8 +38,7 @@ pos = (232,-568);
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
-pos = (-146,0);
-ref = aRaa.fina.PostTooth;
+ref = "reh-ar.fina.PostTooth";
 },
 {
 pos = (232,-31);

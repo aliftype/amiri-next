@@ -23,7 +23,7 @@ pos = (137,432);
 ref = "twodotshorizontalabove-ar";
 },
 {
-ref = aBaa.init.Wide;
+ref = "behDotless-ar.init.Wide";
 }
 );
 width = 332;
@@ -50,7 +50,7 @@ pos = (137,432);
 ref = "twodotshorizontalabove-ar";
 },
 {
-ref = aBaa.init.Wide;
+ref = "behDotless-ar.init.Wide";
 }
 );
 width = 332;

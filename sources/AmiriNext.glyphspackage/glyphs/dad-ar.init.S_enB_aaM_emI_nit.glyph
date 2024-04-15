@@ -20,7 +20,7 @@ ref = "dotabove-ar";
 },
 {
 pos = (0,202);
-ref = aSad.init;
+ref = "sad-ar.init";
 }
 );
 width = 698;
@@ -44,7 +44,7 @@ ref = "dotabove-ar";
 },
 {
 pos = (0,202);
-ref = aSad.init;
+ref = "sad-ar.init";
 }
 );
 width = 698;

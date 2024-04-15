@@ -4,6 +4,34 @@ layers = (
 {
 anchors = (
 {
+name = DigitAbove;
+pos = (122,293);
+},
+{
+name = DigitBelow;
+pos = (49,-146);
+},
+{
+name = DotAbove;
+pos = (122,293);
+},
+{
+name = DotBelow;
+pos = (49,-146);
+},
+{
+name = HamzaAbove;
+pos = (122,293);
+},
+{
+name = HamzaBelow;
+pos = (98,-73);
+},
+{
+name = RingBelow;
+pos = (122,73);
+},
+{
 name = TaaAbove;
 pos = (122,244);
 },
@@ -14,12 +42,53 @@ pos = (122,801);
 {
 name = TashkilBelow;
 pos = (49,-327);
+},
+{
+name = TwoDotsAbove;
+pos = (59,293);
+},
+{
+name = TwoDotsBelow;
+pos = (49,-103);
+},
+{
+name = VAbove;
+pos = (122,293);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 shapes = (
 {
-ref = aBaa.medi.BaaBaaInit;
+closed = 1;
+nodes = (
+(174,51,o),
+(160,41,o),
+(148,48,cs),
+(145,49,o),
+(136,57,o),
+(118,70,c),
+(77,24,o),
+(38,1,o),
+(0,0,cs),
+(-14,0,o),
+(-23,14,o),
+(-27,44,cs),
+(-31,73,o),
+(-22,88,o),
+(0,91,cs),
+(59,98,o),
+(100,117,o),
+(125,150,cs),
+(132,159,o),
+(141,159,o),
+(151,151,cs),
+(154,149,o),
+(160,143,o),
+(171,133,cs),
+(193,114,o),
+(199,96,o),
+(188,77,cs)
+);
 }
 );
 width = 168;
@@ -27,6 +96,34 @@ width = 168;
 {
 anchors = (
 {
+name = DigitAbove;
+pos = (122,293);
+},
+{
+name = DigitBelow;
+pos = (49,-146);
+},
+{
+name = DotAbove;
+pos = (122,293);
+},
+{
+name = DotBelow;
+pos = (49,-146);
+},
+{
+name = HamzaAbove;
+pos = (122,293);
+},
+{
+name = HamzaBelow;
+pos = (98,-73);
+},
+{
+name = RingBelow;
+pos = (122,73);
+},
+{
 name = TaaAbove;
 pos = (122,244);
 },
@@ -37,12 +134,53 @@ pos = (122,801);
 {
 name = TashkilBelow;
 pos = (49,-327);
+},
+{
+name = TwoDotsAbove;
+pos = (59,293);
+},
+{
+name = TwoDotsBelow;
+pos = (49,-103);
+},
+{
+name = VAbove;
+pos = (122,293);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
-ref = aBaa.medi.BaaBaaInit;
+closed = 1;
+nodes = (
+(182,34,o),
+(163,25,o),
+(142,39,cs),
+(134,45,o),
+(125,49,o),
+(117,55,c),
+(74,9,o),
+(35,-14,o),
+(0,-15,cs),
+(-22,-15,o),
+(-36,4,o),
+(-42,42,cs),
+(-47,80,o),
+(-34,101,o),
+(-2,105,c),
+(56,112,o),
+(98,130,o),
+(121,159,cs),
+(133,173,o),
+(144,176,o),
+(156,166,cs),
+(166,158,o),
+(174,151,o),
+(181,146,cs),
+(209,122,o),
+(216,96,o),
+(201,69,cs)
+);
 }
 );
 width = 168;

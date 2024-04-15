@@ -27,7 +27,7 @@ pos = (143,334);
 ref = "twodotshorizontalabove-ar";
 },
 {
-ref = aBaa.init.BaaBaaIsol;
+ref = "behDotless-ar.init.BaaBaaIsol";
 }
 );
 width = 247;
@@ -58,7 +58,7 @@ pos = (143,334);
 ref = "twodotshorizontalabove-ar";
 },
 {
-ref = aBaa.init.BaaBaaIsol;
+ref = "behDotless-ar.init.BaaBaaIsol";
 }
 );
 width = 247;

@@ -19,7 +19,7 @@ pos = (378,-3);
 ref = "vinvertedabove-ar";
 },
 {
-ref = aHehKnotted.fina;
+ref = "hehDoachashmee-ar.fina";
 }
 );
 width = 522;
@@ -42,7 +42,7 @@ pos = (378,-3);
 ref = "vinvertedabove-ar";
 },
 {
-ref = aHehKnotted.fina;
+ref = "hehDoachashmee-ar.fina";
 }
 );
 width = 522;

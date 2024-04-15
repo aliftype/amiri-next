@@ -19,7 +19,7 @@ pos = (197,-3);
 ref = "vinvertedabove-ar";
 },
 {
-ref = aHeh.medi.LamHehInit;
+ref = "heh-ar.medi.LamHehInit";
 }
 );
 width = 452;
@@ -42,7 +42,7 @@ pos = (197,-3);
 ref = "vinvertedabove-ar";
 },
 {
-ref = aHeh.medi.LamHehInit;
+ref = "heh-ar.medi.LamHehInit";
 }
 );
 width = 452;

@@ -15,7 +15,7 @@ pos = (50,-552);
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 shapes = (
 {
-ref = aBaa.init.BaaBaaHeh;
+ref = "behDotless-ar.init.BaaBaaHeh";
 },
 {
 pos = (30,-459);
@@ -42,7 +42,7 @@ pos = (30,-459);
 ref = "threedotshorizontalbelow-ar.l";
 },
 {
-ref = aBaa.init.BaaBaaHeh;
+ref = "behDotless-ar.init.BaaBaaHeh";
 }
 );
 width = 233;

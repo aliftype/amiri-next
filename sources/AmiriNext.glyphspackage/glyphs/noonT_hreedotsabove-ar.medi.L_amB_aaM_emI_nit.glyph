@@ -19,7 +19,7 @@ pos = (133,-337);
 ref = "threedotsdownbelow-ar";
 },
 {
-ref = aBaa.medi.LamBaaMemInit;
+ref = "behDotless-ar.medi.LamBaaMemInit";
 }
 );
 width = 140;
@@ -42,7 +42,7 @@ pos = (133,-337);
 ref = "threedotsdownbelow-ar";
 },
 {
-ref = aBaa.medi.LamBaaMemInit;
+ref = "behDotless-ar.medi.LamBaaMemInit";
 }
 );
 width = 140;

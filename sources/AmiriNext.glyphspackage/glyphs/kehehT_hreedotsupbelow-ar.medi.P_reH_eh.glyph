@@ -19,7 +19,7 @@ pos = (289,-166);
 ref = "threedotsupbelow-ar";
 },
 {
-ref = aKaf.medi.PreHeh;
+ref = "kaf-ar.medi.PreHeh";
 }
 );
 width = 491;
@@ -38,7 +38,7 @@ pos = (308,-327);
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
-ref = aKaf.medi.PreHeh;
+ref = "kaf-ar.medi.PreHeh";
 },
 {
 pos = (289,-166);

@@ -23,7 +23,7 @@ pos = (60,-435);
 ref = "twodotshorizontalbelow-ar.l";
 },
 {
-ref = aBaa.init.BaaBaaYaa;
+ref = "behDotless-ar.init.BaaBaaYaa";
 }
 );
 width = 203;
@@ -50,7 +50,7 @@ pos = (60,-435);
 ref = "twodotshorizontalbelow-ar.l";
 },
 {
-ref = aBaa.init.BaaBaaYaa;
+ref = "behDotless-ar.init.BaaBaaYaa";
 }
 );
 width = 203;

@@ -4,6 +4,34 @@ layers = (
 {
 anchors = (
 {
+name = DigitAbove;
+pos = (117,391);
+},
+{
+name = DigitBelow;
+pos = (96,-430);
+},
+{
+name = DotAbove;
+pos = (137,342);
+},
+{
+name = DotBelow;
+pos = (96,-381);
+},
+{
+name = HamzaAbove;
+pos = (137,342);
+},
+{
+name = HamzaBelow;
+pos = (96,-381);
+},
+{
+name = RingBelow;
+pos = (91,54);
+},
+{
 name = TaaAbove;
 pos = (136,361);
 },
@@ -14,12 +42,24 @@ pos = (234,801);
 {
 name = TashkilBelow;
 pos = (233,-493);
+},
+{
+name = TwoDotsAbove;
+pos = (73,342);
+},
+{
+name = TwoDotsBelow;
+pos = (96,-381);
+},
+{
+name = VAbove;
+pos = (137,342);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 shapes = (
 {
-ref = aBaa.init.BaaBaaYaaBari;
+ref = "behDotless-ar.init.BaaBaaHeh";
 }
 );
 width = 642;
@@ -27,6 +67,34 @@ width = 642;
 {
 anchors = (
 {
+name = DigitAbove;
+pos = (117,391);
+},
+{
+name = DigitBelow;
+pos = (96,-430);
+},
+{
+name = DotAbove;
+pos = (137,342);
+},
+{
+name = DotBelow;
+pos = (96,-381);
+},
+{
+name = HamzaAbove;
+pos = (137,342);
+},
+{
+name = HamzaBelow;
+pos = (96,-381);
+},
+{
+name = RingBelow;
+pos = (91,54);
+},
+{
 name = TaaAbove;
 pos = (136,361);
 },
@@ -37,12 +105,24 @@ pos = (234,801);
 {
 name = TashkilBelow;
 pos = (233,-493);
+},
+{
+name = TwoDotsAbove;
+pos = (73,342);
+},
+{
+name = TwoDotsBelow;
+pos = (96,-381);
+},
+{
+name = VAbove;
+pos = (137,342);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
-ref = aBaa.init.BaaBaaYaaBari;
+ref = "behDotless-ar.init.BaaBaaHeh";
 }
 );
 width = 642;

@@ -19,7 +19,7 @@ pos = (268,676);
 ref = ring.below;
 },
 {
-ref = aKaf.init.PreHeh;
+ref = "kaf-ar.init.PreHeh";
 }
 );
 width = 579;
@@ -38,7 +38,7 @@ pos = (195,-327);
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
-ref = aKaf.init.PreHeh;
+ref = "kaf-ar.init.PreHeh";
 },
 {
 pos = (268,676);

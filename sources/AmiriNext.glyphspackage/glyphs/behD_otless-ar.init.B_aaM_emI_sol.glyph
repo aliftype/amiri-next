@@ -4,6 +4,38 @@ layers = (
 {
 anchors = (
 {
+name = DigitAbove;
+pos = (218,552);
+},
+{
+name = DigitBelow;
+pos = (294,-169);
+},
+{
+name = DotAbove;
+pos = (218,552);
+},
+{
+name = DotBelow;
+pos = (294,-169);
+},
+{
+name = DotBelowAlt;
+pos = (294,-366);
+},
+{
+name = HamzaAbove;
+pos = (218,552);
+},
+{
+name = HamzaBelow;
+pos = (294,-169);
+},
+{
+name = RingBelow;
+pos = (264,269);
+},
+{
 name = TaaAbove;
 pos = (218,455);
 },
@@ -14,12 +46,60 @@ pos = (218,801);
 {
 name = TashkilBelow;
 pos = (294,-327);
+},
+{
+name = TwoDotsAbove;
+pos = (164,552);
+},
+{
+name = TwoDotsBelow;
+pos = (240,-121);
+},
+{
+name = TwoDotsBelowAlt;
+pos = (240,-366);
+},
+{
+name = VAbove;
+pos = (218,552);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 shapes = (
 {
-ref = aBaa.init.BaaMemIsol;
+closed = 1;
+nodes = (
+(321,261,o),
+(310,246,o),
+(299,231,cs),
+(279,205,o),
+(266,203,o),
+(260,224,cs),
+(254,245,o),
+(239,257,o),
+(214,260,cs),
+(170,264,o),
+(101,239,o),
+(7,184,cs),
+(-21,168,o),
+(-39,170,o),
+(-50,188,cs),
+(-54,195,o),
+(-55,198,o),
+(-52,201,cs),
+(-41,212,o),
+(-15,231,o),
+(26,257,cs),
+(124,319,o),
+(200,351,o),
+(254,350,cs),
+(277,350,o),
+(299,343,o),
+(317,329,cs),
+(335,315,o),
+(339,297,o),
+(328,275,cs)
+);
 }
 );
 width = 391;
@@ -27,6 +107,38 @@ width = 391;
 {
 anchors = (
 {
+name = DigitAbove;
+pos = (218,552);
+},
+{
+name = DigitBelow;
+pos = (294,-169);
+},
+{
+name = DotAbove;
+pos = (218,552);
+},
+{
+name = DotBelow;
+pos = (294,-169);
+},
+{
+name = DotBelowAlt;
+pos = (294,-366);
+},
+{
+name = HamzaAbove;
+pos = (218,552);
+},
+{
+name = HamzaBelow;
+pos = (294,-169);
+},
+{
+name = RingBelow;
+pos = (264,269);
+},
+{
 name = TaaAbove;
 pos = (218,455);
 },
@@ -37,12 +149,63 @@ pos = (218,801);
 {
 name = TashkilBelow;
 pos = (294,-327);
+},
+{
+name = TwoDotsAbove;
+pos = (164,552);
+},
+{
+name = TwoDotsBelow;
+pos = (240,-121);
+},
+{
+name = TwoDotsBelowAlt;
+pos = (240,-366);
+},
+{
+name = VAbove;
+pos = (218,552);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
-ref = aBaa.init.BaaMemIsol;
+closed = 1;
+nodes = (
+(342,267,o),
+(332,251,o),
+(317,231,cs),
+(302,211,o),
+(290,200,o),
+(283,198,cs),
+(264,192,o),
+(252,200,o),
+(246,220,c),
+(242,235,o),
+(230,243,o),
+(212,245,c),
+(171,249,o),
+(106,224,o),
+(15,171,cs),
+(-21,150,o),
+(-47,154,o),
+(-63,180,c),
+(-70,193,o),
+(-70,203,o),
+(-63,211,cs),
+(-51,223,o),
+(-24,244,o),
+(18,270,cs),
+(118,334,o),
+(197,366,o),
+(254,365,cs),
+(281,365,o),
+(304,357,o),
+(325,341,cs),
+(346,325,o),
+(353,306,o),
+(346,282,cs)
+);
 }
 );
 width = 391;

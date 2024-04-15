@@ -82,15 +82,15 @@ ref = "fatha-ar";
 },
 {
 pos = (2052,56);
-ref = aAlf.isol;
+ref = "alef-ar";
 },
 {
 pos = (3494,-38);
-ref = aAlf.isol;
+ref = "alef-ar";
 },
 {
 pos = (4526,85);
-ref = aAlf.isol;
+ref = "alef-ar";
 },
 {
 pos = (2106,-141);
@@ -106,19 +106,19 @@ ref = "dotabove-ar";
 },
 {
 pos = (1877,-66);
-ref = aLam.init.LamRaaIsol;
+ref = "lam-ar.init.LamRaaIsol";
 },
 {
-pos = (1438,-66);
-ref = aRaa.fina.LamRaaIsol;
+pos = (1584,-66);
+ref = "reh-ar.fina.LamRaaIsol";
 },
 {
 pos = (3308,-155);
-ref = aLam.init.LamRaaIsol;
+ref = "lam-ar.init.LamRaaIsol";
 },
 {
-pos = (2869,-155);
-ref = aRaa.fina.LamRaaIsol;
+pos = (3015,-155);
+ref = "reh-ar.fina.LamRaaIsol";
 },
 {
 pos = (3698,-149);
@@ -134,7 +134,7 @@ ref = "lam-ar.init.Lellah";
 },
 {
 pos = (2750,-90);
-ref = aHaa.init.HaaMemInit;
+ref = "hah-ar.init.HaaMemInit";
 },
 {
 ref = _FDFD;
@@ -223,15 +223,15 @@ ref = "fatha-ar";
 },
 {
 pos = (2069,56);
-ref = aAlf.isol;
+ref = "alef-ar";
 },
 {
 pos = (3511,-38);
-ref = aAlf.isol;
+ref = "alef-ar";
 },
 {
 pos = (4543,85);
-ref = aAlf.isol;
+ref = "alef-ar";
 },
 {
 pos = (2123,-141);
@@ -247,19 +247,19 @@ ref = "dotabove-ar";
 },
 {
 pos = (1894,-66);
-ref = aLam.init.LamRaaIsol;
+ref = "lam-ar.init.LamRaaIsol";
 },
 {
-pos = (1455,-66);
-ref = aRaa.fina.LamRaaIsol;
+pos = (1601,-66);
+ref = "reh-ar.fina.LamRaaIsol";
 },
 {
 pos = (3325,-155);
-ref = aLam.init.LamRaaIsol;
+ref = "lam-ar.init.LamRaaIsol";
 },
 {
-pos = (2886,-155);
-ref = aRaa.fina.LamRaaIsol;
+pos = (3032,-155);
+ref = "reh-ar.fina.LamRaaIsol";
 },
 {
 pos = (3715,-149);
@@ -275,7 +275,7 @@ ref = "lam-ar.init.Lellah";
 },
 {
 pos = (2767,-90);
-ref = aHaa.init.HaaMemInit;
+ref = "hah-ar.init.HaaMemInit";
 },
 {
 ref = _FDFD;

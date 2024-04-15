@@ -4,6 +4,38 @@ layers = (
 {
 anchors = (
 {
+name = DigitAbove;
+pos = (76,501);
+},
+{
+name = DigitBelow;
+pos = (39,-171);
+},
+{
+name = DotAbove;
+pos = (76,501);
+},
+{
+name = DotBelow;
+pos = (39,-171);
+},
+{
+name = DotBelowAlt;
+pos = (39,-366);
+},
+{
+name = HamzaAbove;
+pos = (54,500);
+},
+{
+name = HamzaBelow;
+pos = (39,-171);
+},
+{
+name = RingBelow;
+pos = (49,49);
+},
+{
 name = TaaAbove;
 pos = (76,403);
 },
@@ -14,12 +46,67 @@ pos = (76,801);
 {
 name = TashkilBelow;
 pos = (39,-327);
+},
+{
+name = TwoDotsAbove;
+pos = (21,501);
+},
+{
+name = TwoDotsBelow;
+pos = (-40,-146);
+},
+{
+name = TwoDotsBelowAlt;
+pos = (-15,-366);
+},
+{
+name = VAbove;
+pos = (54,500);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 shapes = (
 {
-ref = aBaa.init.BaaDal;
+closed = 1;
+nodes = (
+(61,165,o),
+(53,176,o),
+(47,182,cs),
+(41,188,o),
+(39,196,o),
+(42,206,cs),
+(63,282,ls),
+(66,293,o),
+(72,293,o),
+(80,280,cs),
+(92,261,o),
+(101,232,o),
+(106,195,cs),
+(111,160,o),
+(111,127,o),
+(107,97,cs),
+(103,67,o),
+(96,45,o),
+(86,30,cs),
+(76,15,o),
+(58,7,o),
+(33,4,cs),
+(8,1,o),
+(-14,7,o),
+(-33,23,cs),
+(-52,39,o),
+(-56,60,o),
+(-46,86,cs),
+(-37,109,o),
+(-24,119,o),
+(-7,113,cs),
+(32,100,o),
+(61,103,o),
+(81,122,cs),
+(84,125,o),
+(79,134,o),
+(69,151,cs)
+);
 }
 );
 width = 170;
@@ -27,6 +114,38 @@ width = 170;
 {
 anchors = (
 {
+name = DigitAbove;
+pos = (76,501);
+},
+{
+name = DigitBelow;
+pos = (39,-171);
+},
+{
+name = DotAbove;
+pos = (76,501);
+},
+{
+name = DotBelow;
+pos = (39,-171);
+},
+{
+name = DotBelowAlt;
+pos = (39,-366);
+},
+{
+name = HamzaAbove;
+pos = (54,500);
+},
+{
+name = HamzaBelow;
+pos = (39,-171);
+},
+{
+name = RingBelow;
+pos = (49,49);
+},
+{
 name = TaaAbove;
 pos = (76,403);
 },
@@ -37,12 +156,58 @@ pos = (76,801);
 {
 name = TashkilBelow;
 pos = (39,-327);
+},
+{
+name = TwoDotsAbove;
+pos = (21,501);
+},
+{
+name = TwoDotsBelow;
+pos = (-40,-146);
+},
+{
+name = TwoDotsBelowAlt;
+pos = (-15,-366);
+},
+{
+name = VAbove;
+pos = (54,500);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
-ref = aBaa.init.BaaDal;
+closed = 1;
+nodes = (
+(67,143,o),
+(56,158,o),
+(42,170,cs),
+(28,182,o),
+(24,195,o),
+(28,210,cs),
+(49,286,ls),
+(61,328,o),
+(77,326,o),
+(99,280,cs),
+(121,234,o),
+(127,172,o),
+(118,94,cs),
+(110,30,o),
+(81,-5,o),
+(30,-11,cs),
+(3,-14,o),
+(-21,-6,o),
+(-44,14,cs),
+(-67,34,o),
+(-72,59,o),
+(-60,91,cs),
+(-48,123,o),
+(-26,134,o),
+(5,124,cs),
+(36,114,o),
+(59,114,o),
+(75,124,c)
+);
 }
 );
 width = 170;

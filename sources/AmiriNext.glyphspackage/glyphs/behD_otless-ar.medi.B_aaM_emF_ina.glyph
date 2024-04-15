@@ -4,6 +4,34 @@ layers = (
 {
 anchors = (
 {
+name = DigitAbove;
+pos = (179,391);
+},
+{
+name = DigitBelow;
+pos = (218,-283);
+},
+{
+name = DotAbove;
+pos = (179,391);
+},
+{
+name = DotBelow;
+pos = (218,-283);
+},
+{
+name = HamzaAbove;
+pos = (179,391);
+},
+{
+name = HamzaBelow;
+pos = (218,-283);
+},
+{
+name = RingBelow;
+pos = (269,59);
+},
+{
 name = TaaAbove;
 pos = (179,293);
 },
@@ -14,12 +42,59 @@ pos = (146,801);
 {
 name = TashkilBelow;
 pos = (220,-327);
+},
+{
+name = TwoDotsAbove;
+pos = (125,391);
+},
+{
+name = TwoDotsBelow;
+pos = (151,-283);
+},
+{
+name = VAbove;
+pos = (179,391);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 shapes = (
 {
-ref = aBaa.medi.BaaMemFina;
+closed = 1;
+nodes = (
+(238,188,o),
+(265,167,o),
+(296,125,cs),
+(312,104,o),
+(326,92,o),
+(338,90,cs),
+(376,83,o),
+(383,58,o),
+(359,12,cs),
+(355,4,o),
+(348,0,o),
+(338,0,cs),
+(305,0,o),
+(275,21,o),
+(249,64,cs),
+(228,99,o),
+(194,114,o),
+(150,107,cs),
+(106,100,o),
+(65,83,o),
+(30,55,cs),
+(13,42,o),
+(0,41,o),
+(-10,51,cs),
+(-20,61,o),
+(-24,69,o),
+(-19,76,cs),
+(-14,83,o),
+(1,94,o),
+(26,110,cs),
+(107,162,o),
+(170,188,o),
+(215,188,cs)
+);
 }
 );
 width = 337;
@@ -27,6 +102,34 @@ width = 337;
 {
 anchors = (
 {
+name = DigitAbove;
+pos = (179,391);
+},
+{
+name = DigitBelow;
+pos = (218,-283);
+},
+{
+name = DotAbove;
+pos = (179,391);
+},
+{
+name = DotBelow;
+pos = (218,-283);
+},
+{
+name = HamzaAbove;
+pos = (179,391);
+},
+{
+name = HamzaBelow;
+pos = (218,-283);
+},
+{
+name = RingBelow;
+pos = (269,59);
+},
+{
 name = TaaAbove;
 pos = (179,293);
 },
@@ -37,12 +140,62 @@ pos = (146,801);
 {
 name = TashkilBelow;
 pos = (220,-327);
+},
+{
+name = TwoDotsAbove;
+pos = (125,391);
+},
+{
+name = TwoDotsBelow;
+pos = (151,-283);
+},
+{
+name = VAbove;
+pos = (179,391);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
-ref = aBaa.medi.BaaMemFina;
+closed = 1;
+nodes = (
+(243,203,o),
+(274,179,o),
+(308,133,cs),
+(321,116,o),
+(331,107,o),
+(340,105,cs),
+(371,99,o),
+(387,84,o),
+(387,60,cs),
+(387,42,o),
+(383,26,o),
+(374,10,cs),
+(365,-6,o),
+(353,-15,o),
+(338,-15,c),
+(299,-15,o),
+(265,10,o),
+(236,57,cs),
+(218,86,o),
+(186,98,o),
+(140,92,cs),
+(94,86,o),
+(54,70,o),
+(20,44,cs),
+(3,31,o),
+(-11,30,o),
+(-21,41,c),
+(-37,58,o),
+(-40,70,o),
+(-32,81,cs),
+(-24,92,o),
+(-8,106,o),
+(18,123,cs),
+(102,177,o),
+(168,204,o),
+(215,203,cs)
+);
 }
 );
 width = 337;

@@ -24,7 +24,7 @@ ref = "threedotsupabove-ar";
 },
 {
 pos = (0,202);
-ref = aSen.init;
+ref = "seen-ar.init";
 }
 );
 width = 568;
@@ -52,7 +52,7 @@ ref = "threedotsupabove-ar";
 },
 {
 pos = (0,202);
-ref = aSen.init;
+ref = "seen-ar.init";
 }
 );
 width = 568;

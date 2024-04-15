@@ -20,7 +20,7 @@ ref = "threedotsdownbelow-ar";
 },
 {
 pos = (0,202);
-ref = aSen.init;
+ref = "seen-ar.init";
 },
 {
 pos = (332,520);
@@ -48,7 +48,7 @@ ref = "threedotsdownbelow-ar";
 },
 {
 pos = (0,202);
-ref = aSen.init;
+ref = "seen-ar.init";
 },
 {
 pos = (332,520);
