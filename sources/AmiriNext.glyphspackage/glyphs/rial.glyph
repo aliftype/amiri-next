@@ -12,10 +12,6 @@ pos = (604,0);
 ref = "alef-ar.fina";
 },
 {
-pos = (833,0);
-ref = "yehFarsi-ar.init.LD";
-},
-{
 pos = (1023,0);
 ref = "reh-ar";
 }
@@ -31,10 +27,6 @@ ref = "lam-ar";
 {
 pos = (604,0);
 ref = "alef-ar.fina";
-},
-{
-pos = (833,0);
-ref = "yehFarsi-ar.init.LD";
 },
 {
 pos = (1023,0);

@@ -91,16 +91,12 @@ languagesystem latn TRK;
 name = Languagesystems;
 },
 {
-code = "@aAlf.fina = [alefHamzabelow-ar.fina alef-ar.fina alefThreeabove-ar.fina alefTwoabove-ar.fina alefHamzaabove-ar.fina alefMadda-ar.fina alefWavyhamzaabove-ar.fina alefWavyhamzabelow-ar.fina alefWasla-ar.fina];
-@aAlf.isol = [alefHamzabelow-ar alef-ar alefThreeabove-ar alefTwoabove-ar alefHamzaabove-ar alefMadda-ar alefWavyhamzaabove-ar alefWavyhamzabelow-ar alefWasla-ar];
+code = "@aAlf.isol = [alefHamzabelow-ar alef-ar alefThreeabove-ar alefTwoabove-ar alefHamzaabove-ar alefMadda-ar alefWavyhamzaabove-ar alefWavyhamzabelow-ar alefWasla-ar];
 @aAyn.fina = [ghainDotbelow-ar.fina ghain-ar.fina ainThreedotsdownabove-ar.fina ainTwodotshorizontalabove-ar.fina ainTwodotsverticalabove-ar.fina ainThreedots-ar.fina ain-ar.fina];
 @aAyn.init = [ghainDotbelow-ar.init ghain-ar.init ainThreedotsdownabove-ar.init ainTwodotshorizontalabove-ar.init ainTwodotsverticalabove-ar.init ainThreedots-ar.init ain-ar.init];
 @aAyn.isol = [ghainDotbelow-ar ghain-ar ainThreedotsdownabove-ar ainTwodotshorizontalabove-ar ainTwodotsverticalabove-ar ainThreedots-ar ain-ar];
 @aAyn.medi = [ghainDotbelow-ar.medi ghain-ar.medi ainThreedotsdownabove-ar.medi ainTwodotshorizontalabove-ar.medi ainTwodotsverticalabove-ar.medi ainThreedots-ar.medi ain-ar.medi];
-@aBaa.fina = [behThreedotsupabove-ar.fina behThreedotshorizontalbelow-ar.fina tehThreedotsupbelow-ar.fina beheh-ar.fina teh-ar.fina behTwodotsbelowDotabove-ar.fina theh-ar.fina tteh-ar.fina tehRing-ar.fina behVabove-ar.fina behThreedotsupbelow-ar.fina behDotless-ar.fina teheh-ar.fina behVinvertedbelow-ar.fina behVbelow-ar.fina tehThreedotsdown-ar.fina peh-ar.fina beeh-ar.fina beh-ar.fina tteheh-ar.fina];
-@aBaa.init = [yehFarsiFourbelow-ar.init beheh-ar.init yehFarsiThreeabove-ar.init noonRing-ar.init behThreedotshorizontalbelow-ar.init behVabove-ar.init noonTahabove-ar.init yehVabove-ar.init yehFarsiTwoabove-ar.init noonThreedotsabove-ar.init yehHamzaabove-ar.init behDotless-ar.init yehKashmiri-ar.init yeh-ar.init rnoon-ar.init teheh-ar.init behVinvertedbelow-ar.init behVbelow-ar.init tehThreedotsdown-ar.init peh-ar.init beeh-ar.init beh-ar.init tteheh-ar.init behThreedotsupabove-ar.init noon-ar.init tehThreedotsupbelow-ar.init behThreedotsupbelow-ar.init teh-ar.init yehFarsiVinverted-ar.init yehFarsiTwodotsabove-ar.init yehFarsiThreedotsabove-ar.init theh-ar.init tteh-ar.init noonDotbelow-ar.init noonVabove-ar.init alefMaksura-ar.init tehRing-ar.init behTwodotsbelowDotabove-ar.init yehThreedotsbelow-ar.init e-ar.init noonghunna-ar.init yehFarsi-ar.init noonTwodotsbelow-ar.init];
 @aBaa.isol = [behThreedotsupabove-ar behThreedotshorizontalbelow-ar tehThreedotsupbelow-ar beheh-ar teh-ar behTwodotsbelowDotabove-ar theh-ar tteh-ar tehRing-ar behVabove-ar behThreedotsupbelow-ar behDotless-ar teheh-ar behVinvertedbelow-ar behVbelow-ar tehThreedotsdown-ar peh-ar beeh-ar beh-ar tteheh-ar];
-@aBaa.medi = [yehFarsiFourbelow-ar.medi beheh-ar.medi yehFarsiThreeabove-ar.medi noonRing-ar.medi behThreedotshorizontalbelow-ar.medi behVabove-ar.medi noonTahabove-ar.medi yehVabove-ar.medi yehFarsiTwoabove-ar.medi noonThreedotsabove-ar.medi yehHamzaabove-ar.medi behDotless-ar.medi yehKashmiri-ar.medi yeh-ar.medi rnoon-ar.medi teheh-ar.medi behVinvertedbelow-ar.medi behVbelow-ar.medi tehThreedotsdown-ar.medi peh-ar.medi beeh-ar.medi beh-ar.medi tteheh-ar.medi behThreedotsupabove-ar.medi noon-ar.medi tehThreedotsupbelow-ar.medi behThreedotsupbelow-ar.medi teh-ar.medi yehFarsiVinverted-ar.medi yehFarsiTwodotsabove-ar.medi yehFarsiThreedotsabove-ar.medi theh-ar.medi tteh-ar.medi noonDotbelow-ar.medi noonVabove-ar.medi alefMaksura-ar.medi tehRing-ar.medi behTwodotsbelowDotabove-ar.medi yehThreedotsbelow-ar.medi e-ar.medi noonghunna-ar.medi yehFarsi-ar.medi noonTwodotsbelow-ar.medi];
 @aDal.fina = [dalFourdots-ar.fina dalVinvertedabove-ar.fina dalRing-ar.fina ddal-ar.fina dalVinvertedbelow-ar.fina thal-ar.fina dal-ar.fina dalTwodotsverticalbelowTah-ar.fina dahal-ar.fina dalDotbelowTah-ar.fina dalDotbelow-ar.fina dalThreedotsdown-ar.fina dul-ar.fina ddahal-ar.fina];
 @aDal.isol = [dalFourdots-ar dalVinvertedabove-ar dalRing-ar ddal-ar dalVinvertedbelow-ar thal-ar dal-ar dalTwodotsverticalbelowTah-ar dahal-ar dalDotbelowTah-ar dalDotbelow-ar dalThreedotsdown-ar dul-ar ddahal-ar];
 @aFaa.fina = [fehTwodotsbelow-ar.fina fehThreedotsupbelow-ar.fina feh-ar.fina fehDotless-ar.fina fehDotmovedbelow-ar.fina fehDotbelow-ar.fina veh-ar.fina fehThreedotsbelow-ar.fina peheh-ar.fina];
@@ -132,7 +128,6 @@ code = "@aAlf.fina = [alefHamzabelow-ar.fina alef-ar.fina alefThreeabove-ar.fina
 @aMem.isol = [meemDotabove-ar meem-ar meemDotbelow-ar];
 @aMem.init.dots = [meemDotabove-ar.init meem-ar.init meemDotbelow-ar.init];
 @aMem.medi.dots = [meemDotabove-ar.medi meem-ar.medi meemDotbelow-ar.medi];
-@aNon.fina = [noon-ar.fina noonTwodotsbelow-ar.fina noonghunna-ar.fina noonRing-ar.fina rnoon-ar.fina noonTahabove-ar.fina noonDotbelow-ar.fina noonVabove-ar.fina noonThreedotsabove-ar.fina];
 @aNon.isol = [noon-ar noonTwodotsbelow-ar noonghunna-ar noonRing-ar rnoon-ar noonTahabove-ar noonDotbelow-ar noonVabove-ar noonThreedotsabove-ar];
 @aQaf.fina = [qafThreedotsabove-ar.fina qafDotabove-ar.fina qaf-ar.fina qafDotless-ar.fina];
 @aQaf.isol = [qafThreedotsabove-ar qafDotabove-ar qaf-ar qafDotless-ar];
@@ -152,17 +147,8 @@ code = "@aAlf.fina = [alefHamzabelow-ar.fina alef-ar.fina alefThreeabove-ar.fina
 @aTaa.medi = [zah-ar.medi tah-ar.medi tahThreedots-ar.medi];
 @aWaw.fina = [ve-ar.fina wawHamzaabove-ar.fina wawTwodots-ar.fina wawDotabove-ar.fina wawTwoabove-ar.fina oe-ar.fina u-ar.fina wawring-ar.fina kirghizoe-ar.fina yu-ar.fina kirghizyu-ar.fina wawThreeAbove-ar.fina waw-ar.fina];
 @aWaw.isol = [ve-ar wawHamzaabove-ar wawTwodots-ar wawDotabove-ar wawTwoabove-ar oe-ar u-ar wawring-ar kirghizoe-ar yu-ar kirghizyu-ar wawThreeAbove-ar waw-ar];
-# only initial yaa with dots below
-@aYaa.init = [yehFarsiFourbelow-ar.init yehThreedotsbelow-ar.init yehFarsiTwoabove-ar.init yehFarsiVinverted-ar.init yehFarsiTwodotsabove-ar.init yehFarsiThreedotsabove-ar.init e-ar.init yehFarsiThreeabove-ar.init yehFarsi-ar.init yeh-ar.init yehVabove-ar.init];
-@aYaa.fina = [yehFarsiFourbelow-ar.fina yehThreedotsbelow-ar.fina yehFarsiTwoabove-ar.fina yehFarsiThreedotsabove-ar.fina yehFarsiVinverted-ar.fina yehFarsiTwodotsabove-ar.fina e-ar.fina alefMaksura-ar.fina yehFarsiThreeabove-ar.fina yehTail-ar.fina yehFarsi-ar.fina yehHamzaabove-ar.fina yehKashmiri-ar.fina yeh-ar.fina yehVabove-ar.fina];
-@aYaa.isol = [yehFarsiFourbelow-ar yehThreedotsbelow-ar yehFarsiTwoabove-ar yehFarsiThreedotsabove-ar yehFarsiVinverted-ar yehFarsiTwodotsabove-ar e-ar alefMaksura-ar yehFarsiThreeabove-ar yehTail-ar yehFarsi-ar yehHamzaabove-ar yehKashmiri-ar yeh-ar yehVabove-ar];
 @aYaaBari.fina = [yehbarreeThreeabove-ar.fina yehbarreeTwoabove-ar.fina yehbarree-ar.fina];
 @aYaaBari.isol = [yehbarreeThreeabove-ar yehbarreeTwoabove-ar yehbarree-ar];
-@aAlf.fina.KafAlf = [alefHamzabelow-ar.fina.KafAlf alef-ar.fina.KafAlf alefThreeabove-ar.fina.KafAlf alefTwoabove-ar.fina.KafAlf alefHamzaabove-ar.fina.KafAlf alefMadda-ar.fina.KafAlf alefWavyhamzaabove-ar.fina.KafAlf alefWavyhamzabelow-ar.fina.KafAlf alefWasla-ar.fina.KafAlf];
-@aAlf.fina.KafMemAlf = [alefHamzabelow-ar.fina.KafMemAlf alef-ar.fina.KafMemAlf alefThreeabove-ar.fina.KafMemAlf alefTwoabove-ar.fina.KafMemAlf alefHamzaabove-ar.fina.KafMemAlf alefMadda-ar.fina.KafMemAlf alefWavyhamzaabove-ar.fina.KafMemAlf alefWavyhamzabelow-ar.fina.KafMemAlf alefWasla-ar.fina.KafMemAlf];
-@aAlf.fina.LamAlfFina = [alefHamzabelow-ar.fina.LamAlfFina alef-ar.fina.LamAlfFina alefThreeabove-ar.fina.LamAlfFina alefTwoabove-ar.fina.LamAlfFina alefHamzaabove-ar.fina.LamAlfFina alefMadda-ar.fina.LamAlfFina alefWavyhamzaabove-ar.fina.LamAlfFina alefWavyhamzabelow-ar.fina.LamAlfFina alefWasla-ar.fina.LamAlfFina];
-@aAlf.fina.LamAlfIsol = [alefHamzabelow-ar.fina.LamAlfIsol alef-ar.fina.LamAlfIsol alefThreeabove-ar.fina.LamAlfIsol alefTwoabove-ar.fina.LamAlfIsol alefHamzaabove-ar.fina.LamAlfIsol alefMadda-ar.fina.LamAlfIsol alefWavyhamzaabove-ar.fina.LamAlfIsol alefWavyhamzabelow-ar.fina.LamAlfIsol alefWasla-ar.fina.LamAlfIsol];
-@aAlf.fina.MemAlfFina = [alefHamzabelow-ar.fina.MemAlfFina alef-ar.fina.MemAlfFina alefThreeabove-ar.fina.MemAlfFina alefTwoabove-ar.fina.MemAlfFina alefHamzaabove-ar.fina.MemAlfFina alefMadda-ar.fina.MemAlfFina alefWavyhamzaabove-ar.fina.MemAlfFina alefWavyhamzabelow-ar.fina.MemAlfFina alefWasla-ar.fina.MemAlfFina];
 @aAyn.init.AboveHaa = [ghainDotbelow-ar.init.AboveHaa ghain-ar.init.AboveHaa ainThreedotsdownabove-ar.init.AboveHaa ainTwodotshorizontalabove-ar.init.AboveHaa ainTwodotsverticalabove-ar.init.AboveHaa ainThreedots-ar.init.AboveHaa ain-ar.init.AboveHaa];
 @aAyn.init.AynHaaInit = [ghainDotbelow-ar.init.AynHaaInit ghain-ar.init.AynHaaInit ainThreedotsdownabove-ar.init.AynHaaInit ainTwodotshorizontalabove-ar.init.AynHaaInit ainTwodotsverticalabove-ar.init.AynHaaInit ainThreedots-ar.init.AynHaaInit ain-ar.init.AynHaaInit];
 @aAyn.init.AynMemInit = [ghainDotbelow-ar.init.AynMemInit ghain-ar.init.AynMemInit ainThreedotsdownabove-ar.init.AynMemInit ainTwodotshorizontalabove-ar.init.AynMemInit ainTwodotsverticalabove-ar.init.AynMemInit ainThreedots-ar.init.AynMemInit ain-ar.init.AynMemInit];
@@ -170,45 +156,6 @@ code = "@aAlf.fina = [alefHamzabelow-ar.fina alef-ar.fina alefThreeabove-ar.fina
 @aAyn.init.Finjani = [ghainDotbelow-ar.init.Finjani ghain-ar.init.Finjani ainThreedotsdownabove-ar.init.Finjani ainTwodotshorizontalabove-ar.init.Finjani ainTwodotsverticalabove-ar.init.Finjani ainThreedots-ar.init.Finjani ain-ar.init.Finjani];
 @aAyn.init.YaaBari = [ghainDotbelow-ar.init.YaaBari ghain-ar.init.YaaBari ainThreedotsdownabove-ar.init.YaaBari ainTwodotshorizontalabove-ar.init.YaaBari ainTwodotsverticalabove-ar.init.YaaBari ainThreedots-ar.init.YaaBari ain-ar.init.YaaBari];
 @aAyn.medi.AynYaaFina = [ghainDotbelow-ar.medi.AynYaaFina ghain-ar.medi.AynYaaFina ainThreedotsdownabove-ar.medi.AynYaaFina ainTwodotshorizontalabove-ar.medi.AynYaaFina ainTwodotsverticalabove-ar.medi.AynYaaFina ainThreedots-ar.medi.AynYaaFina ain-ar.medi.AynYaaFina];
-@aBaa.fina.BaaBaaIsol = [behThreedotsupabove-ar.fina.BaaBaaIsol behThreedotshorizontalbelow-ar.fina.BaaBaaIsol tehThreedotsupbelow-ar.fina.BaaBaaIsol beheh-ar.fina.BaaBaaIsol teh-ar.fina.BaaBaaIsol behTwodotsbelowDotabove-ar.fina.BaaBaaIsol theh-ar.fina.BaaBaaIsol tteh-ar.fina.BaaBaaIsol tehRing-ar.fina.BaaBaaIsol behVabove-ar.fina.BaaBaaIsol behThreedotsupbelow-ar.fina.BaaBaaIsol behDotless-ar.fina.BaaBaaIsol teheh-ar.fina.BaaBaaIsol behVinvertedbelow-ar.fina.BaaBaaIsol behVbelow-ar.fina.BaaBaaIsol tehThreedotsdown-ar.fina.BaaBaaIsol peh-ar.fina.BaaBaaIsol beeh-ar.fina.BaaBaaIsol beh-ar.fina.BaaBaaIsol tteheh-ar.fina.BaaBaaIsol];
-@aBaa.init.AboveHaa = [yehFarsiFourbelow-ar.init.AboveHaa beheh-ar.init.AboveHaa yehFarsiThreeabove-ar.init.AboveHaa noonRing-ar.init.AboveHaa behThreedotshorizontalbelow-ar.init.AboveHaa behVabove-ar.init.AboveHaa noonTahabove-ar.init.AboveHaa yehVabove-ar.init.AboveHaa yehFarsiTwoabove-ar.init.AboveHaa noonThreedotsabove-ar.init.AboveHaa yehHamzaabove-ar.init.AboveHaa behDotless-ar.init.AboveHaa yehKashmiri-ar.init.AboveHaa yeh-ar.init.AboveHaa rnoon-ar.init.AboveHaa teheh-ar.init.AboveHaa behVinvertedbelow-ar.init.AboveHaa behVbelow-ar.init.AboveHaa tehThreedotsdown-ar.init.AboveHaa peh-ar.init.AboveHaa beeh-ar.init.AboveHaa beh-ar.init.AboveHaa tteheh-ar.init.AboveHaa behThreedotsupabove-ar.init.AboveHaa noon-ar.init.AboveHaa tehThreedotsupbelow-ar.init.AboveHaa behThreedotsupbelow-ar.init.AboveHaa teh-ar.init.AboveHaa yehFarsiVinverted-ar.init.AboveHaa yehFarsiTwodotsabove-ar.init.AboveHaa yehFarsiThreedotsabove-ar.init.AboveHaa theh-ar.init.AboveHaa tteh-ar.init.AboveHaa noonDotbelow-ar.init.AboveHaa noonVabove-ar.init.AboveHaa alefMaksura-ar.init.AboveHaa tehRing-ar.init.AboveHaa behTwodotsbelowDotabove-ar.init.AboveHaa yehThreedotsbelow-ar.init.AboveHaa e-ar.init.AboveHaa noonghunna-ar.init.AboveHaa yehFarsi-ar.init.AboveHaa noonTwodotsbelow-ar.init.AboveHaa];
-@aBaa.init.BaaBaaHaaInit = [yehFarsiFourbelow-ar.init.BaaBaaHaaInit beheh-ar.init.BaaBaaHaaInit yehFarsiThreeabove-ar.init.BaaBaaHaaInit noonRing-ar.init.BaaBaaHaaInit behThreedotshorizontalbelow-ar.init.BaaBaaHaaInit behVabove-ar.init.BaaBaaHaaInit noonTahabove-ar.init.BaaBaaHaaInit yehVabove-ar.init.BaaBaaHaaInit yehFarsiTwoabove-ar.init.BaaBaaHaaInit noonThreedotsabove-ar.init.BaaBaaHaaInit yehHamzaabove-ar.init.BaaBaaHaaInit behDotless-ar.init.BaaBaaHaaInit yehKashmiri-ar.init.BaaBaaHaaInit yeh-ar.init.BaaBaaHaaInit rnoon-ar.init.BaaBaaHaaInit teheh-ar.init.BaaBaaHaaInit behVinvertedbelow-ar.init.BaaBaaHaaInit behVbelow-ar.init.BaaBaaHaaInit tehThreedotsdown-ar.init.BaaBaaHaaInit peh-ar.init.BaaBaaHaaInit beeh-ar.init.BaaBaaHaaInit beh-ar.init.BaaBaaHaaInit tteheh-ar.init.BaaBaaHaaInit behThreedotsupabove-ar.init.BaaBaaHaaInit noon-ar.init.BaaBaaHaaInit tehThreedotsupbelow-ar.init.BaaBaaHaaInit behThreedotsupbelow-ar.init.BaaBaaHaaInit teh-ar.init.BaaBaaHaaInit yehFarsiVinverted-ar.init.BaaBaaHaaInit yehFarsiTwodotsabove-ar.init.BaaBaaHaaInit yehFarsiThreedotsabove-ar.init.BaaBaaHaaInit theh-ar.init.BaaBaaHaaInit tteh-ar.init.BaaBaaHaaInit noonDotbelow-ar.init.BaaBaaHaaInit noonVabove-ar.init.BaaBaaHaaInit alefMaksura-ar.init.BaaBaaHaaInit tehRing-ar.init.BaaBaaHaaInit behTwodotsbelowDotabove-ar.init.BaaBaaHaaInit yehThreedotsbelow-ar.init.BaaBaaHaaInit e-ar.init.BaaBaaHaaInit noonghunna-ar.init.BaaBaaHaaInit yehFarsi-ar.init.BaaBaaHaaInit noonTwodotsbelow-ar.init.BaaBaaHaaInit];
-@aBaa.init.BaaBaaHeh = [yehFarsiFourbelow-ar.init.BaaBaaHeh beheh-ar.init.BaaBaaHeh yehFarsiThreeabove-ar.init.BaaBaaHeh noonRing-ar.init.BaaBaaHeh behThreedotshorizontalbelow-ar.init.BaaBaaHeh behVabove-ar.init.BaaBaaHeh noonTahabove-ar.init.BaaBaaHeh yehVabove-ar.init.BaaBaaHeh yehFarsiTwoabove-ar.init.BaaBaaHeh noonThreedotsabove-ar.init.BaaBaaHeh yehHamzaabove-ar.init.BaaBaaHeh behDotless-ar.init.BaaBaaHeh yehKashmiri-ar.init.BaaBaaHeh yeh-ar.init.BaaBaaHeh rnoon-ar.init.BaaBaaHeh teheh-ar.init.BaaBaaHeh behVinvertedbelow-ar.init.BaaBaaHeh behVbelow-ar.init.BaaBaaHeh tehThreedotsdown-ar.init.BaaBaaHeh peh-ar.init.BaaBaaHeh beeh-ar.init.BaaBaaHeh beh-ar.init.BaaBaaHeh tteheh-ar.init.BaaBaaHeh behThreedotsupabove-ar.init.BaaBaaHeh noon-ar.init.BaaBaaHeh tehThreedotsupbelow-ar.init.BaaBaaHeh behThreedotsupbelow-ar.init.BaaBaaHeh teh-ar.init.BaaBaaHeh yehFarsiVinverted-ar.init.BaaBaaHeh yehFarsiTwodotsabove-ar.init.BaaBaaHeh yehFarsiThreedotsabove-ar.init.BaaBaaHeh theh-ar.init.BaaBaaHeh tteh-ar.init.BaaBaaHeh noonDotbelow-ar.init.BaaBaaHeh noonVabove-ar.init.BaaBaaHeh alefMaksura-ar.init.BaaBaaHeh tehRing-ar.init.BaaBaaHeh behTwodotsbelowDotabove-ar.init.BaaBaaHeh yehThreedotsbelow-ar.init.BaaBaaHeh e-ar.init.BaaBaaHeh noonghunna-ar.init.BaaBaaHeh yehFarsi-ar.init.BaaBaaHeh noonTwodotsbelow-ar.init.BaaBaaHeh];
-@aBaa.init.BaaBaaIsol = [yehFarsiFourbelow-ar.init.BaaBaaIsol beheh-ar.init.BaaBaaIsol yehFarsiThreeabove-ar.init.BaaBaaIsol noonRing-ar.init.BaaBaaIsol behThreedotshorizontalbelow-ar.init.BaaBaaIsol behVabove-ar.init.BaaBaaIsol noonTahabove-ar.init.BaaBaaIsol yehVabove-ar.init.BaaBaaIsol yehFarsiTwoabove-ar.init.BaaBaaIsol noonThreedotsabove-ar.init.BaaBaaIsol yehHamzaabove-ar.init.BaaBaaIsol behDotless-ar.init.BaaBaaIsol yehKashmiri-ar.init.BaaBaaIsol yeh-ar.init.BaaBaaIsol rnoon-ar.init.BaaBaaIsol teheh-ar.init.BaaBaaIsol behVinvertedbelow-ar.init.BaaBaaIsol behVbelow-ar.init.BaaBaaIsol tehThreedotsdown-ar.init.BaaBaaIsol peh-ar.init.BaaBaaIsol beeh-ar.init.BaaBaaIsol beh-ar.init.BaaBaaIsol tteheh-ar.init.BaaBaaIsol behThreedotsupabove-ar.init.BaaBaaIsol noon-ar.init.BaaBaaIsol tehThreedotsupbelow-ar.init.BaaBaaIsol behThreedotsupbelow-ar.init.BaaBaaIsol teh-ar.init.BaaBaaIsol yehFarsiVinverted-ar.init.BaaBaaIsol yehFarsiTwodotsabove-ar.init.BaaBaaIsol yehFarsiThreedotsabove-ar.init.BaaBaaIsol theh-ar.init.BaaBaaIsol tteh-ar.init.BaaBaaIsol noonDotbelow-ar.init.BaaBaaIsol noonVabove-ar.init.BaaBaaIsol alefMaksura-ar.init.BaaBaaIsol tehRing-ar.init.BaaBaaIsol behTwodotsbelowDotabove-ar.init.BaaBaaIsol yehThreedotsbelow-ar.init.BaaBaaIsol e-ar.init.BaaBaaIsol noonghunna-ar.init.BaaBaaIsol yehFarsi-ar.init.BaaBaaIsol noonTwodotsbelow-ar.init.BaaBaaIsol];
-@aBaa.init.BaaBaaMemInit = [yehFarsiFourbelow-ar.init.BaaBaaMemInit beheh-ar.init.BaaBaaMemInit yehFarsiThreeabove-ar.init.BaaBaaMemInit noonRing-ar.init.BaaBaaMemInit behThreedotshorizontalbelow-ar.init.BaaBaaMemInit behVabove-ar.init.BaaBaaMemInit noonTahabove-ar.init.BaaBaaMemInit yehVabove-ar.init.BaaBaaMemInit yehFarsiTwoabove-ar.init.BaaBaaMemInit noonThreedotsabove-ar.init.BaaBaaMemInit yehHamzaabove-ar.init.BaaBaaMemInit behDotless-ar.init.BaaBaaMemInit yehKashmiri-ar.init.BaaBaaMemInit yeh-ar.init.BaaBaaMemInit rnoon-ar.init.BaaBaaMemInit teheh-ar.init.BaaBaaMemInit behVinvertedbelow-ar.init.BaaBaaMemInit behVbelow-ar.init.BaaBaaMemInit tehThreedotsdown-ar.init.BaaBaaMemInit peh-ar.init.BaaBaaMemInit beeh-ar.init.BaaBaaMemInit beh-ar.init.BaaBaaMemInit tteheh-ar.init.BaaBaaMemInit behThreedotsupabove-ar.init.BaaBaaMemInit noon-ar.init.BaaBaaMemInit tehThreedotsupbelow-ar.init.BaaBaaMemInit behThreedotsupbelow-ar.init.BaaBaaMemInit teh-ar.init.BaaBaaMemInit yehFarsiVinverted-ar.init.BaaBaaMemInit yehFarsiTwodotsabove-ar.init.BaaBaaMemInit yehFarsiThreedotsabove-ar.init.BaaBaaMemInit theh-ar.init.BaaBaaMemInit tteh-ar.init.BaaBaaMemInit noonDotbelow-ar.init.BaaBaaMemInit noonVabove-ar.init.BaaBaaMemInit alefMaksura-ar.init.BaaBaaMemInit tehRing-ar.init.BaaBaaMemInit behTwodotsbelowDotabove-ar.init.BaaBaaMemInit yehThreedotsbelow-ar.init.BaaBaaMemInit e-ar.init.BaaBaaMemInit noonghunna-ar.init.BaaBaaMemInit yehFarsi-ar.init.BaaBaaMemInit noonTwodotsbelow-ar.init.BaaBaaMemInit];
-@aBaa.init.BaaBaaYaa = [yehFarsiFourbelow-ar.init.BaaBaaYaa beheh-ar.init.BaaBaaYaa yehFarsiThreeabove-ar.init.BaaBaaYaa noonRing-ar.init.BaaBaaYaa behThreedotshorizontalbelow-ar.init.BaaBaaYaa behVabove-ar.init.BaaBaaYaa noonTahabove-ar.init.BaaBaaYaa yehVabove-ar.init.BaaBaaYaa yehFarsiTwoabove-ar.init.BaaBaaYaa noonThreedotsabove-ar.init.BaaBaaYaa yehHamzaabove-ar.init.BaaBaaYaa behDotless-ar.init.BaaBaaYaa yehKashmiri-ar.init.BaaBaaYaa yeh-ar.init.BaaBaaYaa rnoon-ar.init.BaaBaaYaa teheh-ar.init.BaaBaaYaa behVinvertedbelow-ar.init.BaaBaaYaa behVbelow-ar.init.BaaBaaYaa tehThreedotsdown-ar.init.BaaBaaYaa peh-ar.init.BaaBaaYaa beeh-ar.init.BaaBaaYaa beh-ar.init.BaaBaaYaa tteheh-ar.init.BaaBaaYaa behThreedotsupabove-ar.init.BaaBaaYaa noon-ar.init.BaaBaaYaa tehThreedotsupbelow-ar.init.BaaBaaYaa behThreedotsupbelow-ar.init.BaaBaaYaa teh-ar.init.BaaBaaYaa yehFarsiVinverted-ar.init.BaaBaaYaa yehFarsiTwodotsabove-ar.init.BaaBaaYaa yehFarsiThreedotsabove-ar.init.BaaBaaYaa theh-ar.init.BaaBaaYaa tteh-ar.init.BaaBaaYaa noonDotbelow-ar.init.BaaBaaYaa noonVabove-ar.init.BaaBaaYaa alefMaksura-ar.init.BaaBaaYaa tehRing-ar.init.BaaBaaYaa behTwodotsbelowDotabove-ar.init.BaaBaaYaa yehThreedotsbelow-ar.init.BaaBaaYaa e-ar.init.BaaBaaYaa noonghunna-ar.init.BaaBaaYaa yehFarsi-ar.init.BaaBaaYaa noonTwodotsbelow-ar.init.BaaBaaYaa];
-@aBaa.init.BaaDal = [yehFarsiFourbelow-ar.init.BaaDal beheh-ar.init.BaaDal yehFarsiThreeabove-ar.init.BaaDal noonRing-ar.init.BaaDal behThreedotshorizontalbelow-ar.init.BaaDal behVabove-ar.init.BaaDal noonTahabove-ar.init.BaaDal yehVabove-ar.init.BaaDal yehFarsiTwoabove-ar.init.BaaDal noonThreedotsabove-ar.init.BaaDal yehHamzaabove-ar.init.BaaDal behDotless-ar.init.BaaDal yehKashmiri-ar.init.BaaDal yeh-ar.init.BaaDal rnoon-ar.init.BaaDal teheh-ar.init.BaaDal behVinvertedbelow-ar.init.BaaDal behVbelow-ar.init.BaaDal tehThreedotsdown-ar.init.BaaDal peh-ar.init.BaaDal beeh-ar.init.BaaDal beh-ar.init.BaaDal tteheh-ar.init.BaaDal behThreedotsupabove-ar.init.BaaDal noon-ar.init.BaaDal tehThreedotsupbelow-ar.init.BaaDal behThreedotsupbelow-ar.init.BaaDal teh-ar.init.BaaDal yehFarsiVinverted-ar.init.BaaDal yehFarsiTwodotsabove-ar.init.BaaDal yehFarsiThreedotsabove-ar.init.BaaDal theh-ar.init.BaaDal tteh-ar.init.BaaDal noonDotbelow-ar.init.BaaDal noonVabove-ar.init.BaaDal alefMaksura-ar.init.BaaDal tehRing-ar.init.BaaDal behTwodotsbelowDotabove-ar.init.BaaDal yehThreedotsbelow-ar.init.BaaDal e-ar.init.BaaDal noonghunna-ar.init.BaaDal yehFarsi-ar.init.BaaDal noonTwodotsbelow-ar.init.BaaDal];
-@aBaa.init.BaaHaaInit = [yehFarsiFourbelow-ar.init.BaaHaaInit beheh-ar.init.BaaHaaInit yehFarsiThreeabove-ar.init.BaaHaaInit noonRing-ar.init.BaaHaaInit behThreedotshorizontalbelow-ar.init.BaaHaaInit behVabove-ar.init.BaaHaaInit noonTahabove-ar.init.BaaHaaInit yehVabove-ar.init.BaaHaaInit yehFarsiTwoabove-ar.init.BaaHaaInit noonThreedotsabove-ar.init.BaaHaaInit yehHamzaabove-ar.init.BaaHaaInit behDotless-ar.init.BaaHaaInit yehKashmiri-ar.init.BaaHaaInit yeh-ar.init.BaaHaaInit rnoon-ar.init.BaaHaaInit teheh-ar.init.BaaHaaInit behVinvertedbelow-ar.init.BaaHaaInit behVbelow-ar.init.BaaHaaInit tehThreedotsdown-ar.init.BaaHaaInit peh-ar.init.BaaHaaInit beeh-ar.init.BaaHaaInit beh-ar.init.BaaHaaInit tteheh-ar.init.BaaHaaInit behThreedotsupabove-ar.init.BaaHaaInit noon-ar.init.BaaHaaInit tehThreedotsupbelow-ar.init.BaaHaaInit behThreedotsupbelow-ar.init.BaaHaaInit teh-ar.init.BaaHaaInit yehFarsiVinverted-ar.init.BaaHaaInit yehFarsiTwodotsabove-ar.init.BaaHaaInit yehFarsiThreedotsabove-ar.init.BaaHaaInit theh-ar.init.BaaHaaInit tteh-ar.init.BaaHaaInit noonDotbelow-ar.init.BaaHaaInit noonVabove-ar.init.BaaHaaInit alefMaksura-ar.init.BaaHaaInit tehRing-ar.init.BaaHaaInit behTwodotsbelowDotabove-ar.init.BaaHaaInit yehThreedotsbelow-ar.init.BaaHaaInit e-ar.init.BaaHaaInit noonghunna-ar.init.BaaHaaInit yehFarsi-ar.init.BaaHaaInit noonTwodotsbelow-ar.init.BaaHaaInit];
-@aBaa.init.BaaHaaMemInit = [yehFarsiFourbelow-ar.init.BaaHaaMemInit beheh-ar.init.BaaHaaMemInit yehFarsiThreeabove-ar.init.BaaHaaMemInit noonRing-ar.init.BaaHaaMemInit behThreedotshorizontalbelow-ar.init.BaaHaaMemInit behVabove-ar.init.BaaHaaMemInit noonTahabove-ar.init.BaaHaaMemInit yehVabove-ar.init.BaaHaaMemInit yehFarsiTwoabove-ar.init.BaaHaaMemInit noonThreedotsabove-ar.init.BaaHaaMemInit yehHamzaabove-ar.init.BaaHaaMemInit behDotless-ar.init.BaaHaaMemInit yehKashmiri-ar.init.BaaHaaMemInit yeh-ar.init.BaaHaaMemInit rnoon-ar.init.BaaHaaMemInit teheh-ar.init.BaaHaaMemInit behVinvertedbelow-ar.init.BaaHaaMemInit behVbelow-ar.init.BaaHaaMemInit tehThreedotsdown-ar.init.BaaHaaMemInit peh-ar.init.BaaHaaMemInit beeh-ar.init.BaaHaaMemInit beh-ar.init.BaaHaaMemInit tteheh-ar.init.BaaHaaMemInit behThreedotsupabove-ar.init.BaaHaaMemInit noon-ar.init.BaaHaaMemInit tehThreedotsupbelow-ar.init.BaaHaaMemInit behThreedotsupbelow-ar.init.BaaHaaMemInit teh-ar.init.BaaHaaMemInit yehFarsiVinverted-ar.init.BaaHaaMemInit yehFarsiTwodotsabove-ar.init.BaaHaaMemInit yehFarsiThreedotsabove-ar.init.BaaHaaMemInit theh-ar.init.BaaHaaMemInit tteh-ar.init.BaaHaaMemInit noonDotbelow-ar.init.BaaHaaMemInit noonVabove-ar.init.BaaHaaMemInit alefMaksura-ar.init.BaaHaaMemInit tehRing-ar.init.BaaHaaMemInit behTwodotsbelowDotabove-ar.init.BaaHaaMemInit yehThreedotsbelow-ar.init.BaaHaaMemInit e-ar.init.BaaHaaMemInit noonghunna-ar.init.BaaHaaMemInit yehFarsi-ar.init.BaaHaaMemInit noonTwodotsbelow-ar.init.BaaHaaMemInit];
-@aBaa.init.BaaHehInit = [yehFarsiFourbelow-ar.init.BaaHehInit beheh-ar.init.BaaHehInit yehFarsiThreeabove-ar.init.BaaHehInit noonRing-ar.init.BaaHehInit behThreedotshorizontalbelow-ar.init.BaaHehInit behVabove-ar.init.BaaHehInit noonTahabove-ar.init.BaaHehInit yehVabove-ar.init.BaaHehInit yehFarsiTwoabove-ar.init.BaaHehInit noonThreedotsabove-ar.init.BaaHehInit yehHamzaabove-ar.init.BaaHehInit behDotless-ar.init.BaaHehInit yehKashmiri-ar.init.BaaHehInit yeh-ar.init.BaaHehInit rnoon-ar.init.BaaHehInit teheh-ar.init.BaaHehInit behVinvertedbelow-ar.init.BaaHehInit behVbelow-ar.init.BaaHehInit tehThreedotsdown-ar.init.BaaHehInit peh-ar.init.BaaHehInit beeh-ar.init.BaaHehInit beh-ar.init.BaaHehInit tteheh-ar.init.BaaHehInit behThreedotsupabove-ar.init.BaaHehInit noon-ar.init.BaaHehInit tehThreedotsupbelow-ar.init.BaaHehInit behThreedotsupbelow-ar.init.BaaHehInit teh-ar.init.BaaHehInit yehFarsiVinverted-ar.init.BaaHehInit yehFarsiTwodotsabove-ar.init.BaaHehInit yehFarsiThreedotsabove-ar.init.BaaHehInit theh-ar.init.BaaHehInit tteh-ar.init.BaaHehInit noonDotbelow-ar.init.BaaHehInit noonVabove-ar.init.BaaHehInit alefMaksura-ar.init.BaaHehInit tehRing-ar.init.BaaHehInit behTwodotsbelowDotabove-ar.init.BaaHehInit yehThreedotsbelow-ar.init.BaaHehInit e-ar.init.BaaHehInit noonghunna-ar.init.BaaHehInit yehFarsi-ar.init.BaaHehInit noonTwodotsbelow-ar.init.BaaHehInit];
-@aBaa.init.BaaMemHaaInit = [yehFarsiFourbelow-ar.init.BaaMemHaaInit beheh-ar.init.BaaMemHaaInit yehFarsiThreeabove-ar.init.BaaMemHaaInit noonRing-ar.init.BaaMemHaaInit behThreedotshorizontalbelow-ar.init.BaaMemHaaInit behVabove-ar.init.BaaMemHaaInit noonTahabove-ar.init.BaaMemHaaInit yehVabove-ar.init.BaaMemHaaInit yehFarsiTwoabove-ar.init.BaaMemHaaInit noonThreedotsabove-ar.init.BaaMemHaaInit yehHamzaabove-ar.init.BaaMemHaaInit behDotless-ar.init.BaaMemHaaInit yehKashmiri-ar.init.BaaMemHaaInit yeh-ar.init.BaaMemHaaInit rnoon-ar.init.BaaMemHaaInit teheh-ar.init.BaaMemHaaInit behVinvertedbelow-ar.init.BaaMemHaaInit behVbelow-ar.init.BaaMemHaaInit tehThreedotsdown-ar.init.BaaMemHaaInit peh-ar.init.BaaMemHaaInit beeh-ar.init.BaaMemHaaInit beh-ar.init.BaaMemHaaInit tteheh-ar.init.BaaMemHaaInit behThreedotsupabove-ar.init.BaaMemHaaInit noon-ar.init.BaaMemHaaInit tehThreedotsupbelow-ar.init.BaaMemHaaInit behThreedotsupbelow-ar.init.BaaMemHaaInit teh-ar.init.BaaMemHaaInit yehFarsiVinverted-ar.init.BaaMemHaaInit yehFarsiTwodotsabove-ar.init.BaaMemHaaInit yehFarsiThreedotsabove-ar.init.BaaMemHaaInit theh-ar.init.BaaMemHaaInit tteh-ar.init.BaaMemHaaInit noonDotbelow-ar.init.BaaMemHaaInit noonVabove-ar.init.BaaMemHaaInit alefMaksura-ar.init.BaaMemHaaInit tehRing-ar.init.BaaMemHaaInit behTwodotsbelowDotabove-ar.init.BaaMemHaaInit yehThreedotsbelow-ar.init.BaaMemHaaInit e-ar.init.BaaMemHaaInit noonghunna-ar.init.BaaMemHaaInit yehFarsi-ar.init.BaaMemHaaInit noonTwodotsbelow-ar.init.BaaMemHaaInit];
-@aBaa.init.BaaMemInit = [yehFarsiFourbelow-ar.init.BaaMemInit beheh-ar.init.BaaMemInit yehFarsiThreeabove-ar.init.BaaMemInit noonRing-ar.init.BaaMemInit behThreedotshorizontalbelow-ar.init.BaaMemInit behVabove-ar.init.BaaMemInit noonTahabove-ar.init.BaaMemInit yehVabove-ar.init.BaaMemInit yehFarsiTwoabove-ar.init.BaaMemInit noonThreedotsabove-ar.init.BaaMemInit yehHamzaabove-ar.init.BaaMemInit behDotless-ar.init.BaaMemInit yehKashmiri-ar.init.BaaMemInit yeh-ar.init.BaaMemInit rnoon-ar.init.BaaMemInit teheh-ar.init.BaaMemInit behVinvertedbelow-ar.init.BaaMemInit behVbelow-ar.init.BaaMemInit tehThreedotsdown-ar.init.BaaMemInit peh-ar.init.BaaMemInit beeh-ar.init.BaaMemInit beh-ar.init.BaaMemInit tteheh-ar.init.BaaMemInit behThreedotsupabove-ar.init.BaaMemInit noon-ar.init.BaaMemInit tehThreedotsupbelow-ar.init.BaaMemInit behThreedotsupbelow-ar.init.BaaMemInit teh-ar.init.BaaMemInit yehFarsiVinverted-ar.init.BaaMemInit yehFarsiTwodotsabove-ar.init.BaaMemInit yehFarsiThreedotsabove-ar.init.BaaMemInit theh-ar.init.BaaMemInit tteh-ar.init.BaaMemInit noonDotbelow-ar.init.BaaMemInit noonVabove-ar.init.BaaMemInit alefMaksura-ar.init.BaaMemInit tehRing-ar.init.BaaMemInit behTwodotsbelowDotabove-ar.init.BaaMemInit yehThreedotsbelow-ar.init.BaaMemInit e-ar.init.BaaMemInit noonghunna-ar.init.BaaMemInit yehFarsi-ar.init.BaaMemInit noonTwodotsbelow-ar.init.BaaMemInit];
-@aBaa.init.BaaMemIsol = [yehFarsiFourbelow-ar.init.BaaMemIsol beheh-ar.init.BaaMemIsol yehFarsiThreeabove-ar.init.BaaMemIsol noonRing-ar.init.BaaMemIsol behThreedotshorizontalbelow-ar.init.BaaMemIsol behVabove-ar.init.BaaMemIsol noonTahabove-ar.init.BaaMemIsol yehVabove-ar.init.BaaMemIsol yehFarsiTwoabove-ar.init.BaaMemIsol noonThreedotsabove-ar.init.BaaMemIsol yehHamzaabove-ar.init.BaaMemIsol behDotless-ar.init.BaaMemIsol yehKashmiri-ar.init.BaaMemIsol yeh-ar.init.BaaMemIsol rnoon-ar.init.BaaMemIsol teheh-ar.init.BaaMemIsol behVinvertedbelow-ar.init.BaaMemIsol behVbelow-ar.init.BaaMemIsol tehThreedotsdown-ar.init.BaaMemIsol peh-ar.init.BaaMemIsol beeh-ar.init.BaaMemIsol beh-ar.init.BaaMemIsol tteheh-ar.init.BaaMemIsol behThreedotsupabove-ar.init.BaaMemIsol noon-ar.init.BaaMemIsol tehThreedotsupbelow-ar.init.BaaMemIsol behThreedotsupbelow-ar.init.BaaMemIsol teh-ar.init.BaaMemIsol yehFarsiVinverted-ar.init.BaaMemIsol yehFarsiTwodotsabove-ar.init.BaaMemIsol yehFarsiThreedotsabove-ar.init.BaaMemIsol theh-ar.init.BaaMemIsol tteh-ar.init.BaaMemIsol noonDotbelow-ar.init.BaaMemIsol noonVabove-ar.init.BaaMemIsol alefMaksura-ar.init.BaaMemIsol tehRing-ar.init.BaaMemIsol behTwodotsbelowDotabove-ar.init.BaaMemIsol yehThreedotsbelow-ar.init.BaaMemIsol e-ar.init.BaaMemIsol noonghunna-ar.init.BaaMemIsol yehFarsi-ar.init.BaaMemIsol noonTwodotsbelow-ar.init.BaaMemIsol];
-@aBaa.init.BaaNonIsol = [yehFarsiFourbelow-ar.init.BaaNonIsol beheh-ar.init.BaaNonIsol yehFarsiThreeabove-ar.init.BaaNonIsol noonRing-ar.init.BaaNonIsol behThreedotshorizontalbelow-ar.init.BaaNonIsol behVabove-ar.init.BaaNonIsol noonTahabove-ar.init.BaaNonIsol yehVabove-ar.init.BaaNonIsol yehFarsiTwoabove-ar.init.BaaNonIsol noonThreedotsabove-ar.init.BaaNonIsol yehHamzaabove-ar.init.BaaNonIsol behDotless-ar.init.BaaNonIsol yehKashmiri-ar.init.BaaNonIsol yeh-ar.init.BaaNonIsol rnoon-ar.init.BaaNonIsol teheh-ar.init.BaaNonIsol behVinvertedbelow-ar.init.BaaNonIsol behVbelow-ar.init.BaaNonIsol tehThreedotsdown-ar.init.BaaNonIsol peh-ar.init.BaaNonIsol beeh-ar.init.BaaNonIsol beh-ar.init.BaaNonIsol tteheh-ar.init.BaaNonIsol behThreedotsupabove-ar.init.BaaNonIsol noon-ar.init.BaaNonIsol tehThreedotsupbelow-ar.init.BaaNonIsol behThreedotsupbelow-ar.init.BaaNonIsol teh-ar.init.BaaNonIsol yehFarsiVinverted-ar.init.BaaNonIsol yehFarsiTwodotsabove-ar.init.BaaNonIsol yehFarsiThreedotsabove-ar.init.BaaNonIsol theh-ar.init.BaaNonIsol tteh-ar.init.BaaNonIsol noonDotbelow-ar.init.BaaNonIsol noonVabove-ar.init.BaaNonIsol alefMaksura-ar.init.BaaNonIsol tehRing-ar.init.BaaNonIsol behTwodotsbelowDotabove-ar.init.BaaNonIsol yehThreedotsbelow-ar.init.BaaNonIsol e-ar.init.BaaNonIsol noonghunna-ar.init.BaaNonIsol yehFarsi-ar.init.BaaNonIsol noonTwodotsbelow-ar.init.BaaNonIsol];
-@aBaa.init.BaaRaaIsol = [yehFarsiFourbelow-ar.init.BaaRaaIsol beheh-ar.init.BaaRaaIsol yehFarsiThreeabove-ar.init.BaaRaaIsol noonRing-ar.init.BaaRaaIsol behThreedotshorizontalbelow-ar.init.BaaRaaIsol behVabove-ar.init.BaaRaaIsol noonTahabove-ar.init.BaaRaaIsol yehVabove-ar.init.BaaRaaIsol yehFarsiTwoabove-ar.init.BaaRaaIsol noonThreedotsabove-ar.init.BaaRaaIsol yehHamzaabove-ar.init.BaaRaaIsol behDotless-ar.init.BaaRaaIsol yehKashmiri-ar.init.BaaRaaIsol yeh-ar.init.BaaRaaIsol rnoon-ar.init.BaaRaaIsol teheh-ar.init.BaaRaaIsol behVinvertedbelow-ar.init.BaaRaaIsol behVbelow-ar.init.BaaRaaIsol tehThreedotsdown-ar.init.BaaRaaIsol peh-ar.init.BaaRaaIsol beeh-ar.init.BaaRaaIsol beh-ar.init.BaaRaaIsol tteheh-ar.init.BaaRaaIsol behThreedotsupabove-ar.init.BaaRaaIsol noon-ar.init.BaaRaaIsol tehThreedotsupbelow-ar.init.BaaRaaIsol behThreedotsupbelow-ar.init.BaaRaaIsol teh-ar.init.BaaRaaIsol yehFarsiVinverted-ar.init.BaaRaaIsol yehFarsiTwodotsabove-ar.init.BaaRaaIsol yehFarsiThreedotsabove-ar.init.BaaRaaIsol theh-ar.init.BaaRaaIsol tteh-ar.init.BaaRaaIsol noonDotbelow-ar.init.BaaRaaIsol noonVabove-ar.init.BaaRaaIsol alefMaksura-ar.init.BaaRaaIsol tehRing-ar.init.BaaRaaIsol behTwodotsbelowDotabove-ar.init.BaaRaaIsol yehThreedotsbelow-ar.init.BaaRaaIsol e-ar.init.BaaRaaIsol noonghunna-ar.init.BaaRaaIsol yehFarsi-ar.init.BaaRaaIsol noonTwodotsbelow-ar.init.BaaRaaIsol];
-@aBaa.init.BaaSenAltInit = [yehFarsiFourbelow-ar.init.BaaSenAltInit beheh-ar.init.BaaSenAltInit yehFarsiThreeabove-ar.init.BaaSenAltInit noonRing-ar.init.BaaSenAltInit behThreedotshorizontalbelow-ar.init.BaaSenAltInit behVabove-ar.init.BaaSenAltInit noonTahabove-ar.init.BaaSenAltInit yehVabove-ar.init.BaaSenAltInit yehFarsiTwoabove-ar.init.BaaSenAltInit noonThreedotsabove-ar.init.BaaSenAltInit yehHamzaabove-ar.init.BaaSenAltInit behDotless-ar.init.BaaSenAltInit yehKashmiri-ar.init.BaaSenAltInit yeh-ar.init.BaaSenAltInit rnoon-ar.init.BaaSenAltInit teheh-ar.init.BaaSenAltInit behVinvertedbelow-ar.init.BaaSenAltInit behVbelow-ar.init.BaaSenAltInit tehThreedotsdown-ar.init.BaaSenAltInit peh-ar.init.BaaSenAltInit beeh-ar.init.BaaSenAltInit beh-ar.init.BaaSenAltInit tteheh-ar.init.BaaSenAltInit behThreedotsupabove-ar.init.BaaSenAltInit noon-ar.init.BaaSenAltInit tehThreedotsupbelow-ar.init.BaaSenAltInit behThreedotsupbelow-ar.init.BaaSenAltInit teh-ar.init.BaaSenAltInit yehFarsiVinverted-ar.init.BaaSenAltInit yehFarsiTwodotsabove-ar.init.BaaSenAltInit yehFarsiThreedotsabove-ar.init.BaaSenAltInit theh-ar.init.BaaSenAltInit tteh-ar.init.BaaSenAltInit noonDotbelow-ar.init.BaaSenAltInit noonVabove-ar.init.BaaSenAltInit alefMaksura-ar.init.BaaSenAltInit tehRing-ar.init.BaaSenAltInit behTwodotsbelowDotabove-ar.init.BaaSenAltInit yehThreedotsbelow-ar.init.BaaSenAltInit e-ar.init.BaaSenAltInit noonghunna-ar.init.BaaSenAltInit yehFarsi-ar.init.BaaSenAltInit noonTwodotsbelow-ar.init.BaaSenAltInit];
-@aBaa.init.BaaSenInit = [yehFarsiFourbelow-ar.init.BaaSenInit beheh-ar.init.BaaSenInit yehFarsiThreeabove-ar.init.BaaSenInit noonRing-ar.init.BaaSenInit behThreedotshorizontalbelow-ar.init.BaaSenInit behVabove-ar.init.BaaSenInit noonTahabove-ar.init.BaaSenInit yehVabove-ar.init.BaaSenInit yehFarsiTwoabove-ar.init.BaaSenInit noonThreedotsabove-ar.init.BaaSenInit yehHamzaabove-ar.init.BaaSenInit behDotless-ar.init.BaaSenInit yehKashmiri-ar.init.BaaSenInit yeh-ar.init.BaaSenInit rnoon-ar.init.BaaSenInit teheh-ar.init.BaaSenInit behVinvertedbelow-ar.init.BaaSenInit behVbelow-ar.init.BaaSenInit tehThreedotsdown-ar.init.BaaSenInit peh-ar.init.BaaSenInit beeh-ar.init.BaaSenInit beh-ar.init.BaaSenInit tteheh-ar.init.BaaSenInit behThreedotsupabove-ar.init.BaaSenInit noon-ar.init.BaaSenInit tehThreedotsupbelow-ar.init.BaaSenInit behThreedotsupbelow-ar.init.BaaSenInit teh-ar.init.BaaSenInit yehFarsiVinverted-ar.init.BaaSenInit yehFarsiTwodotsabove-ar.init.BaaSenInit yehFarsiThreedotsabove-ar.init.BaaSenInit theh-ar.init.BaaSenInit tteh-ar.init.BaaSenInit noonDotbelow-ar.init.BaaSenInit noonVabove-ar.init.BaaSenInit alefMaksura-ar.init.BaaSenInit tehRing-ar.init.BaaSenInit behTwodotsbelowDotabove-ar.init.BaaSenInit yehThreedotsbelow-ar.init.BaaSenInit e-ar.init.BaaSenInit noonghunna-ar.init.BaaSenInit yehFarsi-ar.init.BaaSenInit noonTwodotsbelow-ar.init.BaaSenInit];
-@aBaa.init.BaaYaaIsol = [yehFarsiFourbelow-ar.init.BaaYaaIsol beheh-ar.init.BaaYaaIsol yehFarsiThreeabove-ar.init.BaaYaaIsol noonRing-ar.init.BaaYaaIsol behThreedotshorizontalbelow-ar.init.BaaYaaIsol behVabove-ar.init.BaaYaaIsol noonTahabove-ar.init.BaaYaaIsol yehVabove-ar.init.BaaYaaIsol yehFarsiTwoabove-ar.init.BaaYaaIsol noonThreedotsabove-ar.init.BaaYaaIsol yehHamzaabove-ar.init.BaaYaaIsol behDotless-ar.init.BaaYaaIsol yehKashmiri-ar.init.BaaYaaIsol yeh-ar.init.BaaYaaIsol rnoon-ar.init.BaaYaaIsol teheh-ar.init.BaaYaaIsol behVinvertedbelow-ar.init.BaaYaaIsol behVbelow-ar.init.BaaYaaIsol tehThreedotsdown-ar.init.BaaYaaIsol peh-ar.init.BaaYaaIsol beeh-ar.init.BaaYaaIsol beh-ar.init.BaaYaaIsol tteheh-ar.init.BaaYaaIsol behThreedotsupabove-ar.init.BaaYaaIsol noon-ar.init.BaaYaaIsol tehThreedotsupbelow-ar.init.BaaYaaIsol behThreedotsupbelow-ar.init.BaaYaaIsol teh-ar.init.BaaYaaIsol yehFarsiVinverted-ar.init.BaaYaaIsol yehFarsiTwodotsabove-ar.init.BaaYaaIsol yehFarsiThreedotsabove-ar.init.BaaYaaIsol theh-ar.init.BaaYaaIsol tteh-ar.init.BaaYaaIsol noonDotbelow-ar.init.BaaYaaIsol noonVabove-ar.init.BaaYaaIsol alefMaksura-ar.init.BaaYaaIsol tehRing-ar.init.BaaYaaIsol behTwodotsbelowDotabove-ar.init.BaaYaaIsol yehThreedotsbelow-ar.init.BaaYaaIsol e-ar.init.BaaYaaIsol noonghunna-ar.init.BaaYaaIsol yehFarsi-ar.init.BaaYaaIsol noonTwodotsbelow-ar.init.BaaYaaIsol];
-@aBaa.init.High = [yehFarsiFourbelow-ar.init.High beheh-ar.init.High yehFarsiThreeabove-ar.init.High noonRing-ar.init.High behThreedotshorizontalbelow-ar.init.High behVabove-ar.init.High noonTahabove-ar.init.High yehVabove-ar.init.High yehFarsiTwoabove-ar.init.High noonThreedotsabove-ar.init.High yehHamzaabove-ar.init.High behDotless-ar.init.High yehKashmiri-ar.init.High yeh-ar.init.High rnoon-ar.init.High teheh-ar.init.High behVinvertedbelow-ar.init.High behVbelow-ar.init.High tehThreedotsdown-ar.init.High peh-ar.init.High beeh-ar.init.High beh-ar.init.High tteheh-ar.init.High behThreedotsupabove-ar.init.High noon-ar.init.High tehThreedotsupbelow-ar.init.High behThreedotsupbelow-ar.init.High teh-ar.init.High yehFarsiVinverted-ar.init.High yehFarsiTwodotsabove-ar.init.High yehFarsiThreedotsabove-ar.init.High theh-ar.init.High tteh-ar.init.High noonDotbelow-ar.init.High noonVabove-ar.init.High alefMaksura-ar.init.High tehRing-ar.init.High behTwodotsbelowDotabove-ar.init.High yehThreedotsbelow-ar.init.High e-ar.init.High noonghunna-ar.init.High yehFarsi-ar.init.High noonTwodotsbelow-ar.init.High];
-@aBaa.init.Wide = [yehFarsiFourbelow-ar.init.Wide beheh-ar.init.Wide yehFarsiThreeabove-ar.init.Wide noonRing-ar.init.Wide behThreedotshorizontalbelow-ar.init.Wide behVabove-ar.init.Wide noonTahabove-ar.init.Wide yehVabove-ar.init.Wide yehFarsiTwoabove-ar.init.Wide noonThreedotsabove-ar.init.Wide yehHamzaabove-ar.init.Wide behDotless-ar.init.Wide yehKashmiri-ar.init.Wide yeh-ar.init.Wide rnoon-ar.init.Wide teheh-ar.init.Wide behVinvertedbelow-ar.init.Wide behVbelow-ar.init.Wide tehThreedotsdown-ar.init.Wide peh-ar.init.Wide beeh-ar.init.Wide beh-ar.init.Wide tteheh-ar.init.Wide behThreedotsupabove-ar.init.Wide noon-ar.init.Wide tehThreedotsupbelow-ar.init.Wide behThreedotsupbelow-ar.init.Wide teh-ar.init.Wide yehFarsiVinverted-ar.init.Wide yehFarsiTwodotsabove-ar.init.Wide yehFarsiThreedotsabove-ar.init.Wide theh-ar.init.Wide tteh-ar.init.Wide noonDotbelow-ar.init.Wide noonVabove-ar.init.Wide alefMaksura-ar.init.Wide tehRing-ar.init.Wide behTwodotsbelowDotabove-ar.init.Wide yehThreedotsbelow-ar.init.Wide e-ar.init.Wide noonghunna-ar.init.Wide yehFarsi-ar.init.Wide noonTwodotsbelow-ar.init.Wide];
-@aBaa.init.YaaBari = [yehFarsiFourbelow-ar.init.YaaBari beheh-ar.init.YaaBari yehFarsiThreeabove-ar.init.YaaBari noonRing-ar.init.YaaBari behThreedotshorizontalbelow-ar.init.YaaBari behVabove-ar.init.YaaBari noonTahabove-ar.init.YaaBari yehVabove-ar.init.YaaBari yehFarsiTwoabove-ar.init.YaaBari noonThreedotsabove-ar.init.YaaBari yehHamzaabove-ar.init.YaaBari behDotless-ar.init.YaaBari yehKashmiri-ar.init.YaaBari yeh-ar.init.YaaBari rnoon-ar.init.YaaBari teheh-ar.init.YaaBari behVinvertedbelow-ar.init.YaaBari behVbelow-ar.init.YaaBari tehThreedotsdown-ar.init.YaaBari peh-ar.init.YaaBari beeh-ar.init.YaaBari beh-ar.init.YaaBari tteheh-ar.init.YaaBari behThreedotsupabove-ar.init.YaaBari noon-ar.init.YaaBari tehThreedotsupbelow-ar.init.YaaBari behThreedotsupbelow-ar.init.YaaBari teh-ar.init.YaaBari yehFarsiVinverted-ar.init.YaaBari yehFarsiTwodotsabove-ar.init.YaaBari yehFarsiThreedotsabove-ar.init.YaaBari theh-ar.init.YaaBari tteh-ar.init.YaaBari noonDotbelow-ar.init.YaaBari noonVabove-ar.init.YaaBari alefMaksura-ar.init.YaaBari tehRing-ar.init.YaaBari behTwodotsbelowDotabove-ar.init.YaaBari yehThreedotsbelow-ar.init.YaaBari e-ar.init.YaaBari noonghunna-ar.init.YaaBari yehFarsi-ar.init.YaaBari noonTwodotsbelow-ar.init.YaaBari];
-@aBaa.init.BaaBaaYaaBari = [yehFarsiFourbelow-ar.init.BaaBaaYaaBari beheh-ar.init.BaaBaaYaaBari yehFarsiThreeabove-ar.init.BaaBaaYaaBari noonRing-ar.init.BaaBaaYaaBari behThreedotshorizontalbelow-ar.init.BaaBaaYaaBari behVabove-ar.init.BaaBaaYaaBari noonTahabove-ar.init.BaaBaaYaaBari yehVabove-ar.init.BaaBaaYaaBari yehFarsiTwoabove-ar.init.BaaBaaYaaBari noonThreedotsabove-ar.init.BaaBaaYaaBari yehHamzaabove-ar.init.BaaBaaYaaBari behDotless-ar.init.BaaBaaYaaBari yehKashmiri-ar.init.BaaBaaYaaBari yeh-ar.init.BaaBaaYaaBari rnoon-ar.init.BaaBaaYaaBari teheh-ar.init.BaaBaaYaaBari behVinvertedbelow-ar.init.BaaBaaYaaBari behVbelow-ar.init.BaaBaaYaaBari tehThreedotsdown-ar.init.BaaBaaYaaBari peh-ar.init.BaaBaaYaaBari beeh-ar.init.BaaBaaYaaBari beh-ar.init.BaaBaaYaaBari tteheh-ar.init.BaaBaaYaaBari behThreedotsupabove-ar.init.BaaBaaYaaBari noon-ar.init.BaaBaaYaaBari tehThreedotsupbelow-ar.init.BaaBaaYaaBari behThreedotsupbelow-ar.init.BaaBaaYaaBari teh-ar.init.BaaBaaYaaBari yehFarsiVinverted-ar.init.BaaBaaYaaBari yehFarsiTwodotsabove-ar.init.BaaBaaYaaBari yehFarsiThreedotsabove-ar.init.BaaBaaYaaBari theh-ar.init.BaaBaaYaaBari tteh-ar.init.BaaBaaYaaBari noonDotbelow-ar.init.BaaBaaYaaBari noonVabove-ar.init.BaaBaaYaaBari alefMaksura-ar.init.BaaBaaYaaBari tehRing-ar.init.BaaBaaYaaBari behTwodotsbelowDotabove-ar.init.BaaBaaYaaBari yehThreedotsbelow-ar.init.BaaBaaYaaBari e-ar.init.BaaBaaYaaBari noonghunna-ar.init.BaaBaaYaaBari yehFarsi-ar.init.BaaBaaYaaBari noonTwodotsbelow-ar.init.BaaBaaYaaBari];
-@aBaa.medi.YaaBari = [yehFarsiFourbelow-ar.medi.YaaBari beheh-ar.medi.YaaBari yehFarsiThreeabove-ar.medi.YaaBari noonRing-ar.medi.YaaBari behThreedotshorizontalbelow-ar.medi.YaaBari behVabove-ar.medi.YaaBari noonTahabove-ar.medi.YaaBari yehVabove-ar.medi.YaaBari yehFarsiTwoabove-ar.medi.YaaBari noonThreedotsabove-ar.medi.YaaBari yehHamzaabove-ar.medi.YaaBari behDotless-ar.medi.YaaBari yehKashmiri-ar.medi.YaaBari yeh-ar.medi.YaaBari rnoon-ar.medi.YaaBari teheh-ar.medi.YaaBari behVinvertedbelow-ar.medi.YaaBari behVbelow-ar.medi.YaaBari tehThreedotsdown-ar.medi.YaaBari peh-ar.medi.YaaBari beeh-ar.medi.YaaBari beh-ar.medi.YaaBari tteheh-ar.medi.YaaBari behThreedotsupabove-ar.medi.YaaBari noon-ar.medi.YaaBari tehThreedotsupbelow-ar.medi.YaaBari behThreedotsupbelow-ar.medi.YaaBari teh-ar.medi.YaaBari yehFarsiVinverted-ar.medi.YaaBari yehFarsiTwodotsabove-ar.medi.YaaBari yehFarsiThreedotsabove-ar.medi.YaaBari theh-ar.medi.YaaBari tteh-ar.medi.YaaBari noonDotbelow-ar.medi.YaaBari noonVabove-ar.medi.YaaBari alefMaksura-ar.medi.YaaBari tehRing-ar.medi.YaaBari behTwodotsbelowDotabove-ar.medi.YaaBari yehThreedotsbelow-ar.medi.YaaBari e-ar.medi.YaaBari noonghunna-ar.medi.YaaBari yehFarsi-ar.medi.YaaBari noonTwodotsbelow-ar.medi.YaaBari];
-@aBaa.medi.BaaBaaHaaInit = [yehFarsiFourbelow-ar.medi.BaaBaaHaaInit beheh-ar.medi.BaaBaaHaaInit yehFarsiThreeabove-ar.medi.BaaBaaHaaInit noonRing-ar.medi.BaaBaaHaaInit behThreedotshorizontalbelow-ar.medi.BaaBaaHaaInit behVabove-ar.medi.BaaBaaHaaInit noonTahabove-ar.medi.BaaBaaHaaInit yehVabove-ar.medi.BaaBaaHaaInit yehFarsiTwoabove-ar.medi.BaaBaaHaaInit noonThreedotsabove-ar.medi.BaaBaaHaaInit yehHamzaabove-ar.medi.BaaBaaHaaInit behDotless-ar.medi.BaaBaaHaaInit yehKashmiri-ar.medi.BaaBaaHaaInit yeh-ar.medi.BaaBaaHaaInit rnoon-ar.medi.BaaBaaHaaInit teheh-ar.medi.BaaBaaHaaInit behVinvertedbelow-ar.medi.BaaBaaHaaInit behVbelow-ar.medi.BaaBaaHaaInit tehThreedotsdown-ar.medi.BaaBaaHaaInit peh-ar.medi.BaaBaaHaaInit beeh-ar.medi.BaaBaaHaaInit beh-ar.medi.BaaBaaHaaInit tteheh-ar.medi.BaaBaaHaaInit behThreedotsupabove-ar.medi.BaaBaaHaaInit noon-ar.medi.BaaBaaHaaInit tehThreedotsupbelow-ar.medi.BaaBaaHaaInit behThreedotsupbelow-ar.medi.BaaBaaHaaInit teh-ar.medi.BaaBaaHaaInit yehFarsiVinverted-ar.medi.BaaBaaHaaInit yehFarsiTwodotsabove-ar.medi.BaaBaaHaaInit yehFarsiThreedotsabove-ar.medi.BaaBaaHaaInit theh-ar.medi.BaaBaaHaaInit tteh-ar.medi.BaaBaaHaaInit noonDotbelow-ar.medi.BaaBaaHaaInit noonVabove-ar.medi.BaaBaaHaaInit alefMaksura-ar.medi.BaaBaaHaaInit tehRing-ar.medi.BaaBaaHaaInit behTwodotsbelowDotabove-ar.medi.BaaBaaHaaInit yehThreedotsbelow-ar.medi.BaaBaaHaaInit e-ar.medi.BaaBaaHaaInit noonghunna-ar.medi.BaaBaaHaaInit yehFarsi-ar.medi.BaaBaaHaaInit noonTwodotsbelow-ar.medi.BaaBaaHaaInit];
-@aBaa.medi.BaaBaaInit = [yehFarsiFourbelow-ar.medi.BaaBaaInit beheh-ar.medi.BaaBaaInit yehFarsiThreeabove-ar.medi.BaaBaaInit noonRing-ar.medi.BaaBaaInit behThreedotshorizontalbelow-ar.medi.BaaBaaInit behVabove-ar.medi.BaaBaaInit noonTahabove-ar.medi.BaaBaaInit yehVabove-ar.medi.BaaBaaInit yehFarsiTwoabove-ar.medi.BaaBaaInit noonThreedotsabove-ar.medi.BaaBaaInit yehHamzaabove-ar.medi.BaaBaaInit behDotless-ar.medi.BaaBaaInit yehKashmiri-ar.medi.BaaBaaInit yeh-ar.medi.BaaBaaInit rnoon-ar.medi.BaaBaaInit teheh-ar.medi.BaaBaaInit behVinvertedbelow-ar.medi.BaaBaaInit behVbelow-ar.medi.BaaBaaInit tehThreedotsdown-ar.medi.BaaBaaInit peh-ar.medi.BaaBaaInit beeh-ar.medi.BaaBaaInit beh-ar.medi.BaaBaaInit tteheh-ar.medi.BaaBaaInit behThreedotsupabove-ar.medi.BaaBaaInit noon-ar.medi.BaaBaaInit tehThreedotsupbelow-ar.medi.BaaBaaInit behThreedotsupbelow-ar.medi.BaaBaaInit teh-ar.medi.BaaBaaInit yehFarsiVinverted-ar.medi.BaaBaaInit yehFarsiTwodotsabove-ar.medi.BaaBaaInit yehFarsiThreedotsabove-ar.medi.BaaBaaInit theh-ar.medi.BaaBaaInit tteh-ar.medi.BaaBaaInit noonDotbelow-ar.medi.BaaBaaInit noonVabove-ar.medi.BaaBaaInit alefMaksura-ar.medi.BaaBaaInit tehRing-ar.medi.BaaBaaInit behTwodotsbelowDotabove-ar.medi.BaaBaaInit yehThreedotsbelow-ar.medi.BaaBaaInit e-ar.medi.BaaBaaInit noonghunna-ar.medi.BaaBaaInit yehFarsi-ar.medi.BaaBaaInit noonTwodotsbelow-ar.medi.BaaBaaInit];
-@aBaa.medi.BaaBaaMemInit = [yehFarsiFourbelow-ar.medi.BaaBaaMemInit beheh-ar.medi.BaaBaaMemInit yehFarsiThreeabove-ar.medi.BaaBaaMemInit noonRing-ar.medi.BaaBaaMemInit behThreedotshorizontalbelow-ar.medi.BaaBaaMemInit behVabove-ar.medi.BaaBaaMemInit noonTahabove-ar.medi.BaaBaaMemInit yehVabove-ar.medi.BaaBaaMemInit yehFarsiTwoabove-ar.medi.BaaBaaMemInit noonThreedotsabove-ar.medi.BaaBaaMemInit yehHamzaabove-ar.medi.BaaBaaMemInit behDotless-ar.medi.BaaBaaMemInit yehKashmiri-ar.medi.BaaBaaMemInit yeh-ar.medi.BaaBaaMemInit rnoon-ar.medi.BaaBaaMemInit teheh-ar.medi.BaaBaaMemInit behVinvertedbelow-ar.medi.BaaBaaMemInit behVbelow-ar.medi.BaaBaaMemInit tehThreedotsdown-ar.medi.BaaBaaMemInit peh-ar.medi.BaaBaaMemInit beeh-ar.medi.BaaBaaMemInit beh-ar.medi.BaaBaaMemInit tteheh-ar.medi.BaaBaaMemInit behThreedotsupabove-ar.medi.BaaBaaMemInit noon-ar.medi.BaaBaaMemInit tehThreedotsupbelow-ar.medi.BaaBaaMemInit behThreedotsupbelow-ar.medi.BaaBaaMemInit teh-ar.medi.BaaBaaMemInit yehFarsiVinverted-ar.medi.BaaBaaMemInit yehFarsiTwodotsabove-ar.medi.BaaBaaMemInit yehFarsiThreedotsabove-ar.medi.BaaBaaMemInit theh-ar.medi.BaaBaaMemInit tteh-ar.medi.BaaBaaMemInit noonDotbelow-ar.medi.BaaBaaMemInit noonVabove-ar.medi.BaaBaaMemInit alefMaksura-ar.medi.BaaBaaMemInit tehRing-ar.medi.BaaBaaMemInit behTwodotsbelowDotabove-ar.medi.BaaBaaMemInit yehThreedotsbelow-ar.medi.BaaBaaMemInit e-ar.medi.BaaBaaMemInit noonghunna-ar.medi.BaaBaaMemInit yehFarsi-ar.medi.BaaBaaMemInit noonTwodotsbelow-ar.medi.BaaBaaMemInit];
-@aBaa.medi.BaaBaaYaa = [yehFarsiFourbelow-ar.medi.BaaBaaYaa beheh-ar.medi.BaaBaaYaa yehFarsiThreeabove-ar.medi.BaaBaaYaa noonRing-ar.medi.BaaBaaYaa behThreedotshorizontalbelow-ar.medi.BaaBaaYaa behVabove-ar.medi.BaaBaaYaa noonTahabove-ar.medi.BaaBaaYaa yehVabove-ar.medi.BaaBaaYaa yehFarsiTwoabove-ar.medi.BaaBaaYaa noonThreedotsabove-ar.medi.BaaBaaYaa yehHamzaabove-ar.medi.BaaBaaYaa behDotless-ar.medi.BaaBaaYaa yehKashmiri-ar.medi.BaaBaaYaa yeh-ar.medi.BaaBaaYaa rnoon-ar.medi.BaaBaaYaa teheh-ar.medi.BaaBaaYaa behVinvertedbelow-ar.medi.BaaBaaYaa behVbelow-ar.medi.BaaBaaYaa tehThreedotsdown-ar.medi.BaaBaaYaa peh-ar.medi.BaaBaaYaa beeh-ar.medi.BaaBaaYaa beh-ar.medi.BaaBaaYaa tteheh-ar.medi.BaaBaaYaa behThreedotsupabove-ar.medi.BaaBaaYaa noon-ar.medi.BaaBaaYaa tehThreedotsupbelow-ar.medi.BaaBaaYaa behThreedotsupbelow-ar.medi.BaaBaaYaa teh-ar.medi.BaaBaaYaa yehFarsiVinverted-ar.medi.BaaBaaYaa yehFarsiTwodotsabove-ar.medi.BaaBaaYaa yehFarsiThreedotsabove-ar.medi.BaaBaaYaa theh-ar.medi.BaaBaaYaa tteh-ar.medi.BaaBaaYaa noonDotbelow-ar.medi.BaaBaaYaa noonVabove-ar.medi.BaaBaaYaa alefMaksura-ar.medi.BaaBaaYaa tehRing-ar.medi.BaaBaaYaa behTwodotsbelowDotabove-ar.medi.BaaBaaYaa yehThreedotsbelow-ar.medi.BaaBaaYaa e-ar.medi.BaaBaaYaa noonghunna-ar.medi.BaaBaaYaa yehFarsi-ar.medi.BaaBaaYaa noonTwodotsbelow-ar.medi.BaaBaaYaa];
-@aBaa.medi.BaaHehMedi = [yehFarsiFourbelow-ar.medi.BaaHehMedi beheh-ar.medi.BaaHehMedi yehFarsiThreeabove-ar.medi.BaaHehMedi noonRing-ar.medi.BaaHehMedi behThreedotshorizontalbelow-ar.medi.BaaHehMedi behVabove-ar.medi.BaaHehMedi noonTahabove-ar.medi.BaaHehMedi yehVabove-ar.medi.BaaHehMedi yehFarsiTwoabove-ar.medi.BaaHehMedi noonThreedotsabove-ar.medi.BaaHehMedi yehHamzaabove-ar.medi.BaaHehMedi behDotless-ar.medi.BaaHehMedi yehKashmiri-ar.medi.BaaHehMedi yeh-ar.medi.BaaHehMedi rnoon-ar.medi.BaaHehMedi teheh-ar.medi.BaaHehMedi behVinvertedbelow-ar.medi.BaaHehMedi behVbelow-ar.medi.BaaHehMedi tehThreedotsdown-ar.medi.BaaHehMedi peh-ar.medi.BaaHehMedi beeh-ar.medi.BaaHehMedi beh-ar.medi.BaaHehMedi tteheh-ar.medi.BaaHehMedi behThreedotsupabove-ar.medi.BaaHehMedi noon-ar.medi.BaaHehMedi tehThreedotsupbelow-ar.medi.BaaHehMedi behThreedotsupbelow-ar.medi.BaaHehMedi teh-ar.medi.BaaHehMedi yehFarsiVinverted-ar.medi.BaaHehMedi yehFarsiTwodotsabove-ar.medi.BaaHehMedi yehFarsiThreedotsabove-ar.medi.BaaHehMedi theh-ar.medi.BaaHehMedi tteh-ar.medi.BaaHehMedi noonDotbelow-ar.medi.BaaHehMedi noonVabove-ar.medi.BaaHehMedi alefMaksura-ar.medi.BaaHehMedi tehRing-ar.medi.BaaHehMedi behTwodotsbelowDotabove-ar.medi.BaaHehMedi yehThreedotsbelow-ar.medi.BaaHehMedi e-ar.medi.BaaHehMedi noonghunna-ar.medi.BaaHehMedi yehFarsi-ar.medi.BaaHehMedi noonTwodotsbelow-ar.medi.BaaHehMedi];
-@aBaa.medi.BaaMemAlfFina = [yehFarsiFourbelow-ar.medi.BaaMemAlfFina beheh-ar.medi.BaaMemAlfFina yehFarsiThreeabove-ar.medi.BaaMemAlfFina noonRing-ar.medi.BaaMemAlfFina behThreedotshorizontalbelow-ar.medi.BaaMemAlfFina behVabove-ar.medi.BaaMemAlfFina noonTahabove-ar.medi.BaaMemAlfFina yehVabove-ar.medi.BaaMemAlfFina yehFarsiTwoabove-ar.medi.BaaMemAlfFina noonThreedotsabove-ar.medi.BaaMemAlfFina yehHamzaabove-ar.medi.BaaMemAlfFina behDotless-ar.medi.BaaMemAlfFina yehKashmiri-ar.medi.BaaMemAlfFina yeh-ar.medi.BaaMemAlfFina rnoon-ar.medi.BaaMemAlfFina teheh-ar.medi.BaaMemAlfFina behVinvertedbelow-ar.medi.BaaMemAlfFina behVbelow-ar.medi.BaaMemAlfFina tehThreedotsdown-ar.medi.BaaMemAlfFina peh-ar.medi.BaaMemAlfFina beeh-ar.medi.BaaMemAlfFina beh-ar.medi.BaaMemAlfFina tteheh-ar.medi.BaaMemAlfFina behThreedotsupabove-ar.medi.BaaMemAlfFina noon-ar.medi.BaaMemAlfFina tehThreedotsupbelow-ar.medi.BaaMemAlfFina behThreedotsupbelow-ar.medi.BaaMemAlfFina teh-ar.medi.BaaMemAlfFina yehFarsiVinverted-ar.medi.BaaMemAlfFina yehFarsiTwodotsabove-ar.medi.BaaMemAlfFina yehFarsiThreedotsabove-ar.medi.BaaMemAlfFina theh-ar.medi.BaaMemAlfFina tteh-ar.medi.BaaMemAlfFina noonDotbelow-ar.medi.BaaMemAlfFina noonVabove-ar.medi.BaaMemAlfFina alefMaksura-ar.medi.BaaMemAlfFina tehRing-ar.medi.BaaMemAlfFina behTwodotsbelowDotabove-ar.medi.BaaMemAlfFina yehThreedotsbelow-ar.medi.BaaMemAlfFina e-ar.medi.BaaMemAlfFina noonghunna-ar.medi.BaaMemAlfFina yehFarsi-ar.medi.BaaMemAlfFina noonTwodotsbelow-ar.medi.BaaMemAlfFina];
-@aBaa.medi.BaaMemFina = [yehFarsiFourbelow-ar.medi.BaaMemFina beheh-ar.medi.BaaMemFina yehFarsiThreeabove-ar.medi.BaaMemFina noonRing-ar.medi.BaaMemFina behThreedotshorizontalbelow-ar.medi.BaaMemFina behVabove-ar.medi.BaaMemFina noonTahabove-ar.medi.BaaMemFina yehVabove-ar.medi.BaaMemFina yehFarsiTwoabove-ar.medi.BaaMemFina noonThreedotsabove-ar.medi.BaaMemFina yehHamzaabove-ar.medi.BaaMemFina behDotless-ar.medi.BaaMemFina yehKashmiri-ar.medi.BaaMemFina yeh-ar.medi.BaaMemFina rnoon-ar.medi.BaaMemFina teheh-ar.medi.BaaMemFina behVinvertedbelow-ar.medi.BaaMemFina behVbelow-ar.medi.BaaMemFina tehThreedotsdown-ar.medi.BaaMemFina peh-ar.medi.BaaMemFina beeh-ar.medi.BaaMemFina beh-ar.medi.BaaMemFina tteheh-ar.medi.BaaMemFina behThreedotsupabove-ar.medi.BaaMemFina noon-ar.medi.BaaMemFina tehThreedotsupbelow-ar.medi.BaaMemFina behThreedotsupbelow-ar.medi.BaaMemFina teh-ar.medi.BaaMemFina yehFarsiVinverted-ar.medi.BaaMemFina yehFarsiTwodotsabove-ar.medi.BaaMemFina yehFarsiThreedotsabove-ar.medi.BaaMemFina theh-ar.medi.BaaMemFina tteh-ar.medi.BaaMemFina noonDotbelow-ar.medi.BaaMemFina noonVabove-ar.medi.BaaMemFina alefMaksura-ar.medi.BaaMemFina tehRing-ar.medi.BaaMemFina behTwodotsbelowDotabove-ar.medi.BaaMemFina yehThreedotsbelow-ar.medi.BaaMemFina e-ar.medi.BaaMemFina noonghunna-ar.medi.BaaMemFina yehFarsi-ar.medi.BaaMemFina noonTwodotsbelow-ar.medi.BaaMemFina];
-@aBaa.medi.BaaNonFina = [yehFarsiFourbelow-ar.medi.BaaNonFina beheh-ar.medi.BaaNonFina yehFarsiThreeabove-ar.medi.BaaNonFina noonRing-ar.medi.BaaNonFina behThreedotshorizontalbelow-ar.medi.BaaNonFina behVabove-ar.medi.BaaNonFina noonTahabove-ar.medi.BaaNonFina yehVabove-ar.medi.BaaNonFina yehFarsiTwoabove-ar.medi.BaaNonFina noonThreedotsabove-ar.medi.BaaNonFina yehHamzaabove-ar.medi.BaaNonFina behDotless-ar.medi.BaaNonFina yehKashmiri-ar.medi.BaaNonFina yeh-ar.medi.BaaNonFina rnoon-ar.medi.BaaNonFina teheh-ar.medi.BaaNonFina behVinvertedbelow-ar.medi.BaaNonFina behVbelow-ar.medi.BaaNonFina tehThreedotsdown-ar.medi.BaaNonFina peh-ar.medi.BaaNonFina beeh-ar.medi.BaaNonFina beh-ar.medi.BaaNonFina tteheh-ar.medi.BaaNonFina behThreedotsupabove-ar.medi.BaaNonFina noon-ar.medi.BaaNonFina tehThreedotsupbelow-ar.medi.BaaNonFina behThreedotsupbelow-ar.medi.BaaNonFina teh-ar.medi.BaaNonFina yehFarsiVinverted-ar.medi.BaaNonFina yehFarsiTwodotsabove-ar.medi.BaaNonFina yehFarsiThreedotsabove-ar.medi.BaaNonFina theh-ar.medi.BaaNonFina tteh-ar.medi.BaaNonFina noonDotbelow-ar.medi.BaaNonFina noonVabove-ar.medi.BaaNonFina alefMaksura-ar.medi.BaaNonFina tehRing-ar.medi.BaaNonFina behTwodotsbelowDotabove-ar.medi.BaaNonFina yehThreedotsbelow-ar.medi.BaaNonFina e-ar.medi.BaaNonFina noonghunna-ar.medi.BaaNonFina yehFarsi-ar.medi.BaaNonFina noonTwodotsbelow-ar.medi.BaaNonFina];
-@aBaa.medi.BaaRaaFina = [yehFarsiFourbelow-ar.medi.BaaRaaFina beheh-ar.medi.BaaRaaFina yehFarsiThreeabove-ar.medi.BaaRaaFina noonRing-ar.medi.BaaRaaFina behThreedotshorizontalbelow-ar.medi.BaaRaaFina behVabove-ar.medi.BaaRaaFina noonTahabove-ar.medi.BaaRaaFina yehVabove-ar.medi.BaaRaaFina yehFarsiTwoabove-ar.medi.BaaRaaFina noonThreedotsabove-ar.medi.BaaRaaFina yehHamzaabove-ar.medi.BaaRaaFina behDotless-ar.medi.BaaRaaFina yehKashmiri-ar.medi.BaaRaaFina yeh-ar.medi.BaaRaaFina rnoon-ar.medi.BaaRaaFina teheh-ar.medi.BaaRaaFina behVinvertedbelow-ar.medi.BaaRaaFina behVbelow-ar.medi.BaaRaaFina tehThreedotsdown-ar.medi.BaaRaaFina peh-ar.medi.BaaRaaFina beeh-ar.medi.BaaRaaFina beh-ar.medi.BaaRaaFina tteheh-ar.medi.BaaRaaFina behThreedotsupabove-ar.medi.BaaRaaFina noon-ar.medi.BaaRaaFina tehThreedotsupbelow-ar.medi.BaaRaaFina behThreedotsupbelow-ar.medi.BaaRaaFina teh-ar.medi.BaaRaaFina yehFarsiVinverted-ar.medi.BaaRaaFina yehFarsiTwodotsabove-ar.medi.BaaRaaFina yehFarsiThreedotsabove-ar.medi.BaaRaaFina theh-ar.medi.BaaRaaFina tteh-ar.medi.BaaRaaFina noonDotbelow-ar.medi.BaaRaaFina noonVabove-ar.medi.BaaRaaFina alefMaksura-ar.medi.BaaRaaFina tehRing-ar.medi.BaaRaaFina behTwodotsbelowDotabove-ar.medi.BaaRaaFina yehThreedotsbelow-ar.medi.BaaRaaFina e-ar.medi.BaaRaaFina noonghunna-ar.medi.BaaRaaFina yehFarsi-ar.medi.BaaRaaFina noonTwodotsbelow-ar.medi.BaaRaaFina];
-@aBaa.medi.BaaYaaFina = [yehFarsiFourbelow-ar.medi.BaaYaaFina beheh-ar.medi.BaaYaaFina yehFarsiThreeabove-ar.medi.BaaYaaFina noonRing-ar.medi.BaaYaaFina behThreedotshorizontalbelow-ar.medi.BaaYaaFina behVabove-ar.medi.BaaYaaFina noonTahabove-ar.medi.BaaYaaFina yehVabove-ar.medi.BaaYaaFina yehFarsiTwoabove-ar.medi.BaaYaaFina noonThreedotsabove-ar.medi.BaaYaaFina yehHamzaabove-ar.medi.BaaYaaFina behDotless-ar.medi.BaaYaaFina yehKashmiri-ar.medi.BaaYaaFina yeh-ar.medi.BaaYaaFina rnoon-ar.medi.BaaYaaFina teheh-ar.medi.BaaYaaFina behVinvertedbelow-ar.medi.BaaYaaFina behVbelow-ar.medi.BaaYaaFina tehThreedotsdown-ar.medi.BaaYaaFina peh-ar.medi.BaaYaaFina beeh-ar.medi.BaaYaaFina beh-ar.medi.BaaYaaFina tteheh-ar.medi.BaaYaaFina behThreedotsupabove-ar.medi.BaaYaaFina noon-ar.medi.BaaYaaFina tehThreedotsupbelow-ar.medi.BaaYaaFina behThreedotsupbelow-ar.medi.BaaYaaFina teh-ar.medi.BaaYaaFina yehFarsiVinverted-ar.medi.BaaYaaFina yehFarsiTwodotsabove-ar.medi.BaaYaaFina yehFarsiThreedotsabove-ar.medi.BaaYaaFina theh-ar.medi.BaaYaaFina tteh-ar.medi.BaaYaaFina noonDotbelow-ar.medi.BaaYaaFina noonVabove-ar.medi.BaaYaaFina alefMaksura-ar.medi.BaaYaaFina tehRing-ar.medi.BaaYaaFina behTwodotsbelowDotabove-ar.medi.BaaYaaFina yehThreedotsbelow-ar.medi.BaaYaaFina e-ar.medi.BaaYaaFina noonghunna-ar.medi.BaaYaaFina yehFarsi-ar.medi.BaaYaaFina noonTwodotsbelow-ar.medi.BaaYaaFina];
-@aBaa.medi.High = [yehFarsiFourbelow-ar.medi.High beheh-ar.medi.High yehFarsiThreeabove-ar.medi.High noonRing-ar.medi.High behThreedotshorizontalbelow-ar.medi.High behVabove-ar.medi.High noonTahabove-ar.medi.High yehVabove-ar.medi.High yehFarsiTwoabove-ar.medi.High noonThreedotsabove-ar.medi.High yehHamzaabove-ar.medi.High behDotless-ar.medi.High yehKashmiri-ar.medi.High yeh-ar.medi.High rnoon-ar.medi.High teheh-ar.medi.High behVinvertedbelow-ar.medi.High behVbelow-ar.medi.High tehThreedotsdown-ar.medi.High peh-ar.medi.High beeh-ar.medi.High beh-ar.medi.High tteheh-ar.medi.High behThreedotsupabove-ar.medi.High noon-ar.medi.High tehThreedotsupbelow-ar.medi.High behThreedotsupbelow-ar.medi.High teh-ar.medi.High yehFarsiVinverted-ar.medi.High yehFarsiTwodotsabove-ar.medi.High yehFarsiThreedotsabove-ar.medi.High theh-ar.medi.High tteh-ar.medi.High noonDotbelow-ar.medi.High noonVabove-ar.medi.High alefMaksura-ar.medi.High tehRing-ar.medi.High behTwodotsbelowDotabove-ar.medi.High yehThreedotsbelow-ar.medi.High e-ar.medi.High noonghunna-ar.medi.High yehFarsi-ar.medi.High noonTwodotsbelow-ar.medi.High];
-@aBaa.medi.KafBaaInit = [yehFarsiFourbelow-ar.medi.KafBaaInit beheh-ar.medi.KafBaaInit yehFarsiThreeabove-ar.medi.KafBaaInit noonRing-ar.medi.KafBaaInit behThreedotshorizontalbelow-ar.medi.KafBaaInit behVabove-ar.medi.KafBaaInit noonTahabove-ar.medi.KafBaaInit yehVabove-ar.medi.KafBaaInit yehFarsiTwoabove-ar.medi.KafBaaInit noonThreedotsabove-ar.medi.KafBaaInit yehHamzaabove-ar.medi.KafBaaInit behDotless-ar.medi.KafBaaInit yehKashmiri-ar.medi.KafBaaInit yeh-ar.medi.KafBaaInit rnoon-ar.medi.KafBaaInit teheh-ar.medi.KafBaaInit behVinvertedbelow-ar.medi.KafBaaInit behVbelow-ar.medi.KafBaaInit tehThreedotsdown-ar.medi.KafBaaInit peh-ar.medi.KafBaaInit beeh-ar.medi.KafBaaInit beh-ar.medi.KafBaaInit tteheh-ar.medi.KafBaaInit behThreedotsupabove-ar.medi.KafBaaInit noon-ar.medi.KafBaaInit tehThreedotsupbelow-ar.medi.KafBaaInit behThreedotsupbelow-ar.medi.KafBaaInit teh-ar.medi.KafBaaInit yehFarsiVinverted-ar.medi.KafBaaInit yehFarsiTwodotsabove-ar.medi.KafBaaInit yehFarsiThreedotsabove-ar.medi.KafBaaInit theh-ar.medi.KafBaaInit tteh-ar.medi.KafBaaInit noonDotbelow-ar.medi.KafBaaInit noonVabove-ar.medi.KafBaaInit alefMaksura-ar.medi.KafBaaInit tehRing-ar.medi.KafBaaInit behTwodotsbelowDotabove-ar.medi.KafBaaInit yehThreedotsbelow-ar.medi.KafBaaInit e-ar.medi.KafBaaInit noonghunna-ar.medi.KafBaaInit yehFarsi-ar.medi.KafBaaInit noonTwodotsbelow-ar.medi.KafBaaInit];
-@aBaa.medi.KafBaaMedi = [yehFarsiFourbelow-ar.medi.KafBaaMedi beheh-ar.medi.KafBaaMedi yehFarsiThreeabove-ar.medi.KafBaaMedi noonRing-ar.medi.KafBaaMedi behThreedotshorizontalbelow-ar.medi.KafBaaMedi behVabove-ar.medi.KafBaaMedi noonTahabove-ar.medi.KafBaaMedi yehVabove-ar.medi.KafBaaMedi yehFarsiTwoabove-ar.medi.KafBaaMedi noonThreedotsabove-ar.medi.KafBaaMedi yehHamzaabove-ar.medi.KafBaaMedi behDotless-ar.medi.KafBaaMedi yehKashmiri-ar.medi.KafBaaMedi yeh-ar.medi.KafBaaMedi rnoon-ar.medi.KafBaaMedi teheh-ar.medi.KafBaaMedi behVinvertedbelow-ar.medi.KafBaaMedi behVbelow-ar.medi.KafBaaMedi tehThreedotsdown-ar.medi.KafBaaMedi peh-ar.medi.KafBaaMedi beeh-ar.medi.KafBaaMedi beh-ar.medi.KafBaaMedi tteheh-ar.medi.KafBaaMedi behThreedotsupabove-ar.medi.KafBaaMedi noon-ar.medi.KafBaaMedi tehThreedotsupbelow-ar.medi.KafBaaMedi behThreedotsupbelow-ar.medi.KafBaaMedi teh-ar.medi.KafBaaMedi yehFarsiVinverted-ar.medi.KafBaaMedi yehFarsiTwodotsabove-ar.medi.KafBaaMedi yehFarsiThreedotsabove-ar.medi.KafBaaMedi theh-ar.medi.KafBaaMedi tteh-ar.medi.KafBaaMedi noonDotbelow-ar.medi.KafBaaMedi noonVabove-ar.medi.KafBaaMedi alefMaksura-ar.medi.KafBaaMedi tehRing-ar.medi.KafBaaMedi behTwodotsbelowDotabove-ar.medi.KafBaaMedi yehThreedotsbelow-ar.medi.KafBaaMedi e-ar.medi.KafBaaMedi noonghunna-ar.medi.KafBaaMedi yehFarsi-ar.medi.KafBaaMedi noonTwodotsbelow-ar.medi.KafBaaMedi];
-@aBaa.medi.LamBaaMemInit = [yehFarsiFourbelow-ar.medi.LamBaaMemInit beheh-ar.medi.LamBaaMemInit yehFarsiThreeabove-ar.medi.LamBaaMemInit noonRing-ar.medi.LamBaaMemInit behThreedotshorizontalbelow-ar.medi.LamBaaMemInit behVabove-ar.medi.LamBaaMemInit noonTahabove-ar.medi.LamBaaMemInit yehVabove-ar.medi.LamBaaMemInit yehFarsiTwoabove-ar.medi.LamBaaMemInit noonThreedotsabove-ar.medi.LamBaaMemInit yehHamzaabove-ar.medi.LamBaaMemInit behDotless-ar.medi.LamBaaMemInit yehKashmiri-ar.medi.LamBaaMemInit yeh-ar.medi.LamBaaMemInit rnoon-ar.medi.LamBaaMemInit teheh-ar.medi.LamBaaMemInit behVinvertedbelow-ar.medi.LamBaaMemInit behVbelow-ar.medi.LamBaaMemInit tehThreedotsdown-ar.medi.LamBaaMemInit peh-ar.medi.LamBaaMemInit beeh-ar.medi.LamBaaMemInit beh-ar.medi.LamBaaMemInit tteheh-ar.medi.LamBaaMemInit behThreedotsupabove-ar.medi.LamBaaMemInit noon-ar.medi.LamBaaMemInit tehThreedotsupbelow-ar.medi.LamBaaMemInit behThreedotsupbelow-ar.medi.LamBaaMemInit teh-ar.medi.LamBaaMemInit yehFarsiVinverted-ar.medi.LamBaaMemInit yehFarsiTwodotsabove-ar.medi.LamBaaMemInit yehFarsiThreedotsabove-ar.medi.LamBaaMemInit theh-ar.medi.LamBaaMemInit tteh-ar.medi.LamBaaMemInit noonDotbelow-ar.medi.LamBaaMemInit noonVabove-ar.medi.LamBaaMemInit alefMaksura-ar.medi.LamBaaMemInit tehRing-ar.medi.LamBaaMemInit behTwodotsbelowDotabove-ar.medi.LamBaaMemInit yehThreedotsbelow-ar.medi.LamBaaMemInit e-ar.medi.LamBaaMemInit noonghunna-ar.medi.LamBaaMemInit yehFarsi-ar.medi.LamBaaMemInit noonTwodotsbelow-ar.medi.LamBaaMemInit];
-@aBaa.medi.SenBaaMemInit = [yehFarsiFourbelow-ar.medi.SenBaaMemInit beheh-ar.medi.SenBaaMemInit yehFarsiThreeabove-ar.medi.SenBaaMemInit noonRing-ar.medi.SenBaaMemInit behThreedotshorizontalbelow-ar.medi.SenBaaMemInit behVabove-ar.medi.SenBaaMemInit noonTahabove-ar.medi.SenBaaMemInit yehVabove-ar.medi.SenBaaMemInit yehFarsiTwoabove-ar.medi.SenBaaMemInit noonThreedotsabove-ar.medi.SenBaaMemInit yehHamzaabove-ar.medi.SenBaaMemInit behDotless-ar.medi.SenBaaMemInit yehKashmiri-ar.medi.SenBaaMemInit yeh-ar.medi.SenBaaMemInit rnoon-ar.medi.SenBaaMemInit teheh-ar.medi.SenBaaMemInit behVinvertedbelow-ar.medi.SenBaaMemInit behVbelow-ar.medi.SenBaaMemInit tehThreedotsdown-ar.medi.SenBaaMemInit peh-ar.medi.SenBaaMemInit beeh-ar.medi.SenBaaMemInit beh-ar.medi.SenBaaMemInit tteheh-ar.medi.SenBaaMemInit behThreedotsupabove-ar.medi.SenBaaMemInit noon-ar.medi.SenBaaMemInit tehThreedotsupbelow-ar.medi.SenBaaMemInit behThreedotsupbelow-ar.medi.SenBaaMemInit teh-ar.medi.SenBaaMemInit yehFarsiVinverted-ar.medi.SenBaaMemInit yehFarsiTwodotsabove-ar.medi.SenBaaMemInit yehFarsiThreedotsabove-ar.medi.SenBaaMemInit theh-ar.medi.SenBaaMemInit tteh-ar.medi.SenBaaMemInit noonDotbelow-ar.medi.SenBaaMemInit noonVabove-ar.medi.SenBaaMemInit alefMaksura-ar.medi.SenBaaMemInit tehRing-ar.medi.SenBaaMemInit behTwodotsbelowDotabove-ar.medi.SenBaaMemInit yehThreedotsbelow-ar.medi.SenBaaMemInit e-ar.medi.SenBaaMemInit noonghunna-ar.medi.SenBaaMemInit yehFarsi-ar.medi.SenBaaMemInit noonTwodotsbelow-ar.medi.SenBaaMemInit];
 @aDal.fina.BaaDal = [dalFourdots-ar.fina.BaaDal dalVinvertedabove-ar.fina.BaaDal dalRing-ar.fina.BaaDal ddal-ar.fina.BaaDal dalVinvertedbelow-ar.fina.BaaDal thal-ar.fina.BaaDal dal-ar.fina.BaaDal dalTwodotsverticalbelowTah-ar.fina.BaaDal dahal-ar.fina.BaaDal dalDotbelowTah-ar.fina.BaaDal dalDotbelow-ar.fina.BaaDal dalThreedotsdown-ar.fina.BaaDal dul-ar.fina.BaaDal ddahal-ar.fina.BaaDal];
 @aDal.fina.KafDal = [dalFourdots-ar.fina.KafDal dalVinvertedabove-ar.fina.KafDal dalRing-ar.fina.KafDal ddal-ar.fina.KafDal dalVinvertedbelow-ar.fina.KafDal thal-ar.fina.KafDal dal-ar.fina.KafDal dalTwodotsverticalbelowTah-ar.fina.KafDal dahal-ar.fina.KafDal dalDotbelowTah-ar.fina.KafDal dalDotbelow-ar.fina.KafDal dalThreedotsdown-ar.fina.KafDal dul-ar.fina.KafDal ddahal-ar.fina.KafDal];
 @aDal.fina.LamDal = [dalFourdots-ar.fina.LamDal dalVinvertedabove-ar.fina.LamDal dalRing-ar.fina.LamDal ddal-ar.fina.LamDal dalVinvertedbelow-ar.fina.LamDal thal-ar.fina.LamDal dal-ar.fina.LamDal dalTwodotsverticalbelowTah-ar.fina.LamDal dahal-ar.fina.LamDal dalDotbelowTah-ar.fina.LamDal dalDotbelow-ar.fina.LamDal dalThreedotsdown-ar.fina.LamDal dul-ar.fina.LamDal ddahal-ar.fina.LamDal];
@@ -358,8 +305,6 @@ code = "@aAlf.fina = [alefHamzabelow-ar.fina alef-ar.fina alefThreeabove-ar.fina
 @aMem.fina.LamMemFinaExtended = [meem-ar.fina.LamMemFinaExtended];
 @aMem.fina.KafMemFinaExtended = [meem-ar.fina.KafMemFinaExtended];
 @aMem.fina.KafMemIsolExtended = [meem-ar.fina.KafMemIsolExtended];
-@aNon.fina.BaaNonFina = [noon-ar.fina.BaaNonFina noonTwodotsbelow-ar.fina.BaaNonFina noonghunna-ar.fina.BaaNonFina noonRing-ar.fina.BaaNonFina rnoon-ar.fina.BaaNonFina noonTahabove-ar.fina.BaaNonFina noonDotbelow-ar.fina.BaaNonFina noonVabove-ar.fina.BaaNonFina noonThreedotsabove-ar.fina.BaaNonFina];
-@aNon.fina.BaaNonIsol = [noon-ar.fina.BaaNonIsol noonTwodotsbelow-ar.fina.BaaNonIsol noonghunna-ar.fina.BaaNonIsol noonRing-ar.fina.BaaNonIsol rnoon-ar.fina.BaaNonIsol noonTahabove-ar.fina.BaaNonIsol noonDotbelow-ar.fina.BaaNonIsol noonVabove-ar.fina.BaaNonIsol noonThreedotsabove-ar.fina.BaaNonIsol];
 @aQaf.fina.LamQafFina = [qafThreedotsabove-ar.fina.LamQafFina qafDotabove-ar.fina.LamQafFina qaf-ar.fina.LamQafFina qafDotless-ar.fina.LamQafFina];
 @aRaa.fina.BaaRaaFina = [rreh-ar.fina.BaaRaaFina rehv-ar.fina.BaaRaaFina rehRing-ar.fina.BaaRaaFina rehDotbelow-ar.fina.BaaRaaFina rehVbelow-ar.fina.BaaRaaFina rehDotbelowdotabove-ar.fina.BaaRaaFina rehTwodots-ar.fina.BaaRaaFina jeh-ar.fina.BaaRaaFina rehFourdots-ar.fina.BaaRaaFina rehStroke-ar.fina.BaaRaaFina rehVinvertedabove-ar.fina.BaaRaaFina zain-ar.fina.BaaRaaFina rehTwodotshorizontalaboveTahabove-ar.fina.BaaRaaFina reh-ar.fina.BaaRaaFina rehTwodotsverticalabove-ar.fina.BaaRaaFina rehHamzaabove-ar.fina.BaaRaaFina];
 @aRaa.fina.BaaRaaIsol = [rreh-ar.fina.BaaRaaIsol rehv-ar.fina.BaaRaaIsol rehRing-ar.fina.BaaRaaIsol rehDotbelow-ar.fina.BaaRaaIsol rehVbelow-ar.fina.BaaRaaIsol rehDotbelowdotabove-ar.fina.BaaRaaIsol rehTwodots-ar.fina.BaaRaaIsol jeh-ar.fina.BaaRaaIsol rehFourdots-ar.fina.BaaRaaIsol rehStroke-ar.fina.BaaRaaIsol rehVinvertedabove-ar.fina.BaaRaaIsol zain-ar.fina.BaaRaaIsol rehTwodotshorizontalaboveTahabove-ar.fina.BaaRaaIsol reh-ar.fina.BaaRaaIsol rehTwodotsverticalabove-ar.fina.BaaRaaIsol rehHamzaabove-ar.fina.BaaRaaIsol];
@@ -388,42 +333,12 @@ code = "@aAlf.fina = [alefHamzabelow-ar.fina alef-ar.fina alefThreeabove-ar.fina
 @aSen.medi.PreYaa = [sheenDotbelow-ar.medi.PreYaa seenTwodotsverticalabove-ar.medi.PreYaa seen-ar.medi.PreYaa seenVinvertedabove-ar.medi.PreYaa seenFourabove-ar.medi.PreYaa sheen-ar.medi.PreYaa seenTahTwodotshorizontalabove-ar.medi.PreYaa seenFourdotsabove-ar.medi.PreYaa seenDotbelowDotabove-ar.medi.PreYaa seenThreedotsbelow-ar.medi.PreYaa sheenThreedotsbelow-ar.medi.PreYaa];
 @aTaa.init.YaaBari = [zah-ar.init.YaaBari tah-ar.init.YaaBari tahThreedots-ar.init.YaaBari];
 @aWaw.fina.LamWawFina = [ve-ar.fina.LamWawFina wawHamzaabove-ar.fina.LamWawFina wawTwodots-ar.fina.LamWawFina wawDotabove-ar.fina.LamWawFina wawTwoabove-ar.fina.LamWawFina oe-ar.fina.LamWawFina u-ar.fina.LamWawFina wawring-ar.fina.LamWawFina kirghizoe-ar.fina.LamWawFina yu-ar.fina.LamWawFina kirghizyu-ar.fina.LamWawFina wawThreeAbove-ar.fina.LamWawFina waw-ar.fina.LamWawFina];
-@aYaa.fina.BaaBaaYaa = [yehFarsiFourbelow-ar.fina.BaaBaaYaa yehThreedotsbelow-ar.fina.BaaBaaYaa yehFarsiTwoabove-ar.fina.BaaBaaYaa yehFarsiThreedotsabove-ar.fina.BaaBaaYaa yehFarsiVinverted-ar.fina.BaaBaaYaa yehFarsiTwodotsabove-ar.fina.BaaBaaYaa e-ar.fina.BaaBaaYaa alefMaksura-ar.fina.BaaBaaYaa yehFarsiThreeabove-ar.fina.BaaBaaYaa yehTail-ar.fina.BaaBaaYaa yehFarsi-ar.fina.BaaBaaYaa yehHamzaabove-ar.fina.BaaBaaYaa yehKashmiri-ar.fina.BaaBaaYaa yeh-ar.fina.BaaBaaYaa yehVabove-ar.fina.BaaBaaYaa];
-@aYaa.fina.BaaYaaFina = [yehFarsiFourbelow-ar.fina.BaaYaaFina yehThreedotsbelow-ar.fina.BaaYaaFina yehFarsiTwoabove-ar.fina.BaaYaaFina yehFarsiThreedotsabove-ar.fina.BaaYaaFina yehFarsiVinverted-ar.fina.BaaYaaFina yehFarsiTwodotsabove-ar.fina.BaaYaaFina e-ar.fina.BaaYaaFina alefMaksura-ar.fina.BaaYaaFina yehFarsiThreeabove-ar.fina.BaaYaaFina yehTail-ar.fina.BaaYaaFina yehFarsi-ar.fina.BaaYaaFina yehHamzaabove-ar.fina.BaaYaaFina yehKashmiri-ar.fina.BaaYaaFina yeh-ar.fina.BaaYaaFina yehVabove-ar.fina.BaaYaaFina];
-@aYaa.fina.FaaYaaFina = [yehFarsiFourbelow-ar.fina.FaaYaaFina yehThreedotsbelow-ar.fina.FaaYaaFina yehFarsiTwoabove-ar.fina.FaaYaaFina yehFarsiThreedotsabove-ar.fina.FaaYaaFina yehFarsiVinverted-ar.fina.FaaYaaFina yehFarsiTwodotsabove-ar.fina.FaaYaaFina e-ar.fina.FaaYaaFina alefMaksura-ar.fina.FaaYaaFina yehFarsiThreeabove-ar.fina.FaaYaaFina yehTail-ar.fina.FaaYaaFina yehFarsi-ar.fina.FaaYaaFina yehHamzaabove-ar.fina.FaaYaaFina yehKashmiri-ar.fina.FaaYaaFina yeh-ar.fina.FaaYaaFina yehVabove-ar.fina.FaaYaaFina];
-@aYaa.fina.KafYaaFina = [yehFarsiFourbelow-ar.fina.KafYaaFina yehThreedotsbelow-ar.fina.KafYaaFina yehFarsiTwoabove-ar.fina.KafYaaFina yehFarsiThreedotsabove-ar.fina.KafYaaFina yehFarsiVinverted-ar.fina.KafYaaFina yehFarsiTwodotsabove-ar.fina.KafYaaFina e-ar.fina.KafYaaFina alefMaksura-ar.fina.KafYaaFina yehFarsiThreeabove-ar.fina.KafYaaFina yehTail-ar.fina.KafYaaFina yehFarsi-ar.fina.KafYaaFina yehHamzaabove-ar.fina.KafYaaFina yehKashmiri-ar.fina.KafYaaFina yeh-ar.fina.KafYaaFina yehVabove-ar.fina.KafYaaFina];
-@aYaa.fina.KafYaaIsol = [yehFarsiFourbelow-ar.fina.KafYaaIsol yehThreedotsbelow-ar.fina.KafYaaIsol yehFarsiTwoabove-ar.fina.KafYaaIsol yehFarsiThreedotsabove-ar.fina.KafYaaIsol yehFarsiVinverted-ar.fina.KafYaaIsol yehFarsiTwodotsabove-ar.fina.KafYaaIsol e-ar.fina.KafYaaIsol alefMaksura-ar.fina.KafYaaIsol yehFarsiThreeabove-ar.fina.KafYaaIsol yehTail-ar.fina.KafYaaIsol yehFarsi-ar.fina.KafYaaIsol yehHamzaabove-ar.fina.KafYaaIsol yehKashmiri-ar.fina.KafYaaIsol yeh-ar.fina.KafYaaIsol yehVabove-ar.fina.KafYaaIsol];
-@aYaa.fina.LamYaaFina = [yehFarsiFourbelow-ar.fina.LamYaaFina yehThreedotsbelow-ar.fina.LamYaaFina yehFarsiTwoabove-ar.fina.LamYaaFina yehFarsiThreedotsabove-ar.fina.LamYaaFina yehFarsiVinverted-ar.fina.LamYaaFina yehFarsiTwodotsabove-ar.fina.LamYaaFina e-ar.fina.LamYaaFina alefMaksura-ar.fina.LamYaaFina yehFarsiThreeabove-ar.fina.LamYaaFina yehTail-ar.fina.LamYaaFina yehFarsi-ar.fina.LamYaaFina yehHamzaabove-ar.fina.LamYaaFina yehKashmiri-ar.fina.LamYaaFina yeh-ar.fina.LamYaaFina yehVabove-ar.fina.LamYaaFina];
-@aYaa.fina.PostTooth = [yehFarsiFourbelow-ar.fina.PostTooth yehThreedotsbelow-ar.fina.PostTooth yehFarsiTwoabove-ar.fina.PostTooth yehFarsiThreedotsabove-ar.fina.PostTooth yehFarsiVinverted-ar.fina.PostTooth yehFarsiTwodotsabove-ar.fina.PostTooth e-ar.fina.PostTooth alefMaksura-ar.fina.PostTooth yehFarsiThreeabove-ar.fina.PostTooth yehTail-ar.fina.PostTooth yehFarsi-ar.fina.PostTooth yehHamzaabove-ar.fina.PostTooth yehKashmiri-ar.fina.PostTooth yeh-ar.fina.PostTooth yehVabove-ar.fina.PostTooth];
 @aYaaBari.fina.PostTooth = [yehbarreeThreeabove-ar.fina.PostTooth yehbarreeTwoabove-ar.fina.PostTooth yehbarree-ar.fina.PostTooth];
 @aYaaBari.fina.PostToothFina = [yehbarreeThreeabove-ar.fina.PostToothFina yehbarreeTwoabove-ar.fina.PostToothFina yehbarree-ar.fina.PostToothFina];
 @aYaaBari.fina.PostAscender = [yehbarreeThreeabove-ar.fina.PostAscender yehbarreeTwoabove-ar.fina.PostAscender yehbarree-ar.fina.PostAscender];
 @aYaaBari.fina.PostAyn = [yehbarreeThreeabove-ar.fina.PostAyn yehbarreeTwoabove-ar.fina.PostAyn yehbarree-ar.fina.PostAyn];
-@aAlf.isol.LowHamza = [alefHamzabelow-ar.LowHamza alefWavyhamzabelow-ar.LowHamza];
-@aBaa.init.LD = [beheh-ar.init.LD noonThreedotsabove-ar.init.LD peh-ar.init.LD beeh-ar.init.LD beh-ar.init.LD noonTwodotsbelow-ar.init.LD yehFarsiVinverted-ar.init.LD yehFarsiTwodotsabove-ar.init.LD yehFarsiThreedotsabove-ar.init.LD yehFarsiFourbelow-ar.init.LD yehFarsiThreeabove-ar.init.LD yehFarsiTwoabove-ar.init.LD yehFarsi-ar.init.LD yeh-ar.init.LD yehVabove-ar.init.LD behThreedotsupabove-ar.init.LD behThreedotshorizontalbelow-ar.init.LD tehThreedotsupbelow-ar.init.LD behThreedotsupbelow-ar.init.LD behVinvertedbelow-ar.init.LD behVbelow-ar.init.LD behTwodotsbelowDotabove-ar.init.LD noonDotbelow-ar.init.LD yehThreedotsbelow-ar.init.LD e-ar.init.LD];
-@aBaa.init.BaaRaaIsolLD = [beheh-ar.init.BaaRaaIsolLD noonThreedotsabove-ar.init.BaaRaaIsolLD peh-ar.init.BaaRaaIsolLD beeh-ar.init.BaaRaaIsolLD beh-ar.init.BaaRaaIsolLD noonTwodotsbelow-ar.init.BaaRaaIsolLD yehFarsiVinverted-ar.init.BaaRaaIsolLD yehFarsiTwodotsabove-ar.init.BaaRaaIsolLD yehFarsiThreedotsabove-ar.init.BaaRaaIsolLD yehFarsiFourbelow-ar.init.BaaRaaIsolLD yehFarsiThreeabove-ar.init.BaaRaaIsolLD yehFarsiTwoabove-ar.init.BaaRaaIsolLD yehFarsi-ar.init.BaaRaaIsolLD yeh-ar.init.BaaRaaIsolLD yehVabove-ar.init.BaaRaaIsolLD behThreedotsupabove-ar.init.BaaRaaIsolLD behThreedotshorizontalbelow-ar.init.BaaRaaIsolLD tehThreedotsupbelow-ar.init.BaaRaaIsolLD behThreedotsupbelow-ar.init.BaaRaaIsolLD behVinvertedbelow-ar.init.BaaRaaIsolLD behVbelow-ar.init.BaaRaaIsolLD behTwodotsbelowDotabove-ar.init.BaaRaaIsolLD noonDotbelow-ar.init.BaaRaaIsolLD yehThreedotsbelow-ar.init.BaaRaaIsolLD e-ar.init.BaaRaaIsolLD yehKashmiri-ar.init.BaaRaaIsolLD];
-@aBaa.init.BaaDalLD = [beheh-ar.init.BaaDalLD noonThreedotsabove-ar.init.BaaDalLD peh-ar.init.BaaDalLD beeh-ar.init.BaaDalLD beh-ar.init.BaaDalLD noonTwodotsbelow-ar.init.BaaDalLD yehFarsiVinverted-ar.init.BaaDalLD yehFarsiTwodotsabove-ar.init.BaaDalLD yehFarsiThreedotsabove-ar.init.BaaDalLD yehFarsiFourbelow-ar.init.BaaDalLD yehFarsiThreeabove-ar.init.BaaDalLD yehFarsiTwoabove-ar.init.BaaDalLD yehFarsi-ar.init.BaaDalLD yeh-ar.init.BaaDalLD yehVabove-ar.init.BaaDalLD behThreedotsupabove-ar.init.BaaDalLD behThreedotshorizontalbelow-ar.init.BaaDalLD tehThreedotsupbelow-ar.init.BaaDalLD behThreedotsupbelow-ar.init.BaaDalLD behVinvertedbelow-ar.init.BaaDalLD behVbelow-ar.init.BaaDalLD behTwodotsbelowDotabove-ar.init.BaaDalLD noonDotbelow-ar.init.BaaDalLD yehThreedotsbelow-ar.init.BaaDalLD e-ar.init.BaaDalLD yehKashmiri-ar.init.BaaDalLD];
-@aBaa.init.BaaMemHaaInitLD = [beheh-ar.init.BaaMemHaaInitLD noonThreedotsabove-ar.init.BaaMemHaaInitLD peh-ar.init.BaaMemHaaInitLD beeh-ar.init.BaaMemHaaInitLD beh-ar.init.BaaMemHaaInitLD noonTwodotsbelow-ar.init.BaaMemHaaInitLD yehFarsiVinverted-ar.init.BaaMemHaaInitLD yehFarsiTwodotsabove-ar.init.BaaMemHaaInitLD yehFarsiThreedotsabove-ar.init.BaaMemHaaInitLD yehFarsiFourbelow-ar.init.BaaMemHaaInitLD yehFarsiThreeabove-ar.init.BaaMemHaaInitLD yehFarsiTwoabove-ar.init.BaaMemHaaInitLD yehFarsi-ar.init.BaaMemHaaInitLD yeh-ar.init.BaaMemHaaInitLD yehVabove-ar.init.BaaMemHaaInitLD behThreedotsupabove-ar.init.BaaMemHaaInitLD behThreedotshorizontalbelow-ar.init.BaaMemHaaInitLD tehThreedotsupbelow-ar.init.BaaMemHaaInitLD behThreedotsupbelow-ar.init.BaaMemHaaInitLD behVinvertedbelow-ar.init.BaaMemHaaInitLD behVbelow-ar.init.BaaMemHaaInitLD behTwodotsbelowDotabove-ar.init.BaaMemHaaInitLD noonDotbelow-ar.init.BaaMemHaaInitLD yehThreedotsbelow-ar.init.BaaMemHaaInitLD e-ar.init.BaaMemHaaInitLD yehKashmiri-ar.init.BaaMemHaaInitLD];
-@aBaa.init.BaaBaaYaaLD = [beheh-ar.init.BaaBaaYaaLD noonThreedotsabove-ar.init.BaaBaaYaaLD peh-ar.init.BaaBaaYaaLD beeh-ar.init.BaaBaaYaaLD beh-ar.init.BaaBaaYaaLD noonTwodotsbelow-ar.init.BaaBaaYaaLD yehFarsiVinverted-ar.init.BaaBaaYaaLD yehFarsiTwodotsabove-ar.init.BaaBaaYaaLD yehFarsiThreedotsabove-ar.init.BaaBaaYaaLD yehFarsiFourbelow-ar.init.BaaBaaYaaLD yehFarsiThreeabove-ar.init.BaaBaaYaaLD yehFarsiTwoabove-ar.init.BaaBaaYaaLD yehFarsi-ar.init.BaaBaaYaaLD yeh-ar.init.BaaBaaYaaLD yehVabove-ar.init.BaaBaaYaaLD behThreedotsupabove-ar.init.BaaBaaYaaLD behThreedotshorizontalbelow-ar.init.BaaBaaYaaLD tehThreedotsupbelow-ar.init.BaaBaaYaaLD behThreedotsupbelow-ar.init.BaaBaaYaaLD behVinvertedbelow-ar.init.BaaBaaYaaLD behVbelow-ar.init.BaaBaaYaaLD behTwodotsbelowDotabove-ar.init.BaaBaaYaaLD noonDotbelow-ar.init.BaaBaaYaaLD yehThreedotsbelow-ar.init.BaaBaaYaaLD e-ar.init.BaaBaaYaaLD yehKashmiri-ar.init.BaaBaaYaaLD];
-@aBaa.init.BaaNonIsolLD = [beheh-ar.init.BaaNonIsolLD noonThreedotsabove-ar.init.BaaNonIsolLD peh-ar.init.BaaNonIsolLD beeh-ar.init.BaaNonIsolLD beh-ar.init.BaaNonIsolLD noonTwodotsbelow-ar.init.BaaNonIsolLD yehFarsiVinverted-ar.init.BaaNonIsolLD yehFarsiTwodotsabove-ar.init.BaaNonIsolLD yehFarsiThreedotsabove-ar.init.BaaNonIsolLD yehFarsiFourbelow-ar.init.BaaNonIsolLD yehFarsiThreeabove-ar.init.BaaNonIsolLD yehFarsiTwoabove-ar.init.BaaNonIsolLD yehFarsi-ar.init.BaaNonIsolLD yeh-ar.init.BaaNonIsolLD yehVabove-ar.init.BaaNonIsolLD behThreedotsupabove-ar.init.BaaNonIsolLD behThreedotshorizontalbelow-ar.init.BaaNonIsolLD tehThreedotsupbelow-ar.init.BaaNonIsolLD behThreedotsupbelow-ar.init.BaaNonIsolLD behVinvertedbelow-ar.init.BaaNonIsolLD behVbelow-ar.init.BaaNonIsolLD behTwodotsbelowDotabove-ar.init.BaaNonIsolLD noonDotbelow-ar.init.BaaNonIsolLD yehThreedotsbelow-ar.init.BaaNonIsolLD e-ar.init.BaaNonIsolLD yehKashmiri-ar.init.BaaNonIsolLD];
-@aBaa.init.BaaSenInitLD = [beheh-ar.init.BaaSenInitLD noonThreedotsabove-ar.init.BaaSenInitLD peh-ar.init.BaaSenInitLD beeh-ar.init.BaaSenInitLD beh-ar.init.BaaSenInitLD noonTwodotsbelow-ar.init.BaaSenInitLD yehFarsiVinverted-ar.init.BaaSenInitLD yehFarsiTwodotsabove-ar.init.BaaSenInitLD yehFarsiThreedotsabove-ar.init.BaaSenInitLD yehFarsiFourbelow-ar.init.BaaSenInitLD yehFarsiThreeabove-ar.init.BaaSenInitLD yehFarsiTwoabove-ar.init.BaaSenInitLD yehFarsi-ar.init.BaaSenInitLD yeh-ar.init.BaaSenInitLD yehVabove-ar.init.BaaSenInitLD behThreedotsupabove-ar.init.BaaSenInitLD behThreedotshorizontalbelow-ar.init.BaaSenInitLD tehThreedotsupbelow-ar.init.BaaSenInitLD behThreedotsupbelow-ar.init.BaaSenInitLD behVinvertedbelow-ar.init.BaaSenInitLD behVbelow-ar.init.BaaSenInitLD behTwodotsbelowDotabove-ar.init.BaaSenInitLD noonDotbelow-ar.init.BaaSenInitLD yehThreedotsbelow-ar.init.BaaSenInitLD e-ar.init.BaaSenInitLD yehKashmiri-ar.init.BaaSenInitLD];
-@aBaa.init.BaaMemInitLD = [beheh-ar.init.BaaMemInitLD noonThreedotsabove-ar.init.BaaMemInitLD peh-ar.init.BaaMemInitLD beeh-ar.init.BaaMemInitLD beh-ar.init.BaaMemInitLD noonTwodotsbelow-ar.init.BaaMemInitLD yehFarsiVinverted-ar.init.BaaMemInitLD yehFarsiTwodotsabove-ar.init.BaaMemInitLD yehFarsiThreedotsabove-ar.init.BaaMemInitLD yehFarsiFourbelow-ar.init.BaaMemInitLD yehFarsiThreeabove-ar.init.BaaMemInitLD yehFarsiTwoabove-ar.init.BaaMemInitLD yehFarsi-ar.init.BaaMemInitLD yeh-ar.init.BaaMemInitLD yehVabove-ar.init.BaaMemInitLD behThreedotsupabove-ar.init.BaaMemInitLD behThreedotshorizontalbelow-ar.init.BaaMemInitLD tehThreedotsupbelow-ar.init.BaaMemInitLD behThreedotsupbelow-ar.init.BaaMemInitLD behVinvertedbelow-ar.init.BaaMemInitLD behVbelow-ar.init.BaaMemInitLD behTwodotsbelowDotabove-ar.init.BaaMemInitLD noonDotbelow-ar.init.BaaMemInitLD yehThreedotsbelow-ar.init.BaaMemInitLD e-ar.init.BaaMemInitLD yehKashmiri-ar.init.BaaMemInitLD];
-@aBaa.init.BaaBaaHaaInitLD = [beheh-ar.init.BaaBaaHaaInitLD noonThreedotsabove-ar.init.BaaBaaHaaInitLD peh-ar.init.BaaBaaHaaInitLD beeh-ar.init.BaaBaaHaaInitLD beh-ar.init.BaaBaaHaaInitLD noonTwodotsbelow-ar.init.BaaBaaHaaInitLD yehFarsiVinverted-ar.init.BaaBaaHaaInitLD yehFarsiTwodotsabove-ar.init.BaaBaaHaaInitLD yehFarsiThreedotsabove-ar.init.BaaBaaHaaInitLD yehFarsiFourbelow-ar.init.BaaBaaHaaInitLD yehFarsiThreeabove-ar.init.BaaBaaHaaInitLD yehFarsiTwoabove-ar.init.BaaBaaHaaInitLD yehFarsi-ar.init.BaaBaaHaaInitLD yeh-ar.init.BaaBaaHaaInitLD yehVabove-ar.init.BaaBaaHaaInitLD behThreedotsupabove-ar.init.BaaBaaHaaInitLD behThreedotshorizontalbelow-ar.init.BaaBaaHaaInitLD tehThreedotsupbelow-ar.init.BaaBaaHaaInitLD behThreedotsupbelow-ar.init.BaaBaaHaaInitLD behVinvertedbelow-ar.init.BaaBaaHaaInitLD behVbelow-ar.init.BaaBaaHaaInitLD behTwodotsbelowDotabove-ar.init.BaaBaaHaaInitLD noonDotbelow-ar.init.BaaBaaHaaInitLD yehThreedotsbelow-ar.init.BaaBaaHaaInitLD e-ar.init.BaaBaaHaaInitLD yehKashmiri-ar.init.BaaBaaHaaInitLD];
-@aBaa.init.BaaBaaHehLD = [beheh-ar.init.BaaBaaHehLD noonThreedotsabove-ar.init.BaaBaaHehLD peh-ar.init.BaaBaaHehLD beeh-ar.init.BaaBaaHehLD beh-ar.init.BaaBaaHehLD noonTwodotsbelow-ar.init.BaaBaaHehLD yehFarsiVinverted-ar.init.BaaBaaHehLD yehFarsiTwodotsabove-ar.init.BaaBaaHehLD yehFarsiThreedotsabove-ar.init.BaaBaaHehLD yehFarsiFourbelow-ar.init.BaaBaaHehLD yehFarsiThreeabove-ar.init.BaaBaaHehLD yehFarsiTwoabove-ar.init.BaaBaaHehLD yehFarsi-ar.init.BaaBaaHehLD yeh-ar.init.BaaBaaHehLD yehVabove-ar.init.BaaBaaHehLD behThreedotsupabove-ar.init.BaaBaaHehLD behThreedotshorizontalbelow-ar.init.BaaBaaHehLD tehThreedotsupbelow-ar.init.BaaBaaHehLD behThreedotsupbelow-ar.init.BaaBaaHehLD behVinvertedbelow-ar.init.BaaBaaHehLD behVbelow-ar.init.BaaBaaHehLD behTwodotsbelowDotabove-ar.init.BaaBaaHehLD noonDotbelow-ar.init.BaaBaaHehLD yehThreedotsbelow-ar.init.BaaBaaHehLD e-ar.init.BaaBaaHehLD yehKashmiri-ar.init.BaaBaaHehLD];
-@aBaa.init.BaaBaaIsolLD = [beheh-ar.init.BaaBaaIsolLD noonThreedotsabove-ar.init.BaaBaaIsolLD peh-ar.init.BaaBaaIsolLD beeh-ar.init.BaaBaaIsolLD beh-ar.init.BaaBaaIsolLD noonTwodotsbelow-ar.init.BaaBaaIsolLD yehFarsiVinverted-ar.init.BaaBaaIsolLD yehFarsiTwodotsabove-ar.init.BaaBaaIsolLD yehFarsiThreedotsabove-ar.init.BaaBaaIsolLD yehFarsiFourbelow-ar.init.BaaBaaIsolLD yehFarsiThreeabove-ar.init.BaaBaaIsolLD yehFarsiTwoabove-ar.init.BaaBaaIsolLD yehFarsi-ar.init.BaaBaaIsolLD yeh-ar.init.BaaBaaIsolLD yehVabove-ar.init.BaaBaaIsolLD behThreedotsupabove-ar.init.BaaBaaIsolLD behThreedotshorizontalbelow-ar.init.BaaBaaIsolLD tehThreedotsupbelow-ar.init.BaaBaaIsolLD behThreedotsupbelow-ar.init.BaaBaaIsolLD behVinvertedbelow-ar.init.BaaBaaIsolLD behVbelow-ar.init.BaaBaaIsolLD behTwodotsbelowDotabove-ar.init.BaaBaaIsolLD noonDotbelow-ar.init.BaaBaaIsolLD yehThreedotsbelow-ar.init.BaaBaaIsolLD e-ar.init.BaaBaaIsolLD yehKashmiri-ar.init.BaaBaaIsolLD];
-@aBaa.init.BaaBaaMemInitLD = [beheh-ar.init.BaaBaaMemInitLD noonThreedotsabove-ar.init.BaaBaaMemInitLD peh-ar.init.BaaBaaMemInitLD beeh-ar.init.BaaBaaMemInitLD beh-ar.init.BaaBaaMemInitLD noonTwodotsbelow-ar.init.BaaBaaMemInitLD yehFarsiVinverted-ar.init.BaaBaaMemInitLD yehFarsiTwodotsabove-ar.init.BaaBaaMemInitLD yehFarsiThreedotsabove-ar.init.BaaBaaMemInitLD yehFarsiFourbelow-ar.init.BaaBaaMemInitLD yehFarsiThreeabove-ar.init.BaaBaaMemInitLD yehFarsiTwoabove-ar.init.BaaBaaMemInitLD yehFarsi-ar.init.BaaBaaMemInitLD yeh-ar.init.BaaBaaMemInitLD yehVabove-ar.init.BaaBaaMemInitLD behThreedotsupabove-ar.init.BaaBaaMemInitLD behThreedotshorizontalbelow-ar.init.BaaBaaMemInitLD tehThreedotsupbelow-ar.init.BaaBaaMemInitLD behThreedotsupbelow-ar.init.BaaBaaMemInitLD behVinvertedbelow-ar.init.BaaBaaMemInitLD behVbelow-ar.init.BaaBaaMemInitLD behTwodotsbelowDotabove-ar.init.BaaBaaMemInitLD noonDotbelow-ar.init.BaaBaaMemInitLD yehThreedotsbelow-ar.init.BaaBaaMemInitLD e-ar.init.BaaBaaMemInitLD yehKashmiri-ar.init.BaaBaaMemInitLD];
-@aBaa.init.BaaSenAltInitLD = [beheh-ar.init.BaaSenAltInitLD noonThreedotsabove-ar.init.BaaSenAltInitLD peh-ar.init.BaaSenAltInitLD beeh-ar.init.BaaSenAltInitLD beh-ar.init.BaaSenAltInitLD noonTwodotsbelow-ar.init.BaaSenAltInitLD yehFarsiVinverted-ar.init.BaaSenAltInitLD yehFarsiTwodotsabove-ar.init.BaaSenAltInitLD yehFarsiThreedotsabove-ar.init.BaaSenAltInitLD yehFarsiFourbelow-ar.init.BaaSenAltInitLD yehFarsiThreeabove-ar.init.BaaSenAltInitLD yehFarsiTwoabove-ar.init.BaaSenAltInitLD yehFarsi-ar.init.BaaSenAltInitLD yeh-ar.init.BaaSenAltInitLD yehVabove-ar.init.BaaSenAltInitLD behThreedotsupabove-ar.init.BaaSenAltInitLD behThreedotshorizontalbelow-ar.init.BaaSenAltInitLD tehThreedotsupbelow-ar.init.BaaSenAltInitLD behThreedotsupbelow-ar.init.BaaSenAltInitLD behVinvertedbelow-ar.init.BaaSenAltInitLD behVbelow-ar.init.BaaSenAltInitLD behTwodotsbelowDotabove-ar.init.BaaSenAltInitLD noonDotbelow-ar.init.BaaSenAltInitLD yehThreedotsbelow-ar.init.BaaSenAltInitLD e-ar.init.BaaSenAltInitLD yehKashmiri-ar.init.BaaSenAltInitLD];
-@aBaa.init.BaaHaaInitLD = [beheh-ar.init.BaaHaaInitLD noonThreedotsabove-ar.init.BaaHaaInitLD peh-ar.init.BaaHaaInitLD beeh-ar.init.BaaHaaInitLD beh-ar.init.BaaHaaInitLD noonTwodotsbelow-ar.init.BaaHaaInitLD yehFarsiVinverted-ar.init.BaaHaaInitLD yehFarsiTwodotsabove-ar.init.BaaHaaInitLD yehFarsiThreedotsabove-ar.init.BaaHaaInitLD yehFarsiFourbelow-ar.init.BaaHaaInitLD yehFarsiThreeabove-ar.init.BaaHaaInitLD yehFarsiTwoabove-ar.init.BaaHaaInitLD yehFarsi-ar.init.BaaHaaInitLD yeh-ar.init.BaaHaaInitLD yehVabove-ar.init.BaaHaaInitLD behThreedotsupabove-ar.init.BaaHaaInitLD behThreedotshorizontalbelow-ar.init.BaaHaaInitLD tehThreedotsupbelow-ar.init.BaaHaaInitLD behThreedotsupbelow-ar.init.BaaHaaInitLD behVinvertedbelow-ar.init.BaaHaaInitLD behVbelow-ar.init.BaaHaaInitLD behTwodotsbelowDotabove-ar.init.BaaHaaInitLD noonDotbelow-ar.init.BaaHaaInitLD yehThreedotsbelow-ar.init.BaaHaaInitLD e-ar.init.BaaHaaInitLD yehKashmiri-ar.init.BaaHaaInitLD];
-@aBaa.init.BaaHaaMemInitLD = [beheh-ar.init.BaaHaaMemInitLD noonThreedotsabove-ar.init.BaaHaaMemInitLD peh-ar.init.BaaHaaMemInitLD beeh-ar.init.BaaHaaMemInitLD beh-ar.init.BaaHaaMemInitLD noonTwodotsbelow-ar.init.BaaHaaMemInitLD yehFarsiVinverted-ar.init.BaaHaaMemInitLD yehFarsiTwodotsabove-ar.init.BaaHaaMemInitLD yehFarsiThreedotsabove-ar.init.BaaHaaMemInitLD yehFarsiFourbelow-ar.init.BaaHaaMemInitLD yehFarsiThreeabove-ar.init.BaaHaaMemInitLD yehFarsiTwoabove-ar.init.BaaHaaMemInitLD yehFarsi-ar.init.BaaHaaMemInitLD yeh-ar.init.BaaHaaMemInitLD yehVabove-ar.init.BaaHaaMemInitLD behThreedotsupabove-ar.init.BaaHaaMemInitLD behThreedotshorizontalbelow-ar.init.BaaHaaMemInitLD tehThreedotsupbelow-ar.init.BaaHaaMemInitLD behThreedotsupbelow-ar.init.BaaHaaMemInitLD behVinvertedbelow-ar.init.BaaHaaMemInitLD behVbelow-ar.init.BaaHaaMemInitLD behTwodotsbelowDotabove-ar.init.BaaHaaMemInitLD noonDotbelow-ar.init.BaaHaaMemInitLD yehThreedotsbelow-ar.init.BaaHaaMemInitLD e-ar.init.BaaHaaMemInitLD yehKashmiri-ar.init.BaaHaaMemInitLD];
-@aBaa.init.HighLD = [beheh-ar.init.HighLD noonThreedotsabove-ar.init.HighLD peh-ar.init.HighLD beeh-ar.init.HighLD beh-ar.init.HighLD noonTwodotsbelow-ar.init.HighLD yehFarsiVinverted-ar.init.HighLD yehFarsiTwodotsabove-ar.init.HighLD yehFarsiThreedotsabove-ar.init.HighLD yehFarsiFourbelow-ar.init.HighLD yehFarsiThreeabove-ar.init.HighLD yehFarsiTwoabove-ar.init.HighLD yehFarsi-ar.init.HighLD yeh-ar.init.HighLD yehVabove-ar.init.HighLD behThreedotsupabove-ar.init.HighLD behThreedotshorizontalbelow-ar.init.HighLD tehThreedotsupbelow-ar.init.HighLD behThreedotsupbelow-ar.init.HighLD behVinvertedbelow-ar.init.HighLD behVbelow-ar.init.HighLD behTwodotsbelowDotabove-ar.init.HighLD noonDotbelow-ar.init.HighLD yehThreedotsbelow-ar.init.HighLD e-ar.init.HighLD yehKashmiri-ar.init.HighLD];
-@aBaa.init.WideLD = [beheh-ar.init.WideLD noonThreedotsabove-ar.init.WideLD peh-ar.init.WideLD beeh-ar.init.WideLD beh-ar.init.WideLD noonTwodotsbelow-ar.init.WideLD yehFarsiVinverted-ar.init.WideLD yehFarsiTwodotsabove-ar.init.WideLD yehFarsiThreedotsabove-ar.init.WideLD yehFarsiFourbelow-ar.init.WideLD yehFarsiThreeabove-ar.init.WideLD yehFarsiTwoabove-ar.init.WideLD yehFarsi-ar.init.WideLD yeh-ar.init.WideLD yehVabove-ar.init.WideLD behThreedotsupabove-ar.init.WideLD behThreedotshorizontalbelow-ar.init.WideLD tehThreedotsupbelow-ar.init.WideLD behThreedotsupbelow-ar.init.WideLD behVinvertedbelow-ar.init.WideLD behVbelow-ar.init.WideLD behTwodotsbelowDotabove-ar.init.WideLD noonDotbelow-ar.init.WideLD yehThreedotsbelow-ar.init.WideLD e-ar.init.WideLD yehKashmiri-ar.init.WideLD];
-@aBaa.init.BaaYaaIsolLD = [beheh-ar.init.BaaYaaIsolLD noonThreedotsabove-ar.init.BaaYaaIsolLD peh-ar.init.BaaYaaIsolLD beeh-ar.init.BaaYaaIsolLD beh-ar.init.BaaYaaIsolLD noonTwodotsbelow-ar.init.BaaYaaIsolLD yehFarsiVinverted-ar.init.BaaYaaIsolLD yehFarsiTwodotsabove-ar.init.BaaYaaIsolLD yehFarsiThreedotsabove-ar.init.BaaYaaIsolLD yehFarsiFourbelow-ar.init.BaaYaaIsolLD yehFarsiThreeabove-ar.init.BaaYaaIsolLD yehFarsiTwoabove-ar.init.BaaYaaIsolLD yehFarsi-ar.init.BaaYaaIsolLD yeh-ar.init.BaaYaaIsolLD yehVabove-ar.init.BaaYaaIsolLD behThreedotsupabove-ar.init.BaaYaaIsolLD behThreedotshorizontalbelow-ar.init.BaaYaaIsolLD tehThreedotsupbelow-ar.init.BaaYaaIsolLD behThreedotsupbelow-ar.init.BaaYaaIsolLD behVinvertedbelow-ar.init.BaaYaaIsolLD behVbelow-ar.init.BaaYaaIsolLD behTwodotsbelowDotabove-ar.init.BaaYaaIsolLD noonDotbelow-ar.init.BaaYaaIsolLD yehThreedotsbelow-ar.init.BaaYaaIsolLD e-ar.init.BaaYaaIsolLD yehKashmiri-ar.init.BaaYaaIsolLD];
-@aBaa.init.BaaMemIsolLD = [beheh-ar.init.BaaMemIsolLD noonThreedotsabove-ar.init.BaaMemIsolLD peh-ar.init.BaaMemIsolLD beeh-ar.init.BaaMemIsolLD beh-ar.init.BaaMemIsolLD noonTwodotsbelow-ar.init.BaaMemIsolLD yehFarsiVinverted-ar.init.BaaMemIsolLD yehFarsiTwodotsabove-ar.init.BaaMemIsolLD yehFarsiThreedotsabove-ar.init.BaaMemIsolLD yehFarsiFourbelow-ar.init.BaaMemIsolLD yehFarsiThreeabove-ar.init.BaaMemIsolLD yehFarsiTwoabove-ar.init.BaaMemIsolLD yehFarsi-ar.init.BaaMemIsolLD yeh-ar.init.BaaMemIsolLD yehVabove-ar.init.BaaMemIsolLD behThreedotsupabove-ar.init.BaaMemIsolLD behThreedotshorizontalbelow-ar.init.BaaMemIsolLD tehThreedotsupbelow-ar.init.BaaMemIsolLD behThreedotsupbelow-ar.init.BaaMemIsolLD behVinvertedbelow-ar.init.BaaMemIsolLD behVbelow-ar.init.BaaMemIsolLD behTwodotsbelowDotabove-ar.init.BaaMemIsolLD noonDotbelow-ar.init.BaaMemIsolLD yehThreedotsbelow-ar.init.BaaMemIsolLD e-ar.init.BaaMemIsolLD yehKashmiri-ar.init.BaaMemIsolLD];
-@aBaa.init.BaaHehInitLD = [beheh-ar.init.BaaHehInitLD noonThreedotsabove-ar.init.BaaHehInitLD peh-ar.init.BaaHehInitLD beeh-ar.init.BaaHehInitLD beh-ar.init.BaaHehInitLD noonTwodotsbelow-ar.init.BaaHehInitLD yehFarsiVinverted-ar.init.BaaHehInitLD yehFarsiTwodotsabove-ar.init.BaaHehInitLD yehFarsiThreedotsabove-ar.init.BaaHehInitLD yehFarsiFourbelow-ar.init.BaaHehInitLD yehFarsiThreeabove-ar.init.BaaHehInitLD yehFarsiTwoabove-ar.init.BaaHehInitLD yehFarsi-ar.init.BaaHehInitLD yeh-ar.init.BaaHehInitLD yehVabove-ar.init.BaaHehInitLD behThreedotsupabove-ar.init.BaaHehInitLD behThreedotshorizontalbelow-ar.init.BaaHehInitLD tehThreedotsupbelow-ar.init.BaaHehInitLD behThreedotsupbelow-ar.init.BaaHehInitLD behVinvertedbelow-ar.init.BaaHehInitLD behVbelow-ar.init.BaaHehInitLD behTwodotsbelowDotabove-ar.init.BaaHehInitLD noonDotbelow-ar.init.BaaHehInitLD yehThreedotsbelow-ar.init.BaaHehInitLD e-ar.init.BaaHehInitLD yehKashmiri-ar.init.BaaHehInitLD];
-@aBaaDotBelow = [beheh-ar.init noonThreedotsabove-ar.init peh-ar.init beeh-ar.init beh-ar.init noonTwodotsbelow-ar.init yehFarsiVinverted-ar.init yehFarsiTwodotsabove-ar.init yehFarsiThreedotsabove-ar.init yehFarsiFourbelow-ar.init yehFarsiThreeabove-ar.init yehFarsiTwoabove-ar.init yehFarsi-ar.init yeh-ar.init yehVabove-ar.init behThreedotsupabove-ar.init behThreedotshorizontalbelow-ar.init tehThreedotsupbelow-ar.init behThreedotsupbelow-ar.init behVinvertedbelow-ar.init behVbelow-ar.init behTwodotsbelowDotabove-ar.init noonDotbelow-ar.init yehThreedotsbelow-ar.init e-ar.init beheh-ar.init.BaaRaaIsol noonThreedotsabove-ar.init.BaaRaaIsol peh-ar.init.BaaRaaIsol beeh-ar.init.BaaRaaIsol beh-ar.init.BaaRaaIsol noonTwodotsbelow-ar.init.BaaRaaIsol yehFarsiVinverted-ar.init.BaaRaaIsol yehFarsiTwodotsabove-ar.init.BaaRaaIsol yehFarsiThreedotsabove-ar.init.BaaRaaIsol yehFarsiFourbelow-ar.init.BaaRaaIsol yehFarsiThreeabove-ar.init.BaaRaaIsol yehFarsiTwoabove-ar.init.BaaRaaIsol yehFarsi-ar.init.BaaRaaIsol yeh-ar.init.BaaRaaIsol yehVabove-ar.init.BaaRaaIsol behThreedotsupabove-ar.init.BaaRaaIsol behThreedotshorizontalbelow-ar.init.BaaRaaIsol tehThreedotsupbelow-ar.init.BaaRaaIsol behThreedotsupbelow-ar.init.BaaRaaIsol behVinvertedbelow-ar.init.BaaRaaIsol behVbelow-ar.init.BaaRaaIsol behTwodotsbelowDotabove-ar.init.BaaRaaIsol noonDotbelow-ar.init.BaaRaaIsol yehThreedotsbelow-ar.init.BaaRaaIsol e-ar.init.BaaRaaIsol yehKashmiri-ar.init.BaaRaaIsol beheh-ar.init.BaaDal noonThreedotsabove-ar.init.BaaDal peh-ar.init.BaaDal beeh-ar.init.BaaDal beh-ar.init.BaaDal noonTwodotsbelow-ar.init.BaaDal yehFarsiVinverted-ar.init.BaaDal yehFarsiTwodotsabove-ar.init.BaaDal yehFarsiThreedotsabove-ar.init.BaaDal yehFarsiFourbelow-ar.init.BaaDal yehFarsiThreeabove-ar.init.BaaDal yehFarsiTwoabove-ar.init.BaaDal yehFarsi-ar.init.BaaDal yeh-ar.init.BaaDal yehVabove-ar.init.BaaDal behThreedotsupabove-ar.init.BaaDal behThreedotshorizontalbelow-ar.init.BaaDal tehThreedotsupbelow-ar.init.BaaDal behThreedotsupbelow-ar.init.BaaDal behVinvertedbelow-ar.init.BaaDal behVbelow-ar.init.BaaDal behTwodotsbelowDotabove-ar.init.BaaDal noonDotbelow-ar.init.BaaDal yehThreedotsbelow-ar.init.BaaDal e-ar.init.BaaDal yehKashmiri-ar.init.BaaDal beheh-ar.init.BaaMemHaaInit noonThreedotsabove-ar.init.BaaMemHaaInit peh-ar.init.BaaMemHaaInit beeh-ar.init.BaaMemHaaInit beh-ar.init.BaaMemHaaInit noonTwodotsbelow-ar.init.BaaMemHaaInit yehFarsiVinverted-ar.init.BaaMemHaaInit yehFarsiTwodotsabove-ar.init.BaaMemHaaInit yehFarsiThreedotsabove-ar.init.BaaMemHaaInit yehFarsiFourbelow-ar.init.BaaMemHaaInit yehFarsiThreeabove-ar.init.BaaMemHaaInit yehFarsiTwoabove-ar.init.BaaMemHaaInit yehFarsi-ar.init.BaaMemHaaInit yeh-ar.init.BaaMemHaaInit yehVabove-ar.init.BaaMemHaaInit behThreedotsupabove-ar.init.BaaMemHaaInit behThreedotshorizontalbelow-ar.init.BaaMemHaaInit tehThreedotsupbelow-ar.init.BaaMemHaaInit behThreedotsupbelow-ar.init.BaaMemHaaInit behVinvertedbelow-ar.init.BaaMemHaaInit behVbelow-ar.init.BaaMemHaaInit behTwodotsbelowDotabove-ar.init.BaaMemHaaInit noonDotbelow-ar.init.BaaMemHaaInit yehThreedotsbelow-ar.init.BaaMemHaaInit e-ar.init.BaaMemHaaInit yehKashmiri-ar.init.BaaMemHaaInit beheh-ar.init.BaaBaaYaa noonThreedotsabove-ar.init.BaaBaaYaa peh-ar.init.BaaBaaYaa beeh-ar.init.BaaBaaYaa beh-ar.init.BaaBaaYaa noonTwodotsbelow-ar.init.BaaBaaYaa yehFarsiVinverted-ar.init.BaaBaaYaa yehFarsiTwodotsabove-ar.init.BaaBaaYaa yehFarsiThreedotsabove-ar.init.BaaBaaYaa yehFarsiFourbelow-ar.init.BaaBaaYaa yehFarsiThreeabove-ar.init.BaaBaaYaa yehFarsiTwoabove-ar.init.BaaBaaYaa yehFarsi-ar.init.BaaBaaYaa yeh-ar.init.BaaBaaYaa yehVabove-ar.init.BaaBaaYaa behThreedotsupabove-ar.init.BaaBaaYaa behThreedotshorizontalbelow-ar.init.BaaBaaYaa tehThreedotsupbelow-ar.init.BaaBaaYaa behThreedotsupbelow-ar.init.BaaBaaYaa behVinvertedbelow-ar.init.BaaBaaYaa behVbelow-ar.init.BaaBaaYaa behTwodotsbelowDotabove-ar.init.BaaBaaYaa noonDotbelow-ar.init.BaaBaaYaa yehThreedotsbelow-ar.init.BaaBaaYaa e-ar.init.BaaBaaYaa yehKashmiri-ar.init.BaaBaaYaa beheh-ar.init.BaaNonIsol noonThreedotsabove-ar.init.BaaNonIsol peh-ar.init.BaaNonIsol beeh-ar.init.BaaNonIsol beh-ar.init.BaaNonIsol noonTwodotsbelow-ar.init.BaaNonIsol yehFarsiVinverted-ar.init.BaaNonIsol yehFarsiTwodotsabove-ar.init.BaaNonIsol yehFarsiThreedotsabove-ar.init.BaaNonIsol yehFarsiFourbelow-ar.init.BaaNonIsol yehFarsiThreeabove-ar.init.BaaNonIsol yehFarsiTwoabove-ar.init.BaaNonIsol yehFarsi-ar.init.BaaNonIsol yeh-ar.init.BaaNonIsol yehVabove-ar.init.BaaNonIsol behThreedotsupabove-ar.init.BaaNonIsol behThreedotshorizontalbelow-ar.init.BaaNonIsol tehThreedotsupbelow-ar.init.BaaNonIsol behThreedotsupbelow-ar.init.BaaNonIsol behVinvertedbelow-ar.init.BaaNonIsol behVbelow-ar.init.BaaNonIsol behTwodotsbelowDotabove-ar.init.BaaNonIsol noonDotbelow-ar.init.BaaNonIsol yehThreedotsbelow-ar.init.BaaNonIsol e-ar.init.BaaNonIsol yehKashmiri-ar.init.BaaNonIsol beheh-ar.init.BaaSenInit noonThreedotsabove-ar.init.BaaSenInit peh-ar.init.BaaSenInit beeh-ar.init.BaaSenInit beh-ar.init.BaaSenInit noonTwodotsbelow-ar.init.BaaSenInit yehFarsiVinverted-ar.init.BaaSenInit yehFarsiTwodotsabove-ar.init.BaaSenInit yehFarsiThreedotsabove-ar.init.BaaSenInit yehFarsiFourbelow-ar.init.BaaSenInit yehFarsiThreeabove-ar.init.BaaSenInit yehFarsiTwoabove-ar.init.BaaSenInit yehFarsi-ar.init.BaaSenInit yeh-ar.init.BaaSenInit yehVabove-ar.init.BaaSenInit behThreedotsupabove-ar.init.BaaSenInit behThreedotshorizontalbelow-ar.init.BaaSenInit tehThreedotsupbelow-ar.init.BaaSenInit behThreedotsupbelow-ar.init.BaaSenInit behVinvertedbelow-ar.init.BaaSenInit behVbelow-ar.init.BaaSenInit behTwodotsbelowDotabove-ar.init.BaaSenInit noonDotbelow-ar.init.BaaSenInit yehThreedotsbelow-ar.init.BaaSenInit e-ar.init.BaaSenInit yehKashmiri-ar.init.BaaSenInit beheh-ar.init.BaaMemInit noonThreedotsabove-ar.init.BaaMemInit peh-ar.init.BaaMemInit beeh-ar.init.BaaMemInit beh-ar.init.BaaMemInit noonTwodotsbelow-ar.init.BaaMemInit yehFarsiVinverted-ar.init.BaaMemInit yehFarsiTwodotsabove-ar.init.BaaMemInit yehFarsiThreedotsabove-ar.init.BaaMemInit yehFarsiFourbelow-ar.init.BaaMemInit yehFarsiThreeabove-ar.init.BaaMemInit yehFarsiTwoabove-ar.init.BaaMemInit yehFarsi-ar.init.BaaMemInit yeh-ar.init.BaaMemInit yehVabove-ar.init.BaaMemInit behThreedotsupabove-ar.init.BaaMemInit behThreedotshorizontalbelow-ar.init.BaaMemInit tehThreedotsupbelow-ar.init.BaaMemInit behThreedotsupbelow-ar.init.BaaMemInit behVinvertedbelow-ar.init.BaaMemInit behVbelow-ar.init.BaaMemInit behTwodotsbelowDotabove-ar.init.BaaMemInit noonDotbelow-ar.init.BaaMemInit yehThreedotsbelow-ar.init.BaaMemInit e-ar.init.BaaMemInit yehKashmiri-ar.init.BaaMemInit beheh-ar.init.BaaBaaHaaInit noonThreedotsabove-ar.init.BaaBaaHaaInit peh-ar.init.BaaBaaHaaInit beeh-ar.init.BaaBaaHaaInit beh-ar.init.BaaBaaHaaInit noonTwodotsbelow-ar.init.BaaBaaHaaInit yehFarsiVinverted-ar.init.BaaBaaHaaInit yehFarsiTwodotsabove-ar.init.BaaBaaHaaInit yehFarsiThreedotsabove-ar.init.BaaBaaHaaInit yehFarsiFourbelow-ar.init.BaaBaaHaaInit yehFarsiThreeabove-ar.init.BaaBaaHaaInit yehFarsiTwoabove-ar.init.BaaBaaHaaInit yehFarsi-ar.init.BaaBaaHaaInit yeh-ar.init.BaaBaaHaaInit yehVabove-ar.init.BaaBaaHaaInit behThreedotsupabove-ar.init.BaaBaaHaaInit behThreedotshorizontalbelow-ar.init.BaaBaaHaaInit tehThreedotsupbelow-ar.init.BaaBaaHaaInit behThreedotsupbelow-ar.init.BaaBaaHaaInit behVinvertedbelow-ar.init.BaaBaaHaaInit behVbelow-ar.init.BaaBaaHaaInit behTwodotsbelowDotabove-ar.init.BaaBaaHaaInit noonDotbelow-ar.init.BaaBaaHaaInit yehThreedotsbelow-ar.init.BaaBaaHaaInit e-ar.init.BaaBaaHaaInit yehKashmiri-ar.init.BaaBaaHaaInit beheh-ar.init.BaaBaaHeh noonThreedotsabove-ar.init.BaaBaaHeh peh-ar.init.BaaBaaHeh beeh-ar.init.BaaBaaHeh beh-ar.init.BaaBaaHeh noonTwodotsbelow-ar.init.BaaBaaHeh yehFarsiVinverted-ar.init.BaaBaaHeh yehFarsiTwodotsabove-ar.init.BaaBaaHeh yehFarsiThreedotsabove-ar.init.BaaBaaHeh yehFarsiFourbelow-ar.init.BaaBaaHeh yehFarsiThreeabove-ar.init.BaaBaaHeh yehFarsiTwoabove-ar.init.BaaBaaHeh yehFarsi-ar.init.BaaBaaHeh yeh-ar.init.BaaBaaHeh yehVabove-ar.init.BaaBaaHeh behThreedotsupabove-ar.init.BaaBaaHeh behThreedotshorizontalbelow-ar.init.BaaBaaHeh tehThreedotsupbelow-ar.init.BaaBaaHeh behThreedotsupbelow-ar.init.BaaBaaHeh behVinvertedbelow-ar.init.BaaBaaHeh behVbelow-ar.init.BaaBaaHeh behTwodotsbelowDotabove-ar.init.BaaBaaHeh noonDotbelow-ar.init.BaaBaaHeh yehThreedotsbelow-ar.init.BaaBaaHeh e-ar.init.BaaBaaHeh yehKashmiri-ar.init.BaaBaaHeh beheh-ar.init.BaaBaaIsol noonThreedotsabove-ar.init.BaaBaaIsol peh-ar.init.BaaBaaIsol beeh-ar.init.BaaBaaIsol beh-ar.init.BaaBaaIsol noonTwodotsbelow-ar.init.BaaBaaIsol yehFarsiVinverted-ar.init.BaaBaaIsol yehFarsiTwodotsabove-ar.init.BaaBaaIsol yehFarsiThreedotsabove-ar.init.BaaBaaIsol yehFarsiFourbelow-ar.init.BaaBaaIsol yehFarsiThreeabove-ar.init.BaaBaaIsol yehFarsiTwoabove-ar.init.BaaBaaIsol yehFarsi-ar.init.BaaBaaIsol yeh-ar.init.BaaBaaIsol yehVabove-ar.init.BaaBaaIsol behThreedotsupabove-ar.init.BaaBaaIsol behThreedotshorizontalbelow-ar.init.BaaBaaIsol tehThreedotsupbelow-ar.init.BaaBaaIsol behThreedotsupbelow-ar.init.BaaBaaIsol behVinvertedbelow-ar.init.BaaBaaIsol behVbelow-ar.init.BaaBaaIsol behTwodotsbelowDotabove-ar.init.BaaBaaIsol noonDotbelow-ar.init.BaaBaaIsol yehThreedotsbelow-ar.init.BaaBaaIsol e-ar.init.BaaBaaIsol yehKashmiri-ar.init.BaaBaaIsol beheh-ar.init.BaaBaaMemInit noonThreedotsabove-ar.init.BaaBaaMemInit peh-ar.init.BaaBaaMemInit beeh-ar.init.BaaBaaMemInit beh-ar.init.BaaBaaMemInit noonTwodotsbelow-ar.init.BaaBaaMemInit yehFarsiVinverted-ar.init.BaaBaaMemInit yehFarsiTwodotsabove-ar.init.BaaBaaMemInit yehFarsiThreedotsabove-ar.init.BaaBaaMemInit yehFarsiFourbelow-ar.init.BaaBaaMemInit yehFarsiThreeabove-ar.init.BaaBaaMemInit yehFarsiTwoabove-ar.init.BaaBaaMemInit yehFarsi-ar.init.BaaBaaMemInit yeh-ar.init.BaaBaaMemInit yehVabove-ar.init.BaaBaaMemInit behThreedotsupabove-ar.init.BaaBaaMemInit behThreedotshorizontalbelow-ar.init.BaaBaaMemInit tehThreedotsupbelow-ar.init.BaaBaaMemInit behThreedotsupbelow-ar.init.BaaBaaMemInit behVinvertedbelow-ar.init.BaaBaaMemInit behVbelow-ar.init.BaaBaaMemInit behTwodotsbelowDotabove-ar.init.BaaBaaMemInit noonDotbelow-ar.init.BaaBaaMemInit yehThreedotsbelow-ar.init.BaaBaaMemInit e-ar.init.BaaBaaMemInit yehKashmiri-ar.init.BaaBaaMemInit beheh-ar.init.BaaSenAltInit noonThreedotsabove-ar.init.BaaSenAltInit peh-ar.init.BaaSenAltInit beeh-ar.init.BaaSenAltInit beh-ar.init.BaaSenAltInit noonTwodotsbelow-ar.init.BaaSenAltInit yehFarsiVinverted-ar.init.BaaSenAltInit yehFarsiTwodotsabove-ar.init.BaaSenAltInit yehFarsiThreedotsabove-ar.init.BaaSenAltInit yehFarsiFourbelow-ar.init.BaaSenAltInit yehFarsiThreeabove-ar.init.BaaSenAltInit yehFarsiTwoabove-ar.init.BaaSenAltInit yehFarsi-ar.init.BaaSenAltInit yeh-ar.init.BaaSenAltInit yehVabove-ar.init.BaaSenAltInit behThreedotsupabove-ar.init.BaaSenAltInit behThreedotshorizontalbelow-ar.init.BaaSenAltInit tehThreedotsupbelow-ar.init.BaaSenAltInit behThreedotsupbelow-ar.init.BaaSenAltInit behVinvertedbelow-ar.init.BaaSenAltInit behVbelow-ar.init.BaaSenAltInit behTwodotsbelowDotabove-ar.init.BaaSenAltInit noonDotbelow-ar.init.BaaSenAltInit yehThreedotsbelow-ar.init.BaaSenAltInit e-ar.init.BaaSenAltInit yehKashmiri-ar.init.BaaSenAltInit beheh-ar.init.BaaHaaInit noonThreedotsabove-ar.init.BaaHaaInit peh-ar.init.BaaHaaInit beeh-ar.init.BaaHaaInit beh-ar.init.BaaHaaInit noonTwodotsbelow-ar.init.BaaHaaInit yehFarsiVinverted-ar.init.BaaHaaInit yehFarsiTwodotsabove-ar.init.BaaHaaInit yehFarsiThreedotsabove-ar.init.BaaHaaInit yehFarsiFourbelow-ar.init.BaaHaaInit yehFarsiThreeabove-ar.init.BaaHaaInit yehFarsiTwoabove-ar.init.BaaHaaInit yehFarsi-ar.init.BaaHaaInit yeh-ar.init.BaaHaaInit yehVabove-ar.init.BaaHaaInit behThreedotsupabove-ar.init.BaaHaaInit behThreedotshorizontalbelow-ar.init.BaaHaaInit tehThreedotsupbelow-ar.init.BaaHaaInit behThreedotsupbelow-ar.init.BaaHaaInit behVinvertedbelow-ar.init.BaaHaaInit behVbelow-ar.init.BaaHaaInit behTwodotsbelowDotabove-ar.init.BaaHaaInit noonDotbelow-ar.init.BaaHaaInit yehThreedotsbelow-ar.init.BaaHaaInit e-ar.init.BaaHaaInit yehKashmiri-ar.init.BaaHaaInit beheh-ar.init.BaaHaaMemInit noonThreedotsabove-ar.init.BaaHaaMemInit peh-ar.init.BaaHaaMemInit beeh-ar.init.BaaHaaMemInit beh-ar.init.BaaHaaMemInit noonTwodotsbelow-ar.init.BaaHaaMemInit yehFarsiVinverted-ar.init.BaaHaaMemInit yehFarsiTwodotsabove-ar.init.BaaHaaMemInit yehFarsiThreedotsabove-ar.init.BaaHaaMemInit yehFarsiFourbelow-ar.init.BaaHaaMemInit yehFarsiThreeabove-ar.init.BaaHaaMemInit yehFarsiTwoabove-ar.init.BaaHaaMemInit yehFarsi-ar.init.BaaHaaMemInit yeh-ar.init.BaaHaaMemInit yehVabove-ar.init.BaaHaaMemInit behThreedotsupabove-ar.init.BaaHaaMemInit behThreedotshorizontalbelow-ar.init.BaaHaaMemInit tehThreedotsupbelow-ar.init.BaaHaaMemInit behThreedotsupbelow-ar.init.BaaHaaMemInit behVinvertedbelow-ar.init.BaaHaaMemInit behVbelow-ar.init.BaaHaaMemInit behTwodotsbelowDotabove-ar.init.BaaHaaMemInit noonDotbelow-ar.init.BaaHaaMemInit yehThreedotsbelow-ar.init.BaaHaaMemInit e-ar.init.BaaHaaMemInit yehKashmiri-ar.init.BaaHaaMemInit beheh-ar.init.High noonThreedotsabove-ar.init.High peh-ar.init.High beeh-ar.init.High beh-ar.init.High noonTwodotsbelow-ar.init.High yehFarsiVinverted-ar.init.High yehFarsiTwodotsabove-ar.init.High yehFarsiThreedotsabove-ar.init.High yehFarsiFourbelow-ar.init.High yehFarsiThreeabove-ar.init.High yehFarsiTwoabove-ar.init.High yehFarsi-ar.init.High yeh-ar.init.High yehVabove-ar.init.High behThreedotsupabove-ar.init.High behThreedotshorizontalbelow-ar.init.High tehThreedotsupbelow-ar.init.High behThreedotsupbelow-ar.init.High behVinvertedbelow-ar.init.High behVbelow-ar.init.High behTwodotsbelowDotabove-ar.init.High noonDotbelow-ar.init.High yehThreedotsbelow-ar.init.High e-ar.init.High yehKashmiri-ar.init.High beheh-ar.init.Wide noonThreedotsabove-ar.init.Wide peh-ar.init.Wide beeh-ar.init.Wide beh-ar.init.Wide noonTwodotsbelow-ar.init.Wide yehFarsiVinverted-ar.init.Wide yehFarsiTwodotsabove-ar.init.Wide yehFarsiThreedotsabove-ar.init.Wide yehFarsiFourbelow-ar.init.Wide yehFarsiThreeabove-ar.init.Wide yehFarsiTwoabove-ar.init.Wide yehFarsi-ar.init.Wide yeh-ar.init.Wide yehVabove-ar.init.Wide behThreedotsupabove-ar.init.Wide behThreedotshorizontalbelow-ar.init.Wide tehThreedotsupbelow-ar.init.Wide behThreedotsupbelow-ar.init.Wide behVinvertedbelow-ar.init.Wide behVbelow-ar.init.Wide behTwodotsbelowDotabove-ar.init.Wide noonDotbelow-ar.init.Wide yehThreedotsbelow-ar.init.Wide e-ar.init.Wide yehKashmiri-ar.init.Wide beheh-ar.init.BaaYaaIsol noonThreedotsabove-ar.init.BaaYaaIsol peh-ar.init.BaaYaaIsol beeh-ar.init.BaaYaaIsol beh-ar.init.BaaYaaIsol noonTwodotsbelow-ar.init.BaaYaaIsol yehFarsiVinverted-ar.init.BaaYaaIsol yehFarsiTwodotsabove-ar.init.BaaYaaIsol yehFarsiThreedotsabove-ar.init.BaaYaaIsol yehFarsiFourbelow-ar.init.BaaYaaIsol yehFarsiThreeabove-ar.init.BaaYaaIsol yehFarsiTwoabove-ar.init.BaaYaaIsol yehFarsi-ar.init.BaaYaaIsol yeh-ar.init.BaaYaaIsol yehVabove-ar.init.BaaYaaIsol behThreedotsupabove-ar.init.BaaYaaIsol behThreedotshorizontalbelow-ar.init.BaaYaaIsol tehThreedotsupbelow-ar.init.BaaYaaIsol behThreedotsupbelow-ar.init.BaaYaaIsol behVinvertedbelow-ar.init.BaaYaaIsol behVbelow-ar.init.BaaYaaIsol behTwodotsbelowDotabove-ar.init.BaaYaaIsol noonDotbelow-ar.init.BaaYaaIsol yehThreedotsbelow-ar.init.BaaYaaIsol e-ar.init.BaaYaaIsol yehKashmiri-ar.init.BaaYaaIsol beheh-ar.init.BaaMemIsol noonThreedotsabove-ar.init.BaaMemIsol peh-ar.init.BaaMemIsol beeh-ar.init.BaaMemIsol beh-ar.init.BaaMemIsol noonTwodotsbelow-ar.init.BaaMemIsol yehFarsiVinverted-ar.init.BaaMemIsol yehFarsiTwodotsabove-ar.init.BaaMemIsol yehFarsiThreedotsabove-ar.init.BaaMemIsol yehFarsiFourbelow-ar.init.BaaMemIsol yehFarsiThreeabove-ar.init.BaaMemIsol yehFarsiTwoabove-ar.init.BaaMemIsol yehFarsi-ar.init.BaaMemIsol yeh-ar.init.BaaMemIsol yehVabove-ar.init.BaaMemIsol behThreedotsupabove-ar.init.BaaMemIsol behThreedotshorizontalbelow-ar.init.BaaMemIsol tehThreedotsupbelow-ar.init.BaaMemIsol behThreedotsupbelow-ar.init.BaaMemIsol behVinvertedbelow-ar.init.BaaMemIsol behVbelow-ar.init.BaaMemIsol behTwodotsbelowDotabove-ar.init.BaaMemIsol noonDotbelow-ar.init.BaaMemIsol yehThreedotsbelow-ar.init.BaaMemIsol e-ar.init.BaaMemIsol yehKashmiri-ar.init.BaaMemIsol beheh-ar.init.BaaHehInit noonThreedotsabove-ar.init.BaaHehInit peh-ar.init.BaaHehInit beeh-ar.init.BaaHehInit beh-ar.init.BaaHehInit noonTwodotsbelow-ar.init.BaaHehInit yehFarsiVinverted-ar.init.BaaHehInit yehFarsiTwodotsabove-ar.init.BaaHehInit yehFarsiThreedotsabove-ar.init.BaaHehInit yehFarsiFourbelow-ar.init.BaaHehInit yehFarsiThreeabove-ar.init.BaaHehInit yehFarsiTwoabove-ar.init.BaaHehInit yehFarsi-ar.init.BaaHehInit yeh-ar.init.BaaHehInit yehVabove-ar.init.BaaHehInit behThreedotsupabove-ar.init.BaaHehInit behThreedotshorizontalbelow-ar.init.BaaHehInit tehThreedotsupbelow-ar.init.BaaHehInit behThreedotsupbelow-ar.init.BaaHehInit behVinvertedbelow-ar.init.BaaHehInit behVbelow-ar.init.BaaHehInit behTwodotsbelowDotabove-ar.init.BaaHehInit noonDotbelow-ar.init.BaaHehInit yehThreedotsbelow-ar.init.BaaHehInit e-ar.init.BaaHehInit yehKashmiri-ar.init.BaaHehInit];
-@aBaaLowDotBelow = [@aBaa.init.LD @aBaa.init.BaaRaaIsolLD @aBaa.init.BaaDalLD @aBaa.init.BaaMemHaaInitLD @aBaa.init.BaaBaaYaaLD @aBaa.init.BaaNonIsolLD @aBaa.init.BaaSenInitLD @aBaa.init.BaaMemInitLD @aBaa.init.BaaBaaHaaInitLD @aBaa.init.BaaBaaHehLD @aBaa.init.BaaBaaIsolLD @aBaa.init.BaaBaaMemInitLD @aBaa.init.BaaSenAltInitLD @aBaa.init.BaaHaaInitLD @aBaa.init.BaaHaaMemInitLD @aBaa.init.HighLD @aBaa.init.WideLD @aBaa.init.BaaYaaIsolLD @aBaa.init.BaaMemIsolLD @aBaa.init.BaaHehInitLD];
-@AlefHamzaAbove = [alefHamzaabove-ar alefWavyhamzaabove-ar alefHamzaabove-ar.fina alefWavyhamzaabove-ar.fina alefHamzaabove-ar.fina.LamAlfIsol alefWavyhamzaabove-ar.fina.LamAlfIsol alefHamzaabove-ar.fina.LamAlfFina alefWavyhamzaabove-ar.fina.LamAlfFina alefHamzaabove-ar.fina.KafAlf alefWavyhamzaabove-ar.fina.KafAlf alefHamzaabove-ar.fina.KafMemAlf alefWavyhamzaabove-ar.fina.KafMemAlf alefHamzaabove-ar.fina.MemAlfFina alefWavyhamzaabove-ar.fina.MemAlfFina];
-@AlefHamzaBelow = [alefHamzabelow-ar alefWavyhamzabelow-ar alefHamzabelow-ar.fina alefWavyhamzabelow-ar.fina alefHamzabelow-ar.fina.LamAlfIsol alefWavyhamzabelow-ar.fina.LamAlfIsol alefHamzabelow-ar.fina.LamAlfFina alefWavyhamzabelow-ar.fina.LamAlfFina alefHamzabelow-ar.fina.KafAlf alefWavyhamzabelow-ar.fina.KafAlf alefHamzabelow-ar.fina.KafMemAlf alefWavyhamzabelow-ar.fina.KafMemAlf alefHamzabelow-ar.fina.MemAlfFina alefWavyhamzabelow-ar.fina.MemAlfFina];
+@AlefHamzaAbove = [alefHamzaabove-ar alefWavyhamzaabove-ar];
+@AlefHamzaBelow = [alefHamzabelow-ar alefWavyhamzabelow-ar];
 @aGaf.alt = [keheh-ar.alt kafRing-ar.alt gaf-ar.alt gafRing-ar.alt ngoeh-ar.alt gafTwodotsbelow-ar.alt gueh-ar.alt gafThreedots-ar.alt kehehDotabove-ar.alt kehehThreedotsabove-ar.alt kehehThreedotsupbelow-ar.alt kehehTwodotshorizontalabove-ar.alt kehehThreedotsbelow-ar.alt];
 @aGaf.alt.fina = [keheh-ar.alt.fina kafRing-ar.alt.fina gaf-ar.alt.fina gafRing-ar.alt.fina ngoeh-ar.alt.fina gafTwodotsbelow-ar.alt.fina gueh-ar.alt.fina gafThreedots-ar.alt.fina kehehDotabove-ar.alt.fina kehehThreedotsabove-ar.alt.fina kehehThreedotsupbelow-ar.alt.fina kehehTwodotshorizontalabove-ar.alt.fina kehehThreedotsbelow-ar.alt.fina];
 @Digits = [zero-ar one-ar two-ar three-ar four-ar five-ar six-ar seven-ar eight-ar nine-ar zeroFarsi-ar oneFarsi-ar twoFarsi-ar threeFarsi-ar fourFarsi-ar fiveFarsi-ar sixFarsi-ar sevenFarsi-ar eightFarsi-ar nineFarsi-ar fourFarsi-ar.urd sixFarsi-ar.urd sevenFarsi-ar.urd];
@@ -550,26 +465,82 @@ name = digits;
 },
 {
 code = "feature ccmp {
-    # Unicode discourages the use of U+0673 directly.
-    sub alef-ar wavyhamzabelow-ar by alefWavyhamzabelow-ar;
-    sub behMeemabove-ar by beh-ar meemStopabove-ar.alt;
-    sub pehMeemabove-ar by peh-ar meemStopabove-ar.alt;
     sub tehTehabove-ar by behDotless-ar smallteh.above;
     sub rehNoonabove-ar by reh-ar noonabove-ar.alt;
-    sub yehTwodotsbelowNoonabove-ar by yeh-ar noonabove-ar.alt;
     sub highhamzaAlef-ar by highhamza-ar alef-ar;
     sub highhamzaWaw-ar by highhamza-ar waw-ar;
     sub highhamzaYeh-ar by highhamza-ar yehFarsi-ar;
     sub uHamzaabove-ar by highhamza-ar u-ar;
+
+	# Alef family
+	sub alefHamzaabove-ar by alef-ar hamzaabove-ar;
+	sub alefHamzabelow-ar by alef-ar hamzabelow-ar;
+	sub alefMadda-ar by alef-ar madda-ar;
+	sub alefWavyhamzaabove-ar by alef-ar wavyhamzaabove-ar;
+	sub alefWavyhamzabelow-ar by alef-ar wavyhamzabelow-ar;
+	sub alefWasla-ar by alef-ar wasla-ar;
+	sub alefTwoabove-ar by alef-ar twoabove-ar;
+	sub alefThreeabove-ar by alef-ar threeabove-ar;
+
+	# Beh family
+	sub beh-ar by behDotless-ar dotbelow-ar;
+	sub teh-ar by behDotless-ar twodotshorizontalabove-ar;
+	#sub tehVabove-ar by behDotless-ar twodotshorizontalabove-ar vabove-ar;
+	sub theh-ar by behDotless-ar threedotsupabove-ar;
+	sub peh-ar by behDotless-ar threedotsdownbelow-ar;
+	#sub pehVabove-ar by behDotless-ar vabove-ar threedotsdownbelow-ar;
+	sub beeh-ar by behDotless-ar twodotsverticalbelow-ar;
+	sub beheh-ar by behDotless-ar fourdotsbelow-ar;
+	sub tehThreedotsdown-ar by behDotless-ar threedotsdownabove-ar;
+	sub tteh-ar by behDotless-ar tahabove-ar.alt;
+	#sub ttehVabove-ar by behDotless-ar tahabove-ar.alt vabove-ar;
+	sub tteheh-ar by behDotless-ar twodotsverticalabove-ar;
+	sub teheh-ar by behDotless-ar fourdotsabove-ar;
+	sub behThreedotshorizontalbelow-ar by behDotless-ar threedotshorizontalbelow-ar;
+	sub behThreedotsupabove-ar by behDotless-ar threedotsupabove-ar dotbelow-ar;
+	sub behThreedotsupbelow-ar by behDotless-ar threedotsupbelow-ar;
+	sub tehThreedotsupbelow-ar by behDotless-ar twodotshorizontalabove-ar threedotsupbelow-ar;
+	sub behTwodotsbelowDotabove-ar by behDotless-ar dotabove-ar twodotshorizontalbelow-ar;
+	sub behVinvertedbelow-ar by behDotless-ar vinvertedbelow-ar;
+	sub behVabove-ar by behDotless-ar vabove-ar;
+	sub behVbelow-ar by behDotless-ar vbelow-ar;
+	#sub behhamzaabove-ar by behDotless-ar hamzaabove-ar dotbelow-ar;
+	sub behMeemabove-ar by behDotless-ar dotbelow-ar meemStopabove-ar.alt;
+	sub pehMeemabove-ar by behDotless-ar threedotsdownbelow-ar meemStopabove-ar.alt;
+	sub tehTehabove-ar by behDotless-ar smallteh.above;
+	sub tehRing-ar by behDotless-ar twodotshorizontalabove-ar ring.below;
+
+	# Noon family
+	sub noon-ar by noonghunna-ar dotabove-ar;
+	sub noonDotbelow-ar by noonghunna-ar dotabove-ar dotbelow-ar;
+	sub rnoon-ar by noonghunna-ar tahabove-ar;
+	sub noonRing-ar by noonghunna-ar dotabove-ar ring.below;
+	sub noonTwodotsbelow-ar by noonghunna-ar dotabove-ar twodotshorizontalbelow-ar;
+	sub noonTahabove-ar by noonghunna-ar dotabove-ar tahabove-ar.alt;
+	sub noonVabove-ar by noonghunna-ar dotabove-ar vabove-ar;
+	#sub noonVinvertedabove-ar by noonghunna-ar vinvertedabove-ar;
+
+	# Yeh family
+	sub yeh-ar by alefMaksura-ar twodotshorizontalbelow-ar;
+	sub yehHamzaabove-ar by alefMaksura-ar hamzaabove-ar;
+	sub yehKashmiri-ar by alefMaksura-ar ring.below;
+	sub yehVabove-ar by yehFarsi-ar vabove-ar;
+	#sub yehVinvertedFarsi-ar by yehFarsi-ar vinvertedabove-ar;
+	#sub yehTwodotsaboveFarsi-ar by yehFarsi-ar twodotshorizontalabove-ar;
+	#sub yehThreedotsaboveFarsi-ar by yehFarsi-ar threedotsupabove-ar;
+	#sub yehTwoaboveFarsi-ar by yehFarsi-ar twoabove-ar;
+	#sub yehThreeaboveFarsi-ar by yehFarsi-ar threeabove-ar;
+	#sub yehFourbelowFarsi-ar by alefMaksura-ar fourbelow-ar;
+	sub e-ar by alefMaksura-ar twodotsverticalbelow-ar;
+	sub yehThreedotsbelow-ar by alefMaksura-ar threedotsdownbelow-ar;
+	#sub yehTwodotsbelowHamzaabove-ar by alefMaksura-ar twodotshorizontalbelow-ar hamzaabove-ar;
+	#sub yehTwodotsbelowDotabove-ar by alefMaksura-ar twodotshorizontalbelow-ar dotabove-ar;
+	sub yehTail-ar by alefMaksura-ar yeh.tail;
+	sub behDotless-ar by alefMaksura-ar twodotshorizontalbelow-ar noonabove-ar;
+	#sub yehthin-ar.init by behDotless-ar.init.thin twodotshorizontalbelow-ar.small;
 } ccmp;
 
 feature init {
-    lookupflag IgnoreMarks;
-    sub yehKashmiri-ar by yehKashmiri-ar.init;
-    sub yehHamzaabove-ar by yehHamzaabove-ar.init;
-    sub beh-ar by beh-ar.init;
-    sub teh-ar by teh-ar.init;
-    sub theh-ar by theh-ar.init;
     sub jeem-ar by jeem-ar.init;
     sub hah-ar by hah-ar.init;
     sub khah-ar by khah-ar.init;
@@ -583,28 +554,15 @@ feature init {
     sub ghain-ar by ghain-ar.init;
     sub kehehTwodotshorizontalabove-ar by kehehTwodotshorizontalabove-ar.init;
     sub kehehThreedotsbelow-ar by kehehThreedotsbelow-ar.init;
-    sub yehFarsiVinverted-ar by yehFarsiVinverted-ar.init;
-    sub yehFarsiTwodotsabove-ar by yehFarsiTwodotsabove-ar.init;
-    sub yehFarsiThreedotsabove-ar by yehFarsiThreedotsabove-ar.init;
     sub feh-ar by feh-ar.init;
     sub qaf-ar by qaf-ar.init;
     sub kaf-ar by kaf-ar.init;
     sub lam-ar by lam-ar.init;
     sub meem-ar by meem-ar.init;
-    sub noon-ar by noon-ar.init;
     sub heh-ar by heh-ar.init;
-    sub alefMaksura-ar by alefMaksura-ar.init;
-    sub yeh-ar by yeh-ar.init;
+	sub alefMaksura-ar by behDotless-ar.init;
     sub behDotless-ar by behDotless-ar.init;
     sub qafDotless-ar by qafDotless-ar.init;
-    sub tteh-ar by tteh-ar.init;
-    sub tteheh-ar by tteheh-ar.init;
-    sub beeh-ar by beeh-ar.init;
-    sub tehRing-ar by tehRing-ar.init;
-    sub tehThreedotsdown-ar by tehThreedotsdown-ar.init;
-    sub peh-ar by peh-ar.init;
-    sub teheh-ar by teheh-ar.init;
-    sub beheh-ar by beheh-ar.init;
     sub hahHamzaabove-ar by hahHamzaabove-ar.init;
     sub hahTwodotsverticalabove-ar by hahTwodotsverticalabove-ar.init;
     sub nyeh-ar by nyeh-ar.init;
@@ -643,30 +601,15 @@ feature init {
     sub lamDotabove-ar by lamDotabove-ar.init;
     sub lamThreedotsabove-ar by lamThreedotsabove-ar.init;
     sub lamThreedotsbelow-ar by lamThreedotsbelow-ar.init;
-    sub noonDotbelow-ar by noonDotbelow-ar.init;
-    sub noonghunna-ar by noonghunna-ar.init;
-    sub rnoon-ar by rnoon-ar.init;
-    sub noonRing-ar by noonRing-ar.init;
-    sub noonThreedotsabove-ar by noonThreedotsabove-ar.init;
+	sub noonghunna-ar by behDotless-ar.init;
     sub hehDoachashmee-ar by hehDoachashmee-ar.init;
     sub tchehDotabove-ar by tchehDotabove-ar.init;
     sub hehgoal-ar by hehgoal-ar.init;
     sub hehgoalHamzaabove-ar by hehgoal-ar.init hamzaabove-ar;
-    sub yehFarsi-ar by yehFarsi-ar.init;
-    sub yehVabove-ar by yehVabove-ar.init;
-    sub e-ar by e-ar.init;
-    sub yehThreedotsbelow-ar by yehThreedotsbelow-ar.init;
     sub sheenDotbelow-ar by sheenDotbelow-ar.init;
     sub dadDotbelow-ar by dadDotbelow-ar.init;
     sub ghainDotbelow-ar by ghainDotbelow-ar.init;
     sub hehVinvertedabove-ar by hehVinvertedabove-ar.init;
-    sub behThreedotshorizontalbelow-ar by behThreedotshorizontalbelow-ar.init;
-    sub behThreedotsupabove-ar by behThreedotsupabove-ar.init;
-    sub behThreedotsupbelow-ar by behThreedotsupbelow-ar.init;
-    sub tehThreedotsupbelow-ar by tehThreedotsupbelow-ar.init;
-    sub behTwodotsbelowDotabove-ar by behTwodotsbelowDotabove-ar.init;
-    sub behVinvertedbelow-ar by behVinvertedbelow-ar.init;
-    sub behVabove-ar by behVabove-ar.init;
     sub hahTwodotshorizontalabove-ar by hahTwodotshorizontalabove-ar.init;
     sub hahThreedotsupbelow-ar by hahThreedotsupbelow-ar.init;
     sub seenFourdotsabove-ar by seenFourdotsabove-ar.init;
@@ -680,37 +623,21 @@ feature init {
     sub kehehThreedotsupbelow-ar by kehehThreedotsupbelow-ar.init;
     sub meemDotabove-ar by meemDotabove-ar.init;
     sub meemDotbelow-ar by meemDotbelow-ar.init;
-    sub noonTwodotsbelow-ar by noonTwodotsbelow-ar.init;
-    sub noonTahabove-ar by noonTahabove-ar.init;
-    sub noonVabove-ar by noonVabove-ar.init;
     sub lamBar-ar by lamBar-ar.init;
     sub seenTwodotsverticalabove-ar by seenTwodotsverticalabove-ar.init;
     sub hahTahbelow-ar by hahTahbelow-ar.init;
     sub hahTahTwodotshorizontalabove-ar by hahTahTwodotshorizontalabove-ar.init;
     sub seenTahTwodotshorizontalabove-ar by seenTahTwodotshorizontalabove-ar.init;
     sub hahTahabove-ar by hahTahabove-ar.init;
-    sub yehFarsiTwoabove-ar by yehFarsiTwoabove-ar.init;
-    sub yehFarsiThreeabove-ar by yehFarsiThreeabove-ar.init;
-    sub yehFarsiFourbelow-ar by yehFarsiFourbelow-ar.init;
-    sub yehbarreeTwoabove-ar by yehFarsiTwoabove-ar.init;
-    sub yehbarreeThreeabove-ar by yehFarsiThreeabove-ar.init;
     sub hahFourbelow-ar by hahFourbelow-ar.init;
     sub seenFourabove-ar by seenFourabove-ar.init;
     sub seenVinvertedabove-ar by seenVinvertedabove-ar.init;
     sub kafTwodotshorizontalabove-ar by kafTwodotshorizontalabove-ar.init;
-    sub behVbelow-ar by behVbelow-ar.init;
     sub fehAfrican-ar by fehDotmovedbelow-ar.init;
     sub qafAfrican-ar by qafDotabove-ar.init;
-    sub noonAfrican-ar by noon-ar.init;
 } init;
 
 feature medi {
-    lookupflag IgnoreMarks;
-    sub yehKashmiri-ar by yehKashmiri-ar.medi;
-    sub yehHamzaabove-ar by yehHamzaabove-ar.medi;
-    sub beh-ar by beh-ar.medi;
-    sub teh-ar by teh-ar.medi;
-    sub theh-ar by theh-ar.medi;
     sub jeem-ar by jeem-ar.medi;
     sub hah-ar by hah-ar.medi;
     sub khah-ar by khah-ar.medi;
@@ -724,28 +651,15 @@ feature medi {
     sub ghain-ar by ghain-ar.medi;
     sub kehehTwodotshorizontalabove-ar by kehehTwodotshorizontalabove-ar.medi;
     sub kehehThreedotsbelow-ar by kehehThreedotsbelow-ar.medi;
-    sub yehFarsiVinverted-ar by yehFarsiVinverted-ar.medi;
-    sub yehFarsiTwodotsabove-ar by yehFarsiTwodotsabove-ar.medi;
-    sub yehFarsiThreedotsabove-ar by yehFarsiThreedotsabove-ar.medi;
     sub feh-ar by feh-ar.medi;
     sub qaf-ar by qaf-ar.medi;
     sub kaf-ar by kaf-ar.medi;
     sub lam-ar by lam-ar.medi;
     sub meem-ar by meem-ar.medi;
-    sub noon-ar by noon-ar.medi;
     sub heh-ar by heh-ar.medi;
-    sub alefMaksura-ar by alefMaksura-ar.medi;
-    sub yeh-ar by yeh-ar.medi;
+	sub alefMaksura-ar by behDotless-ar.medi;
     sub behDotless-ar by behDotless-ar.medi;
     sub qafDotless-ar by qafDotless-ar.medi;
-    sub tteh-ar by tteh-ar.medi;
-    sub tteheh-ar by tteheh-ar.medi;
-    sub beeh-ar by beeh-ar.medi;
-    sub tehRing-ar by tehRing-ar.medi;
-    sub tehThreedotsdown-ar by tehThreedotsdown-ar.medi;
-    sub peh-ar by peh-ar.medi;
-    sub teheh-ar by teheh-ar.medi;
-    sub beheh-ar by beheh-ar.medi;
     sub hahHamzaabove-ar by hahHamzaabove-ar.medi;
     sub hahTwodotsverticalabove-ar by hahTwodotsverticalabove-ar.medi;
     sub nyeh-ar by nyeh-ar.medi;
@@ -784,30 +698,15 @@ feature medi {
     sub lamDotabove-ar by lamDotabove-ar.medi;
     sub lamThreedotsabove-ar by lamThreedotsabove-ar.medi;
     sub lamThreedotsbelow-ar by lamThreedotsbelow-ar.medi;
-    sub noonDotbelow-ar by noonDotbelow-ar.medi;
-    sub noonghunna-ar by noonghunna-ar.medi;
-    sub rnoon-ar by rnoon-ar.medi;
-    sub noonRing-ar by noonRing-ar.medi;
-    sub noonThreedotsabove-ar by noonThreedotsabove-ar.medi;
+	sub noonghunna-ar by behDotless-ar.medi;
     sub hehDoachashmee-ar by hehDoachashmee-ar.medi;
     sub tchehDotabove-ar by tchehDotabove-ar.medi;
     sub hehgoal-ar by hehgoal-ar.medi;
     sub hehgoalHamzaabove-ar by hehgoal-ar.medi hamzaabove-ar;
-    sub yehFarsi-ar by yehFarsi-ar.medi;
-    sub yehVabove-ar by yehVabove-ar.medi;
-    sub e-ar by e-ar.medi;
-    sub yehThreedotsbelow-ar by yehThreedotsbelow-ar.medi;
     sub sheenDotbelow-ar by sheenDotbelow-ar.medi;
     sub dadDotbelow-ar by dadDotbelow-ar.medi;
     sub ghainDotbelow-ar by ghainDotbelow-ar.medi;
     sub hehVinvertedabove-ar by hehVinvertedabove-ar.medi;
-    sub behThreedotshorizontalbelow-ar by behThreedotshorizontalbelow-ar.medi;
-    sub behThreedotsupabove-ar by behThreedotsupabove-ar.medi;
-    sub behThreedotsupbelow-ar by behThreedotsupbelow-ar.medi;
-    sub tehThreedotsupbelow-ar by tehThreedotsupbelow-ar.medi;
-    sub behTwodotsbelowDotabove-ar by behTwodotsbelowDotabove-ar.medi;
-    sub behVinvertedbelow-ar by behVinvertedbelow-ar.medi;
-    sub behVabove-ar by behVabove-ar.medi;
     sub hahTwodotshorizontalabove-ar by hahTwodotshorizontalabove-ar.medi;
     sub hahThreedotsupbelow-ar by hahThreedotsupbelow-ar.medi;
     sub seenFourdotsabove-ar by seenFourdotsabove-ar.medi;
@@ -821,44 +720,24 @@ feature medi {
     sub kehehThreedotsupbelow-ar by kehehThreedotsupbelow-ar.medi;
     sub meemDotabove-ar by meemDotabove-ar.medi;
     sub meemDotbelow-ar by meemDotbelow-ar.medi;
-    sub noonTwodotsbelow-ar by noonTwodotsbelow-ar.medi;
-    sub noonTahabove-ar by noonTahabove-ar.medi;
-    sub noonVabove-ar by noonVabove-ar.medi;
     sub lamBar-ar by lamBar-ar.medi;
     sub seenTwodotsverticalabove-ar by seenTwodotsverticalabove-ar.medi;
     sub hahTahbelow-ar by hahTahbelow-ar.medi;
     sub hahTahTwodotshorizontalabove-ar by hahTahTwodotshorizontalabove-ar.medi;
     sub seenTahTwodotshorizontalabove-ar by seenTahTwodotshorizontalabove-ar.medi;
     sub hahTahabove-ar by hahTahabove-ar.medi;
-    sub yehFarsiTwoabove-ar by yehFarsiTwoabove-ar.medi;
-    sub yehFarsiThreeabove-ar by yehFarsiThreeabove-ar.medi;
-    sub yehFarsiFourbelow-ar by yehFarsiFourbelow-ar.medi;
-    sub yehbarreeTwoabove-ar by yehFarsiTwoabove-ar.medi;
-    sub yehbarreeThreeabove-ar by yehFarsiThreeabove-ar.medi;
     sub hahFourbelow-ar by hahFourbelow-ar.medi;
     sub seenFourabove-ar by seenFourabove-ar.medi;
     sub seenVinvertedabove-ar by seenVinvertedabove-ar.medi;
     sub kafTwodotshorizontalabove-ar by kafTwodotshorizontalabove-ar.medi;
-    sub behVbelow-ar by behVbelow-ar.medi;
     sub fehAfrican-ar by fehDotmovedbelow-ar.medi;
     sub qafAfrican-ar by qafDotabove-ar.medi;
-    sub noonAfrican-ar by noon-ar.medi;
 } medi;
 
 feature fina {
-    lookupflag IgnoreMarks;
-    sub yehKashmiri-ar by yehKashmiri-ar.fina;
-    # sub uni0622 by uni0627.fina uni0653; # decompose
-    sub alefMadda-ar by alefMadda-ar.fina;
-    sub alefHamzaabove-ar by alefHamzaabove-ar.fina;
     sub wawHamzaabove-ar by wawHamzaabove-ar.fina;
-    sub alefHamzabelow-ar by alefHamzabelow-ar.fina;
-    sub yehHamzaabove-ar by yehHamzaabove-ar.fina;
     sub alef-ar by alef-ar.fina;
-    sub beh-ar by beh-ar.fina;
     sub tehMarbuta-ar by tehMarbuta-ar.fina;
-    sub teh-ar by teh-ar.fina;
-    sub theh-ar by theh-ar.fina;
     sub jeem-ar by jeem-ar.fina;
     sub hah-ar by hah-ar.fina;
     sub khah-ar by khah-ar.fina;
@@ -876,32 +755,16 @@ feature fina {
     sub ghain-ar by ghain-ar.fina;
     sub kehehTwodotshorizontalabove-ar by kehehTwodotshorizontalabove-ar.fina;
     sub kehehThreedotsbelow-ar by kehehThreedotsbelow-ar.fina;
-    sub yehFarsiVinverted-ar by yehFarsiVinverted-ar.fina;
-    sub yehFarsiTwodotsabove-ar by yehFarsiTwodotsabove-ar.fina;
-    sub yehFarsiThreedotsabove-ar by yehFarsiThreedotsabove-ar.fina;
     sub feh-ar by feh-ar.fina;
     sub qaf-ar by qaf-ar.fina;
     sub kaf-ar by kaf-ar.fina;
     sub lam-ar by lam-ar.fina;
     sub meem-ar by meem-ar.fina;
-    sub noon-ar by noon-ar.fina;
     sub heh-ar by heh-ar.fina;
     sub waw-ar by waw-ar.fina;
     sub alefMaksura-ar by alefMaksura-ar.fina;
-    sub yeh-ar by yeh-ar.fina;
     sub behDotless-ar by behDotless-ar.fina;
     sub qafDotless-ar by qafDotless-ar.fina;
-    sub alefWasla-ar by alefWasla-ar.fina;
-    sub alefWavyhamzaabove-ar by alefWavyhamzaabove-ar.fina;
-    sub alefWavyhamzabelow-ar by alefWavyhamzabelow-ar.fina;
-    sub tteh-ar by tteh-ar.fina;
-    sub tteheh-ar by tteheh-ar.fina;
-    sub beeh-ar by beeh-ar.fina;
-    sub tehRing-ar by tehRing-ar.fina;
-    sub tehThreedotsdown-ar by tehThreedotsdown-ar.fina;
-    sub peh-ar by peh-ar.fina;
-    sub teheh-ar by teheh-ar.fina;
-    sub beheh-ar by beheh-ar.fina;
     sub hahHamzaabove-ar by hahHamzaabove-ar.fina;
     sub hahTwodotsverticalabove-ar by hahTwodotsverticalabove-ar.fina;
     sub nyeh-ar by nyeh-ar.fina;
@@ -958,11 +821,7 @@ feature fina {
     sub lamDotabove-ar by lamDotabove-ar.fina;
     sub lamThreedotsabove-ar by lamThreedotsabove-ar.fina;
     sub lamThreedotsbelow-ar by lamThreedotsbelow-ar.fina;
-    sub noonDotbelow-ar by noonDotbelow-ar.fina;
     sub noonghunna-ar by noonghunna-ar.fina;
-    sub rnoon-ar by rnoon-ar.fina;
-    sub noonRing-ar by noonRing-ar.fina;
-    sub noonThreedotsabove-ar by noonThreedotsabove-ar.fina;
     sub hehDoachashmee-ar by hehDoachashmee-ar.fina;
     sub tchehDotabove-ar by tchehDotabove-ar.fina;
     sub hehHamzaabove-ar by ae-ar.fina hamzaabove-ar;
@@ -977,16 +836,8 @@ feature fina {
     sub kirghizyu-ar by kirghizyu-ar.fina;
     sub wawTwodots-ar by wawTwodots-ar.fina;
     sub ve-ar by ve-ar.fina;
-    sub yehFarsi-ar by yehFarsi-ar.fina;
-    sub yehTail-ar by yehTail-ar.fina;
-    sub yehVabove-ar by yehVabove-ar.fina;
     sub wawDotabove-ar by wawDotabove-ar.fina;
-    sub e-ar by e-ar.fina;
-    sub yehThreedotsbelow-ar by yehThreedotsbelow-ar.fina;
     sub yehbarree-ar by yehbarree-ar.fina;
-    # Unicode says U+06D3 is a ligature of U+06D2 U+0654, but more authentic
-    # Urdu fonts treat it as if it was U+0626 U+06D2, and so we do.
-    sub yehbarreeHamzaabove-ar by yehHamzaabove-ar.medi yehbarree-ar.fina;
     sub ae-ar by ae-ar.fina;
     sub dalVinvertedabove-ar by dalVinvertedabove-ar.fina;
     sub rehVinvertedabove-ar by rehVinvertedabove-ar.fina;
@@ -994,13 +845,6 @@ feature fina {
     sub dadDotbelow-ar by dadDotbelow-ar.fina;
     sub ghainDotbelow-ar by ghainDotbelow-ar.fina;
     sub hehVinvertedabove-ar by hehVinvertedabove-ar.fina;
-    sub behThreedotshorizontalbelow-ar by behThreedotshorizontalbelow-ar.fina;
-    sub behThreedotsupabove-ar by behThreedotsupabove-ar.fina;
-    sub behThreedotsupbelow-ar by behThreedotsupbelow-ar.fina;
-    sub tehThreedotsupbelow-ar by tehThreedotsupbelow-ar.fina;
-    sub behTwodotsbelowDotabove-ar by behTwodotsbelowDotabove-ar.fina;
-    sub behVinvertedbelow-ar by behVinvertedbelow-ar.fina;
-    sub behVabove-ar by behVabove-ar.fina;
     sub hahTwodotshorizontalabove-ar by hahTwodotshorizontalabove-ar.fina;
     sub hahThreedotsupbelow-ar by hahThreedotsupbelow-ar.fina;
     sub dalTwodotsverticalbelowTah-ar by dalTwodotsverticalbelowTah-ar.fina;
@@ -1017,9 +861,6 @@ feature fina {
     sub kehehThreedotsupbelow-ar by kehehThreedotsupbelow-ar.fina;
     sub meemDotabove-ar by meemDotabove-ar.fina;
     sub meemDotbelow-ar by meemDotbelow-ar.fina;
-    sub noonTwodotsbelow-ar by noonTwodotsbelow-ar.fina;
-    sub noonTahabove-ar by noonTahabove-ar.fina;
-    sub noonVabove-ar by noonVabove-ar.fina;
     sub lamBar-ar by lamBar-ar.fina;
     sub rehTwodotsverticalabove-ar by rehTwodotsverticalabove-ar.fina;
     sub rehHamzaabove-ar by rehHamzaabove-ar.fina;
@@ -1029,11 +870,6 @@ feature fina {
     sub seenTahTwodotshorizontalabove-ar by seenTahTwodotshorizontalabove-ar.fina;
     sub rehTwodotshorizontalaboveTahabove-ar by rehTwodotshorizontalaboveTahabove-ar.fina;
     sub hahTahabove-ar by hahTahabove-ar.fina;
-    sub alefTwoabove-ar by alefTwoabove-ar.fina;
-    sub alefThreeabove-ar by alefThreeabove-ar.fina;
-    sub yehFarsiTwoabove-ar by yehFarsiTwoabove-ar.fina;
-    sub yehFarsiThreeabove-ar by yehFarsiThreeabove-ar.fina;
-    sub yehFarsiFourbelow-ar by yehFarsiFourbelow-ar.fina;
     sub wawTwoabove-ar by wawTwoabove-ar.fina;
     sub wawThreeAbove-ar by wawThreeAbove-ar.fina;
     sub yehbarreeTwoabove-ar by yehbarreeTwoabove-ar.fina;
@@ -1042,7 +878,6 @@ feature fina {
     sub seenFourabove-ar by seenFourabove-ar.fina;
     sub seenVinvertedabove-ar by seenVinvertedabove-ar.fina;
     sub kafTwodotshorizontalabove-ar by kafTwodotshorizontalabove-ar.fina;
-    sub behVbelow-ar by behVbelow-ar.fina;
     sub fehAfrican-ar by fehDotless-ar.fina;
     sub qafAfrican-ar by qafDotless-ar.fina;
     sub noonAfrican-ar by noonghunna-ar.fina;
@@ -1146,12 +981,12 @@ feature ccmp {
 # around it, so we simply override this by replacing glyphs around the hamza
 # with the forms that they would normally take if it was not there, and replace
 # the hamza wit its medial glyph that has a connecting stroke.
-@before.isol = [yehHamzaabove-ar beh-ar teh-ar theh-ar jeem-ar hah-ar khah-ar seen-ar sheen-ar sad-ar dad-ar tah-ar zah-ar ain-ar ghain-ar feh-ar qaf-ar kaf-ar lam-ar meem-ar noon-ar heh-ar alefMaksura-ar yeh-ar yehFarsi-ar];
-@before.init = [yehHamzaabove-ar.init beh-ar.init teh-ar.init theh-ar.init jeem-ar.init hah-ar.init khah-ar.init seen-ar.init sheen-ar.init sad-ar.init dad-ar.init tah-ar.init zah-ar.init ain-ar.init ghain-ar.init feh-ar.init qaf-ar.init kaf-ar.init lam-ar.init meem-ar.init noon-ar.init heh-ar.init alefMaksura-ar.init yeh-ar.init yehFarsi-ar.init];
-@before.medi = [yehHamzaabove-ar.medi beh-ar.medi teh-ar.medi theh-ar.medi jeem-ar.medi hah-ar.medi khah-ar.medi seen-ar.medi sheen-ar.medi sad-ar.medi dad-ar.medi tah-ar.medi zah-ar.medi ain-ar.medi ghain-ar.medi feh-ar.medi qaf-ar.medi kaf-ar.medi lam-ar.medi meem-ar.medi noon-ar.medi heh-ar.medi alefMaksura-ar.medi yeh-ar.medi yehFarsi-ar.medi];
-@before.fina = [yehHamzaabove-ar.fina beh-ar.fina teh-ar.fina theh-ar.fina jeem-ar.fina hah-ar.fina khah-ar.fina seen-ar.fina sheen-ar.fina sad-ar.fina dad-ar.fina tah-ar.fina zah-ar.fina ain-ar.fina ghain-ar.fina feh-ar.fina qaf-ar.fina kaf-ar.fina lam-ar.fina meem-ar.fina noon-ar.fina heh-ar.fina alefMaksura-ar.fina yeh-ar.fina yehFarsi-ar.fina];
-@after.isol = [alefMadda-ar alefHamzaabove-ar wawHamzaabove-ar alefHamzabelow-ar alef-ar tehMarbuta-ar dal-ar thal-ar reh-ar zain-ar waw-ar];
-@after.fina = [alefMadda-ar.fina alefHamzaabove-ar.fina wawHamzaabove-ar.fina alefHamzabelow-ar.fina alef-ar.fina tehMarbuta-ar.fina dal-ar.fina thal-ar.fina reh-ar.fina zain-ar.fina waw-ar.fina];
+@before.isol = [behDotless-ar jeem-ar hah-ar khah-ar seen-ar sheen-ar sad-ar dad-ar tah-ar zah-ar ain-ar ghain-ar feh-ar qaf-ar kaf-ar lam-ar meem-ar noonghunna-ar heh-ar alefMaksura-ar];
+@before.init = [behDotless-ar.init jeem-ar.init hah-ar.init khah-ar.init seen-ar.init sheen-ar.init sad-ar.init dad-ar.init tah-ar.init zah-ar.init ain-ar.init ghain-ar.init feh-ar.init qaf-ar.init kaf-ar.init lam-ar.init meem-ar.init behDotless-ar.init heh-ar.init behDotless-ar.init];
+@before.medi = [behDotless-ar.medi jeem-ar.medi hah-ar.medi khah-ar.medi seen-ar.medi sheen-ar.medi sad-ar.medi dad-ar.medi tah-ar.medi zah-ar.medi ain-ar.medi ghain-ar.medi feh-ar.medi qaf-ar.medi kaf-ar.medi lam-ar.medi meem-ar.medi behDotless-ar.medi heh-ar.medi behDotless-ar.medi];
+@before.fina = [behDotless-ar.fina jeem-ar.fina hah-ar.fina khah-ar.fina seen-ar.fina sheen-ar.fina sad-ar.fina dad-ar.fina tah-ar.fina zah-ar.fina ain-ar.fina ghain-ar.fina feh-ar.fina qaf-ar.fina kaf-ar.fina lam-ar.fina meem-ar.fina noonghunna-ar.fina heh-ar.fina alefMaksura-ar.fina];
+@after.isol = [wawHamzaabove-ar alef-ar tehMarbuta-ar dal-ar thal-ar reh-ar zain-ar waw-ar];
+@after.fina = [wawHamzaabove-ar.fina alef-ar.fina tehMarbuta-ar.fina dal-ar.fina thal-ar.fina reh-ar.fina zain-ar.fina waw-ar.fina];
 @before = [@aKashida alefabove-ar.medi yehabove-ar.medi highwaw-ar.medi @before.isol @before.fina];
 @after = [@aKashida alefabove-ar.medi yehabove-ar.medi highwaw-ar.medi alef-ar.fina.Tatweel @after.isol @before.isol @before.init];
 lookup Before {
@@ -1203,7 +1038,7 @@ feature ccmp {
 # kern medial hamza between final lam-alef to avoid glyph overlap
 feature kern {
     lookupflag IgnoreMarks;
-    pos hamza-ar.float @aAlf.fina.LamAlfFina <-146 0 0 0>;
+    pos hamza-ar.float alef-ar.fina.LamAlfFina <-146 0 0 0>;
 } kern;
 
 # small waw after isolated/final heh is lower than usual, so we use an
@@ -1342,7 +1177,7 @@ lookup LamMediLellah {
 # [اآٱ]
 @Ai = [alef-ar alefMadda-ar alefWasla-ar];
 # [ا]
-@Af = [alef-ar.fina alefWasla-ar.fina];
+@Af = [alef-ar.fina];# alefWasla-ar.fina];
 @Hf = [heh-ar.fina hehgoal-ar.fina];
 @xF = [fatha-ar alefabove-ar];
 
@@ -1352,9 +1187,7 @@ lookup LamLamInitX {
 } LamLamInitX;
 
 # [بت]
-@aBaa_init = [beh-ar.init teh-ar.init];
-@aBaa_medi = [beh-ar.medi teh-ar.medi];
-@Ignore = [@aAyn.fina @aAyn.isol @aAlf.isol @aAlf.fina @aBaa.fina @aBaa.isol @aDal.fina @aDal.isol @aFaa.fina @aFaa.isol @aHaa.fina @aHaa.isol @aHeh.fina @aHeh.isol @aKaf.fina @aKaf.isol @aLam.fina @aLam.isol @aMem.fina @aMem.isol @aNon.fina @aNon.isol @aQaf.fina @aQaf.isol @aRaa.fina @aRaa.isol @aSad.fina @aSad.isol @aSen.fina @aSen.isol @aTaa.fina @aTaa.isol @aWaw.fina @aWaw.isol @aYaa.fina @aYaa.isol];
+@Ignore = [@aAyn.fina @aAyn.isol alef-ar alef-ar.fina behDotless-ar.fina behDotless-ar @aDal.fina @aDal.isol @aFaa.fina @aFaa.isol @aHaa.fina @aHaa.isol @aHeh.fina @aHeh.isol @aKaf.fina @aKaf.isol @aLam.fina @aLam.isol @aMem.fina @aMem.isol noonghunna-ar.fina noonghunna-ar @aQaf.fina @aQaf.isol @aRaa.fina @aRaa.isol @aSad.fina @aSad.isol @aSen.fina @aSen.isol @aTaa.fina @aTaa.isol @aWaw.fina @aWaw.isol alefMaksura-ar.fina alefMaksura-ar];
 feature rlig {
     lookupflag IgnoreMarks;
     # Allow الله/ولله/ـالله
@@ -1368,9 +1201,9 @@ feature rlig {
     # Supress any remaining *الله
     sub @Ignore @Ai' lam-ar.init' lookup LamLamInitX lam-ar.medi' lookup LamLamInitX @Hf;
     # Allow فتالله/فبالله
-    ignore sub feh-ar.init @aBaa_medi @Af' lam-ar.init' lam-ar.medi' @Hf;
+    ignore sub feh-ar.init behDotless-ar.medi @Af' lam-ar.init' lam-ar.medi' @Hf;
     # Allow تالله/بالله/كالله/فالله
-    ignore sub [@aBaa_init kaf-ar.init feh-ar.init] @Af' lam-ar.init' lam-ar.medi' @Hf;
+    ignore sub [behDotless-ar.init kaf-ar.init feh-ar.init] @Af' lam-ar.init' lam-ar.medi' @Hf;
     # Supress any remaining *ـالله
     sub @Af' lam-ar.init' lookup LamLamInitX lam-ar.medi' lookup LamLamInitX @Hf;
 } rlig;
@@ -1454,17 +1287,17 @@ feature rlig {
 } rlig;
 
 lookup BaaInitWide {
-    sub @aBaa.init by @aBaa.init.Wide;
+    sub behDotless-ar.init by behDotless-ar.init.Wide;
 } BaaInitWide;
 
 feature rlig {
-    sub @aBaa.init' lookup BaaInitWide @Tashkil.above' [@aGaf.medi @aGaf.fina]';
-    sub @aBaa.init' lookup BaaInitWide @Tashkil.above' @Tashkil.above' [@aGaf.medi @aGaf.fina]';
-    sub @aBaa.init' lookup BaaInitWide @Tashkil.above' @Tashkil.above' @Tashkil.above' [@aGaf.medi @aGaf.fina]';
+    sub behDotless-ar.init' lookup BaaInitWide @Tashkil.above' [@aGaf.medi @aGaf.fina]';
+    sub behDotless-ar.init' lookup BaaInitWide @Tashkil.above' @Tashkil.above' [@aGaf.medi @aGaf.fina]';
+    sub behDotless-ar.init' lookup BaaInitWide @Tashkil.above' @Tashkil.above' @Tashkil.above' [@aGaf.medi @aGaf.fina]';
 } rlig;
 
 lookup AboveHaaInit {
-    sub @aBaa.init by @aBaa.init.BaaHaaInit;
+    sub behDotless-ar.init by behDotless-ar.init.BaaHaaInit;
     sub @aHaa.medi by @aHaa.medi.SadHaaInit;
     sub @aHeh.init by @aHeh.init.HehHaaInit;
     sub @aMem.init by @aMem.init.MemHaaInit;
@@ -1474,107 +1307,107 @@ lookup AboveHaaInit {
 
 feature rlig {
     lookupflag IgnoreMarks;
-    sub [@aBaa.init @aHeh.init @aMem.init @aSad.init @aSen.init]' lookup AboveHaaInit [@aHaa.medi]' lookup AboveHaaInit;
+    sub [behDotless-ar.init @aHeh.init @aMem.init @aSad.init @aSen.init]' lookup AboveHaaInit [@aHaa.medi]' lookup AboveHaaInit;
 } rlig;
 
 lookup BaaRaaFina {
-    sub @aBaa.medi by @aBaa.medi.BaaRaaFina;
+    sub behDotless-ar.medi by behDotless-ar.medi.BaaRaaFina;
     sub @aRaa.fina by @aRaa.fina.BaaRaaFina;
 } BaaRaaFina;
 
 feature rlig {
     lookupflag IgnoreMarks;
-    sub [@aBaa.medi]' lookup BaaRaaFina [@aRaa.fina]' lookup BaaRaaFina;
+    sub [behDotless-ar.medi]' lookup BaaRaaFina [@aRaa.fina]' lookup BaaRaaFina;
 } rlig;
 
 lookup BaaNonFina {
-    sub @aBaa.medi by @aBaa.medi.BaaNonFina;
-    sub @aNon.fina by @aNon.fina.BaaNonFina;
+    sub behDotless-ar.medi by behDotless-ar.medi.BaaNonFina;
+    sub noonghunna-ar.fina by noonghunna-ar.fina.BaaNonFina;
 } BaaNonFina;
 
 feature rlig {
     lookupflag IgnoreMarks;
-    sub [@aBaa.medi]' lookup BaaNonFina [@aNon.fina]' lookup BaaNonFina;
+    sub [behDotless-ar.medi]' lookup BaaNonFina [noonghunna-ar.fina]' lookup BaaNonFina;
 } rlig;
 
 lookup BaaMemFina {
-    sub @aBaa.medi by @aBaa.medi.BaaMemFina;
+    sub behDotless-ar.medi by behDotless-ar.medi.BaaMemFina;
     sub @aMem.fina by @aMem.fina.BaaMemFina;
 } BaaMemFina;
 
 feature rlig {
     lookupflag IgnoreMarks;
-    sub [@aBaa.medi]' lookup BaaMemFina [@aMem.fina]' lookup BaaMemFina;
+    sub [behDotless-ar.medi]' lookup BaaMemFina [@aMem.fina]' lookup BaaMemFina;
 } rlig;
 
 lookup KafBaaAlfIsol {
-    sub @aBaa.medi by @aBaa.medi.KafBaaInit;
+    sub behDotless-ar.medi by behDotless-ar.medi.KafBaaInit;
     sub @aKaf.init by @aKaf.init.KafBaaInit;
 } KafBaaAlfIsol;
 
 lookup KafBaaAlfFina {
-    sub @aBaa.medi by @aBaa.medi.KafBaaMedi;
+    sub behDotless-ar.medi by behDotless-ar.medi.KafBaaMedi;
     sub @aKaf.medi by @aKaf.medi.KafBaaMedi;
 } KafBaaAlfFina;
 
 feature rlig {
     lookupflag IgnoreMarks;
-    sub [@aKaf.init]' lookup KafBaaAlfIsol [@aBaa.medi]' lookup KafBaaAlfIsol [@aAlf.fina @aLam.medi @aLam.fina];
-    sub [@aKaf.medi]' lookup KafBaaAlfFina [@aBaa.medi]' lookup KafBaaAlfFina [@aAlf.fina @aLam.medi @aLam.fina];
+    sub [@aKaf.init]' lookup KafBaaAlfIsol [behDotless-ar.medi]' lookup KafBaaAlfIsol [alef-ar.fina @aLam.medi @aLam.fina];
+    sub [@aKaf.medi]' lookup KafBaaAlfFina [behDotless-ar.medi]' lookup KafBaaAlfFina [alef-ar.fina @aLam.medi @aLam.fina];
 } rlig;
 
 lookup BaaBaa {
-    sub @aBaa.medi by @aBaa.medi.BaaBaaInit;
-    sub @aBaa.fina by @aBaa.fina.BaaBaaIsol;
-    sub @aBaa.init by @aBaa.init.BaaBaaIsol;
+    sub behDotless-ar.medi by behDotless-ar.medi.BaaBaaInit;
+    sub behDotless-ar.fina by behDotless-ar.fina.BaaBaaIsol;
+    sub behDotless-ar.init by behDotless-ar.init.BaaBaaIsol;
 } BaaBaa;
 
 lookup HighBaa {
-    sub @aBaa.init by @aBaa.init.High;
-    sub @aBaa.medi by @aBaa.medi.High;
+    sub behDotless-ar.init by behDotless-ar.init.High;
+    sub behDotless-ar.medi by behDotless-ar.medi.High;
 } HighBaa;
 
 feature rlig {
     lookupflag IgnoreMarks;
     # hack to prevent double high baa in سببس and likes
-    sub [@aSen.init @aSen.medi]' [@aBaa.medi]' [@aBaa.medi]' lookup HighBaa [@aSen.medi @aSen.fina]';
+    sub [@aSen.init @aSen.medi]' [behDotless-ar.medi]' [behDotless-ar.medi]' lookup HighBaa [@aSen.medi @aSen.fina]';
     # جرينتش
-    sub [@aBaa.init]' lookup BaaBaa [@aBaa.medi]' lookup BaaBaa [@aBaa.medi]' lookup HighBaa [@aSen.fina @aSen.medi @aSen.medi.PreYaa];
-    sub [@aBaa.medi @aSad.init @aSad.medi @aSen.init @aSen.medi @aBaa.medi.BaaBaaInit] [@aBaa.medi]' lookup HighBaa [@aBaa.fina @aBaa.medi @aSen.fina @aBaa.medi.BaaHehMedi @aSen.medi @aSen.medi.PreYaa];
-    sub [@aBaa.medi]' lookup HighBaa [@aSen.fina @aSen.medi @aSen.medi.PreYaa];
-    sub [@aBaa.init]' lookup HighBaa [@aBaa.medi]' lookup HighBaa [@aBaa.medi @aBaa.fina @aSen.medi @aSen.fina];
+    sub [behDotless-ar.init]' lookup BaaBaa [behDotless-ar.medi]' lookup BaaBaa [behDotless-ar.medi]' lookup HighBaa [@aSen.fina @aSen.medi @aSen.medi.PreYaa];
+    sub [behDotless-ar.medi @aSad.init @aSad.medi @aSen.init @aSen.medi behDotless-ar.medi.BaaBaaInit] [behDotless-ar.medi]' lookup HighBaa [behDotless-ar.fina behDotless-ar.medi @aSen.fina behDotless-ar.medi.BaaHehMedi @aSen.medi @aSen.medi.PreYaa];
+    sub [behDotless-ar.medi]' lookup HighBaa [@aSen.fina @aSen.medi @aSen.medi.PreYaa];
+    sub [behDotless-ar.init]' lookup HighBaa [behDotless-ar.medi]' lookup HighBaa [behDotless-ar.medi behDotless-ar.fina @aSen.medi @aSen.fina];
 } rlig;
 
 lookup BaaHeh {
-    sub @aBaa.init by @aBaa.init.BaaHehInit;
+    sub behDotless-ar.init by behDotless-ar.init.BaaHehInit;
     sub @aMem.init.dots by @aMem.init.MemHehInit;
-    sub @aBaa.medi by @aBaa.medi.BaaHehMedi;
+    sub behDotless-ar.medi by behDotless-ar.medi.BaaHehMedi;
     sub @aHeh.medi by @aHeh.medi.BaaHehMedi;
 } BaaHeh;
 
 feature rlig {
     lookupflag IgnoreMarks;
-    sub [@aBaa.init @aBaa.medi @aMem.init.dots]' lookup BaaHeh [@aHeh.medi]' lookup BaaHeh;
+    sub [behDotless-ar.init behDotless-ar.medi @aMem.init.dots]' lookup BaaHeh [@aHeh.medi]' lookup BaaHeh;
 } rlig;
 
 lookup BaaBaaHeh {
-    sub @aBaa.init by @aBaa.init.BaaBaaHeh;
+    sub behDotless-ar.init by behDotless-ar.init.BaaBaaHeh;
 } BaaBaaHeh;
 
 feature rlig {
     lookupflag IgnoreMarks;
-    sub @aBaa.init' lookup BaaBaaHeh @aBaa.medi.BaaHehMedi;
+    sub behDotless-ar.init' lookup BaaBaaHeh behDotless-ar.medi.BaaHehMedi;
 } rlig;
 
 lookup LamAlfFina {
-    sub @aAlf.fina by @aAlf.fina.LamAlfFina;
+    sub alef-ar.fina by alef-ar.fina.LamAlfFina;
     sub @aLam.medi by @aLam.medi.LamAlfFina;
 } LamAlfFina;
 
 feature rlig {
     lookupflag IgnoreMarks;
-    sub [@aLam.medi]' lookup LamAlfFina [@aAlf.fina]' lookup LamAlfFina;
-    sub [@aLam.medi]' lookup LamAlfFina hamza-ar.float' [@aAlf.fina]' lookup LamAlfFina;
+    sub [@aLam.medi]' lookup LamAlfFina [alef-ar.fina]' lookup LamAlfFina;
+    sub [@aLam.medi]' lookup LamAlfFina hamza-ar.float' [alef-ar.fina]' lookup LamAlfFina;
 } rlig;
 
 lookup KafLamHeh {
@@ -1582,11 +1415,11 @@ lookup KafLamHeh {
 } KafLamHeh;
 
 lookup BaaSenAltInit {
-    sub @aBaa.init by @aBaa.init.BaaSenAltInit;
+    sub behDotless-ar.init by behDotless-ar.init.BaaSenAltInit;
     sub @aRaa.fina by @aRaa.fina.PostTooth;
     sub @aSen.medi by @aSen.medi.BaaSenAltInit;
     sub @aHeh.medi by @aHeh.medi.PostTooth;
-    sub @aYaa.fina by @aYaa.fina.PostTooth;
+    sub alefMaksura-ar.fina by alefMaksura-ar.fina.PostTooth;
     sub @aMem.fina by @aMem.fina.PostTooth;
 } BaaSenAltInit;
 
@@ -1620,18 +1453,18 @@ lookup SenMemInit {
 
 lookup AllYaaIsol {
     sub @aKaf.init by @aKaf.init.KafYaaIsol;
-    sub @aBaa.init by @aBaa.init.BaaYaaIsol;
+    sub behDotless-ar.init by behDotless-ar.init.BaaYaaIsol;
     sub @aFaa.init by @aFaa.init.FaaYaaIsol;
     sub @aLam.init by @aLam.init.LamYaaIsol;
     sub @aAyn.init by @aAyn.init.AynYaaIsol;
     sub @aHaa.init by @aHaa.init.HaaYaaIsol;
     sub @aHeh.init by @aHeh.init.HehYaaIsol;
     sub @aMem.init.dots by @aMem.init.MemYaaIsol;
-    sub @aYaa.fina by @aYaa.fina.KafYaaIsol;
+    sub alefMaksura-ar.fina by alefMaksura-ar.fina.KafYaaIsol;
 } AllYaaIsol;
 
 lookup BaaRaaIsol {
-    sub @aBaa.init by @aBaa.init.BaaRaaIsol;
+    sub behDotless-ar.init by behDotless-ar.init.BaaRaaIsol;
     sub @aRaa.fina by @aRaa.fina.BaaRaaIsol;
 } BaaRaaIsol;
 
@@ -1650,7 +1483,7 @@ lookup LamWawFina {
 
 lookup FaaYaaFina {
     sub @aFaa.medi by @aFaa.medi.FaaYaaFina;
-    sub @aYaa.fina by @aYaa.fina.FaaYaaFina;
+    sub alefMaksura-ar.fina by alefMaksura-ar.fina.FaaYaaFina;
 } FaaYaaFina;
 
 lookup LamLamHaaInit {
@@ -1660,7 +1493,7 @@ lookup LamLamHaaInit {
 } LamLamHaaInit;
 
 lookup LamBaaMemInit {
-    sub @aBaa.medi by @aBaa.medi.LamBaaMemInit;
+    sub behDotless-ar.medi by behDotless-ar.medi.LamBaaMemInit;
     sub @aLam.init by @aLam.init.LamBaaMemInit;
     sub @aMem.medi by @aMem.medi.LamBaaMemInit;
 } LamBaaMemInit;
@@ -1675,20 +1508,20 @@ lookup KafLamMemFina {
 } KafLamMemFina;
 
 lookup BaaDalIsol {
-    sub @aBaa.init by @aBaa.init.BaaDal;
+    sub behDotless-ar.init by behDotless-ar.init.BaaDal;
     sub @aDal.fina by @aDal.fina.BaaDal;
 } BaaDalIsol;
 
 lookup BaaMemHaaInit {
-    sub @aBaa.init by @aBaa.init.BaaMemHaaInit;
+    sub behDotless-ar.init by behDotless-ar.init.BaaMemHaaInit;
     sub @aHaa.medi by @aHaa.medi.BaaMemHaaInit;
     sub @aMem.medi by @aMem.medi.BaaMemHaaInit;
 } BaaMemHaaInit;
 
 lookup BaaBaaYaa {
-    sub @aBaa.init by @aBaa.init.BaaBaaYaa;
-    sub @aBaa.medi by @aBaa.medi.BaaBaaYaa;
-    sub @aYaa.fina by @aYaa.fina.BaaBaaYaa;
+    sub behDotless-ar.init by behDotless-ar.init.BaaBaaYaa;
+    sub behDotless-ar.medi by behDotless-ar.medi.BaaBaaYaa;
+    sub alefMaksura-ar.fina by alefMaksura-ar.fina.BaaBaaYaa;
 } BaaBaaYaa;
 
 @LamLamFoo = [@aLam.medi.LamMemMedi @aLam.medi.LamHeh @aLam.medi.LamYaaFina];
@@ -1717,7 +1550,7 @@ lookup LamLamMedi2 {
 
 lookup LamYaaFina {
     sub @aLam.medi by @aLam.medi.LamYaaFina;
-    sub @aYaa.fina by @aYaa.fina.LamYaaFina;
+    sub alefMaksura-ar.fina by alefMaksura-ar.fina.LamYaaFina;
 } LamYaaFina;
 
 lookup LamMemHaaInit {
@@ -1732,7 +1565,7 @@ lookup LamMemInit {
 } LamMemInit;
 
 lookup LamAlfIsol {
-    sub @aAlf.fina by @aAlf.fina.LamAlfIsol;
+    sub alef-ar.fina by alef-ar.fina.LamAlfIsol;
     sub @aLam.init by @aLam.init.LamAlfIsol;
 } LamAlfIsol;
 
@@ -1743,14 +1576,14 @@ lookup LamHaaMemInit {
 } LamHaaMemInit;
 
 lookup BaaBaaMemInit {
-    sub @aBaa.init by @aBaa.init.BaaBaaMemInit;
-    sub @aBaa.medi by @aBaa.medi.BaaBaaMemInit;
+    sub behDotless-ar.init by behDotless-ar.init.BaaBaaMemInit;
+    sub behDotless-ar.medi by behDotless-ar.medi.BaaBaaMemInit;
     sub @aMem.medi by @aMem.medi.BaaBaaMemInit;
 } BaaBaaMemInit;
 
 lookup BaaBaaHaaInit {
-    sub @aBaa.init by @aBaa.init.BaaBaaHaaInit;
-    sub @aBaa.medi by @aBaa.medi.BaaBaaHaaInit;
+    sub behDotless-ar.init by behDotless-ar.init.BaaBaaHaaInit;
+    sub behDotless-ar.medi by behDotless-ar.medi.BaaBaaHaaInit;
     sub @aHaa.medi by @aHaa.medi.BaaBaaHaaInit;
 } BaaBaaHaaInit;
 
@@ -1767,7 +1600,7 @@ lookup HaaHaaInit {
 lookup KafMemIsol {
     sub @aKaf.init by @aKaf.init.KafMemIsol;
     sub @aLam.init by @aLam.init.LamMemIsol;
-    sub @aBaa.init by @aBaa.init.BaaMemIsol;
+    sub behDotless-ar.init by behDotless-ar.init.BaaMemIsol;
     sub @aMem.fina by @aMem.fina.KafMemIsol;
 } KafMemIsol;
 
@@ -1784,8 +1617,8 @@ lookup MemHaaMemInit {
 } MemHaaMemInit;
 
 lookup BaaNonIsol {
-    sub @aBaa.init by @aBaa.init.BaaNonIsol;
-    sub @aNon.fina by @aNon.fina.BaaNonIsol;
+    sub behDotless-ar.init by behDotless-ar.init.BaaNonIsol;
+    sub noonghunna-ar.fina by noonghunna-ar.fina.BaaNonIsol;
 } BaaNonIsol;
 
 lookup KafMemFina {
@@ -1799,7 +1632,7 @@ lookup KafLamAlf {
 } KafLamAlf;
 
 lookup BaaSenInit {
-    sub @aBaa.init by @aBaa.init.BaaSenInit;
+    sub behDotless-ar.init by behDotless-ar.init.BaaSenInit;
     sub @aSen.fina by @aSen.fina.BaaSen;
     sub @aSen.medi by @aSen.medi.BaaSenInit;
 } BaaSenInit;
@@ -1815,7 +1648,7 @@ lookup LamHehInit {
 } LamHehInit;
 
 lookup BaaMemInit {
-    sub @aBaa.init by @aBaa.init.BaaMemInit;
+    sub behDotless-ar.init by behDotless-ar.init.BaaMemInit;
     sub @aMem.medi by @aMem.medi.BaaMemInit;
 } BaaMemInit;
 
@@ -1826,7 +1659,7 @@ lookup KafLam {
     sub @aGaf.alt.fina by @aGaf.fina.KafKafFina;
     sub @aLam.medi by @aLam.medi.KafLam;
     sub @aLam.fina by @aLam.fina.KafLam;
-    sub @aAlf.fina by @aAlf.fina.KafAlf;
+    sub alef-ar.fina by alef-ar.fina.KafAlf;
 } KafLam;
 
 lookup KafRaaIsol {
@@ -1842,7 +1675,7 @@ lookup AynHaaInit {
 lookup KafYaaFina {
     sub @aKaf.medi by @aKaf.medi.KafYaaFina;
     sub @aAyn.medi by @aAyn.medi.AynYaaFina;
-    sub @aYaa.fina by @aYaa.fina.KafYaaFina;
+    sub alefMaksura-ar.fina by alefMaksura-ar.fina.KafYaaFina;
 } KafYaaFina;
 
 lookup LamMemMedi {
@@ -1853,7 +1686,7 @@ lookup LamMemMedi {
 lookup SenBaaMemInit {
     sub @aSen.init by @aSen.init.SenBaaMemInit;
     sub @aSad.init by @aSad.init.SenBaaMemInit;
-    sub @aBaa.medi by @aBaa.medi.SenBaaMemInit;
+    sub behDotless-ar.medi by behDotless-ar.medi.SenBaaMemInit;
     sub @aMem.medi by @aMem.medi.SenBaaMemInit;
 } SenBaaMemInit;
 
@@ -1871,21 +1704,21 @@ lookup KafMemAlf {
     sub @aKaf.medi by @aKaf.medi.KafMemAlf;
     sub @aKaf.init by @aKaf.init.KafMemAlf;
     sub @aMem.medi by @aMem.medi.KafMemAlf;
-    sub @aAlf.fina by @aAlf.fina.KafMemAlf;
+    sub alef-ar.fina by alef-ar.fina.KafMemAlf;
     sub @aLam.fina by @aLam.fina.KafMemLam;
     sub @aLam.medi by @aLam.medi.KafMemLam;
 } KafMemAlf;
 
 lookup BaaHaaMemInit {
-    sub @aBaa.init by @aBaa.init.BaaHaaMemInit;
+    sub behDotless-ar.init by behDotless-ar.init.BaaHaaMemInit;
     sub @aHaa.medi by @aHaa.medi.BaaHaaMemInit;
     sub @aHaa.medi.SadHaaInit by @aHaa.medi.BaaHaaMemInit;
-    sub @aBaa.init.BaaHaaInit by @aBaa.init.BaaHaaMemInit;
+    sub behDotless-ar.init.BaaHaaInit by behDotless-ar.init.BaaHaaMemInit;
 } BaaHaaMemInit;
 
 lookup AboveHaaIsol {
     sub @aAyn.init by @aAyn.init.AboveHaa;
-    sub @aBaa.init by @aBaa.init.AboveHaa;
+    sub behDotless-ar.init by behDotless-ar.init.AboveHaa;
     sub @aFaa.init by @aFaa.init.FaaHaaInit;
     sub @aHaa.init by @aHaa.init.AboveHaa;
     sub @aHeh.init by @aHeh.init.AboveHaa;
@@ -1908,7 +1741,7 @@ lookup SenYaaFina {
     sub @aSad.medi by @aSad.medi.PreYaa;
     sub @aSen.init by @aSen.init.PreYaa;
     sub @aSen.medi by @aSen.medi.PreYaa;
-    sub @aYaa.fina by @aYaa.fina.PostTooth;
+    sub alefMaksura-ar.fina by alefMaksura-ar.fina.PostTooth;
 } SenYaaFina;
 
 lookup KafMemInit {
@@ -1984,66 +1817,66 @@ feature rlig {
 
 # No IgnoreMarks here, to narrow to carry vowels
 feature rlig {
-    sub [@aBaa.init]' lookup BaaMemHaaInit [@aMem.medi]' lookup BaaMemHaaInit [@aHaa.medi]' lookup BaaMemHaaInit;
+    sub [behDotless-ar.init]' lookup BaaMemHaaInit [@aMem.medi]' lookup BaaMemHaaInit [@aHaa.medi]' lookup BaaMemHaaInit;
 } rlig;
 
 feature rlig {
     lookupflag IgnoreMarks;
     sub [@aKaf.init @aKaf.medi]' lookup KafLam [@aLam.medi]' lookup KafLamHeh [@aHeh.fina @aDal.fina]' lookup LamHehIsol;
-    sub [@aKaf.init @aKaf.medi]' lookup KafMemAlf [@aMem.medi]' lookup KafMemAlf [@aLam.medi @aLam.fina @aAlf.fina]' lookup KafMemAlf;
-    sub [@aBaa.init]' lookup BaaSenAltInit [@aSen.medi]' lookup BaaSenAltInit [@aHeh.medi @aRaa.fina @aYaa.fina @aMem.fina]' lookup BaaSenAltInit;
+    sub [@aKaf.init @aKaf.medi]' lookup KafMemAlf [@aMem.medi]' lookup KafMemAlf [@aLam.medi @aLam.fina alef-ar.fina]' lookup KafMemAlf;
+    sub [behDotless-ar.init]' lookup BaaSenAltInit [@aSen.medi]' lookup BaaSenAltInit [@aHeh.medi @aRaa.fina alefMaksura-ar.fina @aMem.fina]' lookup BaaSenAltInit;
     sub [@aLam.init]' lookup LamHaaHaaInit [@aHaa.medi]' lookup LamHaaHaaInit [@aHaa.medi]' lookup LamHaaHaaInit2;
     sub [@aKaf.init @aKaf.medi]' lookup KafHeh [@aHeh.fina @aDal.fina]' lookup KafHeh;
     sub [@aLam.medi]' lookup LamMemFina [@aMem.fina]' lookup LamMemFina;
     sub [@aSen.init @aSad.init @aMem.init]' lookup SenMemInit [@aMem.medi]' lookup SenMemInit;
-    sub [@aKaf.init @aBaa.init @aFaa.init @aLam.init @aAyn.init @aHaa.init @aHeh.init @aMem.init.dots]' lookup AllYaaIsol [@aYaa.fina]' lookup AllYaaIsol;
-    sub [@aBaa.init]' lookup BaaRaaIsol [@aRaa.fina]' lookup BaaRaaIsol;
+    sub [@aKaf.init behDotless-ar.init @aFaa.init @aLam.init @aAyn.init @aHaa.init @aHeh.init @aMem.init.dots]' lookup AllYaaIsol [alefMaksura-ar.fina]' lookup AllYaaIsol;
+    sub [behDotless-ar.init]' lookup BaaRaaIsol [@aRaa.fina]' lookup BaaRaaIsol;
     sub [@aLam.init @aLam.medi @aLam.medi.LamLamInit]' lookup LamHehIsol [@aHeh.fina @aDal.fina]' lookup LamHehIsol;
     sub [@aLam.medi]' lookup LamWawFina [@aWaw.fina]' lookup LamWawFina;
-    sub [@aFaa.medi]' lookup FaaYaaFina [@aYaa.fina]' lookup FaaYaaFina;
+    sub [@aFaa.medi]' lookup FaaYaaFina [alefMaksura-ar.fina]' lookup FaaYaaFina;
     sub [@aLam.init]' lookup LamLamHaaInit [@aLam.medi]' lookup LamLamHaaInit [@aHaa.medi]' lookup LamLamHaaInit;
-    sub [@aLam.init]' lookup LamBaaMemInit [@aBaa.medi]' lookup LamBaaMemInit [@aMem.medi]' lookup LamBaaMemInit;
+    sub [@aLam.init]' lookup LamBaaMemInit [behDotless-ar.medi]' lookup LamBaaMemInit [@aMem.medi]' lookup LamBaaMemInit;
     sub [@aKaf.init @aKaf.medi]' lookup KafLam [@aLam.medi]' lookup KafLamMemMedi [@aMem.medi.dots]' lookup LamMemMedi;
     sub [@aKaf.init @aKaf.medi]' lookup KafLam [@aLam.medi @aLam.medi.LamMemFina]' lookup KafLamMemFina [@aMem.fina @aMem.fina.LamMemFinaExtended]' lookup LamMemFina;
-    sub [@aBaa.init]' lookup BaaDalIsol [@aDal.fina]' lookup BaaDalIsol;
-    sub [@aBaa.init]' lookup BaaBaaYaa [@aBaa.medi]' lookup BaaBaaYaa [@aYaa.fina]' lookup BaaBaaYaa;
-    sub [@aLam.medi]' lookup LamYaaFina [@aYaa.fina]' lookup LamYaaFina;
+    sub [behDotless-ar.init]' lookup BaaDalIsol [@aDal.fina]' lookup BaaDalIsol;
+    sub [behDotless-ar.init]' lookup BaaBaaYaa [behDotless-ar.medi]' lookup BaaBaaYaa [alefMaksura-ar.fina]' lookup BaaBaaYaa;
+    sub [@aLam.medi]' lookup LamYaaFina [alefMaksura-ar.fina]' lookup LamYaaFina;
     sub [@aLam.init]' lookup LamMemHaaInit [@aMem.medi]' lookup LamMemHaaInit [@aHaa.medi]' lookup LamMemHaaInit;
     sub [@aLam.init]' lookup LamMemInit [@aMem.medi]' lookup LamMemInit;
-    sub [@aLam.init]' lookup LamAlfIsol [@aAlf.fina]' lookup LamAlfIsol;
-    sub [@aLam.init]' lookup LamAlfIsol hamza-ar.float' [@aAlf.fina]' lookup LamAlfIsol;
+    sub [@aLam.init]' lookup LamAlfIsol [alef-ar.fina]' lookup LamAlfIsol;
+    sub [@aLam.init]' lookup LamAlfIsol hamza-ar.float' [alef-ar.fina]' lookup LamAlfIsol;
     sub [@aLam.init]' lookup LamHaaMemInit [@aHaa.medi]' lookup LamHaaMemInit [@aMem.medi]' lookup LamHaaMemInit;
-    sub [@aBaa.init]' lookup BaaBaaMemInit [@aBaa.medi]' lookup BaaBaaMemInit [@aMem.medi]' lookup BaaBaaMemInit;
-    sub [@aBaa.init]' lookup BaaBaaHaaInit [@aBaa.medi]' lookup BaaBaaHaaInit [@aHaa.medi]' lookup BaaBaaHaaInit;
+    sub [behDotless-ar.init]' lookup BaaBaaMemInit [behDotless-ar.medi]' lookup BaaBaaMemInit [@aMem.medi]' lookup BaaBaaMemInit;
+    sub [behDotless-ar.init]' lookup BaaBaaHaaInit [behDotless-ar.medi]' lookup BaaBaaHaaInit [@aHaa.medi]' lookup BaaBaaHaaInit;
     sub [@aMem.init]' lookup MemRaaIsol [@aRaa.fina]' lookup MemRaaIsol;
     sub [@aAyn.init]' [@aRaa.fina]' lookup MemRaaIsol;
     sub [@aHaa.init]' lookup HaaHaaInit [@aHaa.medi]' lookup HaaHaaInit;
-    sub [@aKaf.init @aLam.init @aBaa.init]' lookup KafMemIsol [@aMem.fina]' lookup KafMemIsol;
+    sub [@aKaf.init @aLam.init behDotless-ar.init]' lookup KafMemIsol [@aMem.fina]' lookup KafMemIsol;
     sub [@aLam.medi]' lookup LamQafFina [@aQaf.fina]' lookup LamQafFina;
     sub [@aMem.init @aMem.init.MemHaaInit]' lookup MemHaaMemInit [@aHaa.medi @aHaa.medi.SadHaaInit]' lookup MemHaaMemInit [@aMem.medi]' lookup KafMemInit;
-    sub [@aBaa.init]' lookup BaaNonIsol [@aNon.fina]' lookup BaaNonIsol;
+    sub [behDotless-ar.init]' lookup BaaNonIsol [noonghunna-ar.fina]' lookup BaaNonIsol;
     sub [@aKaf.medi]' lookup KafMemFina [@aMem.fina]' lookup KafMemFina;
-    sub [@aKaf.init @aKaf.medi]' lookup KafLam [@aLam.medi @aLam.medi.LamAlfFina]' lookup KafLamAlf [@aAlf.fina @aAlf.fina.LamAlfFina];
-    sub [@aKaf.init @aKaf.medi]' lookup KafLam [@aLam.medi @aLam.medi.LamAlfFina]' lookup KafLamAlf hamza-ar.float' [@aAlf.fina @aAlf.fina.LamAlfFina]; # see float hamza in quran.fea
-    sub [@aBaa.init]' lookup BaaSenInit [@aSen.medi]' lookup BaaSenInit;
-    sub [@aBaa.init]' lookup BaaSenAltInit [@aSen.fina]' lookup BaaSenInit;
+    sub [@aKaf.init @aKaf.medi]' lookup KafLam [@aLam.medi @aLam.medi.LamAlfFina]' lookup KafLamAlf [alef-ar.fina alef-ar.fina.LamAlfFina];
+    sub [@aKaf.init @aKaf.medi]' lookup KafLam [@aLam.medi @aLam.medi.LamAlfFina]' lookup KafLamAlf hamza-ar.float' [alef-ar.fina alef-ar.fina.LamAlfFina]; # see float hamza in quran.fea
+    sub [behDotless-ar.init]' lookup BaaSenInit [@aSen.medi]' lookup BaaSenInit;
+    sub [behDotless-ar.init]' lookup BaaSenAltInit [@aSen.fina]' lookup BaaSenInit;
     sub [@aKaf.medi]' lookup KafRaaFina [@aRaa.fina]' lookup KafRaaFina;
     ignore sub [@aLam.init]' [hehgoal-ar.medi];
     sub [@aLam.init]' lookup LamHehInit [@aHeh.medi]' lookup LamHehInit;
-    sub [@aBaa.init]' lookup BaaMemInit [@aMem.medi]' lookup BaaMemInit;
-    sub [@aKaf.init @aKaf.medi]' lookup KafLam [@aLam.medi @aLam.fina @aAlf.fina @aKaf.fina]' lookup KafLam;
+    sub [behDotless-ar.init]' lookup BaaMemInit [@aMem.medi]' lookup BaaMemInit;
+    sub [@aKaf.init @aKaf.medi]' lookup KafLam [@aLam.medi @aLam.fina alef-ar.fina @aKaf.fina]' lookup KafLam;
     sub [@aKaf.init]' lookup KafRaaIsol [@aRaa.fina]' lookup KafRaaIsol;
     sub [@aAyn.init]' lookup AynHaaInit [@aHaa.medi]' lookup AynHaaInit;
-    sub [@aKaf.medi @aAyn.medi]' lookup KafYaaFina [@aYaa.fina]' lookup KafYaaFina;
+    sub [@aKaf.medi @aAyn.medi]' lookup KafYaaFina [alefMaksura-ar.fina]' lookup KafYaaFina;
     sub [@aLam.medi]' lookup LamMemMedi [@aMem.medi.dots]' lookup LamMemMedi;
-    sub [@aSen.init @aSad.init]' lookup SenBaaMemInit [@aBaa.medi]' lookup SenBaaMemInit [@aMem.medi]' lookup SenBaaMemInit;
-    sub [@aBaa.init]' lookup BaaBaa [@aBaa.medi @aBaa.fina]' lookup BaaBaa;
+    sub [@aSen.init @aSad.init]' lookup SenBaaMemInit [behDotless-ar.medi]' lookup SenBaaMemInit [@aMem.medi]' lookup SenBaaMemInit;
+    sub [behDotless-ar.init]' lookup BaaBaa [behDotless-ar.medi behDotless-ar.fina]' lookup BaaBaa;
     sub [@aHaa.init]' lookup HaaRaaIsol [@aRaa.fina]' lookup HaaRaaIsol;
     sub [@aLam.init]' lookup LamRaaIsol [@aRaa.fina]' lookup LamRaaIsol;
-    sub [@aBaa.init @aBaa.init.BaaHaaInit]' lookup BaaHaaMemInit [@aHaa.medi @aHaa.medi.SadHaaInit]' lookup BaaHaaMemInit [@aMem.medi]' lookup KafMemInit;
-    sub [@aAyn.init @aBaa.init @aHaa.init @aHeh.init @aMem.init @aSad.init @aSen.init]' lookup AboveHaaIsol [@aHaa.fina]' lookup AboveHaaIsol;
+    sub [behDotless-ar.init behDotless-ar.init.BaaHaaInit]' lookup BaaHaaMemInit [@aHaa.medi @aHaa.medi.SadHaaInit]' lookup BaaHaaMemInit [@aMem.medi]' lookup KafMemInit;
+    sub [@aAyn.init behDotless-ar.init @aHaa.init @aHeh.init @aMem.init @aSad.init @aSen.init]' lookup AboveHaaIsol [@aHaa.fina]' lookup AboveHaaIsol;
     sub [@aFaa.init @aLam.init @aKaf.init]' lookup AboveHaaIsol [@aHaa.medi @aHaa.fina]' lookup AboveHaaIsol2;
-    sub [@aSen.init @aSad.init @aSen.medi @aSad.medi]' lookup SenYaaFina [@aYaa.fina @aRaa.fina]' lookup SenYaaFina;
+    sub [@aSen.init @aSad.init @aSen.medi @aSad.medi]' lookup SenYaaFina [alefMaksura-ar.fina @aRaa.fina]' lookup SenYaaFina;
 } rlig;
 
 feature rlig {
@@ -2063,22 +1896,22 @@ feature rlig {
 } rlig;
 
 lookup ToothYaaBariFina {
-    sub @aBaa.medi by @aBaa.medi.YaaBari;
-    sub @aBaa.init.BaaBaaIsol by @aBaa.init.BaaBaaYaaBari;
-    sub @aBaa.medi.BaaBaaInit by @aBaa.medi.YaaBari;
+    sub behDotless-ar.medi by behDotless-ar.medi.YaaBari;
+    sub behDotless-ar.init.BaaBaaIsol by behDotless-ar.init.BaaBaaYaaBari;
+    sub behDotless-ar.medi.BaaBaaInit by behDotless-ar.medi.YaaBari;
     sub @aHaa.init.DotBelow by @aHaa.init.BaaYaaBari;
     sub @aYaaBari.fina by @aYaaBari.fina.PostToothFina;
 } ToothYaaBariFina;
 
 feature rlig {
     lookupflag IgnoreMarks;
-    sub [@aHaa.init.DotBelow]' lookup ToothYaaBariFina [@aBaa.medi]' lookup ToothYaaBariFina [@aYaaBari.fina]' lookup ToothYaaBariFina;
-    sub [@aBaa.medi]' lookup ToothYaaBariFina [@aYaaBari.fina]' lookup ToothYaaBariFina;
-    sub [@aBaa.init.BaaBaaIsol]' lookup ToothYaaBariFina [@aBaa.medi.BaaBaaInit]' lookup ToothYaaBariFina [@aYaaBari.fina]' lookup ToothYaaBariFina;
+    sub [@aHaa.init.DotBelow]' lookup ToothYaaBariFina [behDotless-ar.medi]' lookup ToothYaaBariFina [@aYaaBari.fina]' lookup ToothYaaBariFina;
+    sub [behDotless-ar.medi]' lookup ToothYaaBariFina [@aYaaBari.fina]' lookup ToothYaaBariFina;
+    sub [behDotless-ar.init.BaaBaaIsol]' lookup ToothYaaBariFina [behDotless-ar.medi.BaaBaaInit]' lookup ToothYaaBariFina [@aYaaBari.fina]' lookup ToothYaaBariFina;
 } rlig;
 
 lookup AscenderYaaBari {
-    sub @aBaa.init by @aBaa.init.YaaBari;
+    sub behDotless-ar.init by behDotless-ar.init.YaaBari;
     sub @aFaa.init by @aFaa.init.YaaBari;
     sub @aLam.init by @aLam.init.YaaBari;
     sub @aKaf.init by @aKaf.init.YaaBari;
@@ -2087,7 +1920,7 @@ lookup AscenderYaaBari {
 
 feature rlig {
     lookupflag IgnoreMarks;
-    sub [@aBaa.init @aFaa.init @aLam.init @aKaf.init]' lookup AscenderYaaBari [@aYaaBari.fina]' lookup AscenderYaaBari;
+    sub [behDotless-ar.init @aFaa.init @aLam.init @aKaf.init]' lookup AscenderYaaBari [@aYaaBari.fina]' lookup AscenderYaaBari;
 } rlig;
 
 lookup AynYaaBari {
@@ -2155,27 +1988,27 @@ feature rlig {
 # Wider alef wasl and alef with hamza above after faa
 feature rlig {
     lookupflag IgnoreMarks;
-    sub @aFaa.init [alefWasla-ar.fina alefHamzaabove-ar.fina]' by [alefWasla-ar.fina.Wide alefHamzaabove-ar.fina.Wide];
+    #sub @aFaa.init [alefWasla-ar.fina alefHamzaabove-ar.fina]' by [alefWasla-ar.fina.Wide alefHamzaabove-ar.fina.Wide];
 } rlig;
 
 # If there are no marks, revert the above substitution
 feature rlig {
-    sub @aFaa.init [alefWasla-ar.fina.Wide alefHamzaabove-ar.fina.Wide]' by [alefWasla-ar.fina alefHamzaabove-ar.fina];
+    #sub @aFaa.init [alefWasla-ar.fina.Wide alefHamzaabove-ar.fina.Wide]' by [alefWasla-ar.fina alefHamzaabove-ar.fina];
 } rlig;
 
 feature rlig {
     lookupflag IgnoreMarks;
-    sub [@aAyn.init @aHaa.init @aHaa.medi]' [@aAlf.fina @aDal.fina @aHeh.fina @aLam.fina @aLam.medi @aLam.medi.LamMemFina @aLam.medi.LamWawFina @aLam.medi.LamHeh @aLam.medi.LamYaaFina @aKaf.fina @aLam.medi.LamQafFina @aBaa.medi.BaaRaaFina @aLam.medi.LamAlfFina @aLam.medi.LamMemMedi @aLam.medi.LamLamMedi @aBaa.medi.BaaNonFina @aBaa.medi.High @aKaf.medi @aKaf.medi.KafMemAlf @aKaf.medi.KafMemMedi @aKaf.medi.KafMemFina @aKaf.medi.KafLam @aKaf.medi.KafHeh @aKaf.medi.KafBaaMedi @aKaf.medi.KafRaaFina @aKaf.medi.KafYaaFina @aKaf.medi.PreHeh] by [@aAyn.init.Finjani @aHaa.init.Finjani @aHaa.medi.Finjani];
+    sub [@aAyn.init @aHaa.init @aHaa.medi]' [alef-ar.fina @aDal.fina @aHeh.fina @aLam.fina @aLam.medi @aLam.medi.LamMemFina @aLam.medi.LamWawFina @aLam.medi.LamHeh @aLam.medi.LamYaaFina @aKaf.fina @aLam.medi.LamQafFina behDotless-ar.medi.BaaRaaFina @aLam.medi.LamAlfFina @aLam.medi.LamMemMedi @aLam.medi.LamLamMedi behDotless-ar.medi.BaaNonFina behDotless-ar.medi.High @aKaf.medi @aKaf.medi.KafMemAlf @aKaf.medi.KafMemMedi @aKaf.medi.KafMemFina @aKaf.medi.KafLam @aKaf.medi.KafHeh @aKaf.medi.KafBaaMedi @aKaf.medi.KafRaaFina @aKaf.medi.KafYaaFina @aKaf.medi.PreHeh] by [@aAyn.init.Finjani @aHaa.init.Finjani @aHaa.medi.Finjani];
 } rlig;
 
 lookup BaaYaaFina {
-    sub @aBaa.medi by @aBaa.medi.BaaYaaFina;
-    sub @aYaa.fina by @aYaa.fina.BaaYaaFina;
+    sub behDotless-ar.medi by behDotless-ar.medi.BaaYaaFina;
+    sub alefMaksura-ar.fina by alefMaksura-ar.fina.BaaYaaFina;
 } BaaYaaFina;
 
 feature rlig {
     lookupflag IgnoreMarks;
-    sub [@aBaa.medi]' lookup BaaYaaFina [@aYaa.fina]' lookup BaaYaaFina;
+    sub [behDotless-ar.medi]' lookup BaaYaaFina [alefMaksura-ar.fina]' lookup BaaYaaFina;
 } rlig;
 
 lookup ToothMem {
@@ -2197,7 +2030,7 @@ lookup KafLamYaa {
 
 feature rlig {
     lookupflag IgnoreMarks;
-    sub [@aLam.medi.KafLam]' lookup KafLamYaa [@aYaa.fina]' lookup LamYaaFina;
+    sub [@aLam.medi.KafLam]' lookup KafLamYaa [alefMaksura-ar.fina]' lookup LamYaaFina;
 } rlig;
 
 @LamKafInit = [@aLam.init @aLam.medi @aLam.medi.KafLam @aLam.medi.KafMemLam @aLam.medi.LamLamInit];
@@ -2218,12 +2051,12 @@ lookup HehYaaFina {
 
 feature rlig {
     lookupflag IgnoreMarks;
-    sub [@aHeh.medi.PostTooth @aHeh.medi.BaaHehMedi]' lookup HehYaaFina [@aYaa.fina]' lookup BaaYaaFina;
+    sub [@aHeh.medi.PostTooth @aHeh.medi.BaaHehMedi]' lookup HehYaaFina [alefMaksura-ar.fina]' lookup BaaYaaFina;
 } rlig;
 
 feature rlig {
     lookupflag IgnoreMarks;
-    sub @RaaWaw [alefHamzabelow-ar alefWavyhamzabelow-ar]' by @aAlf.isol.LowHamza;
+    #sub @RaaWaw [alefHamzabelow-ar alefWavyhamzabelow-ar]' by alef-ar.isol.LowHamza;
 } rlig;
 
 # insert tatweel between ح and ك in فحك[ملير]
@@ -2244,7 +2077,7 @@ lookup AboveHaaTatweel {
 
 feature rlig {
     lookupflag IgnoreMarks;
-    sub [@aHaa.medi.FaaHaaInit @aHaa.medi.SadHaaInit]' lookup AboveHaaTatweel [@aBaa.medi.BaaNonFina @aBaa.medi.BaaRaaFina];
+    sub [@aHaa.medi.FaaHaaInit @aHaa.medi.SadHaaInit]' lookup AboveHaaTatweel [behDotless-ar.medi.BaaNonFina behDotless-ar.medi.BaaRaaFina];
 } rlig;
 
 # When an initial Baa is followed by Alef, the dot clashes with the Hamza below
@@ -2252,26 +2085,25 @@ feature rlig {
 # with a wider variant.
 feature rlig {
     lookupflag IgnoreMarks;
-    sub @aBaa.init' lookup BaaInitWide @aAlf.fina;
+    sub behDotless-ar.init' lookup BaaInitWide alef-ar.fina;
 } rlig;
 
 # If the Alef has no Hamza below, or there is no marks above the Baa, revert to
 # the original, non-wide form (notice there is no IgnoreMarks flag).
 feature rlig {
-    sub [@aBaa.init.Wide]' [alefMadda-ar.fina alefHamzaabove-ar.fina alef-ar.fina alefWasla-ar.fina alefWavyhamzaabove-ar.fina alefTwoabove-ar.fina alefThreeabove-ar.fina] by [@aBaa.init];
+    sub [behDotless-ar.init.Wide]' [alef-ar.fina] by [behDotless-ar.init];
 } rlig;
 
-# XXX: use a different glyph for PDF text extraction
 feature rlig {
     script arab;
     language ARA;
     lookupflag IgnoreMarks;
     # Replace teh init following teh/theh medi by a teh init with two vertical
     # dots.
-    sub teh-ar.init.BaaBaaIsol' [teh-ar.medi.BaaBaaInit theh-ar.medi.BaaBaaInit] by tteheh-ar.init.BaaBaaIsol;
-    sub teh-ar.init.High' [teh-ar.medi.High theh-ar.medi.High] by tteheh-ar.init.High;
+    #sub teh-ar.init.BaaBaaIsol' [teh-ar.medi.BaaBaaInit theh-ar.medi.BaaBaaInit] by tteheh-ar.init.BaaBaaIsol;
+    #sub teh-ar.init.High' [teh-ar.medi.High theh-ar.medi.High] by tteheh-ar.init.High;
     # Ditto for يبين and co.
-    sub [beh-ar.medi.BaaBaaInit yeh-ar.medi.BaaBaaInit] [yeh-ar.medi.BaaNonFina yeh-ar.medi.BaaRaaFina]' by [e-ar.medi.BaaNonFina e-ar.medi.BaaRaaFina];
+    #sub [beh-ar.medi.BaaBaaInit yeh-ar.medi.BaaBaaInit] [yeh-ar.medi.BaaNonFina yeh-ar.medi.BaaRaaFina]' by [e-ar.medi.BaaNonFina e-ar.medi.BaaRaaFina];
 } rlig;
 
 # Insert kashida between final ع and the kasra below the preceding letter
@@ -2309,16 +2141,16 @@ feature ss01 {
     };
 
     lookupflag IgnoreMarks;
-    sub @RaaWaw @aBaaDotBelow' by @aBaaLowDotBelow;
+    #sub @RaaWaw @aBaaDotBelow' by @aBaaLowDotBelow;
 } ss01;
 
 #
 lookup MemAlfFina {
-    sub @aAlf.fina by @aAlf.fina.MemAlfFina;
+    sub alef-ar.fina by alef-ar.fina.MemAlfFina;
     sub @aMem.medi by @aMem.medi.MemAlfFina;
     sub @aSad.medi by @aSad.medi.PreYaa;
     sub @aSen.medi by @aSen.medi.PreYaa;
-    sub @aBaa.init.BaaSenInit by @aBaa.init.BaaSenAltInit;
+    sub behDotless-ar.init.BaaSenInit by behDotless-ar.init.BaaSenAltInit;
     sub @aSen.medi.BaaSenInit by @aSen.medi.BaaSenAltInit;
 } MemAlfFina;
 
@@ -2327,7 +2159,7 @@ lookup MemAlfFinaPostTooth {
 } MemAlfFinaPostTooth;
 
 lookup BaaMemAlfFina {
-    sub @aBaa.medi by @aBaa.medi.BaaMemAlfFina;
+    sub behDotless-ar.medi by behDotless-ar.medi.BaaMemAlfFina;
     sub @aMem.medi by @aMem.medi.BaaMemAlfFina;
 } BaaMemAlfFina;
 
@@ -2346,11 +2178,11 @@ feature ss02 {
     };
 
     lookupflag IgnoreMarks;
-    ignore sub @NoMemAlfFina @aMem.medi' @aAlf.fina';
-    sub @aBaa.medi' lookup BaaMemAlfFina @aMem.medi' lookup BaaMemAlfFina @aAlf.fina' lookup MemAlfFina;
-    sub [@aSad.medi @aSen.medi]' lookup MemAlfFina @aMem.medi' lookup MemAlfFinaPostTooth @aAlf.fina' lookup MemAlfFina;
-    sub @aBaa.init.BaaSenInit' lookup MemAlfFina @aSen.medi.BaaSenInit' lookup MemAlfFina @aMem.medi' lookup MemAlfFinaPostTooth @aAlf.fina' lookup MemAlfFina;
-    sub @aMem.medi' lookup MemAlfFina @aAlf.fina' lookup MemAlfFina;
+    ignore sub @NoMemAlfFina @aMem.medi' alef-ar.fina';
+    sub behDotless-ar.medi' lookup BaaMemAlfFina @aMem.medi' lookup BaaMemAlfFina alef-ar.fina' lookup MemAlfFina;
+    sub [@aSad.medi @aSen.medi]' lookup MemAlfFina @aMem.medi' lookup MemAlfFinaPostTooth alef-ar.fina' lookup MemAlfFina;
+    sub behDotless-ar.init.BaaSenInit' lookup MemAlfFina @aSen.medi.BaaSenInit' lookup MemAlfFina @aMem.medi' lookup MemAlfFinaPostTooth alef-ar.fina' lookup MemAlfFina;
+    sub @aMem.medi' lookup MemAlfFina alef-ar.fina' lookup MemAlfFina;
 } ss02;
 
 feature ss03 {
@@ -2424,8 +2256,8 @@ features = (
 code = "@Dal_1 = [@aDal.fina @aDal.fina.BaaDal @aDal.fina.KafDal @aDal.fina.LamDal @aDal.isol];
 @side1_4 = [@aHeh.isol @aHeh.fina @aHeh.fina.KafHeh @aHeh.fina.LamHeh];
 # final alef with no hamza above
-@Alf_1 = [alef-ar.fina.LamAlfFina alefHamzabelow-ar.fina.LamAlfFina];
-@Alf_2 = [@aAlf.fina @aAlf.fina.KafAlf @aAlf.fina.KafMemAlf @aAlf.fina.LamAlfFina @aAlf.fina.LamAlfIsol @aAlf.fina.MemAlfFina];
+@Alf_1 = [alef-ar.fina.LamAlfFina]; #alefHamzabelow-ar.fina.LamAlfFina];
+@Alf_2 = [alef-ar.fina alef-ar.fina.KafAlf alef-ar.fina.KafMemAlf alef-ar.fina.LamAlfFina alef-ar.fina.LamAlfIsol alef-ar.fina.MemAlfFina];
 @Kaf_1 = [@aKaf.init.KafHeh @aKaf.init.KafMemIsol];
 @Kaf_2 = [@aKaf.init.KafBaaInit @aKaf.init.KafMemAlf];
 @Kaf_3 = [@aKaf.init @aKaf.init.KafLam @aKaf.init.PreHeh @aGaf.isol];
@@ -2452,7 +2284,7 @@ lookup kern_2 {
     pos @RaaWaw @Kaf_5 <-293 0 -293 0>;
     pos @RaaWaw [@Kaf_2 @Kaf_3] <-146 0 -146 0>;
     pos @RaaWaw @side2_3 <-49 0 -49 0>;
-    pos @RaaWaw @aYaa.init <39 0 39 0>;
+    #pos @RaaWaw @aYaa.init <39 0 39 0>;
     pos @RaaWaw semicolon-ar <59 0 59 0>;
     # Arabic semicolon
     pos @Dal_1 @Kaf_5 <-293 0 -293 0>;
@@ -2461,7 +2293,7 @@ lookup kern_2 {
     pos @Raa_2 [@Kaf_1 @Kaf_5] <-391 0 -391 0>;
     pos @Raa_2 @side2_3 <-98 0 -98 0>;
     pos @Raa_2 @side2_4 <-195 0 -195 0>;
-    pos @Raa_2 @aBaaDotBelow <88 0 88 0>;
+    #pos @Raa_2 @aBaaDotBelow <88 0 88 0>;
     # the dots of teh marbuta are very close to exclamation mark
     pos @Teh_m exclam <73 0 73 0>;
 } kern_2;
@@ -2469,12 +2301,12 @@ lookup kern_2 {
 lookup kern_3 {
     lookupflag IgnoreMarks;
     # +ve kern so that the tail of raa/waw does not touch the dot of baa
-    pos [@RaaWaw @AlefHamzaBelow] @aBaaDotBelow <83 0 83 0>;
+    #pos [@RaaWaw @AlefHamzaBelow] @aBaaDotBelow <83 0 83 0>;
 } kern_3;
 
 lookup kern_4 {
     # increase advance width for first glyph in 3-letter Baree Yaa ligatures
-    pos [@aAyn.init @aFaa.init @aHeh.init @aLam.init @aMem.init @aSen.init @aTaa.init hehDoachashmee-ar.init]' lookup YaaBari3Kern @aBaa.medi.YaaBari;
+    pos [@aAyn.init @aFaa.init @aHeh.init @aLam.init @aMem.init @aSen.init @aTaa.init hehDoachashmee-ar.init]' lookup YaaBari3Kern behDotless-ar.medi.YaaBari;
 } kern_4;
 
 # we don't want to ignore marks here
