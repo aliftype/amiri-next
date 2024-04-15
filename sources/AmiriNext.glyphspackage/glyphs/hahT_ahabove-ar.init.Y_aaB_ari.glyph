@@ -19,7 +19,7 @@ ref = "hah-ar.init.YaaBari";
 },
 {
 pos = (545,532);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 1032;
@@ -42,7 +42,7 @@ ref = "hah-ar.init.YaaBari";
 },
 {
 pos = (545,532);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 1032;

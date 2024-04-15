@@ -19,7 +19,7 @@ ref = "reh-ar.fina";
 },
 {
 pos = (174,300);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 343;
@@ -42,7 +42,7 @@ ref = "reh-ar.fina";
 },
 {
 pos = (174,300);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 343;

@@ -19,7 +19,7 @@ ref = "behDotless-ar.init.BaaBaaYaaBari";
 },
 {
 pos = (137,-122);
-ref = smallv.above.inverted;
+ref = "vinvertedabove-ar";
 },
 {
 pos = (150,-449);
@@ -46,7 +46,7 @@ ref = "behDotless-ar.init.BaaBaaYaaBari";
 },
 {
 pos = (137,-122);
-ref = smallv.above.inverted;
+ref = "vinvertedabove-ar";
 },
 {
 pos = (150,-449);

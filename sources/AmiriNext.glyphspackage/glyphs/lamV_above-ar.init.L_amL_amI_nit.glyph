@@ -19,7 +19,7 @@ ref = "lam-ar.init.LamLamInit";
 },
 {
 pos = (37,250);
-ref = smallv.above;
+ref = "vabove-ar";
 }
 );
 width = 158;
@@ -42,7 +42,7 @@ ref = "lam-ar.init.LamLamInit";
 },
 {
 pos = (27,250);
-ref = smallv.above;
+ref = "vabove-ar";
 }
 );
 width = 153;

@@ -23,7 +23,7 @@ ref = "alefMaksura-ar.fina.BaaYaaFina";
 },
 {
 pos = (173,-194);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 421;
@@ -50,7 +50,7 @@ ref = "alefMaksura-ar.fina.BaaYaaFina";
 },
 {
 pos = (173,-194);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 421;

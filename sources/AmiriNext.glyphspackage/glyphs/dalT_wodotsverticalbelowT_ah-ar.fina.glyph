@@ -19,7 +19,7 @@ ref = "dal-ar.fina";
 },
 {
 pos = (334,586);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 },
 {
 pos = (244,-190);
@@ -46,7 +46,7 @@ ref = "dal-ar.fina";
 },
 {
 pos = (334,586);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 },
 {
 pos = (244,-190);

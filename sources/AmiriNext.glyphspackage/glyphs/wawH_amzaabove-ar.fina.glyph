@@ -19,7 +19,7 @@ ref = "waw-ar.fina";
 },
 {
 pos = (197,-86);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 345;
@@ -42,7 +42,7 @@ ref = "waw-ar.fina";
 },
 {
 pos = (197,-86);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 345;

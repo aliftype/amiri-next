@@ -1,5 +1,4 @@
 {
-category = Mark;
 glyphname = smallteh.above;
 layers = (
 {
@@ -37,5 +36,4 @@ scale = (0.4,0.4);
 width = 0;
 }
 );
-subCategory = Nonspacing;
 }

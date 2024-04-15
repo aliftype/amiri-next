@@ -23,7 +23,7 @@ ref = "twodotshorizontalabove-ar";
 },
 {
 pos = (244,690);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 525;
@@ -50,7 +50,7 @@ ref = "twodotshorizontalabove-ar";
 },
 {
 pos = (244,690);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 525;

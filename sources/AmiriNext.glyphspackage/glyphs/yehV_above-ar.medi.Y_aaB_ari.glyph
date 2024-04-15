@@ -19,7 +19,7 @@ ref = "behDotless-ar.medi.YaaBari";
 },
 {
 pos = (39,-103);
-ref = smallv.above;
+ref = "vabove-ar";
 },
 {
 pos = (79,-449);
@@ -46,7 +46,7 @@ ref = "behDotless-ar.medi.YaaBari";
 },
 {
 pos = (39,-103);
-ref = smallv.above;
+ref = "vabove-ar";
 },
 {
 pos = (79,-449);

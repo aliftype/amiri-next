@@ -19,7 +19,7 @@ ref = "noonghunna-ar";
 },
 {
 pos = (269,488);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 572;
@@ -42,7 +42,7 @@ ref = "noonghunna-ar";
 },
 {
 pos = (269,488);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 572;

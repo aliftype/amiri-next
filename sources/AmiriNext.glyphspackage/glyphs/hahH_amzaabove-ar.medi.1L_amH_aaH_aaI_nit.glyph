@@ -23,7 +23,7 @@ ref = "hah-ar.medi.1LamHaaHaaInit";
 },
 {
 pos = (494,127);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 112;
@@ -46,7 +46,7 @@ ref = "hah-ar.medi.1LamHaaHaaInit";
 },
 {
 pos = (494,127);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 112;

@@ -23,7 +23,7 @@ ref = "alefMaksura-ar.fina.PostTooth";
 },
 {
 pos = (89,10);
-ref = aYaa.tail;
+ref = yeh.tail;
 }
 );
 width = 730;
@@ -50,7 +50,7 @@ ref = "alefMaksura-ar.fina.PostTooth";
 },
 {
 pos = (89,10);
-ref = aYaa.tail;
+ref = yeh.tail;
 }
 );
 width = 730;

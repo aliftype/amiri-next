@@ -19,7 +19,7 @@ ref = "dal-ar";
 },
 {
 pos = (205,537);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 450;
@@ -42,7 +42,7 @@ ref = "dal-ar";
 },
 {
 pos = (205,537);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 450;

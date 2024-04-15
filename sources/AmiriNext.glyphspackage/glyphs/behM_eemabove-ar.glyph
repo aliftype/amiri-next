@@ -9,7 +9,7 @@ ref = "beh-ar";
 },
 {
 pos = (470,250);
-ref = smallmeem.above;
+ref = "meemStopabove-ar.alt";
 }
 );
 width = 926;
@@ -22,7 +22,7 @@ ref = "beh-ar";
 },
 {
 pos = (470,250);
-ref = smallmeem.above;
+ref = "meemStopabove-ar.alt";
 }
 );
 width = 926;

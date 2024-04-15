@@ -19,7 +19,7 @@ ref = "reh-ar.fina.KafRaaIsol";
 },
 {
 pos = (98,-195);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 270;
@@ -42,7 +42,7 @@ ref = "reh-ar.fina.KafRaaIsol";
 },
 {
 pos = (98,-195);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 270;

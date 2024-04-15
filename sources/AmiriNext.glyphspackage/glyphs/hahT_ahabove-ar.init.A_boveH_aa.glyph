@@ -23,7 +23,7 @@ ref = "hah-ar.init.AboveHaa";
 },
 {
 pos = (619,654);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 731;
@@ -50,7 +50,7 @@ ref = "hah-ar.init.AboveHaa";
 },
 {
 pos = (619,654);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 731;

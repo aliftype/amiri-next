@@ -19,7 +19,7 @@ ref = "lam-ar.medi.LamAlfFina";
 },
 {
 pos = (85,317);
-ref = smallv.above;
+ref = "vabove-ar";
 }
 );
 width = 245;
@@ -42,7 +42,7 @@ ref = "lam-ar.medi.LamAlfFina";
 },
 {
 pos = (85,317);
-ref = smallv.above;
+ref = "vabove-ar";
 }
 );
 width = 245;

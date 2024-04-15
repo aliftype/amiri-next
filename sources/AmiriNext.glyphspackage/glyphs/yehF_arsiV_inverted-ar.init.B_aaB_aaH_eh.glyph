@@ -19,7 +19,7 @@ ref = "behDotless-ar.init.BaaBaaHeh";
 },
 {
 pos = (88,-122);
-ref = smallv.above.inverted;
+ref = "vinvertedabove-ar";
 },
 {
 pos = (84,-269);
@@ -47,7 +47,7 @@ ref = "twodotshorizontalbelow-ar";
 },
 {
 pos = (88,-122);
-ref = smallv.above.inverted;
+ref = "vinvertedabove-ar";
 },
 {
 ref = "behDotless-ar.init.BaaBaaHeh";

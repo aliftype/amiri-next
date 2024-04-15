@@ -20,7 +20,7 @@ ref = "alef-ar.fina.KafAlf";
 },
 {
 pos = (136,332);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 261;
@@ -44,7 +44,7 @@ ref = "alef-ar.fina.KafAlf";
 },
 {
 pos = (136,332);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 261;

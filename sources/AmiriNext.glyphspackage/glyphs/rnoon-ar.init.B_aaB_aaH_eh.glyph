@@ -19,7 +19,7 @@ ref = "behDotless-ar.init.BaaBaaHeh";
 },
 {
 pos = (87,361);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 233;
@@ -39,7 +39,7 @@ layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
 pos = (87,361);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 },
 {
 ref = "behDotless-ar.init.BaaBaaHeh";

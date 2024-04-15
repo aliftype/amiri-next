@@ -23,7 +23,7 @@ ref = "alefMaksura-ar.fina.FaaYaaFina";
 },
 {
 pos = (80,-51);
-ref = aYaa.tail;
+ref = yeh.tail;
 }
 );
 width = 476;
@@ -50,7 +50,7 @@ ref = "alefMaksura-ar.fina.FaaYaaFina";
 },
 {
 pos = (80,-51);
-ref = aYaa.tail;
+ref = yeh.tail;
 }
 );
 width = 476;

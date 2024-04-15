@@ -552,11 +552,11 @@ name = digits;
 code = "feature ccmp {
     # Unicode discourages the use of U+0673 directly.
     sub alef-ar wavyhamzabelow-ar by alefWavyhamzabelow-ar;
-    sub behMeemabove-ar by beh-ar smallmeem.above;
-    sub pehMeemabove-ar by peh-ar smallmeem.above;
+    sub behMeemabove-ar by beh-ar meemStopabove-ar.alt;
+    sub pehMeemabove-ar by peh-ar meemStopabove-ar.alt;
     sub tehTehabove-ar by behDotless-ar smallteh.above;
-    sub rehNoonabove-ar by reh-ar smallnoon.above;
-    sub yehTwodotsbelowNoonabove-ar by yeh-ar smallnoon.above;
+    sub rehNoonabove-ar by reh-ar noonabove-ar.alt;
+    sub yehTwodotsbelowNoonabove-ar by yeh-ar noonabove-ar.alt;
     sub highhamzaAlef-ar by highhamza-ar alef-ar;
     sub highhamzaWaw-ar by highhamza-ar waw-ar;
     sub highhamzaYeh-ar by highhamza-ar yehFarsi-ar;
@@ -651,7 +651,7 @@ feature init {
     sub hehDoachashmee-ar by hehDoachashmee-ar.init;
     sub tchehDotabove-ar by tchehDotabove-ar.init;
     sub hehgoal-ar by hehgoal-ar.init;
-    sub hehgoalHamzaabove-ar by hehgoal-ar.init hamza.above;
+    sub hehgoalHamzaabove-ar by hehgoal-ar.init hamzaabove-ar;
     sub yehFarsi-ar by yehFarsi-ar.init;
     sub yehVabove-ar by yehVabove-ar.init;
     sub e-ar by e-ar.init;
@@ -792,7 +792,7 @@ feature medi {
     sub hehDoachashmee-ar by hehDoachashmee-ar.medi;
     sub tchehDotabove-ar by tchehDotabove-ar.medi;
     sub hehgoal-ar by hehgoal-ar.medi;
-    sub hehgoalHamzaabove-ar by hehgoal-ar.medi hamza.above;
+    sub hehgoalHamzaabove-ar by hehgoal-ar.medi hamzaabove-ar;
     sub yehFarsi-ar by yehFarsi-ar.medi;
     sub yehVabove-ar by yehVabove-ar.medi;
     sub e-ar by e-ar.medi;
@@ -965,9 +965,9 @@ feature fina {
     sub noonThreedotsabove-ar by noonThreedotsabove-ar.fina;
     sub hehDoachashmee-ar by hehDoachashmee-ar.fina;
     sub tchehDotabove-ar by tchehDotabove-ar.fina;
-    sub hehHamzaabove-ar by ae-ar.fina hamza.above;
+    sub hehHamzaabove-ar by ae-ar.fina hamzaabove-ar;
     sub hehgoal-ar by hehgoal-ar.fina;
-    sub hehgoalHamzaabove-ar by hehgoal-ar.fina hamza.above;
+    sub hehgoalHamzaabove-ar by hehgoal-ar.fina hamzaabove-ar;
     sub tehMarbutagoal-ar by tehMarbutagoal-ar.fina;
     sub wawring-ar by wawring-ar.fina;
     sub kirghizoe-ar by kirghizoe-ar.fina;
@@ -1452,12 +1452,6 @@ feature rlig {
     sub [@AlefHamzaAbove hamzaabove-ar] [fatha-ar fatha-ar.small damma-ar sukun-ar]' by [fatha-ar.small2 fatha-ar.small2 damma-ar.small sukun-ar.small2];
     sub [@AlefHamzaBelow hamzabelow-ar dotvowelbelow-ar] [kasra-ar]' by [kasra-ar.small2];
 } rlig;
-
-# replace hamza mark when following a heh by a glyph that has only a
-# HamzaAbove mark so it will be positioned correctly
-feature ccmp {
-    sub [heh-ar ae-ar hehgoal-ar] [hamzaabove-ar]' by hamza.above;
-} ccmp;
 
 lookup BaaInitWide {
     sub @aBaa.init by @aBaa.init.Wide;

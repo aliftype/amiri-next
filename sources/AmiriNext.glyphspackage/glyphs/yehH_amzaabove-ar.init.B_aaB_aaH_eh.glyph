@@ -19,7 +19,7 @@ ref = "behDotless-ar.init.BaaBaaHeh";
 },
 {
 pos = (88,-122);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 233;
@@ -39,7 +39,7 @@ layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
 pos = (88,-122);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 },
 {
 ref = "behDotless-ar.init.BaaBaaHeh";

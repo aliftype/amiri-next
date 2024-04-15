@@ -23,7 +23,7 @@ ref = "hah-ar.init.AboveHaa";
 },
 {
 pos = (619,190);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 731;
@@ -50,7 +50,7 @@ ref = "hah-ar.init.AboveHaa";
 },
 {
 pos = (619,190);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 731;

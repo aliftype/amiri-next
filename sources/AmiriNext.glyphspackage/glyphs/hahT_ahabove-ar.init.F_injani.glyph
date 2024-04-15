@@ -19,7 +19,7 @@ ref = "hah-ar.init.Finjani";
 },
 {
 pos = (181,450);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 606;
@@ -42,7 +42,7 @@ ref = "hah-ar.init.Finjani";
 },
 {
 pos = (181,450);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 606;

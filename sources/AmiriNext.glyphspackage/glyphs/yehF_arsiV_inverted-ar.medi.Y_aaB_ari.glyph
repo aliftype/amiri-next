@@ -23,7 +23,7 @@ ref = "twodotshorizontalbelow-ar";
 },
 {
 pos = (39,-103);
-ref = smallv.above.inverted;
+ref = "vinvertedabove-ar";
 }
 );
 width = 205;
@@ -50,7 +50,7 @@ ref = "twodotshorizontalbelow-ar";
 },
 {
 pos = (39,-103);
-ref = smallv.above.inverted;
+ref = "vinvertedabove-ar";
 }
 );
 width = 205;

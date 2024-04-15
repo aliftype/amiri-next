@@ -19,7 +19,7 @@ ref = "behDotless-ar.medi.BaaMemFina";
 },
 {
 pos = (179,-73);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 337;
@@ -42,7 +42,7 @@ ref = "behDotless-ar.medi.BaaMemFina";
 },
 {
 pos = (179,-73);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 337;

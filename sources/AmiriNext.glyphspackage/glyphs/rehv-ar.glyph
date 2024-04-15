@@ -19,7 +19,7 @@ ref = "reh-ar";
 },
 {
 pos = (185,-6);
-ref = smallv.above;
+ref = "vabove-ar";
 }
 );
 width = 399;
@@ -42,7 +42,7 @@ ref = "reh-ar";
 },
 {
 pos = (185,-6);
-ref = smallv.above;
+ref = "vabove-ar";
 }
 );
 width = 399;

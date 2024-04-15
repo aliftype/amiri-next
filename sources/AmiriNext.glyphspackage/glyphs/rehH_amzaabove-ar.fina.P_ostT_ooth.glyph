@@ -19,7 +19,7 @@ ref = "reh-ar.fina.PostTooth";
 },
 {
 pos = (179,-124);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 553;
@@ -42,7 +42,7 @@ ref = "reh-ar.fina.PostTooth";
 },
 {
 pos = (179,-124);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 553;

@@ -19,7 +19,7 @@ ref = "behDotless-ar.init.BaaBaaYaaBari";
 },
 {
 pos = (137,-122);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 642;
@@ -42,7 +42,7 @@ ref = "behDotless-ar.init.BaaBaaYaaBari";
 },
 {
 pos = (137,-122);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 642;

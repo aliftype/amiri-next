@@ -6,7 +6,7 @@ layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 shapes = (
 {
 pos = (161,-449);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 321;
@@ -16,7 +16,7 @@ layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
 pos = (161,-449);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 321;

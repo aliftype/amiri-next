@@ -1,6 +1,5 @@
 {
-category = Mark;
-glyphname = smallmeem.above;
+glyphname = "meemStopabove-ar.alt";
 layers = (
 {
 anchors = (
@@ -35,5 +34,4 @@ ref = "meemStopabove-ar";
 width = 0;
 }
 );
-subCategory = Nonspacing;
 }

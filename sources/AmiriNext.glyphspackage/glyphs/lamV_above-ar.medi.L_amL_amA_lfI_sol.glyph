@@ -19,7 +19,7 @@ ref = "lam-ar.medi.LamLamAlfIsol";
 },
 {
 pos = (55,293);
-ref = smallv.above;
+ref = "vabove-ar";
 }
 );
 width = 221;
@@ -42,7 +42,7 @@ ref = "lam-ar.medi.LamLamAlfIsol";
 },
 {
 pos = (55,293);
-ref = smallv.above;
+ref = "vabove-ar";
 }
 );
 width = 221;

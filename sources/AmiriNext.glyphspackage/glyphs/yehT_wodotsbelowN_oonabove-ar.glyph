@@ -9,7 +9,7 @@ ref = "yeh-ar";
 },
 {
 pos = (340,180);
-ref = smallnoon.above;
+ref = "noonabove-ar.alt";
 }
 );
 width = 764;
@@ -22,7 +22,7 @@ ref = "yeh-ar";
 },
 {
 pos = (340,180);
-ref = smallnoon.above;
+ref = "noonabove-ar.alt";
 }
 );
 width = 764;

@@ -24,7 +24,7 @@ ref = "alef-ar.fina.MemAlfFina";
 },
 {
 pos = (150,332);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 295;
@@ -52,7 +52,7 @@ ref = "alef-ar.fina.MemAlfFina";
 },
 {
 pos = (150,332);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 295;

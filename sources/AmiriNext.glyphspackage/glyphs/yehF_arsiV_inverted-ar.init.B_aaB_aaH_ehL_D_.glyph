@@ -23,7 +23,7 @@ ref = "twodotshorizontalbelow-ar.l";
 },
 {
 pos = (88,-122);
-ref = smallv.above.inverted;
+ref = "vinvertedabove-ar";
 }
 );
 width = 233;
@@ -43,7 +43,7 @@ layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
 pos = (88,-122);
-ref = smallv.above.inverted;
+ref = "vinvertedabove-ar";
 },
 {
 pos = (84,-435);

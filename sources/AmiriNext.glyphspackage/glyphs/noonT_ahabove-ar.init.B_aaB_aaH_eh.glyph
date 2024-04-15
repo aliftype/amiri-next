@@ -19,7 +19,7 @@ ref = "behDotless-ar.init.BaaBaaHeh";
 },
 {
 pos = (87,361);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 },
 {
 pos = (88,273);
@@ -47,7 +47,7 @@ ref = "dotabove-ar";
 },
 {
 pos = (87,361);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 },
 {
 ref = "behDotless-ar.init.BaaBaaHeh";

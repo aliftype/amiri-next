@@ -19,7 +19,7 @@ ref = "reh-ar.fina.PostTooth";
 },
 {
 pos = (179,242);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 553;
@@ -42,7 +42,7 @@ ref = "reh-ar.fina.PostTooth";
 },
 {
 pos = (179,242);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 553;

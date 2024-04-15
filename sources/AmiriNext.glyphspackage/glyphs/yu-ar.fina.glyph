@@ -19,7 +19,7 @@ ref = "waw-ar.fina";
 },
 {
 pos = (197,-135);
-ref = aAlf.dagger;
+ref = "alefabove-ar.alt";
 }
 );
 width = 345;
@@ -42,7 +42,7 @@ ref = "waw-ar.fina";
 },
 {
 pos = (197,-135);
-ref = aAlf.dagger;
+ref = "alefabove-ar";
 }
 );
 width = 345;

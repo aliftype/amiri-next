@@ -23,7 +23,7 @@ ref = "dotabove-ar";
 },
 {
 pos = (63,5);
-ref = smallv.above;
+ref = "vabove-ar";
 }
 );
 width = 233;
@@ -43,7 +43,7 @@ layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
 pos = (63,5);
-ref = smallv.above;
+ref = "vabove-ar";
 },
 {
 pos = (88,273);

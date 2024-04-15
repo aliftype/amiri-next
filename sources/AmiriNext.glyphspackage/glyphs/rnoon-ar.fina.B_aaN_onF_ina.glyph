@@ -19,7 +19,7 @@ ref = "noonghunna-ar.fina.BaaNonFina";
 },
 {
 pos = (311,293);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 542;
@@ -42,7 +42,7 @@ ref = "noonghunna-ar.fina.BaaNonFina";
 },
 {
 pos = (311,293);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 542;

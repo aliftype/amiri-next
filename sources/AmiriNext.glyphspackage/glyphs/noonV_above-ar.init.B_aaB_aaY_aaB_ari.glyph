@@ -23,7 +23,7 @@ ref = "dotabove-ar";
 },
 {
 pos = (112,5);
-ref = smallv.above;
+ref = "vabove-ar";
 }
 );
 width = 642;
@@ -50,7 +50,7 @@ ref = "dotabove-ar";
 },
 {
 pos = (112,5);
-ref = smallv.above;
+ref = "vabove-ar";
 }
 );
 width = 642;

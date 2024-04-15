@@ -19,7 +19,7 @@ ref = "reh-ar.fina";
 },
 {
 pos = (175,-66);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 343;
@@ -42,7 +42,7 @@ ref = "reh-ar.fina";
 },
 {
 pos = (175,-66);
-ref = hamza.above;
+ref = "hamzaabove-ar";
 }
 );
 width = 343;

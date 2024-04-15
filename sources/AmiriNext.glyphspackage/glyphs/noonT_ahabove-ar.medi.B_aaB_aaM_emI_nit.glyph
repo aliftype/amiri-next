@@ -23,7 +23,7 @@ ref = "dotabove-ar";
 },
 {
 pos = (-56,678);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 182;
@@ -50,7 +50,7 @@ ref = "dotabove-ar";
 },
 {
 pos = (-56,678);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 182;

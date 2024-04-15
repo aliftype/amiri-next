@@ -1,6 +1,5 @@
 {
-category = Mark;
-glyphname = smalltaa.above;
+glyphname = "tahabove-ar.alt";
 layers = (
 {
 anchors = (
@@ -180,5 +179,4 @@ nodes = (
 width = 0;
 }
 );
-subCategory = Nonspacing;
 }

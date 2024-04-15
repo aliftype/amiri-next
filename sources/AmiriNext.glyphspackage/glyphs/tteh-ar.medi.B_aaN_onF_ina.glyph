@@ -19,7 +19,7 @@ ref = "behDotless-ar.medi.BaaNonFina";
 },
 {
 pos = (83,334);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 218;
@@ -42,7 +42,7 @@ ref = "behDotless-ar.medi.BaaNonFina";
 },
 {
 pos = (83,334);
-ref = smalltaa.above;
+ref = "tahabove-ar.alt";
 }
 );
 width = 218;
