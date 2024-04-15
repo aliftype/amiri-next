@@ -48,5 +48,6 @@ ref = "alefMaksura-ar";
 width = 764;
 }
 );
+subCategory = Placeholder;
 unicode = 1740;
 }

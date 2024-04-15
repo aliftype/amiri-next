@@ -56,5 +56,6 @@ ref = ring.below;
 width = 764;
 }
 );
+subCategory = Placeholder;
 unicode = 1568;
 }

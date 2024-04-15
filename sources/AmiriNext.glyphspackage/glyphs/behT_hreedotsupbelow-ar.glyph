@@ -48,5 +48,6 @@ ref = "threedotsupbelow-ar";
 width = 926;
 }
 );
+subCategory = Placeholder;
 unicode = 1874;
 }

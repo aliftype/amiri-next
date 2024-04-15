@@ -49,5 +49,6 @@ ref = "highhamza-ar";
 width = 781;
 }
 );
+subCategory = Placeholder;
 unicode = 1655;
 }

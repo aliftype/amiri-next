@@ -28,5 +28,6 @@ ref = smallteh.above;
 width = 926;
 }
 );
+subCategory = Placeholder;
 unicode = 2232;
 }

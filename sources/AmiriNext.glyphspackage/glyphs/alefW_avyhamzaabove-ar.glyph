@@ -48,5 +48,6 @@ ref = "wavyhamzaabove-ar";
 width = 217;
 }
 );
+subCategory = Placeholder;
 unicode = 1650;
 }

@@ -48,5 +48,6 @@ ref = "twodotsverticalbelow-ar";
 width = 926;
 }
 );
+subCategory = Placeholder;
 unicode = 1659;
 }

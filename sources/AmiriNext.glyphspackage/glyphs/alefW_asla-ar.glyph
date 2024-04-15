@@ -48,5 +48,6 @@ ref = "wasla-ar";
 width = 217;
 }
 );
+subCategory = Placeholder;
 unicode = 1649;
 }

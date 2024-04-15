@@ -28,5 +28,6 @@ ref = "meemStopabove-ar.alt";
 width = 926;
 }
 );
+subCategory = Placeholder;
 unicode = 2231;
 }

@@ -56,5 +56,6 @@ ref = yeh.tail;
 width = 764;
 }
 );
+subCategory = Placeholder;
 unicode = 1741;
 }
