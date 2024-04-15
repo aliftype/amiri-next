@@ -19,7 +19,7 @@ shapes = (
 ref = "dotabove-ar";
 }
 );
-width = 0;
+width = 65;
 },
 {
 anchors = (

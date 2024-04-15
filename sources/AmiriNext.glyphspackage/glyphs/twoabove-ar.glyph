@@ -20,7 +20,7 @@ ref = "twoFarsi-ar";
 scale = (0.5,0.5);
 }
 );
-width = 0;
+width = 110;
 },
 {
 anchors = (

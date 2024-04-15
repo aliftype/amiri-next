@@ -54,7 +54,7 @@ nodes = (
 ref = "fatha-ar";
 }
 );
-width = 0;
+width = 374;
 },
 {
 anchors = (

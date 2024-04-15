@@ -55,7 +55,7 @@ ref = "reh-ar";
 scale = (0.5,0.5);
 }
 );
-width = 0;
+width = 389;
 },
 {
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";

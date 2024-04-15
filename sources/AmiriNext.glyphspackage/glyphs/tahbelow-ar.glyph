@@ -22,7 +22,7 @@ shapes = (
 ref = smalltaa.above;
 }
 );
-width = 0;
+width = 136;
 },
 {
 anchors = (

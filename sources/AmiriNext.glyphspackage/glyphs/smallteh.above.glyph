@@ -17,7 +17,7 @@ ref = "teh-ar";
 scale = (0.4,0.4);
 }
 );
-width = 0;
+width = 160;
 },
 {
 anchors = (

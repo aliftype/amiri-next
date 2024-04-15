@@ -35,7 +35,7 @@ pos = (-30,100);
 ref = "fathaCurly-ar";
 }
 );
-width = 0;
+width = 360;
 },
 {
 anchors = (

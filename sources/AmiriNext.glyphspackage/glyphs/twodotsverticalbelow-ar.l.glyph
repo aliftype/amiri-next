@@ -18,7 +18,7 @@ shapes = (
 ref = "twodotsverticalbelow-ar";
 }
 );
-width = 0;
+width = 85;
 },
 {
 anchors = (

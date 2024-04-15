@@ -118,7 +118,7 @@ nodes = (
 );
 }
 );
-width = 0;
+width = 383;
 },
 {
 anchors = (

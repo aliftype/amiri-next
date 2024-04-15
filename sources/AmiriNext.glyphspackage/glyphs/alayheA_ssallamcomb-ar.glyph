@@ -78,7 +78,7 @@ nodes = (
 );
 }
 );
-width = 0;
+width = 289;
 },
 {
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";

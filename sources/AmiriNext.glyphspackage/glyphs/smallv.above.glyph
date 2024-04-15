@@ -23,7 +23,7 @@ shapes = (
 ref = "vabove-ar";
 }
 );
-width = 0;
+width = 91;
 },
 {
 anchors = (

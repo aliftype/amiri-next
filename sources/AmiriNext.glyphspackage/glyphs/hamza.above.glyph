@@ -19,7 +19,7 @@ shapes = (
 ref = "hamzaabove-ar";
 }
 );
-width = 0;
+width = 110;
 },
 {
 anchors = (

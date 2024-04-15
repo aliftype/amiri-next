@@ -19,7 +19,7 @@ shapes = (
 ref = "vinvertedabove-ar";
 }
 );
-width = 0;
+width = 95;
 },
 {
 anchors = (

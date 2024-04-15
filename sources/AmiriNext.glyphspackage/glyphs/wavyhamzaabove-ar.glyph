@@ -19,7 +19,7 @@ pos = (0,920);
 ref = "wavyhamzabelow-ar";
 }
 );
-width = 0;
+width = 110;
 },
 {
 anchors = (

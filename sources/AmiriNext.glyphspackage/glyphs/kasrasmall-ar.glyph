@@ -23,7 +23,7 @@ pos = (34,-1284);
 ref = "fathasmall-ar";
 }
 );
-width = 0;
+width = 360;
 },
 {
 anchors = (
