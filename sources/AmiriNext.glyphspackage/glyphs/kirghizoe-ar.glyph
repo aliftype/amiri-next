@@ -48,5 +48,6 @@ ref = "stroke-ar";
 width = 400;
 }
 );
+subCategory = Placeholder;
 unicode = 1733;
 }

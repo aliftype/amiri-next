@@ -48,5 +48,6 @@ ref = "gaf-ar";
 width = 1202;
 }
 );
+subCategory = Placeholder;
 unicode = 1712;
 }

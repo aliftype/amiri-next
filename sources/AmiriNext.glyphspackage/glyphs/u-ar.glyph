@@ -50,5 +50,6 @@ ref = "dammainverted-ar.urd";
 width = 400;
 }
 );
+subCategory = Placeholder;
 unicode = 1735;
 }

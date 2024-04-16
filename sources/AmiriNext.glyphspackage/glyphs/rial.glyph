@@ -14,6 +14,14 @@ ref = "alef-ar.fina";
 {
 pos = (1023,0);
 ref = "reh-ar";
+},
+{
+pos = (830,0);
+ref = "behDotless-ar.init";
+},
+{
+pos = (800,-210);
+ref = "twodotshorizontalbelow-ar";
 }
 );
 width = 1423;
@@ -31,6 +39,14 @@ ref = "alef-ar.fina";
 {
 pos = (1023,0);
 ref = "reh-ar";
+},
+{
+pos = (830,0);
+ref = "behDotless-ar.init";
+},
+{
+pos = (800,-250);
+ref = "twodotshorizontalbelow-ar";
 }
 );
 width = 1423;

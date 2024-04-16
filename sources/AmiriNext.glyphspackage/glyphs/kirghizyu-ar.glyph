@@ -48,5 +48,6 @@ ref = "vinvertedabove-ar";
 width = 400;
 }
 );
+subCategory = Placeholder;
 unicode = 1737;
 }

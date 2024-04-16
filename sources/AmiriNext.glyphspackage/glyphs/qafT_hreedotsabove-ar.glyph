@@ -48,5 +48,6 @@ ref = "threedotsupabove-ar";
 width = 687;
 }
 );
+subCategory = Placeholder;
 unicode = 1704;
 }

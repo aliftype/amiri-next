@@ -48,5 +48,6 @@ ref = "hamzaabove-ar";
 width = 369;
 }
 );
+subCategory = Placeholder;
 unicode = 1730;
 }

@@ -56,5 +56,6 @@ ref = "twodotshorizontalabove-ar";
 width = 657;
 }
 );
+subCategory = Placeholder;
 unicode = 1919;
 }

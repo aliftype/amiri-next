@@ -48,5 +48,6 @@ ref = "hehgoal-ar";
 width = 369;
 }
 );
+subCategory = Placeholder;
 unicode = 1731;
 }

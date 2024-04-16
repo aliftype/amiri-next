@@ -48,5 +48,6 @@ ref = "vabove-ar";
 width = 603;
 }
 );
+subCategory = Placeholder;
 unicode = 1717;
 }

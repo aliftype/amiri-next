@@ -48,5 +48,6 @@ ref = "dotbelow-ar";
 width = 452;
 }
 );
+subCategory = Placeholder;
 unicode = 1894;
 }

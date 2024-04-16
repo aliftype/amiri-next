@@ -48,5 +48,6 @@ ref = "gafsarkashabove-ar";
 width = 1202;
 }
 );
+subCategory = Placeholder;
 unicode = 1711;
 }

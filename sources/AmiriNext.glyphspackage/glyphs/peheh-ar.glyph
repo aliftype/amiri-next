@@ -48,5 +48,6 @@ ref = "fourdotsabove-ar";
 width = 983;
 }
 );
+subCategory = Placeholder;
 unicode = 1702;
 }

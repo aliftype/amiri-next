@@ -48,5 +48,6 @@ ref = "fehDotmovedbelow-ar";
 width = 983;
 }
 );
+subCategory = Placeholder;
 unicode = 1699;
 }

@@ -48,5 +48,6 @@ ref = "dotabove-ar";
 width = 400;
 }
 );
+subCategory = Placeholder;
 unicode = 1743;
 }

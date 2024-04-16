@@ -48,5 +48,6 @@ ref = "tahabove-ar.alt";
 width = 450;
 }
 );
+subCategory = Placeholder;
 unicode = 1672;
 }

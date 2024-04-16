@@ -48,5 +48,6 @@ ref = ring.below;
 width = 1202;
 }
 );
+subCategory = Placeholder;
 unicode = 1707;
 }
