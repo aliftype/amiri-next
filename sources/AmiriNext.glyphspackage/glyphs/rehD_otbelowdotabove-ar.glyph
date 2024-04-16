@@ -13,7 +13,7 @@ ref = "dotbelow-ar";
 },
 {
 pos = (69,-101);
-ref = dot.alt1;
+ref = "dotabove-ar.alt";
 }
 );
 width = 399;
@@ -30,7 +30,7 @@ ref = "dotbelow-ar";
 },
 {
 pos = (69,-101);
-ref = dot.alt1;
+ref = "dotabove-ar.alt";
 }
 );
 width = 399;

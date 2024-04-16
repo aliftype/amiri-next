@@ -1,6 +1,5 @@
 {
-category = Mark;
-glyphname = dot.alt1;
+glyphname = "dotabove-ar.alt";
 layers = (
 {
 anchors = (
@@ -43,5 +42,4 @@ ref = "dotabove-ar";
 width = 73;
 }
 );
-subCategory = Nonspacing;
 }

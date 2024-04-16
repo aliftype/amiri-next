@@ -305,7 +305,7 @@ code = "feature ccmp {
 	sub rehRing-ar by reh-ar ring.below;
 	sub rehDotbelow-ar by reh-ar dotbelow-ar;
 	sub rehVbelow-ar by reh-ar vbelow-ar;
-	sub rehDotbelowdotabove-ar by reh-ar dot.alt1 dotbelow-ar;
+	sub rehDotbelowdotabove-ar by reh-ar dotabove-ar.alt dotbelow-ar;
 	sub rehTwodots-ar by reh-ar twodotshorizontalabove-ar;
 	sub rehFourdots-ar by reh-ar fourdotsabove-ar;
 	sub rehVinvertedabove-ar by reh-ar vinvertedabove-ar;
