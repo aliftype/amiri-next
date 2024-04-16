@@ -2,46 +2,26 @@
 glyphname = "kirghizyu-ar";
 layers = (
 {
-anchors = (
-{
-name = TashkilAbove;
-pos = (210,801);
-},
-{
-name = TashkilBelow;
-pos = (249,-327);
-}
-);
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 shapes = (
 {
 ref = "waw-ar";
 },
 {
-pos = (242,-53);
+pos = (210,337);
 ref = "vinvertedabove-ar";
 }
 );
 width = 400;
 },
 {
-anchors = (
-{
-name = TashkilAbove;
-pos = (210,801);
-},
-{
-name = TashkilBelow;
-pos = (249,-327);
-}
-);
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
 ref = "waw-ar";
 },
 {
-pos = (242,-53);
+pos = (210,337);
 ref = "vinvertedabove-ar";
 }
 );

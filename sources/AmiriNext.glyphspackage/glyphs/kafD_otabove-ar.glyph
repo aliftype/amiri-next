@@ -2,54 +2,34 @@
 glyphname = "kafDotabove-ar";
 layers = (
 {
-anchors = (
-{
-name = TashkilAbove;
-pos = (205,801);
-},
-{
-name = TashkilBelow;
-pos = (342,-327);
-}
-);
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 shapes = (
 {
-ref = "kaf-ar";
+ref = "kafDotless-ar";
 },
 {
 pos = (205,303);
 ref = "miniKeheh-ar";
 },
 {
-pos = (254,635);
+pos = (464,811);
 ref = "dotabove-ar";
 }
 );
 width = 657;
 },
 {
-anchors = (
-{
-name = TashkilAbove;
-pos = (205,801);
-},
-{
-name = TashkilBelow;
-pos = (342,-327);
-}
-);
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
-ref = "kaf-ar";
+ref = "kafDotless-ar";
 },
 {
 pos = (205,303);
 ref = "miniKeheh-ar";
 },
 {
-pos = (254,635);
+pos = (464,811);
 ref = "dotabove-ar";
 }
 );

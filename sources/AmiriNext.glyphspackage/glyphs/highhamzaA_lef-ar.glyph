@@ -3,47 +3,27 @@ color = 0;
 glyphname = "highhamzaAlef-ar";
 layers = (
 {
-anchors = (
-{
-name = TashkilAbove;
-pos = (98,757);
-},
-{
-name = TashkilBelow;
-pos = (122,-93);
-}
-);
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 shapes = (
 {
-ref = "alef-ar";
-},
-{
 pos = (217,0);
 ref = "highhamza-ar";
+},
+{
+ref = "alef-ar";
 }
 );
 width = 598;
 },
 {
-anchors = (
-{
-name = TashkilAbove;
-pos = (98,757);
-},
-{
-name = TashkilBelow;
-pos = (122,-93);
-}
-);
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
-ref = "alef-ar";
+pos = (217,0);
+ref = "highhamza-ar";
 },
 {
-pos = (217,130);
-ref = "highhamza-ar";
+ref = "alef-ar";
 }
 );
 width = 598;

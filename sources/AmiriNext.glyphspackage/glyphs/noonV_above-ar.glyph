@@ -2,54 +2,34 @@
 glyphname = "noonVabove-ar";
 layers = (
 {
-anchors = (
-{
-name = TashkilAbove;
-pos = (244,898);
-},
-{
-name = TashkilBelow;
-pos = (293,-327);
-}
-);
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 shapes = (
 {
 ref = "noonghunna-ar";
 },
 {
-pos = (269,483);
+pos = (269,484);
 ref = "dotabove-ar";
 },
 {
-pos = (244,215);
+pos = (245,215);
 ref = "vabove-ar";
 }
 );
 width = 572;
 },
 {
-anchors = (
-{
-name = TashkilAbove;
-pos = (244,898);
-},
-{
-name = TashkilBelow;
-pos = (293,-327);
-}
-);
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
 ref = "noonghunna-ar";
 },
 {
-pos = (269,483);
+pos = (269,484);
 ref = "dotabove-ar";
 },
 {
-pos = (244,215);
+pos = (245,215);
 ref = "vabove-ar";
 }
 );

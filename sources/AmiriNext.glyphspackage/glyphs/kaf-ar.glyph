@@ -2,103 +2,27 @@
 glyphname = "kaf-ar";
 layers = (
 {
-anchors = (
-{
-name = Dash;
-pos = (492,788);
-},
-{
-name = DotAbove;
-pos = (464,879);
-},
-{
-name = DotBelow;
-pos = (293,-98);
-},
-{
-name = HamzaAbove;
-pos = (205,303);
-},
-{
-name = RingBelow;
-pos = (293,49);
-},
-{
-name = TashkilAbove;
-pos = (205,801);
-},
-{
-name = TashkilBelow;
-pos = (342,-327);
-},
-{
-name = TwoDotsAbove;
-pos = (410,879);
-},
-{
-name = TwoDotsBelow;
-pos = (239,-98);
-}
-);
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 shapes = (
 {
-pos = (205,303);
-ref = "miniKeheh-ar";
+ref = "kafDotless-ar";
 },
 {
-ref = "kafDotless-ar";
+pos = (205,303);
+ref = "miniKeheh-ar";
 }
 );
 width = 657;
 },
 {
-anchors = (
-{
-name = Dash;
-pos = (492,788);
-},
-{
-name = DotAbove;
-pos = (464,879);
-},
-{
-name = DotBelow;
-pos = (293,-98);
-},
-{
-name = HamzaAbove;
-pos = (205,303);
-},
-{
-name = RingBelow;
-pos = (293,49);
-},
-{
-name = TashkilAbove;
-pos = (205,801);
-},
-{
-name = TashkilBelow;
-pos = (342,-327);
-},
-{
-name = TwoDotsAbove;
-pos = (410,879);
-},
-{
-name = TwoDotsBelow;
-pos = (239,-98);
-}
-);
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
-pos = (205,303);
-ref = "miniKeheh-ar";
+ref = "kafDotless-ar";
 },
 {
-ref = "kafDotless-ar";
+pos = (205,303);
+ref = "miniKeheh-ar";
 }
 );
 width = 657;

@@ -4,12 +4,24 @@ layers = (
 {
 anchors = (
 {
+name = DotAbove;
+pos = (203,453);
+},
+{
+name = DotBelow;
+pos = (260,-50);
+},
+{
 name = TashkilAbove;
 pos = (195,801);
 },
 {
 name = TashkilBelow;
 pos = (317,-391);
+},
+{
+name = "new anchor";
+pos = (237,43);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
@@ -83,6 +95,14 @@ width = 452;
 },
 {
 anchors = (
+{
+name = DotAbove;
+pos = (203,453);
+},
+{
+name = DotBelow;
+pos = (260,-50);
+},
 {
 name = TashkilAbove;
 pos = (195,801);

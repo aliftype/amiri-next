@@ -2,46 +2,26 @@
 glyphname = "tcheheh-ar";
 layers = (
 {
-anchors = (
-{
-name = TashkilAbove;
-pos = (342,801);
-},
-{
-name = TashkilBelow;
-pos = (405,-563);
-}
-);
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 shapes = (
 {
 ref = "hah-ar";
 },
 {
-pos = (405,-283);
+pos = (405,-342);
 ref = "fourdotsbelow-ar";
 }
 );
 width = 661;
 },
 {
-anchors = (
-{
-name = TashkilAbove;
-pos = (342,801);
-},
-{
-name = TashkilBelow;
-pos = (405,-563);
-}
-);
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
 ref = "hah-ar";
 },
 {
-pos = (405,-283);
+pos = (405,-342);
 ref = "fourdotsbelow-ar";
 }
 );

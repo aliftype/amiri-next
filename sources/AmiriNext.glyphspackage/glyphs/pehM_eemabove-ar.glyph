@@ -8,7 +8,7 @@ shapes = (
 ref = "peh-ar";
 },
 {
-pos = (470,250);
+pos = (461,197);
 ref = "meemStopabove-ar.alt";
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = "peh-ar";
 },
 {
-pos = (470,250);
+pos = (461,197);
 ref = "meemStopabove-ar.alt";
 }
 );

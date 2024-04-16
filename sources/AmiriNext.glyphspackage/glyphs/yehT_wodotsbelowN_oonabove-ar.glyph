@@ -8,7 +8,7 @@ shapes = (
 ref = "yeh-ar";
 },
 {
-pos = (340,180);
+pos = (286,193);
 ref = "noonabove-ar.alt";
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = "yeh-ar";
 },
 {
-pos = (340,180);
+pos = (286,193);
 ref = "noonabove-ar.alt";
 }
 );

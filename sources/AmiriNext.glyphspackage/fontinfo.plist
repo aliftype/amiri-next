@@ -2256,9 +2256,6 @@ key = vendorID;
 value = ALIF;
 }
 );
-settings = {
-disablesAutomaticAlignment = 1;
-};
 unitsPerEm = 1000;
 versionMajor = 0;
 versionMinor = 0;
