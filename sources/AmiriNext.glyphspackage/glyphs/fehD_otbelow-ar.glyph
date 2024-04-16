@@ -27,7 +27,7 @@ ref = "dotabove-ar";
 ref = "fehDotmovedbelow-ar";
 }
 );
-width = 983;
+width = 1056;
 }
 );
 subCategory = Placeholder;

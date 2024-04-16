@@ -43,7 +43,7 @@ ref = "threeFarsi-ar";
 scale = (0.5,0.5);
 }
 );
-width = 0;
+width = 136;
 }
 );
 }

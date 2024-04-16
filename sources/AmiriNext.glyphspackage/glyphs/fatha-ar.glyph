@@ -95,7 +95,7 @@ nodes = (
 );
 }
 );
-width = 0;
+width = 380;
 }
 );
 unicode = 1614;

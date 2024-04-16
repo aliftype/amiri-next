@@ -41,7 +41,7 @@ pos = (1,-127);
 ref = "threedotsupabove-ar";
 }
 );
-width = 0;
+width = 120;
 }
 );
 }

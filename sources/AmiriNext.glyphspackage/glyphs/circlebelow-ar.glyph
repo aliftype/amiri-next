@@ -164,7 +164,7 @@ nodes = (
 );
 }
 );
-width = 0;
+width = 247;
 }
 );
 production = uni08D1;

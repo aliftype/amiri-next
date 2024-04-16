@@ -150,7 +150,7 @@ nodes = (
 );
 }
 );
-width = 0;
+width = 405;
 }
 );
 unicode = 1557;

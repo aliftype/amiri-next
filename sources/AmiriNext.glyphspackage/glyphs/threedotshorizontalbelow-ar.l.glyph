@@ -20,7 +20,7 @@ pos = (2,-23);
 ref = "threedotshorizontalabove-ar";
 }
 );
-width = 164;
+width = 163;
 },
 {
 anchors = (
@@ -41,7 +41,7 @@ pos = (2,-23);
 ref = "threedotshorizontalabove-ar";
 }
 );
-width = 0;
+width = 170;
 }
 );
 }

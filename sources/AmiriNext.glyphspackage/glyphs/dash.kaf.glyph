@@ -43,7 +43,7 @@ nodes = (
 );
 }
 );
-width = 116;
+width = 115;
 },
 {
 anchors = (
@@ -89,7 +89,7 @@ nodes = (
 );
 }
 );
-width = 0;
+width = 130;
 }
 );
 subCategory = Nonspacing;
