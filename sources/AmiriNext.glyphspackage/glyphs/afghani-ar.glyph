@@ -67,10 +67,12 @@ nodes = (
 );
 },
 {
+alignment = -1;
 pos = (117,-1226);
 ref = "alefabove-ar";
 },
 {
+alignment = -1;
 pos = (303,493);
 ref = "dotabove-ar";
 }
@@ -143,10 +145,12 @@ nodes = (
 );
 },
 {
+alignment = -1;
 pos = (117,-1226);
 ref = "alefabove-ar";
 },
 {
+alignment = -1;
 pos = (303,493);
 ref = "dotabove-ar";
 }

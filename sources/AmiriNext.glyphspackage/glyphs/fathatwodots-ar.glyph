@@ -81,6 +81,7 @@ nodes = (
 );
 },
 {
+alignment = -1;
 ref = "fatha-ar";
 }
 );
@@ -162,6 +163,7 @@ nodes = (
 );
 },
 {
+alignment = -1;
 ref = "fatha-ar";
 }
 );

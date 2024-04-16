@@ -50,6 +50,7 @@ nodes = (
 );
 },
 {
+alignment = -1;
 pos = (220,915);
 ref = "reh-ar";
 scale = (0.5,0.5);
@@ -110,6 +111,7 @@ nodes = (
 );
 },
 {
+alignment = -1;
 pos = (220,915);
 ref = "reh-ar";
 scale = (0.5,0.5);

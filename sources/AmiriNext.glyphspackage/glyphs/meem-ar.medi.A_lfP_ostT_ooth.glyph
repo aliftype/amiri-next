@@ -15,9 +15,11 @@ pos = (173,-327);
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 shapes = (
 {
+alignment = -1;
 ref = "meem-ar.medi.BaaMemAlfFina";
 },
 {
+alignment = -1;
 pos = (49,0);
 ref = "behDotless-ar.medi.BaaMemAlfFina";
 }
@@ -38,9 +40,11 @@ pos = (173,-327);
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
+alignment = -1;
 ref = "meem-ar.medi.BaaMemAlfFina";
 },
 {
+alignment = -1;
 pos = (49,0);
 ref = "behDotless-ar.medi.BaaMemAlfFina";
 }

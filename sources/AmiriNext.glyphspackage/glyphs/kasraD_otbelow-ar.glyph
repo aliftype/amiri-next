@@ -61,6 +61,7 @@ nodes = (
 );
 },
 {
+alignment = -1;
 pos = (-142,-1274);
 ref = "fatha-ar";
 }
@@ -115,6 +116,7 @@ nodes = (
 );
 },
 {
+alignment = -1;
 pos = (-142,-1274);
 ref = "fatha-ar";
 }

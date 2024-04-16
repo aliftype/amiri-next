@@ -5,17 +5,21 @@ layers = (
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 shapes = (
 {
+alignment = -1;
 pos = (205,0);
 ref = dot.percent;
 },
 {
+alignment = -1;
 ref = dot.percent;
 },
 {
+alignment = -1;
 pos = (-425,489);
 ref = dot.percent;
 },
 {
+alignment = -1;
 pos = (156,0);
 ref = slash;
 }
@@ -26,17 +30,21 @@ width = 866;
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
+alignment = -1;
 pos = (205,0);
 ref = dot.percent;
 },
 {
+alignment = -1;
 ref = dot.percent;
 },
 {
+alignment = -1;
 pos = (-425,489);
 ref = dot.percent;
 },
 {
+alignment = -1;
 pos = (156,0);
 ref = slash;
 }

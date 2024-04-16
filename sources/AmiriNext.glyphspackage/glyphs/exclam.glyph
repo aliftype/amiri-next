@@ -34,6 +34,7 @@ nodes = (
 );
 },
 {
+alignment = -1;
 pos = (-39,0);
 ref = dot.2;
 }
@@ -79,6 +80,7 @@ nodes = (
 );
 },
 {
+alignment = -1;
 pos = (-27,0);
 ref = dot.2;
 }

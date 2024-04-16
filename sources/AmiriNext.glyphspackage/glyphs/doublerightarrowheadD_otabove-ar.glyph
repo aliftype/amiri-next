@@ -53,6 +53,7 @@ nodes = (
 );
 },
 {
+alignment = -1;
 ref = "doublerightarrowheadabove-ar";
 }
 );
@@ -102,6 +103,7 @@ nodes = (
 );
 },
 {
+alignment = -1;
 ref = "doublerightarrowheadabove-ar";
 }
 );

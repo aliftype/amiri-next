@@ -27,10 +27,12 @@ pos = (258,801);
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 shapes = (
 {
+alignment = -1;
 pos = (1,-21);
 ref = "fathaCurly-ar";
 },
 {
+alignment = -1;
 pos = (-30,100);
 ref = "fathaCurly-ar";
 }
@@ -59,10 +61,12 @@ pos = (258,801);
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
+alignment = -1;
 pos = (-30,100);
 ref = "fathaCurly-ar";
 },
 {
+alignment = -1;
 pos = (1,-21);
 ref = "fathaCurly-ar";
 }
