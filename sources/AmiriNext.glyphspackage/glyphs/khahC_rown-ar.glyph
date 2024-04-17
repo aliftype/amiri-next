@@ -1,0 +1,37 @@
+{
+category = Letter;
+direction = RTL;
+glyphname = "khahCrown-ar";
+layers = (
+{
+layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
+{
+ref = "hahCrown-ar";
+},
+{
+pos = (407,514);
+ref = "dotabove-ar";
+}
+);
+width = 859;
+},
+{
+layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
+{
+ref = "hahCrown-ar";
+},
+{
+pos = (407,514);
+ref = "dotabove-ar";
+}
+);
+width = 859;
+}
+);
+script = arabic;
+sortName = car0358;
+subCategory = Crown;
+unicode = 69343;
+}

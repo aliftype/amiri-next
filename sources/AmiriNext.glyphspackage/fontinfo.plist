@@ -1,5 +1,5 @@
 {
-.appVersion = "3300";
+.appVersion = "3301";
 .formatVersion = 3;
 axes = (
 {
@@ -435,6 +435,17 @@ code = "feature ccmp {
 	sub yehTail-ar by alefMaksura-ar yeh.tail;
 	sub behDotless-ar by alefMaksura-ar twodotshorizontalbelow-ar noonabove-ar;
 	#sub yehthin-ar.init by behDotless-ar.init.thin twodotshorizontalbelow-ar.small;
+} ccmp;
+
+feature ccmp {
+	lookupflag UseMarkFilteringSet [crown-ar];
+	sub	[alef-ar lam-ar]
+		 crown-ar'
+	by	 crown-ar.alt;
+
+	sub	[dal-ar]
+		 crown-ar'
+	by	 crown-ar.alt2;
 } ccmp;
 
 feature init {
@@ -1903,7 +1914,12 @@ name = kerning;
 );
 features = (
 {
-code = "@Dal_1 = [dal-ar.fina dal-ar.fina.BaaDal dal-ar.fina.KafDal dal-ar.fina.LamDal dal-ar];
+code = "lookup crown {
+	lookupflag UseMarkFilteringSet [crown-ar.alt];
+	pos [alef-ar]' crown-ar.alt <100 0 100 0>;
+} crown;
+
+@Dal_1 = [dal-ar.fina dal-ar.fina.BaaDal dal-ar.fina.KafDal dal-ar.fina.LamDal dal-ar];
 @side1_4 = [heh-ar heh-ar.fina heh-ar.fina.KafHeh heh-ar.fina.LamHeh];
 # final alef with no hamza above
 @Alf_1 = [alef-ar.fina.LamAlfFina]; #alefHamzabelow-ar.fina.LamAlfFina];
@@ -1939,8 +1955,8 @@ lookup kern_2 {
     # Arabic semicolon
     pos @Dal_1 @Kaf_5 <-293 0 -293 0>;
     pos @Dal_1 [@Kaf_2 @Kaf_3] <-195 0 -195 0>;
-    pos @Raa_2 [@Kaf_2 @Kaf_3 @Kaf_4] <-195 0 -195 0>;
-    pos @Raa_2 [@Kaf_1 @Kaf_5] <-391 0 -391 0>;
+    #pos @Raa_2 [@Kaf_2 @Kaf_3 @Kaf_4] <-195 0 -195 0>;
+    #pos @Raa_2 [@Kaf_1 @Kaf_5] <-391 0 -391 0>;
     pos @Raa_2 @side2_3 <-98 0 -98 0>;
     pos @Raa_2 @side2_4 <-195 0 -195 0>;
     #pos @Raa_2 @aBaaDotBelow <88 0 88 0>;
@@ -2072,6 +2088,13 @@ name = postscriptWeightName;
 value = Regular;
 }
 );
+guides = (
+{
+locked = 1;
+name = Crown;
+pos = (0,1086);
+}
+);
 id = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 metricValues = (
 {
@@ -2092,6 +2115,7 @@ pos = -634;
 }
 );
 name = Regular;
+visible = 1;
 },
 {
 axesValues = (
@@ -2115,6 +2139,13 @@ name = weightClass;
 value = 700;
 }
 );
+guides = (
+{
+locked = 1;
+name = Crown;
+pos = (0,1101);
+}
+);
 iconName = SemiBold;
 id = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 metricValues = (
@@ -2136,6 +2167,11 @@ pos = -634;
 }
 );
 name = Bold;
+userData = {
+GSOffsetHorizontal = 8;
+GSOffsetKeepCompatible = 1;
+GSOffsetVertical = 15;
+};
 }
 );
 instances = (
