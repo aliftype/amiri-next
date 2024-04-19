@@ -797,7 +797,7 @@ name = enclosing;
 },
 {
 code = "feature rtlm {
-  #sub radical by radical.rtlm;
+  sub radical by radical.rtlm;
 } rtlm;
 ";
 name = rtlm;

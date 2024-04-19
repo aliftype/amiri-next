@@ -10,7 +10,7 @@ ref = radical.rtlm;
 },
 {
 alignment = -1;
-pos = (188,403);
+pos = (168,403);
 ref = "three-ar.small";
 }
 );
