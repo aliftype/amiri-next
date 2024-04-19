@@ -1,4 +1,5 @@
 {
+category = Symbol;
 glyphname = "ringSymbol-ar";
 layers = (
 {
@@ -24,7 +25,5 @@ ref = ring.below;
 width = 182;
 }
 );
-sortName = ar2883;
-sortNameKeep = ar2883;
 unicode = 64447;
 }

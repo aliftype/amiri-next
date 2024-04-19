@@ -1,5 +1,5 @@
 {
-category = Punctuation;
+category = Symbol;
 glyphname = "tahaboveSymbol-ar";
 layers = (
 {
@@ -26,7 +26,5 @@ width = 321;
 }
 );
 script = arabic;
-sortName = ar2884;
-sortNameKeep = uni0FBC0;
 unicode = 64448;
 }
