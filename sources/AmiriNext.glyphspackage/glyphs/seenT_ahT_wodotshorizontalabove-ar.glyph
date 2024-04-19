@@ -36,6 +36,8 @@ ref = "tahabove-ar.alt";
 width = 992;
 }
 );
+sortName = ar0570;
+sortNameKeep = ar1371;
 subCategory = Placeholder;
 unicode = 1904;
 }

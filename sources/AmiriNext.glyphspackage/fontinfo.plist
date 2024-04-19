@@ -233,15 +233,15 @@ code = "feature ccmp {
 	# Beh family
 	sub beh-ar by behDotless-ar dotbelow-ar;
 	sub teh-ar by behDotless-ar twodotshorizontalabove-ar;
-	#sub tehVabove-ar by behDotless-ar twodotshorizontalabove-ar vabove-ar;
+	sub tehVabove-ar by behDotless-ar twodotshorizontalabove-ar vabove-ar;
 	sub theh-ar by behDotless-ar threedotsupabove-ar;
 	sub peh-ar by behDotless-ar threedotsdownbelow-ar;
-	#sub pehVabove-ar by behDotless-ar vabove-ar threedotsdownbelow-ar;
+	sub pehVabove-ar by behDotless-ar vabove-ar threedotsdownbelow-ar;
 	sub beeh-ar by behDotless-ar twodotsverticalbelow-ar;
 	sub beheh-ar by behDotless-ar fourdotsbelow-ar;
 	sub tehThreedotsdown-ar by behDotless-ar threedotsdownabove-ar;
 	sub tteh-ar by behDotless-ar tahabove-ar.alt;
-	#sub ttehVabove-ar by behDotless-ar tahabove-ar.alt vabove-ar;
+	sub ttehVabove-ar by behDotless-ar tahabove-ar.alt vabove-ar;
 	sub tteheh-ar by behDotless-ar twodotsverticalabove-ar;
 	sub teheh-ar by behDotless-ar fourdotsabove-ar;
 	sub behThreedotshorizontalbelow-ar by behDotless-ar threedotshorizontalbelow-ar;
@@ -252,7 +252,7 @@ code = "feature ccmp {
 	sub behVinvertedbelow-ar by behDotless-ar vinvertedbelow-ar;
 	sub behVabove-ar by behDotless-ar vabove-ar;
 	sub behVbelow-ar by behDotless-ar vbelow-ar;
-	#sub behhamzaabove-ar by behDotless-ar hamzaabove-ar dotbelow-ar;
+	sub behhamzaabove-ar by behDotless-ar hamzaabove-ar dotbelow-ar;
 	sub behMeemabove-ar by behDotless-ar dotbelow-ar meemStopabove-ar.alt;
 	sub pehMeemabove-ar by behDotless-ar threedotsdownbelow-ar meemStopabove-ar.alt;
 	sub tehTehabove-ar by behDotless-ar smallteh.above;
@@ -272,14 +272,14 @@ code = "feature ccmp {
 	sub dyeh-ar by hah-ar twodotsverticalbelow-ar;
 	sub hahThreedotsupbelow-ar by hah-ar threedotsupbelow-ar;
 	sub hahTahbelow-ar by hah-ar tahbelow-ar;
-	#sub hahTahTwodotshorizontalbelow-ar by hah-ar twodotshorizontalbelow-ar tahabove-ar.alt;
+	sub hahTahTwodotshorizontalabove-ar by hah-ar twodotshorizontalbelow-ar tahabove-ar.alt;
 	sub hahFourbelow-ar by hah-ar fourbelow-ar;
-	#sub jeemTwodotsabove-ar by hah-ar dotbelow-ar twodotshorizontalabove-ar;
-	#sub jeemThreedotsabove-ar by hah-ar dotbelow-ar threedotsupabove-ar;
+	sub jeemTwodotsabove-ar by hah-ar dotbelow-ar twodotshorizontalabove-ar;
+	sub jeemThreedotsabove-ar by hah-ar dotbelow-ar threedotsupabove-ar;
 	sub tchehDotabove-ar by hah-ar threedotsdownbelow-ar dotabove-ar;
-	#sub tchehVabove-ar by hah-ar threedotsdownbelow-ar vabove-ar;
-	#sub jeemThreedotsbelow-ar by hah-ar dotcenter_threedotsdownbelow-ar;
-	#sub hahVinvertedbelow-ar by hah-ar vinvertedbelow-ar;
+	sub tchehVabove-ar by hah-ar threedotsdownbelow-ar vabove-ar;
+	sub jeemThreedotsbelow-ar by hah-ar dotbelow_threedotsdownbelow-ar;
+	sub hahVinvertedbelow-ar by hah-ar vinvertedbelow-ar;
 
 	# Dal family
 	sub thal-ar by dal-ar dotabove-ar;
@@ -295,7 +295,7 @@ code = "feature ccmp {
 	sub dalVinvertedabove-ar by dal-ar vinvertedabove-ar;
 	sub dalTwodotsverticalbelowTah-ar by dal-ar tahabove-ar.alt twodotsverticalbelow-ar;
 	sub dalVinvertedbelow-ar by dal-ar vinvertedbelow-ar;
-	#sub dalThreedotsbelow-ar by dal-ar threedotsdownbelow-ar;
+	sub dalThreedotsbelow-ar by dal-ar threedotsdownbelow-ar;
 
 	# Reh family
 	sub zain-ar by reh-ar dotabove-ar;
@@ -313,7 +313,7 @@ code = "feature ccmp {
 	sub rehTwodotsverticalabove-ar by reh-ar twodotsverticalabove-ar;
 	sub rehHamzaabove-ar by reh-ar hamzaabove-ar;
 	sub rehTwodotshorizontalaboveTahabove-ar by reh-ar twodotshorizontalabove-ar tahabove-ar.alt;
-	#sub zainVinvertedabove-ar by reh-ar dotabove_vinvertedabove-ar;
+	sub zainVinvertedabove-ar by reh-ar dotabove-ar vinvertedabove-ar;
 	sub rehNoonabove-ar by reh-ar noonabove-ar;
 
 	# Seen family
@@ -333,24 +333,24 @@ code = "feature ccmp {
 	sub dadDotbelow-ar by sad-ar dotabove-ar dotbelow-ar;
 	sub sadThreedots-ar by sad-ar threedotsupabove-ar;
 	sub sadTwodotsbelow-ar by sad-ar twodotshorizontalbelow-ar;
-	#sub sadThreedotsbelow-ar by sad-ar threedotsdownbelow-ar;
+	sub sadThreedotsbelow-ar by sad-ar threedotsdownbelow-ar;
 
 	# Tah family
 	sub zah-ar by tah-ar dotabove-ar;
 	sub tahThreedots-ar by tah-ar threedotsupabove-ar;
-	#sub tahTwodotsabove-ar by tah-ar twodotshorizontalabove-ar;
-	#sub tahDotbelow-ar by tah-ar dotbelow-ar;
-	#sub tahThreedotsbelow-ar by tah-ar threedotsdownbelow-ar;
+	sub tahTwodotsabove-ar by tah-ar twodotshorizontalabove-ar;
+	sub tahDotbelow-ar by tah-ar dotbelow-ar;
+	sub tahThreedotsbelow-ar by tah-ar threedotsdownbelow-ar;
 
 	# Ain family
 	sub ghain-ar by ain-ar dotabove-ar;
 	sub ghainDotbelow-ar by ain-ar dotabove-ar dotbelow-ar;
-	#sub ainThreedotsbelow-ar by ain-ar threedotsdownbelow-ar;
+	sub ainThreedotsbelow-ar by ain-ar threedotsdownbelow-ar;
 	sub ainThreedots-ar by ain-ar threedotsupabove-ar;
 	sub ainTwodotshorizontalabove-ar by ain-ar twodotshorizontalabove-ar;
 	sub ainThreedotsdownabove-ar by ain-ar threedotsdownabove-ar;
 	sub ainTwodotsverticalabove-ar by ain-ar twodotsverticalabove-ar;
-	#sub ghainThreedotsabove-ar by ain-ar dotabove_threedotsupabove-ar;
+	sub ghainThreedotsabove-ar by ain-ar dotabove_threedotsupabove-ar;
 
 	# Qaf/Fe family
 	sub feh-ar by fehDotless-ar dotabove-ar;
@@ -361,20 +361,20 @@ code = "feature ccmp {
 	sub peheh-ar by fehDotless-ar fourdotsabove-ar;
 	sub fehTwodotsbelow-ar by fehDotless-ar twodotshorizontalbelow-ar;
 	sub fehThreedotsupbelow-ar by fehDotless-ar threedotsupbelow-ar;
-	#sub fehDotbelowThreedotsabove-ar by fehDotless-ar threedotsupabove-ar dotbelow-ar;
+	sub fehDotbelowThreedotsabove-ar by fehDotless-ar threedotsupabove-ar dotbelow-ar;
 
 	sub qaf-ar by qafDotless-ar twodotshorizontalabove-ar;
 	sub qafDotabove-ar by qafDotless-ar dotabove-ar;
 	sub qafThreedotsabove-ar by qafDotless-ar threedotsupabove-ar;
-	#sub qafDotbelow-ar by qafDotless-ar twodotshorizontalabove-ar dotbelow-ar;
-	#sub qafDotbelowNoDotAbove-ar by qafDotless-ar dotbelow-ar;
+	sub qafDotbelow-ar by qafDotless-ar twodotshorizontalabove-ar dotbelow-ar;
+	sub qafDotbelowNoDotAbove-ar by qafDotless-ar dotbelow-ar;
 
 	# Kaf family
 	sub kafThreedotsbelow-ar by kaf-ar threedotsdownbelow-ar;
 	sub ng-ar by kaf-ar threedotsupabove-ar;
 	sub kafDotabove-ar by kaf-ar dotabove-ar;
 	sub kafTwodotshorizontalabove-ar by kaf-ar twodotshorizontalabove-ar;
-	#sub kafDotbelow-ar by kaf-ar dotbelow-ar;
+	sub kafDotbelow-ar by kaf-ar dotbelow-ar;
 	sub kafRing-ar by keheh-ar ring.below;
 	sub gaf-ar by keheh-ar gafsarkashabove-ar;
 	sub kehehDotabove-ar by keheh-ar dotabove-ar;
@@ -382,8 +382,8 @@ code = "feature ccmp {
 	sub kehehThreedotsabove-ar by keheh-ar threedotsupabove-ar;
 	sub kehehThreedotsupbelow-ar by keheh-ar threedotsupbelow-ar;
 	sub kehehThreedotsbelow-ar by keheh-ar threedotsdownbelow-ar;
-	#sub kehehVabove-ar by keheh-ar vabove-ar;
-	#sub kehehTwodotsverticalbelow-ar by keheh-ar twodotsverticalbelow-ar;
+	sub kehehVabove-ar by keheh-ar vabove-ar;
+	sub kehehTwodotsverticalbelow-ar by keheh-ar twodotsverticalbelow-ar;
 	sub gafRing-ar by gaf-ar ring.below;
 	sub gafThreedots-ar by gaf-ar threedotsupabove-ar;
 	sub gafTwodotsbelow-ar by gaf-ar twodotshorizontalbelow-ar;
@@ -398,13 +398,13 @@ code = "feature ccmp {
 	sub lamThreedotsbelow-ar by lam-ar threedotsdownbelow-ar;
 	sub lamVabove-ar by lam-ar vabove-ar;
 	sub lamBar-ar by lam-ar stroke-ar;
-	#sub lamDoublebar-ar by lam-ar doubleBar-ar;
-	#sub lamTahabove-ar by lam-ar tahabove-ar.alt;
+	sub lamDoublebar-ar by lam-ar doublestroke-ar;
+	sub lamTahabove-ar by lam-ar tahabove-ar.alt;
 
 	# Meem family
 	sub meemDotabove-ar by meem-ar dotabove-ar;
 	sub meemDotbelow-ar by meem-ar dotbelow-ar;
-	#sub meemThreedotsabove-ar by meem-ar threedotsupabove-ar;
+	sub meemThreedotsabove-ar by meem-ar threedotsupabove-ar;
 
 
 	# Noon family
@@ -415,23 +415,23 @@ code = "feature ccmp {
 	sub noonTwodotsbelow-ar by noonghunna-ar dotabove-ar twodotshorizontalbelow-ar;
 	sub noonTahabove-ar by noonghunna-ar dotabove-ar tahabove-ar.alt;
 	sub noonVabove-ar by noonghunna-ar dotabove-ar vabove-ar;
-	#sub noonVinvertedabove-ar by noonghunna-ar vinvertedabove-ar;
+	sub noonVinvertedabove-ar by noonghunna-ar vinvertedabove-ar;
 
 	# Yeh family
 	sub yeh-ar by alefMaksura-ar twodotshorizontalbelow-ar;
 	sub yehHamzaabove-ar by alefMaksura-ar hamzaabove-ar;
 	sub yehKashmiri-ar by alefMaksura-ar ring.below;
 	sub yehVabove-ar by yehFarsi-ar vabove-ar;
-	#sub yehVinvertedFarsi-ar by yehFarsi-ar vinvertedabove-ar;
-	#sub yehTwodotsaboveFarsi-ar by yehFarsi-ar twodotshorizontalabove-ar;
-	#sub yehThreedotsaboveFarsi-ar by yehFarsi-ar threedotsupabove-ar;
-	#sub yehTwoaboveFarsi-ar by yehFarsi-ar twoabove-ar;
-	#sub yehThreeaboveFarsi-ar by yehFarsi-ar threeabove-ar;
-	#sub yehFourbelowFarsi-ar by alefMaksura-ar fourbelow-ar;
+	sub yehFarsiVinverted-ar by yehFarsi-ar vinvertedabove-ar;
+	sub yehFarsiTwodotsabove-ar by yehFarsi-ar twodotshorizontalabove-ar;
+	sub yehFarsiThreedotsabove-ar by yehFarsi-ar threedotsupabove-ar;
+	sub yehFarsiTwoabove-ar by yehFarsi-ar twoabove-ar;
+	sub yehFarsiThreeabove-ar by yehFarsi-ar threeabove-ar;
+	sub yehFarsiFourbelow-ar by alefMaksura-ar fourbelow-ar;
 	sub e-ar by alefMaksura-ar twodotsverticalbelow-ar;
 	sub yehThreedotsbelow-ar by alefMaksura-ar threedotsdownbelow-ar;
-	#sub yehTwodotsbelowHamzaabove-ar by alefMaksura-ar twodotshorizontalbelow-ar hamzaabove-ar;
-	#sub yehTwodotsbelowDotabove-ar by alefMaksura-ar twodotshorizontalbelow-ar dotabove-ar;
+	sub yehTwodotsbelowHamzaabove-ar by alefMaksura-ar twodotshorizontalbelow-ar hamzaabove-ar;
+	sub yehTwodotsbelowDotabove-ar by alefMaksura-ar twodotshorizontalbelow-ar dotabove-ar;
 	sub yehTail-ar by alefMaksura-ar yeh.tail;
 	sub behDotless-ar by alefMaksura-ar twodotshorizontalbelow-ar noonabove-ar;
 	#sub yehthin-ar.init by behDotless-ar.init.thin twodotshorizontalbelow-ar.small;

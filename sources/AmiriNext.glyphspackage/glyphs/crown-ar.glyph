@@ -12,6 +12,7 @@ pos = (182,795);
 );
 backgroundImage = {
 angle = -0.6;
+crop = (0,0,163.95,54);
 imagePath = "images/1.png";
 locked = 1;
 pos = (-7132,-1167);

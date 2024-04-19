@@ -8,6 +8,10 @@ name = DotAbove;
 pos = (62,853);
 },
 {
+name = TaaAbove;
+pos = (62,804);
+},
+{
 name = TashkilAbove;
 pos = (24,801);
 },
@@ -83,6 +87,10 @@ anchors = (
 {
 name = DotAbove;
 pos = (62,853);
+},
+{
+name = TaaAbove;
+pos = (62,804);
 },
 {
 name = TashkilAbove;

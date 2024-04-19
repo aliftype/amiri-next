@@ -4,12 +4,20 @@ layers = (
 {
 anchors = (
 {
+name = DotAbove;
+pos = (213,403);
+},
+{
 name = TashkilAbove;
 pos = (195,801);
 },
 {
 name = TashkilBelow;
 pos = (244,-327);
+},
+{
+name = TwoDotsAbove;
+pos = (153,403);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
@@ -96,12 +104,20 @@ width = 463;
 {
 anchors = (
 {
+name = DotAbove;
+pos = (213,403);
+},
+{
 name = TashkilAbove;
 pos = (195,801);
 },
 {
 name = TashkilBelow;
 pos = (244,-327);
+},
+{
+name = TwoDotsAbove;
+pos = (153,403);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";

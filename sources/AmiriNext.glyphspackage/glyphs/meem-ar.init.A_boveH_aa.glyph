@@ -4,12 +4,20 @@ layers = (
 {
 anchors = (
 {
+name = DotAbove;
+pos = (273,673);
+},
+{
 name = TashkilAbove;
 pos = (361,801);
 },
 {
 name = TashkilBelow;
 pos = (461,-127);
+},
+{
+name = TwoDotsAbove;
+pos = (213,673);
 },
 {
 name = exit;
@@ -63,12 +71,20 @@ width = 560;
 {
 anchors = (
 {
+name = DotAbove;
+pos = (273,673);
+},
+{
 name = TashkilAbove;
 pos = (361,801);
 },
 {
 name = TashkilBelow;
 pos = (461,-127);
+},
+{
+name = TwoDotsAbove;
+pos = (213,673);
 },
 {
 name = exit;

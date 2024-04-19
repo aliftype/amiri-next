@@ -8,7 +8,7 @@ shapes = (
 ref = "lam-ar";
 },
 {
-pos = (479,537);
+pos = (361,537);
 ref = "stroke-ar";
 }
 );
@@ -21,13 +21,15 @@ shapes = (
 ref = "lam-ar";
 },
 {
-pos = (479,528);
+pos = (361,537);
 ref = "stroke-ar";
 }
 );
 width = 603;
 }
 );
+sortName = ar0925;
+sortNameKeep = ar1359;
 subCategory = Placeholder;
 unicode = 1898;
 }

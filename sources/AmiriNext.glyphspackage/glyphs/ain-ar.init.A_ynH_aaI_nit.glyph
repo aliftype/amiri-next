@@ -28,6 +28,10 @@ name = TwoDotsAbove;
 pos = (155,750);
 },
 {
+name = TwoDotsBelow;
+pos = (463,312);
+},
+{
 name = exit;
 pos = (0,244);
 }
@@ -122,6 +126,10 @@ pos = (439,-327);
 {
 name = TwoDotsAbove;
 pos = (155,750);
+},
+{
+name = TwoDotsBelow;
+pos = (463,312);
 },
 {
 name = exit;

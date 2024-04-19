@@ -106,6 +106,10 @@ name = Stroke;
 pos = (8,530);
 },
 {
+name = TaaAbove;
+pos = (-6,766);
+},
+{
 name = TashkilAbove;
 pos = (0,801);
 },

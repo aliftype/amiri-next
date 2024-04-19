@@ -1,0 +1,41 @@
+{
+glyphname = "yehTwodotsbelowHamzaabove-ar";
+layers = (
+{
+layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
+{
+ref = "alefMaksura-ar";
+},
+{
+pos = (355,-414);
+ref = "twodotshorizontalbelow-ar";
+},
+{
+pos = (188,-60);
+ref = "hamzaabove-ar";
+}
+);
+width = 764;
+},
+{
+layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
+{
+ref = "alefMaksura-ar";
+},
+{
+pos = (355,-414);
+ref = "twodotshorizontalbelow-ar";
+},
+{
+pos = (188,-60);
+ref = "hamzaabove-ar";
+}
+);
+width = 764;
+}
+);
+subCategory = Placeholder;
+unicode = 2216;
+}

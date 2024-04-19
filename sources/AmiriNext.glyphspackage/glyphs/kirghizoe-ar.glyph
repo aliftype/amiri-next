@@ -8,7 +8,7 @@ shapes = (
 ref = "waw-ar";
 },
 {
-pos = (283,-33);
+pos = (165,-33);
 ref = "stroke-ar";
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = "waw-ar";
 },
 {
-pos = (283,-42);
+pos = (165,-33);
 ref = "stroke-ar";
 }
 );

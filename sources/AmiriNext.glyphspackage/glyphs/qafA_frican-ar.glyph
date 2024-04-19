@@ -20,6 +20,8 @@ ref = "qafDotless-ar";
 width = 687;
 }
 );
+sortName = ar0769;
+sortNameKeep = ar0768.8;
 subCategory = Placeholder;
 unicode = 2236;
 }

@@ -12,6 +12,10 @@ name = Stroke;
 pos = (91,545);
 },
 {
+name = TaaAbove;
+pos = (85,781);
+},
+{
 name = TashkilAbove;
 pos = (59,801);
 },
@@ -112,6 +116,10 @@ pos = (85,820);
 {
 name = Stroke;
 pos = (91,545);
+},
+{
+name = TaaAbove;
+pos = (85,781);
 },
 {
 name = TashkilAbove;

@@ -8,7 +8,7 @@ shapes = (
 ref = "reh-ar";
 },
 {
-pos = (317,19);
+pos = (199,19);
 ref = "stroke-ar";
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = "reh-ar";
 },
 {
-pos = (317,10);
+pos = (199,19);
 ref = "stroke-ar";
 }
 );

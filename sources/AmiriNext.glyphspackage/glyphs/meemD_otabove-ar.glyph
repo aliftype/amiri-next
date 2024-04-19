@@ -28,6 +28,8 @@ ref = "dotabove-ar";
 width = 452;
 }
 );
+sortName = ar0928;
+sortNameKeep = ar1344;
 subCategory = Placeholder;
 unicode = 1893;
 }

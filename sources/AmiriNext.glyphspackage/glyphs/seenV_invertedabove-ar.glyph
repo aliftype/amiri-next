@@ -28,6 +28,8 @@ ref = "vinvertedabove-ar";
 width = 992;
 }
 );
+sortName = ar0573;
+sortNameKeep = ar1395;
 subCategory = Placeholder;
 unicode = 1918;
 }

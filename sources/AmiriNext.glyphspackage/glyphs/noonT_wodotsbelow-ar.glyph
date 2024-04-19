@@ -36,6 +36,8 @@ ref = "twodotshorizontalbelow-ar";
 width = 572;
 }
 );
+sortName = ar0982;
+sortNameKeep = ar1350;
 subCategory = Placeholder;
 unicode = 1895;
 }

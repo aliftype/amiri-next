@@ -36,6 +36,8 @@ ref = "vabove-ar";
 width = 572;
 }
 );
+sortName = ar0985;
+sortNameKeep = ar1356;
 subCategory = Placeholder;
 unicode = 1897;
 }

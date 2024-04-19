@@ -28,6 +28,8 @@ ref = "fourabove-ar";
 width = 992;
 }
 );
+sortName = ar0572;
+sortNameKeep = ar1392;
 subCategory = Placeholder;
 unicode = 1917;
 }

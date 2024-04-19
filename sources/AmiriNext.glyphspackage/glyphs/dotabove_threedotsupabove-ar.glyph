@@ -1,0 +1,35 @@
+{
+glyphname = "dotabove_threedotsupabove-ar";
+layers = (
+{
+layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
+{
+pos = (114,0);
+ref = "dotabove-ar";
+},
+{
+pos = (98,115);
+ref = "threedotsupabove-ar";
+scale = (0.6,0.6);
+}
+);
+width = 225;
+},
+{
+layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
+{
+pos = (114,0);
+ref = "dotabove-ar";
+},
+{
+pos = (88,135);
+ref = "threedotsupabove-ar";
+scale = (0.6,0.6);
+}
+);
+width = 212;
+}
+);
+}

@@ -8,6 +8,10 @@ name = DotAbove;
 pos = (474,537);
 },
 {
+name = DotBelow;
+pos = (342,-327);
+},
+{
 name = HamzaAbove;
 pos = (469,537);
 },
@@ -116,6 +120,10 @@ anchors = (
 {
 name = DotAbove;
 pos = (474,537);
+},
+{
+name = DotBelow;
+pos = (342,-327);
 },
 {
 name = HamzaAbove;

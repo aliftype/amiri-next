@@ -28,6 +28,8 @@ ref = "fourdotsabove-ar";
 width = 992;
 }
 );
+sortName = ar0571;
+sortNameKeep = ar1327;
 subCategory = Placeholder;
 unicode = 1884;
 }

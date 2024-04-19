@@ -1,0 +1,45 @@
+{
+glyphname = "doublestroke-ar";
+layers = (
+{
+anchors = (
+{
+name = _Stroke;
+pos = (118,7);
+}
+);
+layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
+shapes = (
+{
+alignment = -1;
+ref = "stroke-ar";
+},
+{
+alignment = -1;
+pos = (0,-60);
+ref = "stroke-ar";
+}
+);
+width = 236;
+},
+{
+anchors = (
+{
+name = _Stroke;
+pos = (118,12);
+}
+);
+layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
+shapes = (
+{
+ref = "stroke-ar";
+},
+{
+pos = (0,-110);
+ref = "stroke-ar";
+}
+);
+width = 236;
+}
+);
+}

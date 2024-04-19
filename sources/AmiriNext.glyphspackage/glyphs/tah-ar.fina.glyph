@@ -8,6 +8,10 @@ name = DotAbove;
 pos = (576,488);
 },
 {
+name = DotBelow;
+pos = (400,-102);
+},
+{
 name = TashkilAbove;
 pos = (488,801);
 },
@@ -18,6 +22,10 @@ pos = (391,-327);
 {
 name = TwoDotsAbove;
 pos = (522,488);
+},
+{
+name = TwoDotsBelow;
+pos = (351,-102);
 }
 );
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
@@ -129,6 +137,10 @@ name = DotAbove;
 pos = (576,488);
 },
 {
+name = DotBelow;
+pos = (400,-102);
+},
+{
 name = TashkilAbove;
 pos = (488,801);
 },
@@ -139,6 +151,10 @@ pos = (391,-327);
 {
 name = TwoDotsAbove;
 pos = (522,488);
+},
+{
+name = TwoDotsBelow;
+pos = (351,-102);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";

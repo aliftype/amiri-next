@@ -28,6 +28,8 @@ ref = "dotbelow-ar";
 width = 452;
 }
 );
+sortName = ar0929;
+sortNameKeep = ar1347;
 subCategory = Placeholder;
 unicode = 1894;
 }

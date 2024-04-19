@@ -28,6 +28,7 @@ ref = "meemStopabove-ar.alt";
 width = 926;
 }
 );
+sortName = ar0256;
 subCategory = Placeholder;
 unicode = 2231;
 }

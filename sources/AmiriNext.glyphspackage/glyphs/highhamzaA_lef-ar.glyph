@@ -29,6 +29,8 @@ ref = "alef-ar";
 width = 598;
 }
 );
+sortName = ar1295;
+sortNameKeep = ar0072;
 subCategory = Placeholder;
 unicode = 1653;
 }

@@ -36,6 +36,8 @@ ref = "threedotsdownbelow-ar";
 width = 992;
 }
 );
+sortName = ar0568;
+sortNameKeep = ar0568;
 subCategory = Placeholder;
 unicode = 1692;
 }

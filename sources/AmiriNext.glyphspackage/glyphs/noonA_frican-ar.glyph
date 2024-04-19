@@ -20,6 +20,8 @@ ref = "noonghunna-ar";
 width = 572;
 }
 );
+sortName = ar0982;
+sortNameKeep = ar0981.6;
 subCategory = Placeholder;
 unicode = 2237;
 }

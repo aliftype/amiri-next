@@ -28,6 +28,7 @@ ref = "noonabove-ar.alt";
 width = 399;
 }
 );
+sortName = ar0523;
 subCategory = Placeholder;
 unicode = 2233;
 }

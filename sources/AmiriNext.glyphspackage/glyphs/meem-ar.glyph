@@ -20,6 +20,10 @@ name = TashkilBelow;
 pos = (317,-391);
 },
 {
+name = TwoDotsAbove;
+pos = (143,453);
+},
+{
 name = "new anchor";
 pos = (237,43);
 }
@@ -110,6 +114,10 @@ pos = (195,801);
 {
 name = TashkilBelow;
 pos = (317,-391);
+},
+{
+name = TwoDotsAbove;
+pos = (143,453);
 }
 );
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
