@@ -2168,9 +2168,9 @@ pos = -634;
 );
 name = Bold;
 userData = {
-GSOffsetHorizontal = 8;
+GSOffsetHorizontal = 15;
 GSOffsetKeepCompatible = 1;
-GSOffsetVertical = 15;
+GSOffsetVertical = 0;
 };
 }
 );
