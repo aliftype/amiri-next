@@ -17,7 +17,7 @@ shapes = (
 {
 alignment = -1;
 pos = (-128,109);
-ref = "twoFarsi-ar";
+ref = "two-ar.medium";
 scale = (0.5,0.5);
 }
 );
@@ -39,7 +39,7 @@ shapes = (
 {
 alignment = -1;
 pos = (-128,109);
-ref = "twoFarsi-ar";
+ref = "two-ar";
 scale = (0.5,0.5);
 }
 );
