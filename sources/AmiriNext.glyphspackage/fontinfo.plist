@@ -1173,7 +1173,6 @@ lookup LamLamInit {
     sub lam-ar.medi by lam-ar.medi.LamLamInit;
     sub lam-ar.fina by lam-ar.fina.LamLamIsol;
     sub kafDotless-ar.fina by kafDotless-ar.fina.LamKafIsol;
-    sub keheh-ar.alt.fina by keheh-ar.fina.LamKafIsol;
     sub lam-ar.medi.LamAlfFina by lam-ar.medi.LamLamAlfIsol;
     sub @LamLamFoo by [lam-ar.medi.LamLamMemInit lam-ar.medi.LamLamHehIsol lam-ar.medi.LamLamYaaIsol];
 } LamLamInit;
@@ -1182,7 +1181,6 @@ lookup LamLamMedi {
     sub lam-ar.medi by lam-ar.medi.LamLamMedi2;
     sub lam-ar.fina by lam-ar.fina.LamLamFina;
     sub kafDotless-ar.fina by kafDotless-ar.fina.LamKafFina;
-    sub keheh-ar.alt.fina by keheh-ar.fina.LamKafFina;
     sub lam-ar.medi.LamAlfFina by lam-ar.medi.LamLamAlefFina;
     sub @LamLamFoo by [lam-ar.medi.LamLamMemMedi lam-ar.medi.LamLamHehFina lam-ar.medi.LamLamYaaFina];
 } LamLamMedi;
@@ -1299,7 +1297,6 @@ lookup KafLam {
     sub kaf-ar.init by kaf-ar.init.KafLam;
     sub kaf-ar.medi by kaf-ar.medi.KafLam;
     sub kafDotless-ar.fina by kafDotless-ar.fina.KafKafFina;
-    sub keheh-ar.alt.fina by keheh-ar.fina.KafKafFina;
     sub lam-ar.medi by lam-ar.medi.KafLam;
     sub lam-ar.fina by lam-ar.fina.KafLam;
     sub alef-ar.fina by alef-ar.fina.KafAlf;
@@ -1837,27 +1834,6 @@ feature ss03 {
     #sub at by at.ara;
     #sub ampersand by ampersand.ara;
 } ss03;
-
-# alternate Gaf form
-feature ss04 {
-    featureNames {
-        name 3 1 0x0409 \"Alternate, more naskh-like, Gaf form\";
-        name 3 1 0x0C01 \"شكل بديل –نسخي– للگاف\";
-    };
-
-    sub keheh-ar by keheh-ar.alt;
-    sub keheh-ar.fina by keheh-ar.alt.fina;
-} ss04;
-
-lookup dummy {
-    sub kashida-ar.1 by kashida-ar;
-} dummy;
-
-feature ss04 {
-    sub lam-ar.init' lookup LamLamInit [kashida-ar.1]' lookup dummy keheh-ar.alt.fina' lookup LamLamInit;
-    sub lam-ar.medi' lookup LamLamMedi2 [kashida-ar.1]' lookup dummy keheh-ar.alt.fina' lookup LamLamMedi;
-    sub [kaf-ar.init kaf-ar.medi]' lookup KafLam keheh-ar.alt.fina' lookup KafLam;
-} ss04;
 
 lookup SSShaddaKasra {
     sub kasratan-ar by kasratan-ar.small;
