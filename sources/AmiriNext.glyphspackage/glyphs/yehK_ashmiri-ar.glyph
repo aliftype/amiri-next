@@ -9,7 +9,7 @@ ref = "alefMaksura-ar";
 },
 {
 pos = (312,-146);
-ref = ring.below;
+ref = "ring-ar.below";
 }
 );
 width = 764;
@@ -22,7 +22,7 @@ ref = "alefMaksura-ar";
 },
 {
 pos = (312,-146);
-ref = ring.below;
+ref = "ring-ar.below";
 }
 );
 width = 764;

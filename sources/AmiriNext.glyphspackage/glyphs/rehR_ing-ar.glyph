@@ -9,7 +9,7 @@ ref = "reh-ar";
 },
 {
 pos = (95,-173);
-ref = ring.below;
+ref = "ring-ar.below";
 }
 );
 width = 399;
@@ -22,7 +22,7 @@ ref = "reh-ar";
 },
 {
 pos = (95,-173);
-ref = ring.below;
+ref = "ring-ar.below";
 }
 );
 width = 399;

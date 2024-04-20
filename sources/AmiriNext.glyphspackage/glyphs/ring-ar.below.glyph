@@ -1,6 +1,6 @@
 {
 category = Mark;
-glyphname = ring.below;
+glyphname = "ring-ar.below";
 layers = (
 {
 anchors = (

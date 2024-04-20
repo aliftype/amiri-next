@@ -10,7 +10,7 @@ ref = "kaf-ar";
 {
 alignment = 1;
 pos = (293,49);
-ref = ring.below;
+ref = "ring-ar.below";
 }
 );
 width = 657;
@@ -24,7 +24,7 @@ ref = "kaf-ar";
 {
 alignment = 1;
 pos = (293,49);
-ref = ring.below;
+ref = "ring-ar.below";
 }
 );
 width = 657;

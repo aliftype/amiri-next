@@ -9,7 +9,7 @@ ref = "keheh-ar";
 },
 {
 pos = (846,604);
-ref = ring.below;
+ref = "ring-ar.below";
 }
 );
 width = 1202;
@@ -22,7 +22,7 @@ ref = "keheh-ar";
 },
 {
 pos = (846,604);
-ref = ring.below;
+ref = "ring-ar.below";
 }
 );
 width = 1202;

@@ -10,7 +10,7 @@ ref = "gaf-ar";
 {
 alignment = 1;
 pos = (846,604);
-ref = ring.below;
+ref = "ring-ar.below";
 }
 );
 width = 1202;
@@ -24,7 +24,7 @@ ref = "gaf-ar";
 {
 alignment = 1;
 pos = (846,604);
-ref = ring.below;
+ref = "ring-ar.below";
 }
 );
 width = 1202;

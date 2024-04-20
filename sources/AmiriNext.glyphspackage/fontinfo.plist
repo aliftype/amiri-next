@@ -238,7 +238,7 @@ code = "feature ccmp {
 	sub behMeemabove-ar by behDotless-ar dotbelow-ar meemStopabove-ar.alt;
 	sub pehMeemabove-ar by behDotless-ar threedotsdownbelow-ar meemStopabove-ar.alt;
 	sub tehTehabove-ar by behDotless-ar tehabove-ar;
-	sub tehRing-ar by behDotless-ar twodotshorizontalabove-ar ring.below;
+	sub tehRing-ar by behDotless-ar twodotshorizontalabove-ar ring-ar.below;
   
 	# Jeem family
 	sub jeem-ar by hah-ar dotbelow-ar;
@@ -269,7 +269,7 @@ code = "feature ccmp {
 	sub dahal-ar by dal-ar twodotshorizontalabove-ar;
 	sub ddahal-ar by dal-ar twodotshorizontalbelow-ar;
 	sub dul-ar by dal-ar threedotsupabove-ar;
-	sub dalRing-ar by dal-ar ring.below;
+	sub dalRing-ar by dal-ar ring-ar.below;
 	sub dalDotbelow-ar by dal-ar dotbelow-ar;
 	sub dalDotbelowTah-ar by dal-ar tahabove-ar.alt dotbelow-ar;
 	sub dalThreedotsdown-ar by dal-ar threedotsdownabove-ar;
@@ -284,7 +284,7 @@ code = "feature ccmp {
 	sub jeh-ar by reh-ar threedotsupabove-ar;
 	sub rreh-ar by reh-ar tahabove-ar.alt;
 	sub rehv-ar by reh-ar vabove-ar;
-	sub rehRing-ar by reh-ar ring.below;
+	sub rehRing-ar by reh-ar ring-ar.below;
 	sub rehDotbelow-ar by reh-ar dotbelow-ar;
 	sub rehVbelow-ar by reh-ar vbelow-ar;
 	sub rehDotbelowdotabove-ar by reh-ar dotabove-ar.alt dotbelow-ar;
@@ -357,7 +357,7 @@ code = "feature ccmp {
 	sub kafDotabove-ar by kaf-ar dotabove-ar;
 	sub kafTwodotshorizontalabove-ar by kaf-ar twodotshorizontalabove-ar;
 	sub kafDotbelow-ar by kaf-ar dotbelow-ar;
-	sub kafRing-ar by keheh-ar ring.below;
+	sub kafRing-ar by keheh-ar ring-ar.below;
 	sub gaf-ar by keheh-ar gafsarkashabove-ar;
 	sub kehehDotabove-ar by keheh-ar dotabove-ar;
 	sub kehehTwodotshorizontalabove-ar by keheh-ar twodotshorizontalabove-ar;
@@ -366,7 +366,7 @@ code = "feature ccmp {
 	sub kehehThreedotsbelow-ar by keheh-ar threedotsdownbelow-ar;
 	sub kehehVabove-ar by keheh-ar vabove-ar;
 	sub kehehTwodotsverticalbelow-ar by keheh-ar twodotsverticalbelow-ar;
-	sub gafRing-ar by gaf-ar ring.below;
+	sub gafRing-ar by gaf-ar ring-ar.below;
 	sub gafThreedots-ar by gaf-ar threedotsupabove-ar;
 	sub gafTwodotsbelow-ar by gaf-ar twodotshorizontalbelow-ar;
 	sub ngoeh-ar by gaf-ar twodotshorizontalabove-ar;
@@ -393,7 +393,7 @@ code = "feature ccmp {
 	sub noon-ar by noonghunna-ar dotabove-ar;
 	sub noonDotbelow-ar by noonghunna-ar dotabove-ar dotbelow-ar;
 	sub rnoon-ar by noonghunna-ar tahabove-ar.alt;
-	sub noonRing-ar by noonghunna-ar dotabove-ar ring.below;
+	sub noonRing-ar by noonghunna-ar dotabove-ar ring-ar.below;
 	sub noonTwodotsbelow-ar by noonghunna-ar dotabove-ar twodotshorizontalbelow-ar;
 	sub noonTahabove-ar by noonghunna-ar dotabove-ar tahabove-ar.alt;
 	sub noonVabove-ar by noonghunna-ar dotabove-ar vabove-ar;
@@ -402,7 +402,7 @@ code = "feature ccmp {
 	# Yeh family
 	sub yeh-ar by alefMaksura-ar twodotshorizontalbelow-ar;
 	sub yehHamzaabove-ar by alefMaksura-ar hamzaabove-ar;
-	sub yehKashmiri-ar by alefMaksura-ar ring.below;
+	sub yehKashmiri-ar by alefMaksura-ar ring-ar.below;
 	sub yehVabove-ar by yehFarsi-ar vabove-ar;
 	sub yehFarsiVinverted-ar by yehFarsi-ar vinvertedabove-ar;
 	sub yehFarsiTwodotsabove-ar by yehFarsi-ar twodotshorizontalabove-ar;

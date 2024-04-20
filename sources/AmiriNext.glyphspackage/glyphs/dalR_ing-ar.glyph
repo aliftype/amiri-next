@@ -9,7 +9,7 @@ ref = "dal-ar";
 },
 {
 pos = (239,54);
-ref = ring.below;
+ref = "ring-ar.below";
 }
 );
 width = 450;
@@ -22,7 +22,7 @@ ref = "dal-ar";
 },
 {
 pos = (239,54);
-ref = ring.below;
+ref = "ring-ar.below";
 }
 );
 width = 450;

@@ -8,7 +8,7 @@ shapes = (
 {
 alignment = -1;
 pos = (88,-127);
-ref = ring.below;
+ref = "ring-ar.below";
 }
 );
 width = 182;
@@ -19,7 +19,7 @@ shapes = (
 {
 alignment = -1;
 pos = (88,-127);
-ref = ring.below;
+ref = "ring-ar.below";
 }
 );
 width = 182;

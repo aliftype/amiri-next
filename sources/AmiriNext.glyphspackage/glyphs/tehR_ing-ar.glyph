@@ -13,7 +13,7 @@ ref = "twodotshorizontalabove-ar";
 },
 {
 pos = (415,29);
-ref = ring.below;
+ref = "ring-ar.below";
 }
 );
 width = 926;
@@ -30,7 +30,7 @@ ref = "twodotshorizontalabove-ar";
 },
 {
 pos = (415,29);
-ref = ring.below;
+ref = "ring-ar.below";
 }
 );
 width = 926;

@@ -9,7 +9,7 @@ ref = "waw-ar";
 },
 {
 pos = (118,-10);
-ref = ring.below;
+ref = "ring-ar.below";
 }
 );
 width = 400;
@@ -22,7 +22,7 @@ ref = "waw-ar";
 },
 {
 pos = (118,-10);
-ref = ring.below;
+ref = "ring-ar.below";
 }
 );
 width = 400;

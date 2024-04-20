@@ -18,11 +18,10 @@ width = 926;
 layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
-pos = (0,-207);
 ref = "behDotless-ar";
 },
 {
-pos = (461,0);
+pos = (461,207);
 ref = "tehabove-ar";
 }
 );
