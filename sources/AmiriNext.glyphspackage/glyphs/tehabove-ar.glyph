@@ -1,5 +1,7 @@
 {
-glyphname = smallteh.above;
+category = Mark;
+direction = RTL;
+glyphname = "tehabove-ar";
 layers = (
 {
 anchors = (
@@ -38,4 +40,6 @@ scale = (0.4,0.4);
 width = 0;
 }
 );
+script = arabic;
+subCategory = Nonspacing;
 }

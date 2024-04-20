@@ -5,12 +5,11 @@ layers = (
 layerId = "7FE84AD5-D318-40C5-A81A-3CDC73FF77D2";
 shapes = (
 {
-pos = (0,-207);
 ref = "behDotless-ar";
 },
 {
-pos = (461,0);
-ref = smallteh.above;
+pos = (461,207);
+ref = "tehabove-ar";
 }
 );
 width = 926;
@@ -24,7 +23,7 @@ ref = "behDotless-ar";
 },
 {
 pos = (461,0);
-ref = smallteh.above;
+ref = "tehabove-ar";
 }
 );
 width = 926;

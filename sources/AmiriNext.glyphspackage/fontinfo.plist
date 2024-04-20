@@ -237,7 +237,7 @@ code = "feature ccmp {
 	sub behhamzaabove-ar by behDotless-ar hamzaabove-ar dotbelow-ar;
 	sub behMeemabove-ar by behDotless-ar dotbelow-ar meemStopabove-ar.alt;
 	sub pehMeemabove-ar by behDotless-ar threedotsdownbelow-ar meemStopabove-ar.alt;
-	sub tehTehabove-ar by behDotless-ar smallteh.above;
+	sub tehTehabove-ar by behDotless-ar tehabove-ar;
 	sub tehRing-ar by behDotless-ar twodotshorizontalabove-ar ring.below;
   
 	# Jeem family

@@ -941,6 +941,7 @@ dottedCircle,
 "dammaDot-ar",
 "crown-ar.alt",
 "crown-ar.alt2",
+"tehabove-ar",
 "circlebelow-ar",
 "crown-ar",
 "alefabove-ar.isol",
@@ -959,6 +960,5 @@ _arrowhead2,
 _x,
 dot.1,
 dot.2,
-dot.percent,
-smallteh.above
+dot.percent
 )
