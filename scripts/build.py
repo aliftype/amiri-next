@@ -68,8 +68,9 @@ def makeOverLine(font):
     from fontTools.feaLib import ast
 
     base = "overlinecomb"
-    pos = font[base].getBounds(font).yMax
-    thickness = font.info.postscriptUnderlineThickness
+    bbox = font[base].getBounds(font)
+    pos = bbox.yMax
+    thickness = bbox.yMax - bbox.yMin
     min_width = 100
 
     # collect glyphs grouped by their widths rounded by 100 units, we will use
