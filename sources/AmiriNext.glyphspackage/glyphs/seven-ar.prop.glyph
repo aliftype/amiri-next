@@ -17,11 +17,11 @@ layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
 alignment = -1;
-pos = (-15,0);
+pos = (-29,0);
 ref = "seven-ar";
 }
 );
-width = 557;
+width = 527;
 }
 );
 }

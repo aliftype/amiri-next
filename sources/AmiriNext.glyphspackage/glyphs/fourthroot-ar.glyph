@@ -29,7 +29,7 @@ alignment = -1;
 ref = radical.rtlm;
 }
 );
-width = 514;
+width = 503;
 }
 );
 unicode = 1543;

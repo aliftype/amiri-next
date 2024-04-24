@@ -128,7 +128,7 @@ nodes = (
 );
 }
 );
-width = 79;
+width = 70;
 }
 );
 subCategory = Nonspacing;

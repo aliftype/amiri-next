@@ -21,15 +21,15 @@ layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
 alignment = -1;
-pos = (188,403);
-ref = "three-ar.small";
+ref = radical.rtlm;
 },
 {
 alignment = -1;
-ref = radical.rtlm;
+pos = (168,403);
+ref = "three-ar.small";
 }
 );
-width = 514;
+width = 503;
 }
 );
 unicode = 1542;

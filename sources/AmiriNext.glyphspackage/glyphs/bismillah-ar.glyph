@@ -181,167 +181,167 @@ layerId = "037FF2D3-C03F-44B0-90AB-89AFD43EFA27";
 shapes = (
 {
 alignment = -1;
-pos = (2702,-425);
+pos = (2684,-425);
 ref = "hahabove-ar";
 },
 {
 alignment = -1;
-pos = (10824,-723);
+pos = (10806,-723);
 ref = "hahabove-ar";
 },
 {
 alignment = -1;
-pos = (1918,118);
+pos = (1900,118);
 ref = "wasla-ar";
 },
 {
 alignment = -1;
-pos = (3381,62);
+pos = (3363,62);
 ref = "wasla-ar";
 },
 {
 alignment = -1;
-pos = (4396,138);
+pos = (4378,138);
 ref = "wasla-ar";
 },
 {
 alignment = -1;
-pos = (2344,-793);
+pos = (2326,-793);
 ref = "alefabove-ar";
 },
 {
 alignment = -1;
-pos = (1569,-408);
+pos = (1551,-408);
 ref = "shadda-ar";
 },
 {
 alignment = -1;
-pos = (1768,-358);
+pos = (1750,-358);
 ref = "fatha-ar.small";
 },
 {
 alignment = -1;
-pos = (2991,-442);
+pos = (2973,-442);
 ref = "shadda-ar";
 },
 {
 alignment = -1;
-pos = (3190,-393);
+pos = (3172,-393);
 ref = "fatha-ar.small";
 },
 {
 alignment = -1;
-pos = (3976,-350);
+pos = (3958,-350);
 ref = "shadda-ar";
 },
 {
 alignment = -1;
-pos = (4175,-300);
+pos = (4157,-300);
 ref = "fatha-ar.small";
 },
 {
 alignment = -1;
-pos = (-24,-1220);
+pos = (-42,-1220);
 ref = "fatha-ar";
 },
 {
 alignment = -1;
-pos = (1238,-1040);
+pos = (1220,-1040);
 ref = "fatha-ar";
 },
 {
 alignment = -1;
-pos = (2066,-1372);
+pos = (2048,-1372);
 ref = "fatha-ar";
 },
 {
 alignment = -1;
-pos = (2445,-331);
+pos = (2427,-331);
 ref = "fatha-ar";
 },
 {
 alignment = -1;
-pos = (3612,-1270);
+pos = (3594,-1270);
 ref = "fatha-ar";
 },
 {
 alignment = -1;
-pos = (4436,-1302);
+pos = (4418,-1302);
 ref = "fatha-ar";
 },
 {
 alignment = -1;
-pos = (11105,-1452);
+pos = (11087,-1452);
 ref = "fatha-ar";
 },
 {
 alignment = -1;
-pos = (2069,56);
+pos = (2051,56);
 ref = "alef-ar";
 },
 {
 alignment = -1;
-pos = (3511,-38);
+pos = (3493,-38);
 ref = "alef-ar";
 },
 {
 alignment = -1;
-pos = (4543,85);
+pos = (4525,85);
 ref = "alef-ar";
 },
 {
 alignment = -1;
-pos = (2123,-141);
+pos = (2105,-141);
 ref = "dotabove-ar";
 },
 {
 alignment = -1;
-pos = (1128,-235);
+pos = (1110,-235);
 ref = "twodotshorizontalabove-ar";
 },
 {
 alignment = -1;
-pos = (11366,-386);
+pos = (11348,-386);
 ref = "dotabove-ar";
 },
 {
 alignment = -1;
-pos = (1894,-66);
+pos = (1876,-66);
 ref = "lam-ar.init.LamRaaIsol";
 },
 {
 alignment = -1;
-pos = (1601,-66);
+pos = (1583,-66);
 ref = "reh-ar.fina.LamRaaIsol";
 },
 {
 alignment = -1;
-pos = (3325,-155);
+pos = (3307,-155);
 ref = "lam-ar.init.LamRaaIsol";
 },
 {
 alignment = -1;
-pos = (3032,-155);
+pos = (3014,-155);
 ref = "reh-ar.fina.LamRaaIsol";
 },
 {
 alignment = -1;
-pos = (3715,-149);
+pos = (3697,-149);
 ref = "heh-ar.fina.Lellah";
 },
 {
 alignment = -1;
-pos = (4067,-149);
+pos = (4049,-149);
 ref = "lam-ar.medi.Lellah";
 },
 {
 alignment = -1;
-pos = (4298,-149);
+pos = (4280,-149);
 ref = "lam-ar.init.Lellah";
 },
 {
 alignment = -1;
-pos = (2767,-90);
+pos = (2749,-90);
 ref = "hah-ar.init.HaaMemInit";
 },
 {
@@ -349,7 +349,7 @@ alignment = -1;
 ref = "bismillah-ar.base";
 }
 );
-width = 11459;
+width = 11435;
 }
 );
 unicode = 65021;

@@ -2053,6 +2053,10 @@ customParameters = (
 {
 name = weightClass;
 value = 700;
+},
+{
+name = "Link Metrics With First Master";
+value = 1;
 }
 );
 guides = (

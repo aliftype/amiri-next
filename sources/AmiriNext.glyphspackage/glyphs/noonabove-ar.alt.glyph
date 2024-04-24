@@ -43,7 +43,7 @@ ref = "noon-ar";
 scale = (0.4,0.4);
 }
 );
-width = 91;
+width = 89;
 }
 );
 }

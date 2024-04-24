@@ -29,7 +29,7 @@ ref = "threedotsupabove-ar";
 scale = (0.6,0.6);
 }
 );
-width = 212;
+width = 225;
 }
 );
 }

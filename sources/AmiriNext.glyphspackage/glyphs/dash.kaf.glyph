@@ -89,7 +89,7 @@ nodes = (
 );
 }
 );
-width = 130;
+width = 115;
 }
 );
 subCategory = Nonspacing;

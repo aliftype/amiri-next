@@ -43,7 +43,7 @@ ref = "dotabove-ar";
 scale = (0.5,0.5);
 }
 );
-width = 429;
+width = 426;
 }
 );
 unicode = 1555;

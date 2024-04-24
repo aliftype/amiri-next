@@ -39,7 +39,7 @@ alignment = -1;
 ref = "vbelow-ar";
 }
 );
-width = 99;
+width = 91;
 }
 );
 }
