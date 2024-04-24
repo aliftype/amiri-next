@@ -23,9 +23,8 @@ def generateFont(font, options):
 
     makeOverLine(font)
 
-    info = font.info
     major, minor = options.version.split(".")
-    info.versionMajor, info.versionMinor = int(major), int(minor)
+    font.info.versionMajor, font.info.versionMinor = int(major), int(minor)
 
     if options.output.endswith(".ttf"):
         otf = compileTTF(
