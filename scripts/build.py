@@ -70,14 +70,12 @@ def makeOverLine(font):
     sb = bbox.xMin
     min_width = 100
 
+    openTypeCategories = font.lib["public.openTypeCategories"]
     # collect glyphs grouped by their widths rounded by 100 units, we will use
     # them to decide the widths of over/underline glyphs we will draw
     widths = {}
     for glyph in font:
-        u = glyph.unicode
-        if (
-            (u is None) or (0x0600 <= u <= 0x06FF) or u == ord(" ")
-        ) and glyph.width > 0:
+        if glyph.width > 0 and openTypeCategories.get(glyph.name) != "mark":
             width = round(glyph.width / min_width) * min_width
             width = width > min_width and width or min_width
             if not width in widths:
@@ -102,7 +100,7 @@ def makeOverLine(font):
             [],
             False,
         )
-        font.lib["public.openTypeCategories"][replace] = "mark"
+        openTypeCategories[replace] = "mark"
         mark.statements.append(sub)
 
     font.features.text += str(mark)
