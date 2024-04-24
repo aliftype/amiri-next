@@ -45,20 +45,13 @@ def generateFont(font, options):
     return otf
 
 
-def drawOverline(font, name, pos, thickness, width):
-    try:
-        glyph = font[name]
-    except KeyError:
-        glyph = font.newGlyph(name)
-        glyph.width = 0
-
+def drawOverline(font, name, pos, thickness, width, sb):
+    glyph = font.newGlyph(name)
     pen = glyph.getPen()
-    glyph.clear()
-
-    pen.moveTo((-50, pos))
-    pen.lineTo((-50, pos + thickness))
-    pen.lineTo((width + 50, pos + thickness))
-    pen.lineTo((width + 50, pos))
+    pen.moveTo((sb, pos))
+    pen.lineTo((sb, pos + thickness))
+    pen.lineTo((width - sb, pos + thickness))
+    pen.lineTo((width - sb, pos))
     pen.closePath()
 
     return glyph
@@ -68,9 +61,13 @@ def makeOverLine(font):
     from fontTools.feaLib import ast
 
     base = "overlinecomb"
+    if base not in font:
+        return
+
     bbox = font[base].getBounds(font)
     pos = bbox.yMax
     thickness = bbox.yMax - bbox.yMin
+    sb = bbox.xMin
     min_width = 100
 
     # collect glyphs grouped by their widths rounded by 100 units, we will use
@@ -87,8 +84,6 @@ def makeOverLine(font):
                 widths[width] = []
             widths[width].append(glyph.name)
 
-    drawOverline(font, base, pos, thickness, 500)
-
     mark = ast.FeatureBlock("mark")
     overset = ast.GlyphClassDefinition("OverSet", ast.GlyphClass([base]))
     lookup_flags = ast.LookupFlagStatement(markFilteringSet=ast.GlyphClassName(overset))
@@ -99,7 +94,7 @@ def makeOverLine(font):
         # width, and add a contextual substitution lookup to use it when an
         # over/underline follows any glyph in this group
         replace = f"overlinecomb.{width}"
-        drawOverline(font, replace, pos, thickness, width)
+        drawOverline(font, replace, pos, thickness, width, sb)
         sub = ast.SingleSubstStatement(
             [ast.GlyphName(base)],
             [ast.GlyphName(replace)],
