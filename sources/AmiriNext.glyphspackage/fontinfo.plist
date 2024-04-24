@@ -1,5 +1,5 @@
 {
-.appVersion = "3301";
+.appVersion = "3303";
 .formatVersion = 3;
 axes = (
 {
@@ -9,24 +9,8 @@ tag = wght;
 );
 customParameters = (
 {
-name = hheaAscender;
-value = 1124;
-},
-{
-name = hheaDescender;
-value = -634;
-},
-{
 name = hheaLineGap;
 value = 0;
-},
-{
-name = typoAscender;
-value = 1124;
-},
-{
-name = typoDescender;
-value = -634;
 },
 {
 name = typoLineGap;
@@ -2032,20 +2016,6 @@ fontMaster = (
 axesValues = (
 400
 );
-customParameters = (
-{
-name = postscriptFullName;
-value = Amiri;
-},
-{
-name = postscriptFontName;
-value = "Amiri-Regular";
-},
-{
-name = postscriptWeightName;
-value = Regular;
-}
-);
 guides = (
 {
 locked = 1;
@@ -2080,18 +2050,6 @@ axesValues = (
 700
 );
 customParameters = (
-{
-name = postscriptFullName;
-value = "Amiri Bold";
-},
-{
-name = postscriptFontName;
-value = "Amiri-Bold";
-},
-{
-name = postscriptWeightName;
-value = Bold;
-},
 {
 name = weightClass;
 value = 700;
@@ -2145,14 +2103,6 @@ name = Regular;
 {
 axesValues = (
 700
-);
-customParameters = (
-{
-name = "Remove Glyphs";
-value = (
-"u1EE*"
-);
-}
 );
 instanceInterpolations = {
 "037FF2D3-C03F-44B0-90AB-89AFD43EFA27" = 1;

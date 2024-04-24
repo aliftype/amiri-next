@@ -27,7 +27,7 @@ doc: $(HTML)
 
 $(BUILDDIR)/$(NAME).designspace: $(SRC)/$(NAME).glyphspackage
 	@echo "   UFO	$@"
-	@glyphs2ufo --minimal --generate-GDEF --output-dir=$(BUILDDIR) $<
+	@glyphs2ufo --minimal --generate-GDEF --no-preserve-glyphsapp-metadata --output-dir=$(BUILDDIR) $<
 
 $(BUILDDIR)/%.ufo: $(BUILDDIR)/$(NAME).designspace
 	@echo "   UFO	$@"
